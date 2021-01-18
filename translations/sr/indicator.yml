@@ -1,0 +1,47 @@
+select_all: Означи све
+clear_all: Обриши све
+clear_selections: Обриши означено
+variable_hint: Доступно када '%field' је означено
+no_data_hint: Нема опција због горњих филтера
+download_headline: Преузмите CSV наслов
+download_headline_title: Преузми податке о наслову као CSV
+download_source: Преузми извор CSV
+download_source_title: Преузми изворне податке као CSV
+download_source_sdmx: Преузми извор SDMX
+download_source_sdmx_title: Преузми изворне податке као SDMX
+download_chart: Преузмите графикон CSV
+download_table: Преузмите табелу CSV
+download_csv: Преузми CSV
+download_csv_title: Преузми као CSV
+download_chart_image: Преузми слику графикона
+download_chart_image_title: Преузми графикон као слику
+download_geojson: Преузми GeoJSON
+download_geojson_title: Преузми као GeoJSON
+source: Извор
+sources: Извори
+geographical_area: Географско подручје
+unit_of_measurement: Мјерна јединица
+footnote: Фуснота
+units_type: Тип јединице
+series: Серије
+dataset_size_warning: Превише је скупова података за приказ на графикону. Неће бити приказане све док не уклоните неке одабире.
+view_indicator_list: Погледајте листу индикатора овог циља
+sub_categories: Подкатегорије
+series_help: Одаберите категорије из  падајућег менија испод како бисте виђели различите пођеле података. Неки неће бити доступни док се не одабере виши степен.
+legend_help: Кликните на легенду како бисте уклонили поједине линије с графикона.
+chart: Графикон
+table: Табела
+map: Мапа
+loading: Учитавање
+loading_map: Учитавање мапе
+national_metadata: Национални метаподаци
+national_metadata_blurb: Ова таблица садржи метаподатке о стварним показатељима доступним из %country_name статистике најближе одговарајућем глобалном SDG индикатору. Имајте на уму да чак и када је глобални СДГ индикатор доступан из %country_adjective статистике, ову таблицу треба погледати за информације о националној методологији и друго %country_adjective-specific информације о метаподацима.
+global_metadata: Глобални метаподаци
+global_metadata_blurb: Ова таблица пружа информације о метаподацима за СДГ индикаторе како их је дефинисала Статистичка комисија УН-а. Комплетне глобалне метаподатке пружа Ођел за статистику УН-a.
+edit: Уреди
+edit_data: Уреди податке
+edit_metadata: Уреди метаподатке
+data_not_available: Ови подаци нису доступни. Одаберите алтернативне податке за приказ.
+
+previous: Претходни индикатор
+next: Следећи индикатор

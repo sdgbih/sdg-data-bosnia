@@ -1,0 +1,36 @@
+ISCO08_0: Armed forces occupations
+ISCO08_1: Managers
+ISCO08_2: Professionals
+ISCO08_3: Technicians and associate professionals
+ISCO08_4: Clerical support workers
+ISCO08_5: Service and sales workers
+ISCO08_6: Skilled agricultural, forestry and fishery workers
+ISCO08_7: Craft and related trades workers
+ISCO08_8: Plant and machine operators, and assemblers
+ISCO08_9: Elementary occupations
+ISCO08_X: Not elsewhere classified
+ISCO68_0-1: Professional, technical and related workers
+ISCO68_2: Administrative and managerial workers
+ISCO68_3: Clerical and related workers
+ISCO68_4: Sales workers
+ISCO68_5: Service workers
+ISCO68_6: Agriculture, animal husbandry and forestry workers, fishermen and hunters
+ISCO68_7-9: Production and related workers, transport equipment operators and labourers
+ISCO68_AF: Armed Forces
+ISCO68_X: Not elsewhere classified
+ISCO88_0: Armed forces
+ISCO88_1: Legislators, senior officials and managers
+ISCO88_2: Professionals
+ISCO88_2221: Medical doctors
+ISCO88_2222: Dentists
+ISCO88_2224: Pharmacists
+ISCO88_223: Nursing and midwifery professionals
+ISCO88_3: Technicians and associate professionals
+ISCO88_4: Clerks
+ISCO88_5: Service workers and shop and market sales workers
+ISCO88_6: Skilled agricultural and fishery workers
+ISCO88_7: Craft and related trades workers
+ISCO88_8: Plant and machine operators and assemblers
+ISCO88_9: Elementary occupations
+ISCO88_X: Not elsewhere classified
+_T: All occupations or no breakdown by Occupation

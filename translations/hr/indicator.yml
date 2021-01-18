@@ -1,0 +1,47 @@
+select_all: Označi sve
+clear_all: Obriši sve
+clear_selections: Obriši označeno
+variable_hint: Dostupno kada '%field' je označeno 
+no_data_hint: Nema opcija zbog gornjih filtera
+download_headline: Preuzmite CSV naslov
+download_headline_title: Preuzmi podatke o naslovu kao CSV
+download_source: Preuzmi izvor CSV
+download_source_title: Preuzmi izvorne podatke kao CSV
+download_source_sdmx: Preuzmi izvor SDMX
+download_source_sdmx_title: Preuzmi izvorne podatke kao SDMX
+download_chart: Preuzmite grafikon CSV
+download_table: Preuzmite tabelu CSV
+download_csv: Preuzmi CSV
+download_csv_title: Preuzmi kao CSV
+download_chart_image: Preuzmi sliku grafikona
+download_chart_image_title: Preuzmi grafikon kao sliku
+download_geojson: Preuzmi GeoJSON
+download_geojson_title: Preuzmi kao GeoJSON
+source: Izvor
+sources: Izvori
+geographical_area: Geografsko područje
+unit_of_measurement: Mjerna jedinica
+footnote: Fusnota
+units_type: Tip jedinice
+series: Serije
+dataset_size_warning: Previše je skupova podataka za prikaz na grafikonu. Neće biti prikazane sve dok ne uklonite neke odabire.
+view_indicator_list: Pogledajte listu indikatora ovog cilja
+sub_categories: Podkategorije
+series_help: Odaberite kategorije iz  padajućeg menija ispod kako biste vidjeli različite podjele podataka. Neki neće biti dostupni dok se ne odabere viši stepen.
+legend_help: Kliknite na legendu kako biste uklonili pojedine linije s grafikona.
+chart: Grafikon
+table: Tablica
+map: Mapa
+loading: Učitavanje
+loading_map: Učitavanje mape
+national_metadata: Nacionalni metapodaci
+national_metadata_blurb: Ova tablica sadrži metapodatke o stvarnim pokazateljima dostupnim iz %country_name statistike najbliže odgovarajućem globalnom SDG indikatoru. Imajte na umu da čak i kada je globalni SDG indikator dostupan iz %country_adjective statistike, ovu tablicu treba pogledati za informacije o nacionalnoj metodologiji i drugo %country_adjective-specific informacije o metapodacima.
+global_metadata: Globalni metapodaci
+global_metadata_blurb: Ova tablica pruža informacije o metapodacima za SDG indikatore kako ih je definisala Statistička komisija UN-a. Kompletne globalne metapodatke pruža Odjel za statistiku UN-a.
+edit: Uredi
+edit_data: Uredi podatke
+edit_metadata: Uredi metapodatke
+data_not_available: Ovi podaci nisu dostupni. Odaberite alternativne podatke za prikaz.
+
+previous: Prethodni indikator
+next: Sljedeći indikator

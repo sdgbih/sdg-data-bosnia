@@ -1,0 +1,262 @@
+AG_FPA_CFPI: Indeks potrošačkih cijena hrane
+AG_LND_DGRD: Udio zemljišta koje je degradirano na ukupnoj površini zemljišta
+AG_LND_FRST: Udio šumske površine u ukupnoj površini zemljišta
+AG_LND_FRSTBIOPHA: Nadzemna biomasa u šumi po hektaru (tone po hektaru)
+AG_LND_FRSTCERT: Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
+AG_LND_FRSTCHG: Neto promjene šumske površine (%)
+AG_LND_FRSTN: Šumska površina (hektari)
+AG_LND_TOTL: Površina zemljišta (hektari)
+AG_PRD_FIESMS: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije 
+AG_PRD_FIESMSN: Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj) 
+AG_PRD_FIESS: Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije 
+AG_PRD_FIESSN: Ukupna populacija u ozbiljnoj nesigurnosti hrane (broj)
+BX_TRF_PWKR: Količina doznaka (u američkim dolarima) kao udio u ukupnom iznosu BDP-a
+DC_FTA_TOTAL: Ukupna zvanična razvojna pomoć (bruto isplata) za tehničku suradnju
+DC_ODA_BDVL: Ukupna zvanična razvojna pomoć za biodiverzitet, po zemljama primateljima
+DC_ODA_POVLG: Zvanični grantovi za razvojnu pomoć za smanjenje siromaštva po zemljama primateljima (postotak BND-a) 
+DC_TOF_AGRL: Ukupni zvanični tokovi (isplate) za poljoprivredu, prema zemljama primateljima
+DC_TOF_HLTHL: Ukupna zvanična razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, bruto isplata, prema zemljama primateljima 
+DC_TOF_INFRAL: Ukupni zvanični tokovi za infrastrukturu, prema zemljama primateljima
+DC_TOF_SCHIPSL: Ukupni zvanični tokovi stipendija, prema zemljama primateljima
+DC_TOF_TRDCML: Ukupni zvanični tokovi (obveze) za pomoć trgovini, prema zemljama primateljima
+DC_TOF_TRDDBML: Ukupni zvanični tokovi (isplate) za pomoć trgovini, prema zemljama primateljima
+DC_TOF_WASHL: Ukupna zvanična razvojna pomoć (bruto izdaci) za vodoopskrbu i kanalizaciju, prema zemljama primateljima
+DC_TRF_TOTL: Ukupna razvojna pomoć, prema zemljama primateljima
+DT_TDS_DECT: Servisiranja duga kao udio izvoza roba i usluga
+EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji
+EG_EGY_CLEAN: Udio stanovništva koji se prvenstveno oslanja na čista goriva i tehnologiju
+EG_EGY_PRIM: Energetski intenzitet primarne energije
+EG_FEC_RNEW: Udio obnovljive energije u ukupnoj finalnoj potrošnji energije
+EG_TBA_H2CO: Udio prekograničnih slivova (riječni i jezerski bazeni i vodonosnici) sa operativnim aranžmanom za vodnu suradnju
+EG_TBA_H2COAQ: Udio prekograničnih vodonosnika s operativnim aranžmanom za vodnu suradnju
+EG_TBA_H2CORL: Udio prekograničnih slivova rijeka i jezera s operativnim aranžmanom za vodnu suradnju
+EN_ATM_CO2: Emisije ugljen-dioksida izgaranjem goriva
+EN_ATM_CO2GDP: Emisije ugljen-dioksida po jedinici BDP-a
+EN_ATM_CO2MVA: Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti
+EN_ATM_PM25: Srednja godišnja razina finih čestica u gradovima, urbano stanovništvo
+EN_EWT_GENPCAP: Proizvedeni elektronički otpad, po stanovniku (Kg)
+EN_EWT_GENV: Proizvedeni elektronički otpad (tone)
+EN_EWT_RCYPCAP: Reciklaža elektroničkog otpada, po stanovniku (Kg)
+EN_EWT_RCYR: Reciklaža elektroničkog otpada, stopa (%)
+EN_EWT_RCYV: Reciklaža elektroničkog otpada (tone)
+EN_H2O_GRAMBQ: Udio tijela podzemnih voda sa dobrim kvalitetom ambijentalne vode
+EN_H2O_OPAMBQ: Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode
+EN_H2O_RVAMBQ: Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode
+EN_H2O_WBAMBQ: Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode 
+EN_HAZ_GENGDP: Proizvedeni opasni otpad, po jedinici BDP-a
+EN_HAZ_GENV: Proizvedeni opasni otpad (tone)
+EN_HAZ_PCAP: Proizvedeni opasni otpad, po stanovniku (Kg)
+EN_LND_SLUM: Udio gradskog stanovništva koje živi u siromašnim četvrtima
+EN_MAT_DOMCMPC: Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine
+EN_MAT_DOMCMPG: Potrošnja domaćih materijala, po jedinici BDP-a
+EN_MAT_DOMCMPT: Potrošnja domaćih materijala
+EN_REF_WASCOL: Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)
+EN_SCP_FSHGDP: Održivi ribolov kao udio u BDP-u
+EN_WBE_PMNR: Opseg vodnog tijela (trajni) (kvadratni kilometri)
+EN_WBE_PMPN: Opseg vodnog tijela (trajni i možda trajnih) (kvadratni kilometri)
+EN_WBE_PMPR: Opseg vodnog tijela (trajni) (% ukupne površine kopna)
+EN_WWT_WWDS: Udio sigurno prečišćenih protoka otpadnih voda iz kućanstva
+ER_BDY_ABT2NP: Zemlje koje su uspostavile nacionalne ciljeve sukladno Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE)
+ER_BDY_SEEA: Zemlje s integriranim vrijednostima biodiverziteta u nacionalnim sustavima računovodstva i izvješćivanja, definirane kao implementacija Sustava ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)
+ER_CBD_ABSCLRHS: Zemlje koje imaju zakonodavne, administrativne i političke okvire za osiguranje pravedne raspodjele koristi (1 = DA; 0 = NE)
+ER_CBD_NAGOYA: Zemlje potpisnice Nagojskog protokola (1 = DA; 0 = NE)
+ER_CBD_ORSPGRFA: Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)
+ER_CBD_PTYPGRFA: Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)
+ER_CBD_SMTA: Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju
+ER_GRF_ANIMRCNTN: Broj lokalnih pasmina za koje se čuva dovoljno genetskih resursa za rekonstituciju
+ER_GRF_PLNTSTOR: Pasmine biljaka za koje se čuva dovoljno genetičkih resursa (broj)
+ER_H2O_IWRMD: Stupanj primjene integriranog upravljanja vodnim resursima
+ER_H2O_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja i upravljanja vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)
+ER_H2O_RURP: Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja u ruralnoj opskrbi pitkom vodom, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)
+ER_H2O_STRESS: ' Razina vodenog stresa: povlačenje slatke vode kao udio raspoloživih slatkovodnih resursa'
+ER_IAS_LEGIS: Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)
+ER_IAS_NBSAP: Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)
+ER_MTN_GRNCOV: Indeks planinskog zelenog pokrivača (kvadratnih kilometara)
+ER_MTN_GRNCVI: Indeks planinskog zelenog pokrivača
+ER_MTN_TOTL: Planinsko područje (kvadratni kilometri)
+ER_PTD_FRHWTR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
+ER_PTD_MTN: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
+ER_PTD_TERR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
+ER_RSK_LST: Indeks crvene liste
+ER_WAT_PART: Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja i upravljanja vodnim resursima, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)
+ER_WAT_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja u planiranju i upravljanju vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA) 
+FB_ATM_TOTL: Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika
+FB_BNK_ACCSS: Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj financijskoj instituciji ili kod providera mobilnih novčanih usluga
+FB_CBK_BRCH: Broj filijala komercijalnih banaka na 100 000 odraslih
+FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
+FI_FSI_FSANL: Krediti u ukupnim bruto kreditima koji se ne izvode (%) 
+FI_FSI_FSERA: Povrat imovine (%)
+FI_FSI_FSKA: Regulatorni kapital za imovinu (%) 
+FI_FSI_FSKNL: Neto krediti određeni za kapital koji se ne izvode (%) 
+FI_FSI_FSKRTC: Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%)
+FI_FSI_FSLS: Likvidna imovina na kratkoročnim obvezama (%)
+FI_FSI_FSSNO: Neto otvorena pozicija u devizama do kapitala (%)
+GB_POP_SCIERD: Istraživači (u ekvivalentu punog radnog vremena) na milijun stanovnika
+GB_XPD_RSDV: Rashodi za istraživanje i razvoj kao udio u BDP-u
+GC_GOB_TAXD: Udio domaćeg proračuna koji se financira iz domaćih poreza
+GF_FRN_FDI: Prilivi stranih izravnih investicija (SDI)
+GF_XPD_GBPC: Primarni državni rashodi kao udio u prvobitno odobrenom proračunu
+GR_G14_GDP: Ukupni prihodi države kao udio u BDP-u
+GR_G14_XDC: Ukupni državni prihodi, u lokalnoj valuti
+IC_FRM_BRIB: Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita)
+IC_GEN_MGTL: Udio žena na rukovodećim pozicijama
+IC_GEN_MGTN: Udio žena na višim i srednjim rukovodećim pozicijama
+IS_RDP_FRGVOL: Obujam tereta (tonski kilometri)
+IS_RDP_PFVOL: Obujam putnika (putnički kilometri)
+IT_MOB_2GNTWK: Udio stanovništva pokriven najmanje 2G mobilnom mrežom
+IT_MOB_3GNTWK: Udio stanovništva pokriven najmanje 3G mobilnom mrežom
+IT_MOB_4GNTWK: Udio stanovništva pokriven najmanje 4G mobilnom mrežom
+IT_NET_BBND: Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika
+IT_NET_BBNDN: Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj)
+IT_USE_II99: Korisnici interneta na 100 stanovnika
+IU_COR_BRIB: Stopa rasprostranjenosti mita
+NV_IND_MANF: Dodana vrijednost u proizvodnji kao udio u BDP-u
+NV_IND_MANFPC: Dodana vrijednost proizvodnje po glavi stanovnika
+NV_IND_SSIS: Udio malih industrija u ukupnoj dodanoj vrijednosti industrije
+NV_IND_TECH: Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost
+NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
+SD_CPA_UPRDP: "Broj zemalja koje imaju nacionalne urbane politike ili planove regionalnog razvitka koji (a) odgovaraju na dinamiku stanovništva; (b) osiguravaju uravnotežen teritorijalni razvoj; i (c) povećava lokalni fiskalni prostor (1 = DA; 0 = NE)"
+SERIES: SDG Varijable
+SE_ADT_ACTS: Udio mladih i odraslih sa vještinama u informacijskim i komunikacijskim tehnologijama (IKT)
+SE_ADT_EDUCTRN: Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci
+SE_AGP_CPRA: Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
+SE_ALP_CPLR: Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
+SE_AWP_CPRA: Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
+SE_DEV_ONTRK: 'Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje'
+SE_GPI_PART: Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci
+SE_LGP_ACHI: Indeks pariteta jezičkog testa za postignuća
+SE_NAP_ACHI: Izvorni indeks pariteta za postignuće
+SE_TOT_CPLR: Stopa završetka studija prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja (%)
+SE_TOT_GPI: Indeks rodnog pariteta za postignuća
+SE_TOT_PRFL: Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici 
+SE_TOT_RUPI: Indeks ruralnog prema urbanom paritetu za postignuća
+SE_TOT_SESPI: Niski do visoki indeks statusa socijalno-ekonomskog pariteta za postignuća
+SG_DMK_PARLCC_LC: Broj predsjedatelja stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
+SG_DMK_PARLCC_UC: Broj predsjedatelja stalnih odbora, prema starosti i spolu, gornji dom 
+SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
+SG_DMK_PARLMP_UC: "Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
+SG_DMK_PARLSP_LC: Broj govornika u parlamentu, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu
+SG_DMK_PARLSP_UC: Broj govornika u parlamentu, prema starosti i spolu, u gornjem domu
+SG_DSR_SILN: Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa sukladno nacionalnim strategijama
+SG_DSR_SILS: Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa sukladno nacionalnim strategijama smanjenja rizika od katastrofa
+SG_GEN_EQPWN: Udio zemalja sa sustavima praćenja i raspodjelom javnih rashoda za rodnu ravnopravnost i osnaživanje žena 
+SG_GEN_LOCGELS: Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave
+SG_GEN_PARL: Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta)
+SG_GEN_PARLN: Broj mjesta koje imaju žene u nacionalnim parlamentima
+SG_GEN_PARLNT: Broj mjesta u nacionalnim parlamentima
+SG_GOV_LOGV: Broj lokalnih samouprava
+SG_HAZ_CMRBASEL: Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim kemikalijama
+SG_HAZ_CMRMNTRL: Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama
+SG_HAZ_CMRROTDAM: Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim kemikalijama
+SG_HAZ_CMRSTHOLM: Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim kemikalijama
+SG_INF_ACCSS: Broj zemalja koje usvajaju i provode ustavne, zakonske i/ili političke garancije za pristup informacijama od javnog značaja 
+SG_INT_MBRDEV: Udio članova zemalja u razvoju u međunarodnim organizacijama, prema organizaciji  
+SG_INT_VRTDEV: Udio prava glasa zemalja u razvoju u međunarodnim organizacijama, prema organizaciji
+SG_NHR_IMPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)
+SG_NHR_NOAPPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, D status (1 = DA; 0 = NE)
+SG_PLN_RECNDI: Udio novih razvojnih intervencija izvučenih iz okvira rezultata koje vode zemlje - podaci prema primatelju
+SG_PLN_RECRICTRY: Udio pokazatelja rezultata izvučenih iz okvira rezultata koje vode zemlje - podaci prema primatelju (%)
+SG_PLN_RECRIMON: Udio pokazatelja rezultata koji će se pratiti pomoću državnih izvora i sustava praćenja - podaci po primatelju (%)
+SG_PLN_REPOLRES: Opseg uporabe državnih okvira rezultata i alata za planiranje od strane pružatelja razvojne suradnje - podaci prema primatelju (%)
+SG_REG_BRTH: Udio djece mlađe od 5 godina čije je rođenje upisano u matične knjige kod nadležnog tijela 
+SG_REG_BRTH90N: Zemlja sa matičnim knjigama rođenih koje su popunjene najmanje 90 posto (1 = DA; 0 = NE)
+SG_REG_CENSUSN: Zemlje koje su provele najmanje jedan popis stanovništva i kućanstava u posljednjih 10 godina (1 = DA; 0 = NE)
+SG_REG_DETH75N: Zemlje sa knjigom umrlih koje su popunjene najmanje 75 posto (1 = DA; 0 = NE)
+SG_STT_CAPTY: Vrijednost u dolarima svih resursa dostupnih za jačanje statističkih kapaciteta u zemljama u razvitku
+SG_STT_FPOS: Zemlje sa nacionalnim statističkim zakonodavstvom koje je sukladno Osnovnim principima zvanične statistike (1 = DA; 0 = NE) 
+SG_STT_NSDSFDDNR: Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE)
+SG_STT_NSDSFDGVT: Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE)
+SG_STT_NSDSFND: Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE)
+SG_STT_NSDSIMPL: Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE)
+SH_AAP_ASMORT: Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
+SH_AAP_MORT: Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
+SH_ACS_DTP3: Udio ciljane populacije sa pristupom 3 doze vakcine protiv difterije, tetanusa i velikog kašlja (DTP3)
+SH_ACS_MCV2: Udio ciljane populacije sa pristupom drugoj dozi vakcine protiv malih boginja (MCV2)
+SH_ACS_UNHC: Indeks pokrivenosti uslugama univerzalne zdravstvene skrbi
+SH_ALC_CONSPT: Potrošnja alkohola po stanovniku (starosti od 15 godina i više) u kalendarskoj godini
+SH_BLD_ECOLI: Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran 
+SH_BLD_MRSA: Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran 
+SH_DTH_NCD: Smrti uzrokovane nezaraznim bolesima (broj)
+SH_DTH_NCOM: Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću
+SH_DYN_IMRT: Stopa smrtnosti dojenčadi
+SH_DYN_IMRTN: Umrla dojenčad (broj)
+SH_DYN_MORT: Stopa smrtnosti ispod pet godina
+SH_DYN_MORTN: Smrtnost ispod pet ogdina (broj)
+SH_DYN_NMRT: Stopa neonatalnog mortaliteta
+SH_DYN_NMRTN: Neonatalni mortalitet (broj)
+SH_FPL_MTMM: Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje obitelji zadovoljile sa modernim metodama 
+SH_H2O_SAFE: Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom
+SH_HAP_ASMORT: Stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
+SH_HAP_HBSAG: Rasprostranjenost površinskog antigena hepatitisa B (HBsAg) 
+SH_HAP_MORT: Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
+SH_HIV_INCD: Broj novih HIV infekcija na 1 000 neinficiranih stanovnika
+SH_IHR_CAPS: Kapaciteti za Međunarodne zdravstvene propise (IHR) i pripravnost za hitne medicinske usluge
+SH_MED_DEN: Gustina i distribucija zdravstvenih radnika
+SH_MED_HWRKDIS: Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja
+SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više
+SH_SAN_DEFECT: Udio stanovništva koje prakticira otvorenu defekaciju
+SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
+SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja
+SH_STA_AIRP: Stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka
+SH_STA_ASAIRP: Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka (umrli na 100 000 stanovnika)
+SH_STA_BRTC: Udio poroda uz prisustvo kvalificiranog zdravstvenih radnika
+SH_STA_MORT: Stopa smrtnosti majki 
+SH_STA_POISN: Stopa smrtnosti uzrokovana nenamjernim trovanjem
+SH_STA_SCIDE: Stopa samoubojstvima
+SH_STA_SCIDEN: Broj smrtnih slučajeva samoubojstvom
+SH_STA_STNT: Udio djece umjereno ili ozbiljno zaostale u razvitku
+SH_STA_STNTN: Djeca umjereno ili teško zaostala u razvitku (broj)
+SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom transportu
+SH_STA_WASH: Stopa smrtnosti koja se pripisuje nesigurnoj vodi, nesigurnoj sanitaciji i nedostatku higijene 
+SH_STA_WAST: Udio djece koja su umjereno ili ozbiljno iscrpljena
+SH_STA_WASTN: Djeca umjereno ili ozbiljno iscrpljena (broj)
+SH_SUD_ALCOL: Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)
+SH_TBS_INCD: Učestalost tuberkuloze
+SH_TRP_INTVN: Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti
+SH_XPD_EARN10: Udio stanovništva s velikim troškovima za zdravstvo po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
+SH_XPD_EARN25: Udio stanovništva s velikim troškovima za zdravstvo (većim od 25%) po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
+SI_COV_LMKT: Udio stanovništva obuhvaćenog programima tržišta rada
+SI_COV_PENSN: Udio stanovništva iznad zakonske dobne granice za mirovinu koji primaju mirovinu
+SI_COV_SOCAST: Udio stanovništva obuhvaćenog programima socijalne skrbi
+SI_COV_SOCINS: Udio stanovništva obuhvaćenog programima socijalnog osiguranja
+SI_COV_UEMP: Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene
+SI_POV_50MI: Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+SI_POV_DAY1: Udio stanovništva koje živi ispod međunarodne linije siromaštva
+SI_POV_EMP1: Zaposleno stanovništvo ispod međunarodne linije siromaštva
+SI_POV_NAHC: Udio stanovništva koje živi ispod nacionalne granice siromaštva
+SI_RMT_COST: Troškovi doznaka kao proporcija doznačenog iznosa
+SL_CPA_YEMP: Postojanje razvijene i operacionalizirane nacionalne strategije za zapošljavanje mladih, kao posebne strategije ili kao dio nacionalne strategije zapošljavanja 
+SL_EMP_GTOTL: Udio radne snage u BDP-u
+SL_EMP_PCAP: Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
+SL_ISV_IFEM: Udio neformalne zaposlenosti u ukupnoj zaposlenosti, prema sektorima i spolu (Usklađene procjene ILO-a)
+SL_LBR_NTLCPL: Razina nacionalne usklađenosti radnih prava (sloboda udruživanja i kolektivnog pregovaranja) na temelju tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva 
+SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti
+SL_TLF_NEET: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom
+SL_TLF_UEM: Stopa nezaposlenosti
+SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tijekom migracije
+SM_POP_REFG_OR: Udio stanovništva izbjeglica, prema zemlji podrijetla
+SN_ITK_DEFC: Rasprostranjenost pothranjenosti
+SN_ITK_DEFCN: Broj pothranjenih ljudi
+SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
+SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj) 
+SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode
+SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge
+SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1 000 žena starih 15-19 godina)
+SP_DYN_MRBF15: Udio žena starosti 20-24 godine koje su bile u braku ili u izvanbračnoj zajednici prije 15. godine
+SP_DYN_MRBF18: Udio žena starosti 20-24 godine koje su bile u braku ili u izvanbračnoj zajednici prije 18. godine
+ST_EEV_ACCSEEA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (SEEA tablice)
+ST_EEV_ACCTSA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (tablice satelitskih računa turizma)
+ST_EEV_STDACCT: Primena standardnih računovodstvenih alata za praćenje ekonomskih i ekoloških aspekata turizma (broj tablica)
+TM_TAX_WMFN: Svjetski ponderirani carinski prosjek, status najpovlaštenije države
+TM_TAX_WMPS: Svetski ponderirani carinski prosjek, preferencijalni status
+TM_TRF_ZERO: Proporcija carinskih linija na uvoz sa nultom tarifom
+VC_DSR_OBDN: Broj smetnji u radu ostalih osnovnih usluga uzrokovan katastrofama
+VC_HTF_DETV: Detektovane žrtve trgovine ljudima (broj)
+VC_HTF_DETVFL: Detektovane žrtve trgovine ljudima za prisilni rad, služnost i ropstvo (broj)
+VC_HTF_DETVOG: Detektovane žrtve trgovine ljudima za uklanjanje organa (broj)
+VC_HTF_DETVOP: Detektovane žrtve trgovine ljudima za druge svrhe (broj)
+VC_HTF_DETVSX: Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje (broj)
+VC_IHR_PSRC: Broj žrtava ubojstava s namjerom na 100 000 stanovnika
+VC_IHR_PSRCN: Broj žrtava ubojstava s predomišljajem
+VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
+VC_VAW_PHYPYV: Udio djece starosti 1 - 14 godina koja su tijekom proteklog mjeseca doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane skrbnika, u proteklih mjesec dana 

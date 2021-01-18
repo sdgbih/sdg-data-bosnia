@@ -1,0 +1,1 @@
+This folder contains disaggregation codes that are not yet being used. If these are used in the future, then they will need to be merged into the existing files in the "translations/en" folder and also translated into other languages.

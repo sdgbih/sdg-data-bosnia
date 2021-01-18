@@ -1,0 +1,63 @@
+Year: Year
+Sex: Sex
+Month: Month
+Value: Value
+Entity: Entity
+Bothsex: Bothsex
+Male: Male
+Female: Female
+1-2019 2020 jan: "a)2019 - 2020 January"
+2-2019 2020 feb: "b)2019 - 2020 February"
+3-2019 2020 mar: "c)2019 - 2020 March"
+4-2019 2020 apr: "d)2019 - 2020 April"
+5-2019 2020 may: "e)2019 - 2020 May"
+6-2019 2020 june: "f)2019 - 2020 June"
+7-2019 2020 july: "g)2019 - 2020 July"
+8-2019 2020 aug: "h)2019 - 2020 August"
+9-2019 2020 sept: "i)2019 - 2020 September"
+10-2019 2020 oct: "j)2019 - 2020 October"
+11-2019 2020 nov: "k)2019 - 2020 November"
+12-2019 2020 dec: "l)2019 - 2020 December"
+vat: VAT
+customs: Customs
+type of revenue: Type of revenue
+non seasonal: "Non-Seasonally adjusted Q/Q-4"
+seasonal: "Seasonally adjusted Q/Q-1"
+final trend: "Final trend Q/Q-1"
+Type: Type
+Age: Age
+excise duties on import goods: Excise duties on import goods
+number of undernourish people: Number of undernourish people (millions)
+prevalence of undernourishment: Prevalence of undernourishment (%)
+prevalence of moderate or severe food insecurity in the adult population: Prevalence of moderate or severe food insecurity in the adult population (%)
+prevalence of severe food insecurity in the adult population: Prevalence of severe food insecurity in the adult population (%)
+Education level: Education level
+Type of skill: Type of skill
+lowsec: Lowsec
+math: Math
+read: Read
+proportion of women aged 20-24 years who were married or in a union before age 15: Proportion of women aged 20-24 years who were married or in a union before age 15
+proportion of women aged 20-24 years who were married or in a union before age 18: Proportion of women aged 20-24 years who were married or in a union before age 18
+Location: Location
+all area: All Area
+rural: Rural
+urban: Urban
+annual growth rate of real GDP per capita: Annual growth rate of real GDP per capita
+freight volume, by mode of transport: Freight volume, by mode of transport (tonne kilometres) 
+passenger volume, by mode of transport: Passenger volume (passenger kilometres), by mode of transport 
+all: All
+domestic material consumption per capita: Domestic material consumption per capita, by type of raw material (tonnes)
+tonnes: Tonnes
+type of product: Type of product
+domestic material consumption per unit of GDP: Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars) 
+domestic material consumption by type of raw material: Domestic material consumption, by type of raw material (tonnes)
+per 100000 live births: Per 100000 live births
+total: Total
+per 100 population: "per 100 population"
+number of local governments: Number of local governments (number) 
+number of local governments that adopt and implement local DRR strategies in: Number of local governments that adopt and implement local DRR strategies in line with national strategies (number) 
+proportion of local governments that adopt and implement local disaster risk: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%) 
+number: Number
+per 100000 population: Per 100000 population
+number of victims of intentional homicide per 100,000 population, by sex: Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population) 
+number of victims of intentional homicide, by sex: Number of victims of intentional homicide, by sex (number)

@@ -1,0 +1,527 @@
+AG_FLS_IDX: Global food loss index
+AG_FPA_COMM: Indicator of Food Price Anomalies (IFPA)
+AG_FPA_HMFP: Proportion of countries recording abnormally high or moderately high
+  food prices, according to the Indicator of Food Price Anomalies
+AG_LND_FRSTBIOM: Above-ground biomass in forest (tonnes)
+AG_LND_FRSTMGT: Proportion of forest area with a long-term management plan
+AG_LND_FRSTPRCT: Proportion of forest area within legally established protected areas
+AG_LND_FRSTPRCTN: Forest area within legally established protected areas
+AG_LND_SUST: Proportion of agricultural area under productive and sustainable agriculture
+AG_PRD_AGVAS: Agriculture value added share of GDP
+AG_PRD_FIESMSTN: Population living in households where at least one adult experienced
+  moderate or severe food insecurity (number)
+AG_PRD_FIESSTN: Population living in households where at least one adult experienced
+  severe food insecurity (number)
+AG_PRD_ORTIND: Agriculture orientation index for government expenditures
+AG_PRD_XSUBDY: Agricultural export subsidies
+AG_XPD_AGSGB: Agriculture share of Government Expenditure
+DC_CLC_100B: "Mobilized amount of United States dollars per year between 2020 and\
+  \ 2025 accountable towards the $100\_billion commitment"
+DC_CST_EFICP: Proportion of financial support to the least developed countries that
+  is allocated to the construction and retrofitting of sustainable, resilient and
+  resource-efficient buildings utilizing local materials
+DC_ODA_BDVDL: Total official development assistance for biodiversity, by donor countries
+DC_ODA_LDCG: Net official development assistance (ODA) to LDCs as a percentage of
+  OECD-DAC donors' GNI, by donor countries
+DC_ODA_LDCS: Net official development assistance (ODA) to LDCs from OECD-DAC countries,
+  by donor countries
+DC_ODA_LLDC: Net official development assistance (ODA) to landlocked developing countries
+  from OECD-DAC countries, by donor countries
+DC_ODA_LLDCG: Net official development assistance (ODA) to landlocked developing countries
+  as a percentage of OECD-DAC donors' GNI, by donor countries
+DC_ODA_POVDLG: Official development assistance grants for poverty reduction, by donor
+  countries (percentage of GNI)
+DC_ODA_POVG: Official development assistance grants for poverty reduction (percentage
+  of GNI)
+DC_ODA_SIDS: Net official development assistance (ODA) to small island states (SIDS)
+  from OECD-DAC countries, by donor countries
+DC_ODA_SIDSG: Net official development assistance (ODA) to small island states (SIDS)
+  as a percentage of OECD-DAC donors' GNI, by donor countries
+DC_ODA_TOTG: Net official development assistance (ODA) as a percentage of OECD-DAC
+  donors' GNI, by donor countries
+DC_ODA_TOTGGE: Net official development assistance (ODA) as a percentage of OECD-DAC
+  donors' GNI (grant equivalent methodology), by donor countries (%)
+DC_ODA_TOTL: Net official development assistance (ODA) from OECD-DAC countries, by
+  donor countries
+DC_ODA_TOTLGE: Net official development assistance (ODA) from OECD-DAC countries (grant
+  equivalent methodology), by donor countries
+DC_SCP_RANDN: Amount of support to developing countries on research and development
+  for sustainable consumption and production and environmentally sound technologies
+DC_TOF_ENVTECH: Total amount of approved funding for developing countries to promote
+  the development, transfer, dissemination and diffusion of environmentally sound
+  technologies
+DC_TOF_HLTHNT: Total official development assistance to medical research and basic
+  heath sectors, net disbursement, by recipient countries
+DC_TOF_TRDCMDL: Total official flows (commitments) for Aid for Trade, by donor countries
+DC_TOF_TRDDBMDL: Total official flows (disbursement) for Aid for Trade, by donor countries
+DC_TRF_TFDV: Total resource flows for development, by recipient and donor countries
+DC_TRF_TOTDL: Total assistance for development, by donor countries
+DI_ILL_IN: Total value of inward illicit financial flows
+DI_ILL_OUT: Total value of outward illicit financial flows
+EG_CFT_COOK: Proportion of population with primary reliance on clean fuels and technology
+  for cooking
+EG_CFT_LIGHT: Proportion of population with primary reliance on clean fuels and technology
+  for lighting
+EG_EGY_RNEW: "Installed renewable\_electricity-generating capacity (watts per capita)"
+EG_IFF_RANDN: International financial flows to developing countries in support of
+  clean energy research and development and renewable energy production, including
+  in hybrid systems
+EN_HAZ_TREAT: Proportion of hazardous waste treated
+EN_HAZ_TREATV: Hazardous waste treated and by type of treatment (Tonnes)
+EN_HAZ_TRTDISR: Hazardous waste treated or disposed, rate (%)
+EN_HAZ_TRTDISV: Hazardous waste treated or disposed (Tonnes)
+EN_LND_CNSPOP: Ratio of land consumption rate to population growth rate
+EN_LND_SLUMN: Urban population living in slums (number)
+EN_MAR_BEALIT: Beach litter originating from national land-based sources
+EN_MAR_CHLDEV: Chlorophyll-a deviations, remote sensing
+EN_MAR_COEUPO: Coastal eutrophication potential (N and P loading)
+EN_MAR_PLASPA: Number of patches of plastic greater than 10 sq. meters
+EN_MAT_FTPRPC: Material footprint per capita
+EN_MAT_FTPRPG: Material footprint per unit of GDP
+EN_MAT_FTPRTN: Material footprint
+EN_REF_COLDIS: Proportion of population served by municipal waste collection
+EN_SCP_ECSYBA: Countries using ecosystem-based approaches (1 = YES; 0 = NO)
+EN_SCP_EZECO: Proportion of national exclusive economic zones managed using ecosystem-based
+  approaches
+EN_SCP_FRMN: Number of companies publishing sustainability reports
+EN_SCP_FRMNLG: Number of large companies publishing sustainability reports
+EN_SCP_FRMNSM: Number of small and medium companies publishing sustainability reports
+EN_URB_OPENSP: Average share of the built-up area of cities that is open space for
+  public use for all
+EN_WBE_NDETOT: Nationally derived total extent (square kilometres)
+EN_WBE_NDOPW: Nationally derived extent of open water bodies (square kilometres)
+EN_WBE_NDQLGRW: Nationally derived quality of groundwater (%)
+EN_WBE_NDQLOPW: Nationally derived quality of open water bodies  (%)
+EN_WBE_NDQLRVR: Nationally derived quality of river  (%)
+EN_WBE_NDQLTOT: Nationally derived proportion of water bodies with good quality (%)
+EN_WBE_NDQTGRW: Nationally derived quantity of groundwater (millions of cubic metres
+  per annum)
+EN_WBE_NDQTOPW: Nationally derived quantity of open water bodies (million of cubic
+  metres per annum)
+EN_WBE_NDQTRVR: Nationally derived quantity of rivers (million of cubic metres per
+  annum)
+EN_WBE_NDQTTOT: Nationally derived total quantity (millions of cubic metres per annum)
+EN_WBE_NDRV: Nationally derived extend of rivers (square kilometres)
+EN_WBE_NDWTL: Nationally derived extent of wetlands (square kilometres)
+EN_WBE_PMPP: Water body extent (permanent and maybe permanent) (% of total land area)
+ER_BDY_SEEACF: Countries that have integrated biodiversity values into national accounting
+  and reporting systems, defined as implementation of the System of Environmental-Economic
+  Accounting Central Framework (SEEA-CF)   (1 = YES; 0 = NO)
+ER_BDY_SEEAEEA: Countries that have integrated biodiversity values into national accounting
+  and reporting systems, defined as implementation of the System of Environmental-Economic
+  Accounting Experimental Ecosystem Accounting (SEEA-EEA)   (1 = YES; 0 = NO)
+ER_FFS_PRTSPC: Fossil-fuel pre-tax subsidies (consumption and production) per capita
+ER_FFS_PRTSPR: Fossil-fuel pre-tax subsidies (consumption and production) as a proportion
+  of total GDP
+ER_FFS_PRTSST: Fossil-fuel pre-tax subsidies (consumption and production)
+ER_GRF_ANIMKPT: Number of local breeds kept in the country
+ER_GRF_ANIMRCNT: Proportion of local breeds for which sufficient genetic resources
+  are stored for reconstitution
+ER_GRF_ANIMSTOR: Proportion of local breeds with genetic material stored
+ER_GRF_ANIMSTORN: Number of local breeds with genetic material stored
+ER_GRF_GENEBNK: Operational in vitro gene bank for animal genetic resources
+ER_H20_LCMGM: Proportion of local administrative units with established and operational
+  policies and procedures for participation of local communities in water and sanitation
+  management
+ER_H2O_FISHFEXP: Proportion of fish stocks that are fully exploited
+ER_H2O_FISHNFEXP: Proportion of fish stocks that are not fully exploited
+ER_H2O_FISHOVEXP: Proportion of fish stocks that are overexploited
+ER_H2O_FWTL: Proportion of fish stocks within biologically sustainable levels (not
+  overexploited)
+ER_H2O_IWRMP: Proportion of countries by IWRM implementation category
+ER_H2O_PARTIC: Proportion of countries with high level of users/communities participating
+  in planning programs in rural drinking-water supply
+ER_H2O_PROCED: Proportion of countries with clearly defined procedures in law or policy
+  for participation by service users/communities in planning program in rural drinking-water
+  supply
+ER_H2O_WUEYST: Water Use Efficiency (United States dollars per cubic meter)
+ER_MRN_MARIN: Coverage of protected areas in relation to marine areas (Exclusive Economic
+  Zones)
+ER_MRN_MARINT: Protected marine area (Exclusive Economic Zones) (square kilometres)
+ER_MRN_MPA: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by
+  protected areas
+ER_MRN_TOTL: Marine area (Economic Exclusion Zones)
+ER_OAW_MNACD: Average marine acidity (pH) measured at agreed suite of representative
+  sampling stations
+ER_RDE_OSEX: National ocean science expenditure as a share of total research and development
+  funding
+ER_REG_SSFRAR: 'Degree of application of a legal/regulatory/policy/institutional framework
+  which recognizes and protects access rights for small-scale fisheries (level of
+  implementation: 1 lowest to 5 highest)'
+ER_REG_UNFCIM: 'Progress by countries in the degree of implementation of international
+  instruments aiming to combat illegal, unreported and unregulated fishing (level
+  of implementation: 1 lowest to 5 highest)'
+ER_RSK_LBREDS: Proportion of local breeds classified as being at risk as a percentage
+  of local breeds with known level of extinction risk
+ER_WAT_PARTIC: Proportion of countries with high level of users/communities participating
+  in planning programs in water resources planning and management
+ER_WAT_PROCED: Proportion of countries with clearly defined procedures in law or policy
+  for participation by service users/communities in planning program in water resources
+  planning and management
+ER_WLD_TRPOACH: Proportion of traded wildlife that was poached or illicitly trafficked
+GF_COM_CSP: Amount of United States dollars committed to civil society partnerships
+GF_COM_PPP: Amount of United States dollars committed to public-private partnerships
+GF_COM_PPPI: Amount of United States dollars committed to public-private partnerships
+  for infrastructure
+GF_FRN_FDIODASS: Foreign direct investment (FDI), official development assistance
+  and South-South cooperation as a proportion of total domestic budget
+IS_RDP_LULFRG: Freight loaded and unloaded (metric tons)
+IS_RDP_PORFVOL: Container port traffic (twenty-foot equivalent units - TEUs)
+IS_TRP_MAILTKM: Mail volume (tonne kilometres)
+IT_MOB_OWN: Proportion of individuals who own a mobile telephone
+IU_DMK_ICRS: Proportion of population who believe decision-making is inclusive and
+  responsive
+PD_AGR_SSFP: Productivity of small-scale food producers
+SD_MDP_ANDI: Average proportion of deprivations for people multidimensionally poor
+SD_MDP_CSMP: Proportion of children living in child-specific multidimensional poverty
+SD_MDP_MUHC: Proportion of population living in multidimensional poverty
+SD_MDP_MUHHC: Proportion of households living in multidimensional poverty
+SD_SDG_AVLB: Proportion of sustainable development indicators produced at the national
+  level with full disaggregation when relevant to the target, in accordance with the
+  Fundamental Principles of Official Statistics
+SD_XPD_ESED: Proportion of total government spending on essential services, education
+SE_ACC_HNDWSH: Proportion of schools with basic handwashing facilities
+SE_ACS_CMPTR: Proportion of schools with access to computers for pedagogical purposes
+SE_ACS_ELECT: Proportion of schools with access to electricity
+SE_ACS_H2O: Proportion of schools with access to basic drinking water
+SE_ACS_INTNT: Proportion of schools with access to the internet for pedagogical purposes
+SE_ACS_SANIT: "Proportion of schools with access to\_access to single-sex basic sanitation"
+SE_ADT_FUNS: Proportion of population achieving at least a fixed level of proficiency
+  in functional skills
+SE_GPI_ICTS: Gender parity index for youth/adults with information and communications
+  technology (ICT) skills
+SE_GPI_PTNPRE: Gender parity index for participation rate in organized learning (one
+  year before the official primary entry age)
+SE_GPI_TCAQ: Gender parity index of trained teachers
+SE_IMP_FPOF: Immigration status parity index for achieving at least a fixed level
+  of proficiency in functional skills, by numeracy/literacy skills
+SE_INF_DSBL: Proportion of schools with access to adapted infrastructure and materials
+  for students with disabilities
+SE_PRE_PARTN: Participation rate in organized learning (one year before the official
+  primary entry age)
+SE_TRA_GRDL: Proportion of teachers who have received at least the minimum organized
+  teacher training (e.g. pedagogical training) pre-service or in-service required
+  for teaching at the relevant level in a given country
+SG_CPA_INVPRMLDC: Countries that adopt and implement investment promotion regimes
+  for least developed countries  (1 = YES; 0 = NO)
+SG_CPA_MIGR: Countries that have implemented well-managed migration policies  (1 =
+  YES; 0 = NO)
+SG_CPA_MIGRP: Proportion of countries with migration policies to facilitate orderly,
+  safe, regular and responsible migration and mobility of people
+SG_CPA_MIGRS: Countries with migration policies to facilitate orderly, safe, regular
+  and responsible migration and mobility of people, by policy domain (1 = Requires
+  further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)
+SG_CPA_SDEV: Countries with mechanisms in place to enhance policy coherence of sustainable
+  development  (1 = YES; 0 = NO)
+SG_DSR_LEGREG: Countries with legislative and/or regulatory provisions been made for
+  managing disaster risk (1 = YES; 0 = NO)
+SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in
+  line with the Sendai Framework
+SG_DSR_SFDRR: Countries that reported having a National DRR Strategy which is aligned
+  to the Sendai Framework to a certain extent (1 = YES; 0 = NO)
+SG_GEN_LOCG: Proportion of seats held by women in local governments (% of total number
+  of seats)
+SG_HAZ_CMRMNMT: Parties meeting their commitments and obligations in transmitting
+  information as required by Minamata Convention on hazardous waste, and other chemicals
+  (% average value)
+SG_LGL_GENEQEMP: 'Legal frameworks that promote, enforce and monitor gender equality
+  (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits.'
+SG_LGL_GENEQLFP: 'Legal frameworks that promote, enforce and monitor gender equality
+  (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and
+  public life.'
+SG_LGL_GENEQMAR: 'Legal frameworks that promote, enforce and monitor gender equality
+  (percentage of achievement, 0 - 100) -- Area 4: marriage and family.'
+SG_LGL_GENEQVAW: "Legal frameworks that promote, enforce and monitor gender equality\
+  \ (percentage of achievement, 0 - 100) --\_Area 2: violence against women."
+SG_LGL_LNDFEMOD: "Degree to which the legal framework (including customary law) guarantees\
+  \ women\u2019s equal rights to land ownership and/or control (1=No evidence to 6=Highest\
+  \ levels of guarantees)"
+SG_LGL_LNDWMN: Proportion of countries where the legal framework (including customary
+  law) guarantees women's equal rights to land ownership and/or control
+SG_NHR_IMPL: Proportion of countries with independent National Human Rights Institutions
+  in compliance with the Paris Principles (%)
+SG_NHR_INTEXST: Proportion of countries that applied for accreditation as independent
+  National Human Rights Institutions in compliance with the Paris Principles
+SG_NHR_INTEXSTN: Countries with National Human Rights Institutions not fully compliant
+  with the Paris Principles, B status (1 = YES; 0 = NO)
+SG_NHR_NOSTUSN: Countries with National Human Rights Institutions and no status with
+  the Paris Principles, C status (1 = YES; 0 = NO)
+SG_PLN_MSTKSDG: Progress in multi-stakeholder development effectiveness monitoring
+  frameworks that support the achievement of the sustainable development goals (1
+  = YES; 0 = NO)
+SG_PLN_PRPOLRES: Extent of use of country-owned results frameworks and planning tools
+  by providers of development cooperation - data by provider (%)
+SG_PLN_PRVNDI: Proportion of new development interventions drawn from country-led
+  result frameworks - data by provider (%)
+SG_PLN_PRVRICTRY: Proportion of results indicators drawn from country-led results
+  frameworks - data by provider (%)
+SG_PLN_PRVRIMON: Proportion of results indicators which will be monitored using government
+  sources and monitoring systems - data by provider (%)
+SG_POV_DOM: Proportion of domestically generated resources allocated by the government
+  directly to poverty reduction programmes
+SG_POV_TOTL: Sum of total grants and non-debt-creating inflows directly allocated
+  to poverty reduction programmes as a proportion of GDP
+SG_REG_BRTH90: Proportion of countries with birth registration data that are at least
+  90 percent complete
+SG_REG_CENSUS: Proportion of countries that have conducted at least one population
+  and housing census in the last 10 years
+SG_REG_DETH75: Proportion of countries with death registration data that are at least
+  75 percent complete
+SG_RHC_ACCS: "Countries with laws and regulations that guarantee full and equal access\
+  \ to women and men aged 15\_years and older to sexual and reproductive health care,\
+  \ information and education (1 = YES; 0 = NO)"
+SG_SCP_CNTRY: Countries with sustainable consumption and production (SCP) national
+  action plans or SCP mainstreamed as a priority or target into national policies
+  (1 = YES; 0 = NO)
+SG_SCP_CORMEC: Countries with coordination mechanism for sustainable consumption and
+  production (1 = YES; 0 = NO)
+SG_SCP_MACPOL: Countries with macro policy for sustainable consumption and production
+  (1 = YES; 0 = NO)
+SG_SCP_OTHER: Country with Other implementing activities for sustainable consumption
+  and production (1 = YES; 0 = NO)
+SG_SCP_POLINS: Countries with policy instrument for sustainable consumption and production
+  (1 = YES; 0 = NO)
+SG_SCP_PROCN: Countries implementing sustainable public procurement policies and action
+  plans  (1 = YES; 0 = NO)
+SG_SCP_TOTL: Countries with policies, instruments and mechanism in place for sustainable
+  consumption and production (1 = YES; 0 = NO)
+SG_STT_NSDSFDOTHR: Countries with national statistical plans with funding from others
+  (1 = YES; 0 = NO)
+SG_URB_CSPART: Proportion of cities with a direct participation structure of civil
+  society in urban planning and management that operate regularly and democratically
+SG_URB_PLAN: Proportion of population living in cities that implement urban and regional
+  development plans integrating population projections and resource needs
+SG_XPD_HLTH: Proportion of total government spending on health
+SG_XPD_PROT: Proportion of total government spending on social protection
+SG_XPD_VULN: Proportion of government recurrent and capital spending to sectors that
+  disproportionately benefit women, the poor and vulnerable groups
+SH_ACS_HPV: Proportion of the target population with access to affordable medicines
+  and vaccines on a sustainable basis, human papillomavirus (HPV)
+SH_ACS_PCV3: Proportion of the target population with access to pneumococcal conjugate
+  3rd dose (PCV3)
+SH_ACS_VACN: Proportion of the target population covered by all vaccines included
+  in their national programme
+SH_FPL_INFM: Proportion of women who make their own informed decisions regarding sexual
+  relations, contraceptive use and reproductive health care (% of women aged 15-49
+  years)
+SH_FPL_INFMCU: Proportion of women who make their own informed decisions regarding
+  contraceptive use (% of women aged 15-49 years)
+SH_FPL_INFMRH: Proportion of women who make their own informed decisions regarding
+  reproductive health care (% of women aged 15-49 years)
+SH_FPL_INFMSR: Proportion of women who make their own informed decisions regarding
+  sexual relations (% of women aged 15-49 years)
+SH_HLF_EMED: Proportion of health facilities that have a core set of relevant essential
+  medicines available and affordable on a sustainable basis
+SH_IHR_CAPPRD: Average of 13 International Health Regulations (IHR) core capacities
+SH_LGR_ACSRHE: Extent to which countries have laws and regulations that guarantee
+  full and equal access to women and men aged 15 years and older to sexual and reproductive
+  health care, information and education
+SH_LGR_ACSRHEC1: '(S.1.C.1) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 1: Maternity
+  Care'
+SH_LGR_ACSRHEC10: '(S.4.C.10) Extent to which countries have laws and regulations
+  that guarantee full and equal access to women and men aged 15 years and older to
+  sexual and reproductive health care, information and education: Component 10: HIV
+  Counselling and Test Services'
+SH_LGR_ACSRHEC11: '(S.4.C.11) Extent to which countries have laws and regulations
+  that guarantee full and equal access to women and men aged 15 years and older to
+  sexual and reproductive health care, information and education: Component 11: HIV
+  Treatment and Care Services'
+SH_LGR_ACSRHEC12: '(S.4.C.12) Extent to which countries have laws and regulations
+  that guarantee full and equal access to women and men aged 15 years and older to
+  sexual and reproductive health care, information and education: Component 12: HIV
+  Confidentiality'
+SH_LGR_ACSRHEC13: '(S.4.C.13) Extent to which countries have laws and regulations
+  that guarantee full and equal access to women and men aged 15 years and older to
+  sexual and reproductive health care, information and education: Component 13: HPV
+  Vaccine'
+SH_LGR_ACSRHEC2: '(S.1.C.2) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 2: Life Saving
+  Commodities'
+SH_LGR_ACSRHEC3: '(S.1.C.3) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 3: Abortion'
+SH_LGR_ACSRHEC4: '(S.1.C.4) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 4: Post-Abortion
+  Care'
+SH_LGR_ACSRHEC5: '(S.2.C.5) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 5: Contraceptive
+  Services'
+SH_LGR_ACSRHEC6: '(S.2.C.6) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 6: Contraceptive
+  Consent'
+SH_LGR_ACSRHEC7: '(S.2.C.7) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 7: Emergency
+  Contraception'
+SH_LGR_ACSRHEC8: '(S.3.C.8) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 8: Sexuality
+  Education Curriculum Laws'
+SH_LGR_ACSRHEC9: '(S.3.C.9) Extent to which countries have laws and regulations that
+  guarantee full and equal access to women and men aged 15 years and older to sexual
+  and reproductive health care, information and education: Component 9: Sexuality
+  Education Curriculum Topi'
+SH_LGR_ACSRHES1: '(S.1) Extent to which countries have laws and regulations that guarantee
+  full and equal access to women and men aged 15 years and older to sexual and reproductive
+  health care, information and education: Section 1: Maternity Care'
+SH_LGR_ACSRHES2: '(S.2) Extent to which countries have laws and regulations that guarantee
+  full and equal access to women and men aged 15 years and older to sexual and reproductive
+  health care, information and education: Section 2: Contraceptive and Family Planning'
+SH_LGR_ACSRHES3: '(S.3) Extent to which countries have laws and regulations that guarantee
+  full and equal access to women and men aged 15 years and older to sexual and reproductive
+  health care, information and education: Section 3: Sexuality Education'
+SH_LGR_ACSRHES4: '(S.4) Extent to which countries have laws and regulations that guarantee
+  full and equal access to women and men aged 15 years and older to sexual and reproductive
+  health care, information and education: Section 4: HIV and HPV'
+SH_STA_ANEM: Proportion of women aged 15-49 years with anaemia
+SH_STA_ANEM_NPRG: Proportion of women aged 15-49 years with anaemia, non-pregnant
+SH_STA_ANEM_PREG: Proportion of women aged 15-49 years with anaemia, pregnant
+SH_STA_FGMS: Proportion of girls and women aged 15-49 years who have undergone female
+  genital mutilation/cutting
+SH_STA_MALR: Malaria incidence per 1,000 population at risk
+SH_STA_TRAFN: Number of deaths rate due to road traffic injuries
+SH_SUD_TREAT: Coverage of treatment interventions (pharmacological, psychosocial and
+  rehabilitation and aftercare services) for substance use disorders (%)
+SI_AGR_SSFP: Average income of small-scale food producers
+SI_COV_BENFTS: Proportion of population covered by at least one social protection
+  benefit
+SI_COV_CHLD: Proportion of children/households receiving child/family cash benefit
+SI_COV_DISAB: Proportion of population with severe disabilities receiving disability
+  cash benefit
+SI_COV_MATNL: Proportion of mothers with newborns receiving maternity cash benefit
+SI_COV_POOR: Proportion of poor population receiving social assistance cash benefit
+SI_COV_VULN: Proportion of vulnerable population receiving social assistance cash
+  benefit
+SI_COV_WKINJRY: Proportion of employed population covered in the event of work injury
+SI_HEI_TOTL: Growth rates of household expenditure or income per capita
+SI_POV_NMPI: Proportion of population living in poverty in all its dimensions according
+  to national definitions
+SL_DOM_TSPD: Proportion of time spent on unpaid domestic chores and care work
+SL_DOM_TSPDCW: Proportion of time spent on unpaid care work
+SL_DOM_TSPDDC: Proportion of time spent on unpaid domestic chores
+SL_EMP_EARN: Average hourly earnings
+SL_EMP_FTLINJUR: Fatal occupational injuries among employees (rate)
+SL_EMP_INJUR: Non-fatal occupational injuries among employees (rate)
+SL_EMP_RCOST: Recruitment cost borne by employee as a proportion of yearly income
+  earned in country of destination
+SL_ISV_IFRM: Proportion of informal employment in non-agriculture employment
+SL_TLF_CHLDEA: Proportion of children engaged in economic activity
+SL_TLF_CHLDEAN: Number of children engaged in economic activity
+SL_TLF_CHLDEC: Proportion of children engaged in economic activity and household chores
+SL_TLF_CHLDECN: Number of children engaged in economic activity and household chores
+SL_TLF_UEMDIS: Unemployment rate, by disability
+SP_ACS_BSRV: Proportion of population living in households with access to basic services
+SP_GNP_WNOWNS: Share of women among owners or rights-bearers of agricultural land,
+  by type of tenure
+SP_LGL_LNDAGSEC: Proportion of total agricultural population with ownership or secure
+  rights over agricultural land
+SP_LGL_LNDDOC: Proportion of total adult population with secure tenure rights to land,  with
+  legally recognized documentation
+SP_LGL_LNDSEC: Proportion of total adult population with secure tenure rights to land
+  who perceive their rights to land as secure
+SP_PSR_SATIS: Proportion of population satisfied with their last experience of public
+  services
+SP_ROD_R2KM: "Proportion of the rural population who live within 2\_km of an all-season\
+  \ road"
+SP_TRN_PUBL: Proportion of population that has convenient access to public transport
+ST_EMP_SUST: Proportion of jobs in sustainable tourism industries out of total tourism
+  jobs
+ST_GDP_ZS: Tourism direct GDP as a proportion of total GDP
+TM_TAX_DMFN: Average tariff applied by developed countries, most-favored nation status,
+  by type of product (%)
+TM_TAX_DPRF: Average tariff applied by developed countries, preferential status, by
+  type of product (%)
+TM_TAX_WM: Average tariff applied by developed countries
+TX_EXP_GBMRCH: "Developing countries\u2019 and least developed countries\u2019 share\
+  \ of global merchandise exports"
+TX_EXP_GBSVR: "Developing countries\u2019 and least developed countries\u2019 share\
+  \ of global services exports"
+TX_IMP_GBMRCH: "Developing countries\u2019 and least developed countries\u2019 share\
+  \ of global merchandise imports"
+TX_IMP_GBSVR: "Developing countries\u2019 and least developed countries\u2019 share\
+  \ of global services imports"
+VC_ARM_SZTRACE: Proportion of seized, found or surrendered arms whose illicit origin
+  or context has been traced or established by a competent authority in line with
+  international instruments
+VC_DSR_AFFCT: Number of people affected by disaster
+VC_DSR_AGLH: Direct agriculture loss attributed to disasters
+VC_DSR_BSDN: Number of disruptions to basic services attributed to disasters
+VC_DSR_CDAN: Number of damaged critical infrastructure attributed to disasters
+VC_DSR_CDYN: Number of other destroyed or damaged critical infrastructure units and
+  facilities attributed to disasters
+VC_DSR_CHLN: Direct economic loss to cultural heritage damaged or destroyed attributed
+  to disasters
+VC_DSR_CILN: Direct economic loss resulting from damaged or destroyed critical infrastructure
+  attributed to disasters
+VC_DSR_DAFF: Number of directly affected persons attributed to disasters per 100,000
+  population
+VC_DSR_DDHN: Number damaged dwellings attributed to disasters
+VC_DSR_DDPA: Direct economic loss to other damaged or destroyed productive assets
+  attributed to disasters
+VC_DSR_DYDN: Number of destroyed dwellings attributed to disasters
+VC_DSR_DYHN: Number destroyed dwellings attributed to disasters, by hazard type
+VC_DSR_EFDN: Number of destroyed or damaged educational facilities attributed to disasters
+VC_DSR_ESDN: Number of disruptions to educational services attributed to disasters
+VC_DSR_GDPLS: Direct economic loss attributed to disasters
+VC_DSR_HFDN: Number of destroyed or damaged health facilities attributed to disasters
+VC_DSR_HOLH: Direct economic loss in the housing sector attributed to disasters, by
+  hazard type
+VC_DSR_HSDN: Number of disruptions to health services attributed to disasters
+VC_DSR_IJILN: Number of injured or ill people attributed to disasters
+VC_DSR_LSGP: Direct economic loss attributed to disasters relative to GDP
+VC_DSR_MISS: Number of missing persons due to disaster
+VC_DSR_MMHN: Number of deaths and missing persons attributed to disasters
+VC_DSR_MORT: Number of deaths due to disaster
+VC_DSR_MTMP: Number of deaths and missing persons attributed to disasters per 100,000
+  population
+VC_DSR_PDAN: Number of people whose damaged dwellings were attributed to disasters
+VC_DSR_PDLN: Number of people whose livelihoods were disrupted or destroyed, attributed
+  to disasters
+VC_DSR_PDYN: Number of people whose destroyed dwellings were attributed to disasters
+VC_DTH_TOCV: Conflict-related deaths per 100,000 population
+VC_DTH_TOCVN: Number of conflict-related deaths (civilians), by sex, age and cause
+  of death
+VC_DTH_TOCVR: Conflict-related death rate (civilians), by sex, age and cause of death
+  (%)
+VC_PRR_PHYV: Police reporting rate for physical assault, by sex (%)
+VC_PRR_ROBB: Police reporting rate for robbery, by sex (%)
+VC_PRR_SEXV: Police reporting rate for sexual assault, by sex (%)
+VC_PRS_UNSNTN: Unsentenced detainees (number)
+VC_SNS_WALN: Proportion of population that feel safe walking alone around the area
+  they live in
+VC_VAW_DIST: Age and sex distribution of detected victims of trafficking in persons
+  (%)
+VC_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and
+  sexual violence by a current or former intimate partner in the previous 12 months
+VC_VAW_MTUHRA: Number of cases of killings of human rights defenders, journalists
+  and trade unionists
+VC_VAW_NONMARR: "Proportion of women and girls aged 15\_years and older subjected\
+  \ to sexual violence by persons other than an\_intimate partner in the previous\
+  \ 12\_months"
+VC_VAW_PHYV: Proportion of ever-partnered women and girls subjected to physical violence
+  by a current or former intimate partner in the previous 12 months
+VC_VAW_PSYV: Proportion of ever-partnered women and girls subjected to psychological
+  violence by a current or former intimate partner in the previous 12 months
+VC_VAW_SEXV: Proportion of ever-partnered women and girls subjected to sexual violence
+  by a current or former intimate partner in the previous 12 months
+VC_VAW_SXVLN: "Proportion of population aged 18-29 years who experienced sexual violence\
+  \ by age\_18"
+VC_VOC_ENFDIS: Number of cases of enforced disappearance of human rights defenders,
+  journalists and trade unionists
+VC_VOH_SXPH: Proportion of persons victim of physical or sexual harassment, in the
+  previous 12 months
+VC_VOV_DCMN: Proportion of population reporting having personally felt discriminated
+  against or harassed in the previous 12 months on the basis of a ground of discrimination
+  prohibited under international human rights law
+VC_VOV_GDSD: Proportion of population reporting having felt discriminated against
+VC_VOV_PHYL: Proportion of population subjected to physical violence in the previous
+  12 months
+VC_VOV_ROBB: Proportion of population subjected to robbery in the previous 12 months
+VC_VOV_SEXL: Proportion of population subjected to sexual violence in the previous
+  12 months

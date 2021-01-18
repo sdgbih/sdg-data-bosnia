@@ -1,0 +1,20 @@
+AGE: Age
+M0: under 1 month old
+Y0: under 1 year old
+Y0T17: under 18 years old
+Y0T4: under 5 years old
+Y15T19: 15 to 19 years old
+Y15T24: 15 to 24 years old
+Y15T25: Y15T25
+Y15T26: Y15T26
+Y15T49: 15 to 49 years old
+Y20T24: 20 to 24 years old
+Y2T14: 2 to 14 years old
+Y30T70: 30 to exact 70 years old
+Y_GE15: 15 years old and over
+Y_GE18: 18 years old and over
+Y_GE25: 25 years old and over
+Y_GE46: 46 years old and over
+_T: All age ranges or no breakdown by age
+_U: Unknown
+_X: Not available

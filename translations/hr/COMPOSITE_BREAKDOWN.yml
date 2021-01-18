@@ -1,0 +1,66 @@
+IHR_01: Nacionalno zakonodavstvo, politika i financiranje
+IHR_02: Koordinacija i nacionalna kontakt točka za komunikaciju
+IHR_03: Nadzor
+IHR_04: Odgovor
+IHR_05: Spremnost
+IHR_06: Komunikacija o riziku
+IHR_07: Ljudski resursi
+IHR_08: Laboratorija
+IHR_09: Točke ulaska
+IHR_10: Zoonotski događaji
+IHR_11: Sigurnost hrane
+IHR_12: Kemijski događaji
+IHR_13: Izvanredne situacije u vezi sa zračenjem
+IO_ECOSOC: Ekonomsko i socijalno vijeće UN-a
+IO_IBRD: Međunarodna banka za obnovu i razvitak
+IO_IFC: Međunarodna financijska korporacija
+IO_IMF: Međunarodni monetarni fond
+IO_UNGA: Generalna skupština UN-a
+IO_UNSC: Vijeće sigurnosti UN-a
+IS_256KT2M: 256 kbit/s do manje od 2 Mbit/s
+IS_2MT10M: 2 Mbit/s do manje od 10 Mbit/s
+IS_GE10M: 10 Mbit/s ili više
+MOT_IWW: Unutarnji plovni put
+MOT_RAI: Željeznički 
+MOT_ROA: Cestovni
+MOT_SEA: Pomorski
+NCD_CARDIO: Kardiovaskularne bolesti
+NCD_CNCR: Rak
+NCD_CRESPD: Kronična respiratorna bolest
+NCD_DIABTS: Dijabetes
+PC_DEFENCE: Obrana
+PC_FINANCE: Financije
+PC_FOR_AFF: Vanjski poslovi
+PC_GEN_EQU: Ravnopravnost spolova
+PC_HUM_RIGH: Ljudska prava
+SKILL_ICTATCH: Slanje e-pošte s priloženim datotekama
+SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
+SKILL_ICTCPT: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
+SKILL_ICTPRGM: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
+SKILL_ICTPST: Izrada elektroničkih prezentacija pomoću softvera za prezentacije
+SKILL_ICTSFWR: Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera
+SKILL_ICTSSHT: Korištenje osnovne aritmetičke formule u proračunskoj tablici
+SKILL_ICTTRFF: Prijenos datoteka između računara i drugih uređaja
+SKILL_MATH: Matematika
+SKILL_READ: Čitanje
+SPAR_01: Zakonodavstvo i financiranje
+SPAR_02: Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR
+SPAR_03: "Zoonotski događaji i sučelje čovjeka i životinje"
+SPAR_04: Sigurnost hrane
+SPAR_05: Laboratorija
+SPAR_06: Nadzor
+SPAR_07: Ljudski resursi
+SPAR_08: Nacionalni okvir za hitnu medicinsku pomoć
+SPAR_09: Pružanje zdravstvene usluge
+SPAR_10: Komunikacija o riziku
+SPAR_11: Točke ulaska
+SPAR_12: Kemijski događaji
+SPAR_13: Izvanredne situacije u vezi sa zračenjem
+_T: Bez podjele
+ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
+mode_of_transportation: Način transporta
+name_of_international_institution: Naziv međunarodne institucije
+name_of_non_communicable_disease: Naziv nezarazne bolesti 
+parliamentary_committees: Parlamentarni odbori
+type_of_skill: Vrsta vještine
+type_of_speed: Vrsta brzine

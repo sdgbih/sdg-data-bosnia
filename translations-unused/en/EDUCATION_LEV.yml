@@ -1,0 +1,52 @@
+AGGA_01_02: No primary schooling
+AGG_02T8: Pre-primary to tertiary education
+AGG_1T3: Primary and secondary education
+AGG_1_2: Primary and lower secondary education (basic education)
+AGG_2_3: Secondary education (lower and upper secondary education)
+AGG_3_4: Secondary and post-secondary non-tertiary education (intermediate)
+AGG_5T8: Tertiary education
+ISCED11A_0: Less than primary education
+ISCED11A_01: Never attended an education programme / No schooling
+ISCED11A_02: Some early childhood education
+ISCED11A_03: Some primary education
+ISCED11A_0_G23: Some primary education, grades 2 or 3
+ISCED11A_1: Primary education, sufficient for level completion
+ISCED11A_2: Lower secondary education, sufficient for level completion
+ISCED11A_3: Upper secondary education, sufficient for level completion
+ISCED11A_4: Post-secondary non-tertiary education, sufficient for level completion
+ISCED11A_5: Short-cycle tertiary education, sufficient for level completion
+ISCED11A_6: "Bachelor\u2019s or equivalent level, sufficient for level completion"
+ISCED11A_7: "Master\u2019s or equivalent level, sufficient for level completion"
+ISCED11A_8: Doctoral or equivalent level, sufficient for level completion
+ISCED11_0: Early childhood education
+ISCED11_01: Early childhood educational development
+ISCED11_02: Pre-primary education
+ISCED11_10: Primary education
+ISCED11_24: Lower secondary general education
+ISCED11_25: Lower secondary vocational education
+ISCED11_25_35_45: Vocational secondary education
+ISCED11_34: Upper secondary general education
+ISCED11_35: Upper secondary vocational education
+ISCED11_4: Post-secondary non-tertiary education
+ISCED11_44: Post-secondary non-tertiary general education
+ISCED11_45: Post-secondary non-tertiary vocational education
+ISCED11_5: Short-cycle tertiary education
+ISCED11_54: Short-cycle tertiary general education
+ISCED11_55: Short-cycle tertiary vocational education
+ISCED11_6: "Bachelor\u2019s or equivalent level"
+ISCED11_7: "Master\u2019s or equivalent level"
+ISCED11_8: Doctoral or equivalent level
+ISCED11_9: Not elsewhere classified
+ISCED11_99: Not elsewhere classified
+ISCED97_0: Pre-primary education
+ISCED97_1: Primary education or first stage of basic education
+ISCED97_2: Lower secondary or second stage of basic education
+ISCED97_3: Upper secondary education
+ISCED97_4: Post-secondary non-tertiary education
+ISCED97_5: First stage of tertiary education (not leading directly to an advanced
+  research qualification)
+ISCED97_5A: First stage of tertiary education (theoretically based/research preparatory)
+ISCED97_5B: First stage of tertiary education (practical/technical/occupationally
+  specific)
+ISCED97_6: Second stage of tertiary education (leading to an advanced research qualification)
+_T: Total or no breakdown by education level

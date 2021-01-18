@@ -1,0 +1,83 @@
+other_info: Ostale informacije
+computation_calculations: Kalkulacije
+computation_definitions: Definicije
+computation_units: Mjerna jedinica
+goal_meta_link: Link do UN metapodataka
+indicator: Broj indikatora
+indicator_definition: Opis globalnog indikatora
+indicator_name: Naziv indikatora
+indicator_sort_order: Redoslijed prikaza indikatora (na stranici cilja)
+national_data_update_url: Podaci posljednji put ažurirani
+national_geographical_coverage: Geografska pokrivenost
+national_indicator_available: Dostupni indikatori
+national_indicator_description: Opis indikatora
+national_metadata_update_url: Posljednji put ažurirani metapodaci
+source_contact_1: Kontakt podaci
+source_contact_2: Kontakt podaci
+source_contact_3: Kontakt podaci
+source_contact_4: Kontakt podaci
+source_contact_5: Kontakt podaci
+source_contact_6: Kontakt podaci
+source_earliest_available_1: Posljednji dostupni podaci
+source_earliest_available_2: Posljednji dostupni podaci
+source_earliest_available_3: Posljednji dostupni podaci
+source_earliest_available_4: Posljednji dostupni podaci
+source_earliest_available_5: Posljednji dostupni podaci
+source_earliest_available_6: Posljednji dostupni podaci
+source_geographical_coverage_1: Geografska pokrivenost
+source_geographical_coverage_2: Geografska pokrivenost
+source_geographical_coverage_3: Geografska pokrivenost
+source_geographical_coverage_4: Geografska pokrivenost
+source_geographical_coverage_5: Geografska pokrivenost
+source_geographical_coverage_6: Geografska pokrivenost
+source_next_release_1: Sljedeće izdanje
+source_next_release_2: Sljedeće izdanje
+source_next_release_3: Sljedeće izdanje
+source_next_release_4: Sljedeće izdanje
+source_next_release_5: Sljedeće izdanje
+source_next_release_6: Sljedeće izdanje
+source_organisation_1: Organizacija
+source_organisation_2: Organizacija
+source_organisation_3: Organizacija
+source_organisation_4: Organizacija
+source_organisation_5: Organizacija
+source_organisation_6: Organizacija
+source_other_info_1: Ostale informacije
+source_other_info_2: Ostale informacije
+source_other_info_3: Ostale informacije
+source_other_info_4: Ostale informacije
+source_other_info_5: Ostale informacije
+source_other_info_6: Ostale informacije
+source_periodicity_1: Periodičnost
+source_periodicity_2: Periodičnost
+source_periodicity_3: Periodičnost
+source_periodicity_4: Periodičnost
+source_periodicity_5: Periodičnost
+source_periodicity_6: Periodičnost
+source_release_date_1: Datum izdavanja
+source_release_date_2: Datum izdavanja
+source_release_date_3: Datum izdavanja
+source_release_date_4: Datum izdavanja
+source_release_date_5: Datum izdavanja
+source_release_date_6: Datum izdavanja
+source_statistical_classification_1: Statistička klasifikacija
+source_statistical_classification_2: Statistička klasifikacija
+source_statistical_classification_3: Statistička klasifikacija
+source_statistical_classification_4: Statistička klasifikacija
+source_statistical_classification_5: Statistička klasifikacija
+source_statistical_classification_6: Statistička klasifikacija
+source_url_1: Link do izvora podataka
+source_url_2: Link do izvora podataka
+source_url_3: Link do izvora podataka
+source_url_4: Link do izvora podataka
+source_url_5: Link do izvora podataka
+source_url_6: Link do izvora podataka
+target: Naziv podcilja
+target_id: Broj podcilja
+un_custodian_agency: UN kustos agencija
+un_designated_tier: UN-ov označeni stepen
+quality_assurance: Osiguranje kvaliteta
+international_comparability: Uporedivost sa međunarodnim podacima/standardima
+comments_limitations: Komentari i ograničenja
+rationale_interpretation: Racionalno i tumačenje
+copyright: Autorska prava

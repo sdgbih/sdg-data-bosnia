@@ -1,0 +1,28 @@
+AGG_AGR: Poljoprivredni proizvodi
+AGG_ARMS: Oružje
+AGG_CLTH: Odjeća
+AGG_IND: Industrijski proizvodi
+AGG_OIL: Nafta ili ulje
+AGG_TXT: Tekstil
+CPC2_1_111: Pšenica
+CPC2_1_112: Kukuruz
+CPC2_1_113: Riža
+CPC2_1_114: Kineska šećerna trska
+MF1: Biomasa
+MF11: Usjevi
+MF121: Ostaci usjeva
+MF122: Stočna hrana i krmno bilje
+MF13: Drvo
+MF14: Divlji ulov i žetva
+MF2: Metalne rude
+MF21: Rude željeza
+MF22: Rude obojenih metala
+MF3: Nemetalni minerali
+MF4: Fosilna goriva
+MF41: Ugalj
+MF421: Nafta
+MF422: Prirodni gas
+MF_AGG3A: Nemetalni minerali - dominantna gradnja
+MF_AGG3B: Nemetalni minerali - dominantni u industriji ili poljoprivredi
+PRODUCT: Vrsta proizvoda
+_T: Bez podjele

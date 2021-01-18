@@ -1,0 +1,145 @@
+ABT2_ACHIEVE: National target reflecting ABT2 exists and progress is on track to achieve
+  it
+ABT2_DIGRESS: National target reflecting ABT2 exists, but moving away from it
+ABT2_EXCEED: National target reflecting ABT2  exists and progress is on track to exceed
+  it
+ABT2_INSUFNT: National target reflecting ABT2  exists and progress is there, but at
+  as insufficient rate
+ABT2_NONTLT: No national target reflecting ABT 2
+ABT2_NOPROG: National target reflecting ABT2  exists, but no progress
+COD_EXPLOSIVES: Planted explosives and unexploded ordnance (UXO)
+COD_HEAVYWEAPONS: Heavy weapons and explosive munitions
+COD_OTHER: Incendiary; Chemical, biological, radiological, nuclear (CBRN); Electromagnetic
+  weapons; Less lethal weapons; Denial of access to/ destruction of objects indispensable
+  to survival; Accidents related to conflict; Use of objects and other means; Multiple
+  Weapons Used.
+COD_SMALLARMS: Small arms and light weapons
+COD_U: Unknown
+COMPOSITE_BREAKDOWN: Composite breakdown
+DEG_HIG: High level
+DEG_LOW: Low level
+DEG_MHIG: Medium-high level
+DEG_MLOW: Medium-low level
+DEG_VHIG: Very high level
+DEG_VLOW: Very low level
+GRD_AGE: Age
+GRD_DISHEA: Disability or health status
+GRD_EDU: Educational
+GRD_ETH: Ethnic
+GRD_ETHCOLLAN: Ethnicity, colour, language
+GRD_ETHCOLLANNAL: Ethnicity, colour, language, nationality
+GRD_FAM: Family status
+GRD_GENID: Gender identity
+GRD_GEO: Geographic location
+GRD_LANDIA: Language  or dialect
+GRD_MAR: Marital status
+GRD_MARFAM: Marital and family status
+GRD_MIG: Migration status
+GRD_OTHER: Other
+GRD_POLVIEW: Political opinion
+GRD_PREGY: Pregnancy
+GRD_RACE: Race
+GRD_RELIGION: Religion
+GRD_RES: Place of residence
+GRD_SEX: Sex
+GRD_SEXO: Sexual orientation
+GRD_SEXOGENID: Sexual orientation and gender identity
+GRD_SOCIOECON: Socioeconomic status
+GRD_WEALTH: Wealth status
+GRD_WEDLOCK: Born out of wedlock
+HZT_ACIDR: Acid Rain
+HZT_ACIDT: Accident
+HZT_ALLUV: Alluvion
+HZT_ANIAK: Animal Attack
+HZT_AVALE: Avalanche
+HZT_BIOGL: Biological
+HZT_CHESP: Chemical Spill
+HZT_COLDW: Cold Wave
+HZT_CONTM: Contamination
+HZT_COSER: Coastal Erosion
+HZT_COSFL: Coastal Flood
+HZT_CSOLD: Consolidate
+HZT_CYCLN: Cyclone
+HZT_DFRST: Deforestation
+HZT_DROUG: Drought
+HZT_DZUD: Dzud
+HZT_ELEST: Electric Storm
+HZT_EPIDM: Epidemics
+HZT_EPIZT: Epizootic
+HZT_EROSN: Erosion
+HZT_ERQAK: Earthquake
+HZT_EXPLN: Explosion
+HZT_EXTEM: Extreme Temperature
+HZT_FIREX: Fire
+HZT_FLOOD: Flood
+HZT_FLSFL: Flash Flood
+HZT_FOGXX: Fog
+HZT_FROST: Frost
+HZT_FRZRN: Freezing Rain
+HZT_GLCFL: Glacial Lake Outburst Flood
+HZT_HAILS: Hailstorm
+HZT_HETWA: Heat Wave
+HZT_HEVRN: Heavy Rain
+HZT_INFET: Insect Infestation
+HZT_INTOX: Intoxication
+HZT_LAHAR: Lahar
+HZT_LIQFN: Liquefaction
+HZT_LNDRG: Land Degradation
+HZT_LNDSL: Landslide
+HZT_NUCIN: Nuclear Incident
+HZT_OTHER: Other
+HZT_PANIC: Panic
+HZT_PEATX: Peat
+HZT_PESTX: Pest
+HZT_PLGUE: Plague
+HZT_POLUT: Pollution
+HZT_SANDS: Sand Storm
+HZT_SEDMN: Sedimentation
+HZT_SNSTM: Snowstorm
+HZT_STCOL: Structural Collapse
+HZT_STORM: Storm
+HZT_STUCK: Stuck
+HZT_SUBSD: Subsidence
+HZT_TECHH: Technological Hazard
+HZT_TORND: Tornado
+HZT_TSUNM: Tsunami
+HZT_VOLER: Volcanic Eruption
+HZT_WLDFR: Wild Fire
+HZT_WNDST: Windstorm
+IO_ADB: Asian Development Bank
+IO_AFDB: African Development Bank
+IO_FSB: Financial Stability Board
+IO_IADB: Inter-American Development Bank
+IO_WTO: World Trade Organisation
+MOT_AIR: Air
+MS_EUMIGRANT: EU Migrant
+MS_MIGRANT: Migrant
+MS_NOMIGRANT: Non-migrant
+MS_NONEUMIGRANT: Non-EU Migrant
+NCD_NCOM: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease
+PD_1: Policy Domain 1. Migrant rights
+PD_2: Policy Domain 2. Whole-of-government/ Evidence-based policies
+PD_3: Policy Domain 3. Cooperation and partnerships
+PD_4: Policy Domain 4. Socioeconomic well-being
+PD_5: Policy Domain 5. Mobility dimensions of crises
+PD_6: Policy Domain 6. Safe, orderly and regular migration
+POL_ECONFIS: Economic and fiscal instruments (taxes and tax incentives, grants, preferential
+  loans, etc.)
+POL_MACRO: Macro policies (e.g. national strategies/action plans, new institutions/entities)
+POL_REGLEG: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)
+POL_VOLSRG: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes
+  of conduct, CSR initiatives)
+SKILL_ICTCDV: connecting and installing new devices
+SKILL_LTRCY: Functional literacy
+SKILL_NMRCY: Functional numeracy
+SUD_ALCOHOL: Alcohol
+SUD_ATS: Amphetamine-type stimulants (ATS)
+SUD_CANNABIS: Cannabis
+SUD_COCAINE: Cocaine
+SUD_OPIOIDS: Opioids
+WT_INCINRT: Incineration
+WT_LANDFIL: Landfilling
+WT_LANDFILCTL: Landfilling, controlled
+WT_LANDFILNCTL: Landfilling, uncontrolled
+WT_OTHERWM: Other type of waste management
+WT_RECYCL: Recycling

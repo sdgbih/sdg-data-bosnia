@@ -1,0 +1,67 @@
+IHR_01: National legislation, policy and financing
+IHR_02: Coordination and National Focal Point communications
+IHR_03: Surveillance
+IHR_04: Response
+IHR_05: Preparedness
+IHR_06: Risk communication
+IHR_07: Human resources
+IHR_08: Laboratory
+IHR_09: Points of entry
+IHR_10: Zoonotic events
+IHR_11: Food safety
+IHR_12: Chemical events
+IHR_13: Radionuclear emergencies
+IO_ECOSOC: UN Economic and Social Council
+IO_IBRD: International Bank for Reconstruction and Development
+IO_IFC: International Finance Corporation
+IO_IMF: International Monetary Fund
+IO_UNGA: UN General Assembly
+IO_UNSC: UN Security Council
+IS_256KT2M: 256 kbit/s to less than 2 Mbit/s
+IS_2MT10M: 2 Mbit/s to less than 10 Mbit/s
+IS_GE10M: 10 Mbit/s or above
+MOT_IWW: Inland waterway transport
+MOT_RAI: Rail
+MOT_ROA: Road
+MOT_SEA: Maritime
+NCD_CARDIO: Cardiovascular disease
+NCD_CNCR: Cancer
+NCD_CRESPD: Chronic respiratory disease
+NCD_DIABTS: Diabetes
+PC_DEFENCE: Defence
+PC_FINANCE: Finance
+PC_FOR_AFF: Foreign Affairs
+PC_GEN_EQU: Gender Equality
+PC_HUM_RIGH: Human Rights
+SKILL_ICTATCH: Sending e-mails with attached files
+SKILL_ICTCMFL: Copying or moving a file or folder
+SKILL_ICTCPT: Using copy and paste tools to duplicate or move information within a
+  document
+SKILL_ICTPRGM: Writing a computer program using a specialized programming language
+SKILL_ICTPST: Creating electronic presentations with presentation software
+SKILL_ICTSFWR: Finding, downloading, installing and configuring software
+SKILL_ICTSSHT: Using basic arithmetic formula in a spreadsheet
+SKILL_ICTTRFF: Transferring files between a computer and other devices
+SKILL_MATH: Mathematics
+SKILL_READ: Reading
+SPAR_01: Legislation and Financing
+SPAR_02: IHR Coordination and National IHR Focal Point Functions
+SPAR_03: "Zoonotic events and the human\u2013animal interface"
+SPAR_04: Food safety
+SPAR_05: Laboratory
+SPAR_06: Surveillance
+SPAR_07: Human resources
+SPAR_08: National Health Emergency Framework
+SPAR_09: Health Service Provision
+SPAR_10: Risk Communication
+SPAR_11: Points of entry
+SPAR_12: Chemical events
+SPAR_13: Radiation emergencies
+_T: No breakdown
+ihr_capacity: IHR Capacity
+mode_of_transportation: Mode of transportation
+name_of_international_institution: Name of international institution
+name_of_non_communicable_disease: Name of non-communicable disease
+parliamentary_committees: Parliamentary committees
+type_of_skill: Type of skill
+type_of_speed: Type of speed

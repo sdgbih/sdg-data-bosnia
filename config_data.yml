@@ -1,15 +1,17 @@
-
+# Djordje Sajlovic config
 # This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
-#hi
+
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  - bs
+  - sr
+  - hr
 
 # Destination directory
 # ---------------------
@@ -106,4 +108,18 @@ docs_intro: This is a list of examples of endpoints and output that are
   on the available output.
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_indicator_url: https://sdgbosnia.co.uk/[id]
+# This shows the translations in the disaggregation report.
+docs_translate_disaggregations: true
+# This includes additional columns in the disaggregation report.
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - SERIES
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - UNIT_MEASURE
+    - SERIES
+    - Value
+    - GeoCode

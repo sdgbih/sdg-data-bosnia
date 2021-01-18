@@ -1,0 +1,31 @@
+BOOL: Logička ili binarna mjera
+CON_USD: konstantni američki dolari
+CUR_LCU_M: Lokalna valuta (milioni)
+GPERM3: Mikrogrami po kubnom metru
+HA_TH: Hiljade hektara
+IX: Index
+KG: Kilogrami
+KG_PER_CON_USD: Kilogrami po konstanti američkog dolara
+KM2: Kvadratnih kilometara
+LITRES: Litri
+MILLIONS: Milioni
+MJ_PER_GDP_CON_PPP_USD: Megadžula po konstantni američkog dolara PPP BDP 
+NUMBER: Broj
+PER_1000000_POP: Na milion stanovnika
+PER_100000_LIVE_BIRTHS: Na 100 000 živorođenih
+PER_100000_POP: Na 100 000 stanovnika
+PER_10000_POP: Na 10 000 stanovnika
+PER_1000_LIVE_BIRTHS: Na 1 000 živorođenih
+PER_1000_POP: Na 1 000 stanovnika
+PER_1000_UNINFECTED_POP: Na 1 000 nezaraženog stanovništva
+PER_100_POP: Na 100 stanovnika
+PT: Procenat
+P_KM: Putnički kilometri
+RO: Odnos
+SCORE: Rezultat
+THOUSANDS: Hiljade
+TONNES: Tone
+TONNES_M: Milioni tona
+T_KM: Tonski kilometri
+UNIT_MEASURE: Mjerna jedinica
+USD: Američki dolar
