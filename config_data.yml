@@ -2,7 +2,7 @@
 # This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
-
+#hi
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
