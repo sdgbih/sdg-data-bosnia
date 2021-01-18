@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Age,Value
+2000,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,28.43425
+2006,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,19.49263
+2012,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,16.26161
+2000,Proportion of children moderately or severely stunted,Percent,under 5 years old,12.12708
+2006,Proportion of children moderately or severely stunted,Percent,under 5 years old,11.813
+2012,Proportion of children moderately or severely stunted,Percent,under 5 years old,8.88656

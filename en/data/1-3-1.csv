@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2009,Proportion of population above statutory pensionable age receiving a pension,Percent,Both sexes or no breakdown by sex,29.6
+2001,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,1.2
+2005,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,1.6
+2007,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,1.6
+2009,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,2.4
+2010,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,2.6
+2011,Proportion of unemployed persons receiving unemployment cash benefit,Percent,Both sexes or no breakdown by sex,2.0
+2007,Proportion of population covered by labour market programs,Percent,,2.03118
+2007,Proportion of population covered by social assistance programs,Percent,,20.50947
+2015,Proportion of population covered by social assistance programs,Percent,,17.4175
+2007,Proportion of population covered by social insurance programs,Percent,,41.52379
+2015,Proportion of population covered by social insurance programs,Percent,,40.16296

@@ -1,3 +1,55 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2000,13.718,TONNES_M,Carbon dioxide emissions from fuel combustion
+2001,13.501,TONNES_M,Carbon dioxide emissions from fuel combustion
+2002,14.219,TONNES_M,Carbon dioxide emissions from fuel combustion
+2003,14.546,TONNES_M,Carbon dioxide emissions from fuel combustion
+2004,15.187,TONNES_M,Carbon dioxide emissions from fuel combustion
+2005,15.858,TONNES_M,Carbon dioxide emissions from fuel combustion
+2006,17.462,TONNES_M,Carbon dioxide emissions from fuel combustion
+2007,18.415,TONNES_M,Carbon dioxide emissions from fuel combustion
+2008,20.24,TONNES_M,Carbon dioxide emissions from fuel combustion
+2009,20.204,TONNES_M,Carbon dioxide emissions from fuel combustion
+2010,20.483,TONNES_M,Carbon dioxide emissions from fuel combustion
+2011,23.401,TONNES_M,Carbon dioxide emissions from fuel combustion
+2012,21.645,TONNES_M,Carbon dioxide emissions from fuel combustion
+2013,21.51,TONNES_M,Carbon dioxide emissions from fuel combustion
+2014,19.172,TONNES_M,Carbon dioxide emissions from fuel combustion
+2015,19.306,TONNES_M,Carbon dioxide emissions from fuel combustion
+2016,22.019,TONNES_M,Carbon dioxide emissions from fuel combustion
+2017,22.328,TONNES_M,Carbon dioxide emissions from fuel combustion
+2000,0.60146,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2001,0.56698,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2002,0.56707,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2003,0.55783,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2004,0.54891,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2005,0.52699,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2006,0.55049,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2007,0.54843,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2008,0.57175,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2009,0.58842,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2010,0.59135,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2011,0.66919,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2012,0.6241,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2013,0.60598,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2014,0.53398,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2015,0.52167,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2016,0.57683,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2017,0.56686,Kilograms per constant USD,Carbon dioxide emissions per unit of GDP
+2000,1.6,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2001,1.38,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2002,1.43,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2003,0.36,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2004,0.72,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2005,0.89,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2006,0.83,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2007,0.8,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2008,0.79,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2009,0.89,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2010,0.98,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2011,1.09,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2012,1.11,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2013,1.24,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2014,1.08,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2015,1.06,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2016,0.95,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added
+2017,0.94,Kilograms per constant USD,Carbon dioxide emissions per unit of manufacturing value added

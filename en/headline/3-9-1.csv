@@ -1,3 +1,7 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2016,44,"Per 100,000 population",Age-standardized mortality rate attributed to ambient air pollution
+2016,43,"Per 100,000 population",Age-standardized mortality rate attributed to household air pollution
+2016,80,"Per 100,000 population",Age-standardized mortality rate attributed to household and ambient air pollution
+2016,87,"Per 100,000 population",Crude death rate attributed to ambient air pollution
+2016,85,"Per 100,000 population",Crude death rate attributed to household air pollution
+2016,159,"Per 100,000 population",Crude death rate attributed to household and ambient air pollution

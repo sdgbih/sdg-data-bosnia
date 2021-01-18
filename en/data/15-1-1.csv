@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Forest area (hectares),HA_TH,2111.65
+2010,Forest area (hectares),HA_TH,2102.66
+2015,Forest area (hectares),HA_TH,2160.5
+2016,Forest area (hectares),HA_TH,2176.51
+2017,Forest area (hectares),HA_TH,2187.91
+2018,Forest area (hectares),HA_TH,2187.91
+2019,Forest area (hectares),HA_TH,2187.91
+2020,Forest area (hectares),HA_TH,2187.91
+2000,Forest area as a proportion of total land area,Percent,41.2431640625
+2010,Forest area as a proportion of total land area,Percent,41.067578125
+2015,Forest area as a proportion of total land area,Percent,42.197265625
+2016,Forest area as a proportion of total land area,Percent,42.5099609375
+2017,Forest area as a proportion of total land area,Percent,42.7326171875
+2018,Forest area as a proportion of total land area,Percent,42.7326171875
+2019,Forest area as a proportion of total land area,Percent,42.7326171875
+2020,Forest area as a proportion of total land area,Percent,42.7326171875
+2015,Land area (hectares),HA_TH,5120.0

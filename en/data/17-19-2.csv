@@ -1,7 +1,10 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2013,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),Number,1
+2015,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),Number,1
+2016,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),Number,1
+2017,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),Number,1
+2018,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),Number,1
+2015,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),Number,1
+2016,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),Number,1
+2017,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),Number,1
+2018,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),Number,1

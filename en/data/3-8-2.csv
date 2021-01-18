@@ -1,7 +1,11 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2001,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Percent,14.56
+2004,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Percent,5.58
+2007,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Percent,10.25
+2011,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Percent,8.56
+2015,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Percent,8.18
+2001,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Percent,3.59
+2004,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Percent,0.4
+2007,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Percent,1.9
+2011,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Percent,1.27
+2015,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Percent,1.39

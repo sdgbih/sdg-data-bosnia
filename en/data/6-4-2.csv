@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2001,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2002,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2003,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2004,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2005,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2006,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.5
+2007,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.6
+2008,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.6
+2009,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.9
+2010,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.8
+2011,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.9
+2012,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.9
+2013,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.7
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.8
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.8
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,2.7

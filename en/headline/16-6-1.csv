@@ -1,3 +1,4 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2009,89.56,Percent,Primary government expenditures as a proportion of original approved budget
+2010,91.58,Percent,Primary government expenditures as a proportion of original approved budget
+2011,100.0,Percent,Primary government expenditures as a proportion of original approved budget

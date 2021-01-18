@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2003,Researchers (in full-time equivalent) per million inhabitants,Per million population,61.59419
+2004,Researchers (in full-time equivalent) per million inhabitants,Per million population,63.42766
+2005,Researchers (in full-time equivalent) per million inhabitants,Per million population,67.1423
+2006,Researchers (in full-time equivalent) per million inhabitants,Per million population,178.23305
+2007,Researchers (in full-time equivalent) per million inhabitants,Per million population,198.03677
+2012,Researchers (in full-time equivalent) per million inhabitants,Per million population,160.13994
+2013,Researchers (in full-time equivalent) per million inhabitants,Per million population,233.86738
+2014,Researchers (in full-time equivalent) per million inhabitants,Per million population,292.38061
+2015,Researchers (in full-time equivalent) per million inhabitants,Per million population,365.22839
+2016,Researchers (in full-time equivalent) per million inhabitants,Per million population,419.99063
+2017,Researchers (in full-time equivalent) per million inhabitants,Per million population,485.42082
+2018,Researchers (in full-time equivalent) per million inhabitants,Per million population,471.2501

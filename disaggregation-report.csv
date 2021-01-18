@@ -1,2 +1,12 @@
-Disaggregation,es,Number of indicators,Number of values
-Group,Group,1,2
+Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
+ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,1,3
+AGE,Age,Godine,Године,Godine,23,19
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
+EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,3,3
+INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,6
+OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
+PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
+SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,146,261
+SEX,Sex,Spol,Пол,Spol,31,5
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,146,30
+URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,9,3

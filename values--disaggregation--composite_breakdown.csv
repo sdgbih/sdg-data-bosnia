@@ -1,0 +1,59 @@
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+_T,No breakdown,Bez podjele,_T,Bez podjele,2,1
+IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
+IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
+IHR_03,Surveillance,Nadzor,Надзор,Nadzor,1,1
+IHR_04,Response,Odgovor,Одговор,Odgovor,1,1
+IHR_05,Preparedness,Spremnost,Спремност,Spremnost,1,1
+IHR_06,Risk communication,Komunikacija o riziku,Комуникација о ризику,Komunikacija o riziku,1,1
+IHR_07,Human resources,Ljudski resursi,Људски ресурси,Ljudski resursi,1,1
+IHR_08,Laboratory,Laboratorija,Лабораторија,Laboratorija,1,1
+IHR_09,Points of entry,Tačke ulaska,Тачке уласка,Točke ulaska,1,1
+IHR_10,Zoonotic events,Zoonotski događaji,Зоонотски догађаји,Zoonotski događaji,1,1
+IHR_11,Food safety,Sigurnost hrane,Сигурност хране,Sigurnost hrane,1,1
+IHR_12,Chemical events,Hemijski događaji,Хемијски догађаји,Kemijski događaji,1,1
+IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем,Izvanredne situacije u vezi sa zračenjem,1,1
+IO_ECOSOC,UN Economic and Social Council,Ekonomsko i socijalno vijeće UN-a,Економски и социјални савјет УН-а,Ekonomsko i socijalno vijeće UN-a,4,2
+IO_IBRD,International Bank for Reconstruction and Development,Međunarodna banka za obnovu i razvoj,Међународна банка за обнову и развој,Međunarodna banka za obnovu i razvitak,4,2
+IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,Међународна финансијска корпорација,Međunarodna financijska korporacija,4,2
+IO_IMF,International Monetary Fund,Međunarodni monetarni fond,Међународни монетарни фонд,Međunarodni monetarni fond,4,2
+IO_UNGA,UN General Assembly,Generalna skupština UN-a,Генерална скупштина УН-а,Generalna skupština UN-a,4,2
+IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,Савјет безбједности УН-а,Vijeće sigurnosti UN-a,4,2
+IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
+IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
+IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbit/s ili više,2,1
+MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
+MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
+MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
+NCD_CARDIO,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
+NCD_CNCR,Cancer,Rak,Рак,Rak,3,1
+NCD_CRESPD,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
+NCD_DIABTS,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
+PC_DEFENCE,Defence,Odbrana,Одбрана,Obrana,2,1
+PC_FINANCE,Finance,Finansije,Финансије,Financije,2,1
+PC_FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни послови,Vanjski poslovi,2,1
+PC_GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,2,1
+PC_HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,2,1
+SKILL_ICTATCH,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,Слање е-поште с приложеним датотекама,Slanje e-pošte s priloženim datotekama,3,1
+SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,3,1
+SKILL_ICTCPT,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,3,1
+SKILL_ICTPRGM,Writing a computer program using a specialized programming language,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,Писање рачунарског програма помоћу специјализованог програмског језика,Pisanje računarskog programa pomoću specijaliziranog programskog jezika,3,1
+SKILL_ICTPST,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,Израда електронских презентација помоћу софтвера за презентације,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,3,1
+SKILL_ICTSFWR,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера","Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",3,1
+SKILL_ICTSSHT,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,3,1
+SKILL_ICTTRFF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,Prijenos datoteka između računara i drugih uređaja,3,1
+SKILL_MATH,Mathematics,Matematika,Математика,Matematika,8,2
+SKILL_READ,Reading,Čitanje,Читање,Čitanje,8,2
+SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,Законодавство и финансирање,Zakonodavstvo i financiranje,1,1
+SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,Координација Међународних здравствених прописа (IHR) и националне функције контакт лица за IHR,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,1,1
+SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,Зоонотски догађаји и сучеље човјека и животиње,Zoonotski događaji i sučelje čovjeka i životinje,1,1
+SPAR_04,Food safety,Sigurnost hrane,Сигурност хране,Sigurnost hrane,1,1
+SPAR_05,Laboratory,Laboratorija,Лабораторија,Laboratorija,1,1
+SPAR_06,Surveillance,Nadzor,Надзор,Nadzor,1,1
+SPAR_07,Human resources,Ljudski resursi,Људски ресурси,Ljudski resursi,1,1
+SPAR_08,National Health Emergency Framework,Nacionalni okvir za hitnu medicinsku pomoć,Национални оквир за хитну медицинску помоћ,Nacionalni okvir za hitnu medicinsku pomoć,1,1
+SPAR_09,Health Service Provision,Pružanje zdravstvene usluge,Пружање здравствене услуге,Pružanje zdravstvene usluge,1,1
+SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о ризику,Komunikacija o riziku,1,1
+SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,Točke ulaska,1,1
+SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,Kemijski događaji,1,1
+SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,Izvanredne situacije u vezi sa zračenjem,1,1

@@ -1,3 +1,4 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2017,94.405594,Index,Mountain Green Cover Index
+2017,36.4415446484375,Square kilometers,Mountain area (square kilometres)
+2017,34.4028568359375,Square kilometers,Mountain green cover area (square kilometres)

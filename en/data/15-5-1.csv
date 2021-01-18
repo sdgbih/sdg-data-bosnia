@@ -1,7 +1,22 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Red List Index,Index,0.90047
+2001,Red List Index,Index,0.90038
+2002,Red List Index,Index,0.90028
+2003,Red List Index,Index,0.90021
+2004,Red List Index,Index,0.90024
+2005,Red List Index,Index,0.90028
+2006,Red List Index,Index,0.90028
+2007,Red List Index,Index,0.90035
+2008,Red List Index,Index,0.90039
+2009,Red List Index,Index,0.90042
+2010,Red List Index,Index,0.90045
+2011,Red List Index,Index,0.90049
+2012,Red List Index,Index,0.90053
+2013,Red List Index,Index,0.90057
+2014,Red List Index,Index,0.90062
+2015,Red List Index,Index,0.90064
+2016,Red List Index,Index,0.90067
+2017,Red List Index,Index,0.9007
+2018,Red List Index,Index,0.90074
+2019,Red List Index,Index,0.9008
+2020,Red List Index,Index,0.90081

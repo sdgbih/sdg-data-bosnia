@@ -1,3 +1,5 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2018,1,Number,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)
+2018,1,Number,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)
+2018,1,Number,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)
+2018,1,Number,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)

@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2004,Labour share of GDP,Percent,43.08
+2005,Labour share of GDP,Percent,43.13
+2006,Labour share of GDP,Percent,42.86
+2007,Labour share of GDP,Percent,42.67
+2008,Labour share of GDP,Percent,42.71
+2009,Labour share of GDP,Percent,42.72
+2010,Labour share of GDP,Percent,42.43
+2011,Labour share of GDP,Percent,42.18
+2012,Labour share of GDP,Percent,42.69
+2013,Labour share of GDP,Percent,41.98
+2014,Labour share of GDP,Percent,41.73
+2015,Labour share of GDP,Percent,41.58
+2016,Labour share of GDP,Percent,41.61
+2017,Labour share of GDP,Percent,41.68

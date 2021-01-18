@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2017,Proportion of transboundary aquifers with an operational arrangement for water cooperation,Percent,73.31999999999998
+2017,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation,Percent,92.6
+2017,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation,Percent,96.14

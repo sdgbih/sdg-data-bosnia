@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2000,2005,2010,2015,2017],"SERIES":["Universal health coverage (UHC) service coverage index","Universal health coverage (UHC) service coverage index","Universal health coverage (UHC) service coverage index","Universal health coverage (UHC) service coverage index","Universal health coverage (UHC) service coverage index"],"UNIT_MEASURE":["Index","Index","Index","Index","Index"],"Value":[39,55,56,60,61]},"edges":[]}

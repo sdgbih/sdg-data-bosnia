@@ -1,3 +1,10 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2010,1,Number,Number of people requiring interventions against neglected tropical diseases
+2011,0,Number,Number of people requiring interventions against neglected tropical diseases
+2012,0,Number,Number of people requiring interventions against neglected tropical diseases
+2013,1,Number,Number of people requiring interventions against neglected tropical diseases
+2014,2,Number,Number of people requiring interventions against neglected tropical diseases
+2015,0,Number,Number of people requiring interventions against neglected tropical diseases
+2016,0,Number,Number of people requiring interventions against neglected tropical diseases
+2017,0,Number,Number of people requiring interventions against neglected tropical diseases
+2018,0,Number,Number of people requiring interventions against neglected tropical diseases

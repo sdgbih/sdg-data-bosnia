@@ -1,3 +1,41 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2000,8.81,Percent,Manufacturing value added as a proportion of GDP
+2001,8.84,Percent,Manufacturing value added as a proportion of GDP
+2002,9.05,Percent,Manufacturing value added as a proportion of GDP
+2003,8.98,Percent,Manufacturing value added as a proportion of GDP
+2004,8.85,Percent,Manufacturing value added as a proportion of GDP
+2005,9.11,Percent,Manufacturing value added as a proportion of GDP
+2006,9.88,Percent,Manufacturing value added as a proportion of GDP
+2007,10.32,Percent,Manufacturing value added as a proportion of GDP
+2008,10.42,Percent,Manufacturing value added as a proportion of GDP
+2009,10.15,Percent,Manufacturing value added as a proportion of GDP
+2010,10.79,Percent,Manufacturing value added as a proportion of GDP
+2011,10.69,Percent,Manufacturing value added as a proportion of GDP
+2012,10.69,Percent,Manufacturing value added as a proportion of GDP
+2013,10.97,Percent,Manufacturing value added as a proportion of GDP
+2014,11.31,Percent,Manufacturing value added as a proportion of GDP
+2015,11.67,Percent,Manufacturing value added as a proportion of GDP
+2016,11.93,Percent,Manufacturing value added as a proportion of GDP
+2017,12.28,Percent,Manufacturing value added as a proportion of GDP
+2018,12.43,Percent,Manufacturing value added as a proportion of GDP
+2019,12.58,Percent,Manufacturing value added as a proportion of GDP
+2000,250.0,Constant USD,Manufacturing value added per capita
+2001,257.3,Constant USD,Manufacturing value added per capita
+2002,276.5,Constant USD,Manufacturing value added per capita
+2003,284.9,Constant USD,Manufacturing value added per capita
+2004,298.4,Constant USD,Manufacturing value added per capita
+2005,318.8,Constant USD,Manufacturing value added per capita
+2006,364.4,Constant USD,Manufacturing value added per capita
+2007,403.4,Constant USD,Manufacturing value added per capita
+2008,430.3,Constant USD,Manufacturing value added per capita
+2009,430.3,Constant USD,Manufacturing value added per capita
+2010,441.9,Constant USD,Manufacturing value added per capita
+2011,447.0,Constant USD,Manufacturing value added per capita
+2012,450.4,Constant USD,Manufacturing value added per capita
+2013,481.3,Constant USD,Manufacturing value added per capita
+2014,510.6,Constant USD,Manufacturing value added per capita
+2015,551.7,Constant USD,Manufacturing value added per capita
+2016,588.8,Constant USD,Manufacturing value added per capita
+2017,631.4,Constant USD,Manufacturing value added per capita
+2018,667.4,Constant USD,Manufacturing value added per capita
+2019,699.2,Constant USD,Manufacturing value added per capita

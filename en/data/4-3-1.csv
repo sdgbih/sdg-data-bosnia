@@ -1,7 +1,24 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2006,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.1777810169107
+2007,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.15766816184931
+2008,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.13075550414031
+2009,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,1.90901995619569
+2010,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.11272856926009
+2011,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.18183738605587
+2012,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.23761247360216
+2014,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,1.74418466019195
+2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,8.7
+2006,Participation rate in formal and non-formal education and training,Percent,Female,2.02557408786449
+2007,Participation rate in formal and non-formal education and training,Percent,Female,2.03538605697235
+2008,Participation rate in formal and non-formal education and training,Percent,Female,2.15464335032623
+2010,Participation rate in formal and non-formal education and training,Percent,Female,2.15464335032623
+2011,Participation rate in formal and non-formal education and training,Percent,Female,2.13504427950971
+2012,Participation rate in formal and non-formal education and training,Percent,Female,2.30169416008625
+2016,Participation rate in formal and non-formal education and training,Percent,Female,8.5
+2006,Participation rate in formal and non-formal education and training,Percent,Male,2.29240964139863
+2007,Participation rate in formal and non-formal education and training,Percent,Male,2.28262612897082
+2008,Participation rate in formal and non-formal education and training,Percent,Male,2.02113648312372
+2010,Participation rate in formal and non-formal education and training,Percent,Male,2.17342238173644
+2011,Participation rate in formal and non-formal education and training,Percent,Male,2.15668454559366
+2012,Participation rate in formal and non-formal education and training,Percent,Male,2.17297010420148
+2016,Participation rate in formal and non-formal education and training,Percent,Male,8.9

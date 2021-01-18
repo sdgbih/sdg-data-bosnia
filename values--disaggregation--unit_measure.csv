@@ -1,0 +1,31 @@
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,2,1
+CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,7,6
+CUR_LCU_M,CUR_LCU_M,Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
+GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,2,1
+HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
+IX,Index,Index,Индеx,Index,4,4
+KG,Kilograms,Kilogrami,Килограми,Kilogrami,4,2
+KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,37,4
+KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,4,2
+LITRES,LITRES,Litri,Литри,Litri,3,1
+MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,1,1
+MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant PPP GDP,Megadžula po konstantni američkog dolara PPP BDP,Мегаџула по константни америчког долара ППП БДП,Megadžula po konstantni američkog dolara PPP BDP,1,1
+NUMBER,Number,Broj,Број,Broj,108,28
+P_KM,Passenger kilometres,Putnički kilometri,Путнички километри,Putnički kilometri,2,1
+PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,Na milijun stanovnika,1,1
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,Na 100 000 živorođenih,1,1
+PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,Na 100 000 stanovnika,17,7
+PER_10000_POP,"Per 10,000 population",Na 10 000 stanovnika,На 10 000 становника,Na 10 000 stanovnika,4,1
+PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1.000 живорођених,Na 1 000 živorođenih,7,2
+PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 становника,Na 1 000 stanovnika,1,1
+PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,Na 1 000 nezaraženog stanovništva,9,1
+PER_100_POP,Per 100 population,Na 100 stanovnika,На 100 становника,Na 100 stanovnika,5,2
+PT,Percent,Procenat,Проценат,Postotak,352,86
+RO,Ratio,Odnos,Однос,Odnos,111,2
+SCORE,Score,Rezultat,Резултат,Rezultat,2,2
+T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,Tonski kilometri,3,1
+THOUSANDS,THOUSANDS,Hiljade,Хиљаде,Tisuće,9,3
+TONNES,TONNES,Tone,Тоне,Tone,72,4
+TONNES_M,TONNES_M,Milioni tona,Милиони тона,Milijuni tona,1,1
+USD,USD,Američki dolar,Амерички долар,Američki dolar,7,7

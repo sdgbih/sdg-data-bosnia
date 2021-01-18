@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2000,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,16.6
+2001,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,17.4
+2002,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,18.7
+2003,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,17.4
+2004,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,17.2
+2005,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,16.5
+2006,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,16.4
+2007,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,15.2
+2008,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,15.8
+2009,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,14.8
+2010,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,13.5
+2011,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,12.2
+2012,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,12.3
+2013,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,11.0
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,10.7
+2015,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,10.5
+2016,"Adolescent birth rate (per 1,000 women aged 15-19 years)","Per 1,000 population",15 to 19 years old,Female,11.0

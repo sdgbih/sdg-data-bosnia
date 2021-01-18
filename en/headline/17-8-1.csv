@@ -1,3 +1,20 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2000,1.083,Per 100 population,Internet users per 100 inhabitants
+2001,1.201,Per 100 population,Internet users per 100 inhabitants
+2002,2.648,Per 100 population,Internet users per 100 inhabitants
+2003,3.965,Per 100 population,Internet users per 100 inhabitants
+2004,15.469,Per 100 population,Internet users per 100 inhabitants
+2005,21.327,Per 100 population,Internet users per 100 inhabitants
+2006,25.122,Per 100 population,Internet users per 100 inhabitants
+2007,27.92,Per 100 population,Internet users per 100 inhabitants
+2008,34.66,Per 100 population,Internet users per 100 inhabitants
+2009,37.74,Per 100 population,Internet users per 100 inhabitants
+2010,42.75,Per 100 population,Internet users per 100 inhabitants
+2011,43.888,Per 100 population,Internet users per 100 inhabitants
+2012,45.065,Per 100 population,Internet users per 100 inhabitants
+2013,48.521,Per 100 population,Internet users per 100 inhabitants
+2014,49.918,Per 100 population,Internet users per 100 inhabitants
+2015,52.6,Per 100 population,Internet users per 100 inhabitants
+2016,60.257,Per 100 population,Internet users per 100 inhabitants
+2017,64.892,Per 100 population,Internet users per 100 inhabitants
+2018,70.12,Per 100 population,Internet users per 100 inhabitants

@@ -1,3 +1,20 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2000,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2010,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2015,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2016,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2017,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2018,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2019,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2020,156.36,HA_TH,Above-ground biomass in forest per hectare (tonnes per hectare)
+2010,-0.04,Percent,Forest area net change rate (%)
+2015,0.54,Percent,Forest area net change rate (%)
+2020,0.25,Percent,Forest area net change rate (%)
+2000,0.0,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2005,0.0,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2010,108.692,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2015,1496.115,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2016,1495.526,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2017,1532.625,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2018,1654.459,HA_TH,Forest area certified under an independently verified certification scheme (hectares)
+2019,1768.071,HA_TH,Forest area certified under an independently verified certification scheme (hectares)

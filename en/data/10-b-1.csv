@@ -1,7 +1,20 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,"Total assistance for development, by recipient countries",USD,946.25
+2001,"Total assistance for development, by recipient countries",USD,713.85
+2002,"Total assistance for development, by recipient countries",USD,709.46
+2003,"Total assistance for development, by recipient countries",USD,644.87
+2004,"Total assistance for development, by recipient countries",USD,956.02667
+2005,"Total assistance for development, by recipient countries",USD,731.17263
+2006,"Total assistance for development, by recipient countries",USD,1195.74263
+2007,"Total assistance for development, by recipient countries",USD,1280.61466
+2008,"Total assistance for development, by recipient countries",USD,1294.87862
+2009,"Total assistance for development, by recipient countries",USD,579.80176
+2010,"Total assistance for development, by recipient countries",USD,935.87909
+2011,"Total assistance for development, by recipient countries",USD,668.26576
+2012,"Total assistance for development, by recipient countries",USD,1090.97392
+2013,"Total assistance for development, by recipient countries",USD,985.55918
+2014,"Total assistance for development, by recipient countries",USD,551.3962
+2015,"Total assistance for development, by recipient countries",USD,945.58982
+2016,"Total assistance for development, by recipient countries",USD,655.59926
+2017,"Total assistance for development, by recipient countries",USD,1007.58078
+2018,"Total assistance for development, by recipient countries",USD,751.82054

@@ -1,6 +1,6 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,6 +11,16 @@
             <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -36,23 +46,119 @@
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">1</span>
+                    Total rows: <span class="total">11</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered tablesorter">
   <thead>
     <tr style="text-align: right;">
       <th>Disaggregation</th>
-      <th>es</th>
+      <th>en</th>
+      <th>bs</th>
+      <th>sr</th>
+      <th>hr</th>
       <th>Number of indicators</th>
       <th>Number of values</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="disaggregation--group.html">Group</a></td>
-      <td>Group</td>
+      <td><a href="disaggregation--activity.html">ACTIVITY</a></td>
+      <td>Economic activity</td>
+      <td>Privredna aktivnost</td>
+      <td>Привредна активност</td>
+      <td>Privredna aktivnost</td>
       <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--age.html">AGE</a></td>
+      <td>Age</td>
+      <td>Godine</td>
+      <td>Године</td>
+      <td>Godine</td>
+      <td>23</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>COMPOSITE_BREAKDOWN</td>
+      <td>COMPOSITE_BREAKDOWN</td>
+      <td>COMPOSITE_BREAKDOWN</td>
+      <td>COMPOSITE_BREAKDOWN</td>
+      <td>10</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--education_lev.html">EDUCATION_LEV</a></td>
+      <td>Education level</td>
+      <td>Nivo obrazovanja</td>
+      <td>Ниво образовања</td>
+      <td>Razina obrazovanja</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--income_wealth_quantile.html">INCOME_WEALTH_QUANTILE</a></td>
+      <td>Income or wealth quantile</td>
+      <td>Kvantil dohotka ili bogatstva</td>
+      <td>Квантил дохотка или богатства</td>
+      <td>Kvantil dohotka ili bogatstva</td>
       <td>2</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--occupation.html">OCCUPATION</a></td>
+      <td>Occupation</td>
+      <td>Zanimanje</td>
+      <td>Занимање</td>
+      <td>Zanimanje</td>
+      <td>1</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--product.html">PRODUCT</a></td>
+      <td>Type of product</td>
+      <td>Vrsta proizvoda</td>
+      <td>Врста производа</td>
+      <td>Vrsta proizvoda</td>
+      <td>4</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--series.html">SERIES</a></td>
+      <td>SDG Series</td>
+      <td>SDG Varijable</td>
+      <td>SDG Варијабле</td>
+      <td>SDG Varijable</td>
+      <td>146</td>
+      <td>261</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--sex.html">SEX</a></td>
+      <td>Sex</td>
+      <td>Spol</td>
+      <td>Пол</td>
+      <td>Spol</td>
+      <td>31</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>Unit of measure</td>
+      <td>Mjerna jedinica</td>
+      <td>Мјерна јединица</td>
+      <td>Mjerna jedinica</td>
+      <td>146</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>Degree of urbanisation</td>
+      <td>Stepen urbanizacije</td>
+      <td>Степен урбанизације</td>
+      <td>Stupanj urbanizacije</td>
+      <td>9</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
@@ -66,7 +172,7 @@
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">1</span>
+                    Total rows: <span class="total">146</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered tablesorter">
   <thead>
@@ -78,9 +184,734 @@
   </thead>
   <tbody>
     <tr>
-      <td>#1-1-1</td>
-      <td><a href="disaggregation--group.html">Group</a></td>
-      <td>1</td>
+      <td><a href="https://sdgbosnia.co.uk/1-1-1">#1-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/1-2-1">#1-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/1-3-1">#1-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/1-4-1">#1-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/1-5-4">#1-5-4</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/1-a-1">#1-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-2-1">#10-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-4-1">#10-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-5-1">#10-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-6-1">#10-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-7-3">#10-7-3</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-7-4">#10-7-4</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-a-1">#10-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--product.html">PRODUCT</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-b-1">#10-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/10-c-1">#10-c-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-1-1">#11-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-5-2">#11-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-6-1">#11-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-6-2">#11-6-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-a-1">#11-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/11-b-2">#11-b-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/12-2-2">#12-2-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--product.html">PRODUCT</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/12-4-1">#12-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/12-4-2">#12-4-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/12-5-1">#12-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/12-b-1">#12-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/13-1-3">#13-1-3</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/14-7-1">#14-7-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-1-1">#15-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-1-2">#15-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-2-1">#15-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-3-1">#15-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-4-1">#15-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-4-2">#15-4-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-5-1">#15-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-6-1">#15-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-8-1">#15-8-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-9-1">#15-9-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-a-1">#15-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/15-b-1">#15-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-1-1">#16-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-10-2">#16-10-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-2-1">#16-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-2-2">#16-2-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-3-2">#16-3-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-5-1">#16-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-5-2">#16-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-6-1">#16-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-7-1">#16-7-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-8-1">#16-8-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-9-1">#16-9-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/16-a-1">#16-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-1-1">#17-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-1-2">#17-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-10-1">#17-10-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--product.html">PRODUCT</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-15-1">#17-15-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-18-2">#17-18-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-18-3">#17-18-3</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-19-1">#17-19-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-19-2">#17-19-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-3-1">#17-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-3-2">#17-3-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-4-1">#17-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-6-1">#17-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-8-1">#17-8-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/17-9-1">#17-9-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-1-1">#2-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-1-2">#2-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-2-1">#2-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-2-2">#2-2-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-5-1">#2-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-a-2">#2-a-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/2-c-1">#2-c-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-1-1">#3-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-1-2">#3-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-2-1">#3-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-2-2">#3-2-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-3-1">#3-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-3-2">#3-3-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-3-4">#3-3-4</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-3-5">#3-3-5</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-4-1">#3-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-4-2">#3-4-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-5-1">#3-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-5-2">#3-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-6-1">#3-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-7-1">#3-7-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-7-2">#3-7-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-8-1">#3-8-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-8-2">#3-8-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-9-1">#3-9-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-9-2">#3-9-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-9-3">#3-9-3</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-a-1">#3-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-b-1">#3-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-b-2">#3-b-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-c-1">#3-c-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--occupation.html">OCCUPATION</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-d-1">#3-d-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/3-d-2">#3-d-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-1-1">#4-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a>, <a href="disaggregation--education_lev.html">EDUCATION_LEV</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-1-2">#4-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--education_lev.html">EDUCATION_LEV</a>, <a href="disaggregation--income_wealth_quantile.html">INCOME_WEALTH_QUANTILE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-2-1">#4-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-3-1">#4-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-4-1">#4-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-5-1">#4-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a>, <a href="disaggregation--education_lev.html">EDUCATION_LEV</a>, <a href="disaggregation--income_wealth_quantile.html">INCOME_WEALTH_QUANTILE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/4-b-1">#4-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/5-3-1">#5-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/5-5-1">#5-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/5-5-2">#5-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/5-c-1">#5-c-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-1-1">#6-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-2-1">#6-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-3-1">#6-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-3-2">#6-3-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-4-2">#6-4-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-5-1">#6-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-5-2">#6-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-6-1">#6-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-a-1">#6-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/6-b-1">#6-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/7-1-1">#7-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--urbanisation.html">URBANISATION</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/7-1-2">#7-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/7-2-1">#7-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/7-3-1">#7-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-1-1">#8-1-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-10-1">#8-10-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-10-2">#8-10-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-2-1">#8-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-3-1">#8-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--activity.html">ACTIVITY</a>, <a href="disaggregation--sex.html">SEX</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-4-2">#8-4-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--product.html">PRODUCT</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-5-2">#8-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-6-1">#8-6-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--sex.html">SEX</a>, <a href="disaggregation--age.html">AGE</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-8-2">#8-8-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-a-1">#8-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/8-b-1">#8-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-1-2">#9-1-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a>, <a href="disaggregation--composite_breakdown.html">COMPOSITE_BREAKDOWN</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-2-1">#9-2-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-2-2">#9-2-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-3-1">#9-3-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-3-2">#9-3-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-4-1">#9-4-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-5-1">#9-5-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-5-2">#9-5-2</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-a-1">#9-a-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-b-1">#9-b-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdgbosnia.co.uk/9-c-1">#9-c-1</a></td>
+      <td><a href="disaggregation--series.html">SERIES</a>, <a href="disaggregation--unit_measure.html">UNIT_MEASURE</a></td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>

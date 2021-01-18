@@ -1,7 +1,68 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Electronic waste generated (Tonnes),TONNES,5840.530188
+2001,Electronic waste generated (Tonnes),TONNES,6423.310797
+2002,Electronic waste generated (Tonnes),TONNES,7071.186127
+2003,Electronic waste generated (Tonnes),TONNES,7799.5171
+2004,Electronic waste generated (Tonnes),TONNES,8710.545001
+2005,Electronic waste generated (Tonnes),TONNES,9836.447902000002
+2006,Electronic waste generated (Tonnes),TONNES,10969.259658
+2007,Electronic waste generated (Tonnes),TONNES,12299.791088
+2008,Electronic waste generated (Tonnes),TONNES,14238.835722
+2009,Electronic waste generated (Tonnes),TONNES,16035.974038
+2010,Electronic waste generated (Tonnes),TONNES,17776.63375
+2011,Electronic waste generated (Tonnes),TONNES,19364.73607
+2012,Electronic waste generated (Tonnes),TONNES,20781.265121
+2013,Electronic waste generated (Tonnes),TONNES,21973.322746
+2014,Electronic waste generated (Tonnes),TONNES,23098.780528
+2015,Electronic waste generated (Tonnes),TONNES,24104.988606
+2016,Electronic waste generated (Tonnes),TONNES,24949.927958
+2017,Electronic waste generated (Tonnes),TONNES,25790.573868
+2018,Electronic waste generated (Tonnes),TONNES,26483.708202
+2019,Electronic waste generated (Tonnes),TONNES,27293.116197
+2000,"Electronic waste generated, per capita (Kg)",Kilograms,1.550446
+2001,"Electronic waste generated, per capita (Kg)",Kilograms,1.703344
+2002,"Electronic waste generated, per capita (Kg)",Kilograms,1.872666
+2003,"Electronic waste generated, per capita (Kg)",Kilograms,2.06391
+2004,"Electronic waste generated, per capita (Kg)",Kilograms,2.303768
+2005,"Electronic waste generated, per capita (Kg)",Kilograms,2.600859
+2006,"Electronic waste generated, per capita (Kg)",Kilograms,2.902688
+2007,"Electronic waste generated, per capita (Kg)",Kilograms,3.259086
+2008,"Electronic waste generated, per capita (Kg)",Kilograms,3.7829
+2009,"Electronic waste generated, per capita (Kg)",Kilograms,4.279683
+2010,"Electronic waste generated, per capita (Kg)",Kilograms,4.776097
+2011,"Electronic waste generated, per capita (Kg)",Kilograms,5.249319
+2012,"Electronic waste generated, per capita (Kg)",Kilograms,5.696619
+2013,"Electronic waste generated, per capita (Kg)",Kilograms,6.095235
+2014,"Electronic waste generated, per capita (Kg)",Kilograms,6.477504
+2015,"Electronic waste generated, per capita (Kg)",Kilograms,6.817022
+2016,"Electronic waste generated, per capita (Kg)",Kilograms,7.094094
+2017,"Electronic waste generated, per capita (Kg)",Kilograms,7.354027
+2018,"Electronic waste generated, per capita (Kg)",Kilograms,7.558136
+2019,"Electronic waste generated, per capita (Kg)",Kilograms,7.79358
+2014,Electronic waste recycling (Tonnes),TONNES,1108.73
+2015,Electronic waste recycling (Tonnes),TONNES,1157.02
+2016,Electronic waste recycling (Tonnes),TONNES,1197.58
+2017,Electronic waste recycling (Tonnes),TONNES,1237.93
+2018,Electronic waste recycling (Tonnes),TONNES,1271.2
+2019,Electronic waste recycling (Tonnes),TONNES,1310.05
+2014,"Electronic waste recycling, per capita (Kg)",Kilograms,0.318407021497909
+2015,"Electronic waste recycling, per capita (Kg)",Kilograms,0.337387641782932
+2016,"Electronic waste recycling, per capita (Kg)",Kilograms,0.3536585660948359
+2017,"Electronic waste recycling, per capita (Kg)",Kilograms,0.369362624696631
+2018,"Electronic waste recycling, per capita (Kg)",Kilograms,0.382439398976331
+2019,"Electronic waste recycling, per capita (Kg)",Kilograms,0.396865579742853
+2014,"Electronic waste recycling, rate (%)",Percent,4.799937
+2008,Hazardous waste generated (Tonnes),TONNES,10588.0
+2009,Hazardous waste generated (Tonnes),TONNES,9632.0
+2010,Hazardous waste generated (Tonnes),TONNES,10320.0
+2012,Hazardous waste generated (Tonnes),TONNES,945923.0
+2014,Hazardous waste generated (Tonnes),TONNES,8408.0
+2008,"Hazardous waste generated, per capita (Kg)",Kilograms,2.813265
+2009,"Hazardous waste generated, per capita (Kg)",Kilograms,2.570891
+2010,"Hazardous waste generated, per capita (Kg)",Kilograms,2.77264
+2012,"Hazardous waste generated, per capita (Kg)",Kilograms,259.284853
+2014,"Hazardous waste generated, per capita (Kg)",Kilograms,2.414631
+2008,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,0.000682840355
+2010,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,0.00068021727
+2012,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,0.062272243966
+2014,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,0.000534657159

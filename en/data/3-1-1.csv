@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Maternal mortality ratio,"Per 100,000 live births",17
+2001,Maternal mortality ratio,"Per 100,000 live births",16
+2002,Maternal mortality ratio,"Per 100,000 live births",14
+2003,Maternal mortality ratio,"Per 100,000 live births",14
+2004,Maternal mortality ratio,"Per 100,000 live births",14
+2005,Maternal mortality ratio,"Per 100,000 live births",13
+2006,Maternal mortality ratio,"Per 100,000 live births",13
+2007,Maternal mortality ratio,"Per 100,000 live births",13
+2008,Maternal mortality ratio,"Per 100,000 live births",11
+2009,Maternal mortality ratio,"Per 100,000 live births",11
+2010,Maternal mortality ratio,"Per 100,000 live births",11
+2011,Maternal mortality ratio,"Per 100,000 live births",10
+2012,Maternal mortality ratio,"Per 100,000 live births",10
+2013,Maternal mortality ratio,"Per 100,000 live births",10
+2014,Maternal mortality ratio,"Per 100,000 live births",10
+2015,Maternal mortality ratio,"Per 100,000 live births",10
+2016,Maternal mortality ratio,"Per 100,000 live births",10
+2017,Maternal mortality ratio,"Per 100,000 live births",10

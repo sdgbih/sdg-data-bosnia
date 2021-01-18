@@ -1,7 +1,22 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2001,Number of undernourish people,MILLIONS,0.1
+2002,Number of undernourish people,MILLIONS,0.1
+2003,Number of undernourish people,MILLIONS,0.1
+2001,Prevalence of undernourishment,Percent,3.2
+2002,Prevalence of undernourishment,Percent,3.1
+2003,Prevalence of undernourishment,Percent,2.7
+2004,Prevalence of undernourishment,Percent,2.5
+2005,Prevalence of undernourishment,Percent,2.5
+2006,Prevalence of undernourishment,Percent,2.5
+2007,Prevalence of undernourishment,Percent,2.5
+2008,Prevalence of undernourishment,Percent,2.5
+2009,Prevalence of undernourishment,Percent,2.5
+2010,Prevalence of undernourishment,Percent,2.5
+2011,Prevalence of undernourishment,Percent,2.5
+2012,Prevalence of undernourishment,Percent,2.5
+2013,Prevalence of undernourishment,Percent,2.5
+2014,Prevalence of undernourishment,Percent,2.5
+2015,Prevalence of undernourishment,Percent,2.5
+2016,Prevalence of undernourishment,Percent,2.5
+2017,Prevalence of undernourishment,Percent,2.5
+2018,Prevalence of undernourishment,Percent,2.5

@@ -1,3 +1,2 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2012,74,Percent,"Municipal Solid Waste collection coverage, by cities (%)"

@@ -1,7 +1,28 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Age,Value
+2006,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,15.7603554664889
+2007,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,20.8961213927472
+2008,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,28.7130590242978
+2009,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,43.2367234540877
+2010,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,35.1659332423759
+2011,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,38.9598561143151
+2012,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,42.1918744495998
+2013,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,45.6265850902459
+2014,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,48.3100788850061
+2015,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,51.9150244970796
+2016,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,52.4818500268657
+2017,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,53.8932535381674
+2018,"Number of automated teller machines (ATMs) per 100,000 adults",Number,15 years old and over,55.8396955995355
+2005,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,27.4945406233451
+2006,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,28.2853534083531
+2007,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,31.8067679825481
+2008,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,33.9075414005026
+2009,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,32.2919292513186
+2010,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,31.514825419397
+2011,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,32.4449384113389
+2012,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,32.235380712661
+2013,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,33.1860030444406
+2014,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,34.3523281833073
+2015,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,31.6513071817848
+2016,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,30.302020551226
+2017,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,30.4659717857087
+2018,"Number of commercial bank branches per 100,000 adults",Number,15 years old and over,30.5318183903908

@@ -1,7 +1,39 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2000,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,282.0
+2001,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,253.0
+2002,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,230.0
+2003,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,213.0
+2004,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,200.0
+2005,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,191.0
+2006,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,186.0
+2007,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,183.0
+2008,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,181.0
+2009,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,177.0
+2010,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,171.0
+2011,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,164.0
+2012,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,156.0
+2013,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,147.0
+2014,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,139.0
+2015,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,131.0
+2016,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,124.0
+2017,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,117.0
+2018,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,111.0
+2000,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.8
+2001,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.5
+2002,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.2
+2003,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.9
+2004,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.7
+2005,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.5
+2006,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.4
+2007,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.3
+2008,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.2
+2009,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.2
+2010,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.1
+2011,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.9
+2012,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.8
+2013,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
+2014,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
+2015,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4
+2016,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.3
+2017,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.2
+2018,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.1

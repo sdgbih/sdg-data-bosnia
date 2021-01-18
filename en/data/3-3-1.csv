@@ -1,7 +1,172 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.0
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Both sexes or no breakdown by sex,0.01
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Female,0.0
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.01
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.02
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 24 years old,Male,0.02
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Both sexes or no breakdown by sex,0.01
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Female,0.0
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.01
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",15 to 49 years old,Male,0.02
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.0
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.01
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Female,0.0
+2000,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.0
+2001,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.0
+2002,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.0
+2003,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2004,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2005,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2006,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2007,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2008,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2009,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2010,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2011,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2012,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2013,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2014,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2015,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2016,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2017,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01
+2018,"Number of new HIV infections per 1,000 uninfected population","Per 1,000 uninfected population",All age ranges or no breakdown by age,Male,0.01

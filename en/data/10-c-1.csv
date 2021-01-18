@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2011,Remittance costs as a proportion of the amount remitted,Percent,13.9
+2015,Remittance costs as a proportion of the amount remitted,Percent,7.3
+2017,Remittance costs as a proportion of the amount remitted,Percent,6.5
+2018,Remittance costs as a proportion of the amount remitted,Percent,6.9

@@ -1,7 +1,20 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2010,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2011,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2012,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2013,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2014,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2015,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2016,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2017,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2018,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2019,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,0
+2000,Plant breeds for which sufficient genetic resources are stored (number),Number,62
+2005,Plant breeds for which sufficient genetic resources are stored (number),Number,64
+2010,Plant breeds for which sufficient genetic resources are stored (number),Number,211
+2012,Plant breeds for which sufficient genetic resources are stored (number),Number,434
+2014,Plant breeds for which sufficient genetic resources are stored (number),Number,434
+2016,Plant breeds for which sufficient genetic resources are stored (number),Number,434
+2017,Plant breeds for which sufficient genetic resources are stored (number),Number,479
+2018,Plant breeds for which sufficient genetic resources are stored (number),Number,479
+2019,Plant breeds for which sufficient genetic resources are stored (number),Number,479

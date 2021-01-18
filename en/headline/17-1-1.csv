@@ -1,3 +1,33 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2003,23.9562657328075,Percent,Total government revenue as a proportion of GDP
+2004,22.8445369491468,Percent,Total government revenue as a proportion of GDP
+2005,41.4129818899751,Percent,Total government revenue as a proportion of GDP
+2006,44.2008029040042,Percent,Total government revenue as a proportion of GDP
+2007,44.9060770735408,Percent,Total government revenue as a proportion of GDP
+2008,43.6400967955669,Percent,Total government revenue as a proportion of GDP
+2009,41.7375095023106,Percent,Total government revenue as a proportion of GDP
+2010,42.8563874887263,Percent,Total government revenue as a proportion of GDP
+2011,43.3316157280503,Percent,Total government revenue as a proportion of GDP
+2012,43.7502030221352,Percent,Total government revenue as a proportion of GDP
+2013,42.6582565862232,Percent,Total government revenue as a proportion of GDP
+2014,43.8087208477132,Percent,Total government revenue as a proportion of GDP
+2015,43.1510838982097,Percent,Total government revenue as a proportion of GDP
+2016,42.7014657297644,Percent,Total government revenue as a proportion of GDP
+2017,42.9602093929945,Percent,Total government revenue as a proportion of GDP
+2018,43.1099367097622,Percent,Total government revenue as a proportion of GDP
+2003,3519.1,CUR_LCU_M,"Total government revenue, in local currency"
+2004,3654.7,CUR_LCU_M,"Total government revenue, in local currency"
+2005,7122.1,CUR_LCU_M,"Total government revenue, in local currency"
+2006,8586.4,CUR_LCU_M,"Total government revenue, in local currency"
+2007,9832.7,CUR_LCU_M,"Total government revenue, in local currency"
+2008,10903.1,CUR_LCU_M,"Total government revenue, in local currency"
+2009,10342.5,CUR_LCU_M,"Total government revenue, in local currency"
+2010,10862.6,CUR_LCU_M,"Total government revenue, in local currency"
+2011,11357.1,CUR_LCU_M,"Total government revenue, in local currency"
+2012,11459.5,CUR_LCU_M,"Total government revenue, in local currency"
+2013,11408.1,CUR_LCU_M,"Total government revenue, in local currency"
+2014,11961.7,CUR_LCU_M,"Total government revenue, in local currency"
+2015,12335.1,CUR_LCU_M,"Total government revenue, in local currency"
+2016,12767.3,CUR_LCU_M,"Total government revenue, in local currency"
+2017,13479.3,CUR_LCU_M,"Total government revenue, in local currency"
+2018,14402.3,CUR_LCU_M,"Total government revenue, in local currency"

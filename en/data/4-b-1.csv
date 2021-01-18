@@ -1,7 +1,14 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2006,"Total official flows for scholarships, by recipient countries",USD,0.38408
+2007,"Total official flows for scholarships, by recipient countries",USD,0.3329
+2008,"Total official flows for scholarships, by recipient countries",USD,0.89253
+2009,"Total official flows for scholarships, by recipient countries",USD,0.88486
+2010,"Total official flows for scholarships, by recipient countries",USD,1.24943
+2011,"Total official flows for scholarships, by recipient countries",USD,1.448
+2012,"Total official flows for scholarships, by recipient countries",USD,1.59065
+2013,"Total official flows for scholarships, by recipient countries",USD,2.09509
+2014,"Total official flows for scholarships, by recipient countries",USD,1.91961
+2015,"Total official flows for scholarships, by recipient countries",USD,2.17373
+2016,"Total official flows for scholarships, by recipient countries",USD,1.74679
+2017,"Total official flows for scholarships, by recipient countries",USD,2.80534
+2018,"Total official flows for scholarships, by recipient countries",USD,4.06615
