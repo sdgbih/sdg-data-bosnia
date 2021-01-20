@@ -24,4 +24,5 @@ source_url_text_6: Link to source
 title: Untitled
 computation_units: '%'
 sort: a
+goal_meta_link_text: UN metadata
 ---
