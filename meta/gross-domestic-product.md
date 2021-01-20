@@ -8,7 +8,6 @@ standalone: true
 reporting_status: complete
 national_geographical_coverage: National
 published: true
-goal_meta_link_text: UN metadata
 data_show_map: false
 source_active_1: true
 source_url_text_1: Link to source
