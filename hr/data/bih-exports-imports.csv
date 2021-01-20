@@ -1,37 +1,37 @@
-Year,UNIT_MEASURE,Tip,Value
-January 2019,u tisućama KM,Izvoz,856 376
-February 2019,u tisućama KM,Izvoz,926443
-March 2019,u tisućama KM,Izvoz,989133
-April 2019,u tisućama KM,Izvoz,1034867
-May 2019,u tisućama KM,Izvoz,1028163
-June 2019,u tisućama KM,Izvoz,995601
-July 2019,u tisućama KM,Izvoz,1005663
-August 2019,u tisućama KM,Izvoz,844904
-September 2019,u tisućama KM,Izvoz,983719
-January 2019,u tisućama KM,Uvoz,1292899
-February 2019,u tisućama KM,Uvoz,1549613
-March 2019,u tisućama KM,Uvoz,1772859
-April 2019,u tisućama KM,Uvoz,1750450
-May 2019,u tisućama KM,Uvoz,1809099
-June 2019,u tisućama KM,Uvoz,1608480
-July 2019,u tisućama KM,Uvoz,1745495
-August 2019,u tisućama KM,Uvoz,1526382
-September 2019,u tisućama KM,Uvoz,1572606
-January 2020,u tisućama KM,Izvoz,855977
-February 2020,u tisućama KM,Izvoz,923256
-March 2020,u tisućama KM,Izvoz,848386
-April 2020,u tisućama KM,Izvoz,696198
-May 2020,u tisućama KM,Izvoz,736613
-June 2020,u tisućama KM,Izvoz,888104
-July 2020,u tisućama KM,Izvoz,874153
-August 2020,u tisućama KM,Izvoz,775220
-September 2020,u tisućama KM,Izvoz,977148
-January 2020,u tisućama KM,Uvoz,1235871
-February 2020,u tisućama KM,Uvoz,1567515
-March 2020,u tisućama KM,Uvoz,1483047
-April 2020,u tisućama KM,Uvoz,1133427
-May 2020,u tisućama KM,Uvoz,1183197
-June 2020,u tisućama KM,Uvoz,1416588
-July 2020,u tisućama KM,Uvoz,1511289
-August 2020,u tisućama KM,Uvoz,1306882
-September 2020,u tisućama KM,Uvoz,1483216
+Year,calendar,UNIT_MEASURE,Tip,Value
+2019,Siječanj,u tisućama KM,Izvoz,856 376
+2019,Veljača,u tisućama KM,Izvoz,926443
+2019,Ožujak,u tisućama KM,Izvoz,989133
+2019,Travanj,u tisućama KM,Izvoz,1034867
+2019,Svibanj,u tisućama KM,Izvoz,1028163
+2019,Lipanj,u tisućama KM,Izvoz,995601
+2019,Srpanj,u tisućama KM,Izvoz,1005663
+2019,Kolovoz,u tisućama KM,Izvoz,844904
+2019,Rujan,u tisućama KM,Izvoz,983719
+2019,Listopad,u tisućama KM,Uvoz,1292899
+2019,Studeni,u tisućama KM,Uvoz,1549613
+2019,Prosinac,u tisućama KM,Uvoz,1772859
+2019,Siječanj,u tisućama KM,Uvoz,1750450
+2019,Veljača,u tisućama KM,Uvoz,1809099
+2019,Ožujak,u tisućama KM,Uvoz,1608480
+2019,Travanj,u tisućama KM,Uvoz,1745495
+2019,Svibanj,u tisućama KM,Uvoz,1526382
+2019,Lipanj,u tisućama KM,Uvoz,1572606
+2020,Srpanj,u tisućama KM,Izvoz,855977
+2020,Kolovoz,u tisućama KM,Izvoz,923256
+2020,Rujan,u tisućama KM,Izvoz,848386
+2020,Listopad,u tisućama KM,Izvoz,696198
+2020,Studeni,u tisućama KM,Izvoz,736613
+2020,Prosinac,u tisućama KM,Izvoz,888104
+2020,Siječanj,u tisućama KM,Izvoz,874153
+2020,Veljača,u tisućama KM,Izvoz,775220
+2020,Ožujak,u tisućama KM,Izvoz,977148
+2020,Travanj,u tisućama KM,Uvoz,1235871
+2020,Svibanj,u tisućama KM,Uvoz,1567515
+2020,Lipanj,u tisućama KM,Uvoz,1483047
+2020,Srpanj,u tisućama KM,Uvoz,1133427
+2020,Kolovoz,u tisućama KM,Uvoz,1183197
+2020,Rujan,u tisućama KM,Uvoz,1416588
+2020,Listopad,u tisućama KM,Uvoz,1511289
+2020,Studeni,u tisućama KM,Uvoz,1306882
+2020,Prosinac,u tisućama KM,Uvoz,1483216
