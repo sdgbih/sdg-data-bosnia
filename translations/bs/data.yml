@@ -75,3 +75,5 @@ number: Broj
 per 100000 population: Na 100000 stanovnika
 number of victims of intentional homicide per 100,000 population, by sex: Broj žrtava ubistava s namjerom na 100.000 stanovnika, prema polu (žrtve na 100.000 stanovnika)
 number of victims of intentional homicide, by sex: Broj žrtava ubistava s namjerom, po polu (broj) 
+export: Izvoz
+import: Uvoz
