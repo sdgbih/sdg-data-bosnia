@@ -1,37 +1,37 @@
-Year,calendar,UNIT_MEASURE,Type,Value
-2019,January,in thousands of BAM,Export,856 376
-2019,February,in thousands of BAM,Export,926443
-2019,March,in thousands of BAM,Export,989133
-2019,April,in thousands of BAM,Export,1034867
-2019,May,in thousands of BAM,Export,1028163
-2019,June,in thousands of BAM,Export,995601
-2019,July,in thousands of BAM,Export,1005663
-2019,August,in thousands of BAM,Export,844904
-2019,September,in thousands of BAM,Export,983719
-2019,October,in thousands of BAM,Import,1292899
-2019,November,in thousands of BAM,Import,1549613
-2019,December,in thousands of BAM,Import,1772859
-2019,January,in thousands of BAM,Import,1750450
-2019,February,in thousands of BAM,Import,1809099
-2019,March,in thousands of BAM,Import,1608480
-2019,April,in thousands of BAM,Import,1745495
-2019,May,in thousands of BAM,Import,1526382
-2019,June,in thousands of BAM,Import,1572606
-2020,July,in thousands of BAM,Export,855977
-2020,August,in thousands of BAM,Export,923256
-2020,September,in thousands of BAM,Export,848386
-2020,October,in thousands of BAM,Export,696198
-2020,November,in thousands of BAM,Export,736613
-2020,December,in thousands of BAM,Export,888104
-2020,January,in thousands of BAM,Export,874153
-2020,February,in thousands of BAM,Export,775220
-2020,March,in thousands of BAM,Export,977148
-2020,April,in thousands of BAM,Import,1235871
-2020,May,in thousands of BAM,Import,1567515
-2020,June,in thousands of BAM,Import,1483047
-2020,July,in thousands of BAM,Import,1133427
-2020,August,in thousands of BAM,Import,1183197
-2020,September,in thousands of BAM,Import,1416588
-2020,October,in thousands of BAM,Import,1511289
-2020,November,in thousands of BAM,Import,1306882
-2020,December,in thousands of BAM,Import,1483216
+Year,UNIT_MEASURE,Type,Value
+January 2019,in thousands of BAM,Export,856 376
+February 2019,in thousands of BAM,Export,926443
+March 2019,in thousands of BAM,Export,989133
+April 2019,in thousands of BAM,Export,1034867
+May 2019,in thousands of BAM,Export,1028163
+June 2019,in thousands of BAM,Export,995601
+July 2019,in thousands of BAM,Export,1005663
+August 2019,in thousands of BAM,Export,844904
+September 2019,in thousands of BAM,Export,983719
+January 2019,in thousands of BAM,Import,1292899
+February 2019,in thousands of BAM,Import,1549613
+March 2019,in thousands of BAM,Import,1772859
+April 2019,in thousands of BAM,Import,1750450
+May 2019,in thousands of BAM,Import,1809099
+June 2019,in thousands of BAM,Import,1608480
+July 2019,in thousands of BAM,Import,1745495
+August 2019,in thousands of BAM,Import,1526382
+September 2019,in thousands of BAM,Import,1572606
+January 2020,in thousands of BAM,Export,855977
+February 2020,in thousands of BAM,Export,923256
+March 2020,in thousands of BAM,Export,848386
+April 2020,in thousands of BAM,Export,696198
+May 2020,in thousands of BAM,Export,736613
+June 2020,in thousands of BAM,Export,888104
+July 2020,in thousands of BAM,Export,874153
+August 2020,in thousands of BAM,Export,775220
+September 2020,in thousands of BAM,Export,977148
+January 2020,in thousands of BAM,Import,1235871
+February 2020,in thousands of BAM,Import,1567515
+March 2020,in thousands of BAM,Import,1483047
+April 2020,in thousands of BAM,Import,1133427
+May 2020,in thousands of BAM,Import,1183197
+June 2020,in thousands of BAM,Import,1416588
+July 2020,in thousands of BAM,Import,1511289
+August 2020,in thousands of BAM,Import,1306882
+September 2020,in thousands of BAM,Import,1483216
