@@ -24,5 +24,5 @@ source_active_6: false
 source_url_text_6: Link to source
 title: Untitled
 computation_units: '%'
-sort: "a"
+sort: a
 ---
