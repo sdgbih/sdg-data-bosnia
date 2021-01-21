@@ -1,17 +1,19 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.1099367097622
+Year,UNIT_MEASURE,Type,Value
+January,IX,Total retail trade 2019,123.6
+February,IX,Total retail trade 2019,128.5
+March,IX,Total retail trade 2019,128.8
+April,IX,Total retail trade 2019,126.2
+May,IX,Total retail trade 2019,122
+June,IX,Total retail trade 2019,128.6
+July,IX,Total retail trade 2019,128.3
+August,IX,Total retail trade 2019,129.2
+September,IX,Total retail trade 2019,127.1
+January,IX,Total retail trade 2020,133.7
+February,IX,Total retail trade 2020,137.5
+March,IX,Total retail trade 2020,119.8
+April,IX,Total retail trade 2020,85.0
+May,IX,Total retail trade 2020,111.7
+June,IX,Total retail trade 2020,120.8
+July,IX,Total retail trade 2020,114.0
+August,IX,Total retail trade 2020,111.1
+September,IX,Total retail trade 2020,120.8
