@@ -1,37 +1,37 @@
 Year,UNIT_MEASURE,Tip,Value
-January,u hiljadama KM,export_2019,856 376
-February,u hiljadama KM,export_2019,926443
-March,u hiljadama KM,export_2019,989133
-April,u hiljadama KM,export_2019,1034867
-May,u hiljadama KM,export_2019,1028163
-June,u hiljadama KM,export_2019,995601
-July,u hiljadama KM,export_2019,1005663
-August,u hiljadama KM,export_2019,844904
-September,u hiljadama KM,export_2019,983719
-January,u hiljadama KM,import_2019,1292899
-February,u hiljadama KM,import_2019,1549613
-March,u hiljadama KM,import_2019,1772859
-April,u hiljadama KM,import_2019,1750450
-May,u hiljadama KM,import_2019,1809099
-June,u hiljadama KM,import_2019,1608480
-July,u hiljadama KM,import_2019,1745495
-August,u hiljadama KM,import_2019,1526382
-September,u hiljadama KM,import_2019,1572606
-January,u hiljadama KM,export_2020,855977
-February,u hiljadama KM,export_2020,923256
-March,u hiljadama KM,export_2020,848386
-April,u hiljadama KM,export_2020,696198
-May,u hiljadama KM,export_2020,736613
-June,u hiljadama KM,export_2020,888104
-July,u hiljadama KM,export_2020,874153
-August,u hiljadama KM,export_2020,775220
-September,u hiljadama KM,export_2020,977148
-January,u hiljadama KM,import_2020,1235871
-February,u hiljadama KM,import_2020,1567515
-March,u hiljadama KM,import_2020,1483047
-April,u hiljadama KM,import_2020,1133427
-May,u hiljadama KM,import_2020,1183197
-June,u hiljadama KM,import_2020,1416588
-July,u hiljadama KM,import_2020,1511289
-August,u hiljadama KM,import_2020,1306882
-September,u hiljadama KM,import_2020,1483216
+January,u hiljadama KM,Izvoz 2019,856 376
+February,u hiljadama KM,Izvoz 2019,926443
+March,u hiljadama KM,Izvoz 2019,989133
+April,u hiljadama KM,Izvoz 2019,1034867
+May,u hiljadama KM,Izvoz 2019,1028163
+June,u hiljadama KM,Izvoz 2019,995601
+July,u hiljadama KM,Izvoz 2019,1005663
+August,u hiljadama KM,Izvoz 2019,844904
+September,u hiljadama KM,Izvoz 2019,983719
+January,u hiljadama KM,Uvoz 2019,1292899
+February,u hiljadama KM,Uvoz 2019,1549613
+March,u hiljadama KM,Uvoz 2019,1772859
+April,u hiljadama KM,Uvoz 2019,1750450
+May,u hiljadama KM,Uvoz 2019,1809099
+June,u hiljadama KM,Uvoz 2019,1608480
+July,u hiljadama KM,Uvoz 2019,1745495
+August,u hiljadama KM,Uvoz 2019,1526382
+September,u hiljadama KM,Uvoz 2019,1572606
+January,u hiljadama KM,Izvoz 2020,855977
+February,u hiljadama KM,Izvoz 2020,923256
+March,u hiljadama KM,Izvoz 2020,848386
+April,u hiljadama KM,Izvoz 2020,696198
+May,u hiljadama KM,Izvoz 2020,736613
+June,u hiljadama KM,Izvoz 2020,888104
+July,u hiljadama KM,Izvoz 2020,874153
+August,u hiljadama KM,Izvoz 2020,775220
+September,u hiljadama KM,Izvoz 2020,977148
+January,u hiljadama KM,Uvoz 2020,1235871
+February,u hiljadama KM,Uvoz 2020,1567515
+March,u hiljadama KM,Uvoz 2020,1483047
+April,u hiljadama KM,Uvoz 2020,1133427
+May,u hiljadama KM,Uvoz 2020,1183197
+June,u hiljadama KM,Uvoz 2020,1416588
+July,u hiljadama KM,Uvoz 2020,1511289
+August,u hiljadama KM,Uvoz 2020,1306882
+September,u hiljadama KM,Uvoz 2020,1483216
