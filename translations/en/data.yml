@@ -89,5 +89,7 @@ per 100000 population: Per 100000 population
 number of victims of intentional homicide per 100,000 population, by sex: Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population) 
 number of victims of intentional homicide, by sex: Number of victims of intentional homicide, by sex (number)
 index: index
-export: Export
-import: Import
+export_2019: Export 2019
+import_2019: Import 2019
+export_2020: Export 2020
+import_2020: Import 2020
