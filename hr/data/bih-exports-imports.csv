@@ -1,37 +1,37 @@
 Year,UNIT_MEASURE,Tip,Value
-January,u tisućama KM,export_2019,856 376
-February,u tisućama KM,export_2019,926443
-March,u tisućama KM,export_2019,989133
-April,u tisućama KM,export_2019,1034867
-May,u tisućama KM,export_2019,1028163
-June,u tisućama KM,export_2019,995601
-July,u tisućama KM,export_2019,1005663
-August,u tisućama KM,export_2019,844904
-September,u tisućama KM,export_2019,983719
-January,u tisućama KM,import_2019,1292899
-February,u tisućama KM,import_2019,1549613
-March,u tisućama KM,import_2019,1772859
-April,u tisućama KM,import_2019,1750450
-May,u tisućama KM,import_2019,1809099
-June,u tisućama KM,import_2019,1608480
-July,u tisućama KM,import_2019,1745495
-August,u tisućama KM,import_2019,1526382
-September,u tisućama KM,import_2019,1572606
-January,u tisućama KM,export_2020,855977
-February,u tisućama KM,export_2020,923256
-March,u tisućama KM,export_2020,848386
-April,u tisućama KM,export_2020,696198
-May,u tisućama KM,export_2020,736613
-June,u tisućama KM,export_2020,888104
-July,u tisućama KM,export_2020,874153
-August,u tisućama KM,export_2020,775220
-September,u tisućama KM,export_2020,977148
-January,u tisućama KM,import_2020,1235871
-February,u tisućama KM,import_2020,1567515
-March,u tisućama KM,import_2020,1483047
-April,u tisućama KM,import_2020,1133427
-May,u tisućama KM,import_2020,1183197
-June,u tisućama KM,import_2020,1416588
-July,u tisućama KM,import_2020,1511289
-August,u tisućama KM,import_2020,1306882
-September,u tisućama KM,import_2020,1483216
+January,u tisućama KM,Izvoz 2019,856 376
+February,u tisućama KM,Izvoz 2019,926443
+March,u tisućama KM,Izvoz 2019,989133
+April,u tisućama KM,Izvoz 2019,1034867
+May,u tisućama KM,Izvoz 2019,1028163
+June,u tisućama KM,Izvoz 2019,995601
+July,u tisućama KM,Izvoz 2019,1005663
+August,u tisućama KM,Izvoz 2019,844904
+September,u tisućama KM,Izvoz 2019,983719
+January,u tisućama KM,Uvoz 2019,1292899
+February,u tisućama KM,Uvoz 2019,1549613
+March,u tisućama KM,Uvoz 2019,1772859
+April,u tisućama KM,Uvoz 2019,1750450
+May,u tisućama KM,Uvoz 2019,1809099
+June,u tisućama KM,Uvoz 2019,1608480
+July,u tisućama KM,Uvoz 2019,1745495
+August,u tisućama KM,Uvoz 2019,1526382
+September,u tisućama KM,Uvoz 2019,1572606
+January,u tisućama KM,Izvoz 2020,855977
+February,u tisućama KM,Izvoz 2020,923256
+March,u tisućama KM,Izvoz 2020,848386
+April,u tisućama KM,Izvoz 2020,696198
+May,u tisućama KM,Izvoz 2020,736613
+June,u tisućama KM,Izvoz 2020,888104
+July,u tisućama KM,Izvoz 2020,874153
+August,u tisućama KM,Izvoz 2020,775220
+September,u tisućama KM,Izvoz 2020,977148
+January,u tisućama KM,Uvoz 2020,1235871
+February,u tisućama KM,Uvoz 2020,1567515
+March,u tisućama KM,Uvoz 2020,1483047
+April,u tisućama KM,Uvoz 2020,1133427
+May,u tisućama KM,Uvoz 2020,1183197
+June,u tisućama KM,Uvoz 2020,1416588
+July,u tisućama KM,Uvoz 2020,1511289
+August,u tisućama KM,Uvoz 2020,1306882
+September,u tisućama KM,Uvoz 2020,1483216
