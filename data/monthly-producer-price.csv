@@ -1,17 +1,55 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.1099367097622
+Year,UNIT_MEASURE,TYPE,Value
+January,IX,overall indeks 2019,100.1
+February,IX,overall indeks 2019,100.2
+March,IX,overall indeks 2019,99.1
+April,IX,overall indeks 2019,100.4
+May,IX,overall indeks 2019,100.2
+June,IX,overall indeks 2019,99.2
+July,IX,overall indeks 2019,100.4
+August,IX,overall indeks 2019,99.9
+September,IX,overall indeks 2019,99.5
+January,IX,overall indeks 2020,99.9
+February,IX,overall indeks 2020,99.9
+March,IX,overall indeks 2020,99.1
+April,IX,overall indeks 2020,99.9
+May,IX,overall indeks 2020,99.9
+June,IX,overall indeks 2020,99.5
+July,IX,overall indeks 2020,100.2
+August,IX,overall indeks 2020,99.9
+September,IX,overall indeks 2020,100.3
+January,IX,domestic market 2019,99.6
+February,IX,domestic market 2019,100.4
+March,IX,domestic market 2019,98.2
+April,IX,domestic market 2019,101.0
+May,IX,domestic market 2019,100.5
+June,IX,domestic market 2019,99.0
+July,IX,domestic market 2019,100.2
+August,IX,domestic market 2019,100.0
+September,IX,domestic market 2019,100.1
+January,IX,domestic market 2020,100.0
+February,IX,domestic market 2020,100.0
+March,IX,domestic market 2020,98.5
+April,IX,domestic market 2020,99.6
+May,IX,domestic market 2020,99.7
+June,IX,domestic market 2020,99.7
+July,IX,domestic market 2020,100.0
+August,IX,domestic market 2020,99.9
+September,IX,domestic market 2020,100.3
+January,IX,non-domestic market 2019,100.8
+February,IX,non-domestic market 2019,100.1
+March,IX,non-domestic market 2019,100.6
+April,IX,non-domestic market 2019,99.5
+May,IX,non-domestic market 2019,99.7
+June,IX,non-domestic market 2019,99.4
+July,IX,non-domestic market 2019,100.9
+August,IX,non-domestic market 2019,99.7
+September,IX,non-domestic market 2019,98.5
+January,IX,non-domestic market 2020,99.9
+February,IX,non-domestic market 2020,99.8
+March,IX,non-domestic market 2020,100.1
+April,IX,non-domestic market 2020,99.7
+May,IX,non-domestic market 2020,100.2
+June,IX,non-domestic market 2020,99.2
+July,IX,non-domestic market 2020,100.4
+August,IX,non-domestic market 2020,100.0
+September,IX,non-domestic market 2020,100.4
