@@ -1,17 +1,19 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.1099367097622
+Year,UNIT_MEASURE,Type,Unnamed: 4,Value
+Q1 2019,TONNES_T,road transport of goods,,2149.0
+Q2 2019,TONNES_T,road transport of goods,,2210.0
+Q3 2019,TONNES_T,road transport of goods,,2532.0
+Q1 2020,TONNES_T,road transport of goods,,1964.0
+Q2 2020,TONNES_T,road transport of goods,,2007.0
+Q3 2020,TONNES_T,road transport of goods,,2207.0
+Q1 2019,TONNES_T,railway transport of goods,,301228.0
+Q2 2019,TONNES_T,railway transport of goods,,350523.0
+Q3 2019,TONNES_T,railway transport of goods,,320386.0
+Q1 2020,TONNES_T,railway transport of goods,,257423.0
+Q2 2020,TONNES_T,railway transport of goods,,10477.0
+Q3 2020,TONNES_T,railway transport of goods,,8374.0
+Q1 2019,TONNES_T,air transport of fright,,0.442
+Q2 2019,TONNES_T,air transport of fright,,0.514
+Q3 2019,TONNES_T,air transport of fright,,0.737
+Q1 2020,TONNES_T,air transport of fright,,0.423
+Q2 2020,TONNES_T,air transport of fright,,0.566
+Q3 2020,TONNES_T,air transport of fright,,0.963
