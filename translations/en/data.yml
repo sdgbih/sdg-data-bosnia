@@ -9,11 +9,11 @@ non seasonal: "Non-Seasonally adjusted Q/Q-4"
 seasonal: "Seasonally adjusted Q/Q-1"
 final trend: "Final trend Q/Q-1"
 Type: Type
+type of product: Type of product
 excise duties on import goods: Excise duties on import goods
 excise duties on domestic goods: Excise duties on domestic goods
 road tax on petroleum products: Road tax on petroleum products
 other income and charges: Other income and charges
-type of product: Type of product
 export_2019: Export 2019
 import_2019: Import 2019
 export_2020: Export 2020
