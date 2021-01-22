@@ -1,70 +1,19 @@
 Year: Година
-Sex: Пол
 Month: Мјесец 
 Value: Вриједност
 Entity: Ентитет
-Bothsex: Укупно
-Male: Мушки
-Female: Женски
-1-2019 2020 jan: "a)2019 - 2020 Јануар"
-2-2019 2020 feb: "b)2019 - 2020 Фебруар"
-3-2019 2020 mar: "c)2019 - 2020 Март"
-4-2019 2020 apr: "d)2019 - 2020 Април"
-5-2019 2020 may: "e)2019 - 2020 Мај"
-6-2019 2020 june: "f)2019 - 2020 Јуни"
-7-2019 2020 july: "g)2019 - 2020 Јули"
-8-2019 2020 aug: "h)2019 - 2020 Август"
-9-2019 2020 sept: "i)2019 - 2020 Септембар"
-10-2019 2020 oct: "j)2019 - 2020 Октобар"
-11-2019 2020 nov: "k)2019 - 2020 Новембар"
-12-2019 2020 dec: "l)2019 - 2020 Децембар"
 vat: Порез на додану вриједност
 customs: Царинске дажбине, накнаде за царинско евидентирање и посебне дажбине
 type of revenue: Назив прихода
-type of revenue: Type of revenue
 non seasonal: "Недесезонирани подаци Q/Q-4"
 seasonal: "Десезонирани подаци Q/Q-1"
 final trend: "Финални тренд Q/Q-1"
 Type: Тип
-Age: Старост
+type of product: Врста производа
 excise duties on import goods: Акциза на увозне производе
 excise duties on domestic goods: Акциза на домаће производе
 road tax on petroleum products: Посебна такса (путарина) на нафтне деривате
 other income and charges: Остали приходи и накнаде
-number of undernourish people: Број потхрањених људи (милиони)
-prevalence of undernourishment: Распрострањеност подхрањености (%)
-prevalence of moderate or severe food insecurity in the adult population: Распрострањеност умјерене или озбиљне несигурности хране у одраслој популацији(%)
-prevalence of severe food insecurity in the adult population: Распрострањеност озбиљне несигурности хране у одраслој популацији (%)
-Education level: Ниво образовања
-Type of skill: Врста вјештине
-lowsec: Lowsec
-math: Математика
-read: Читање
-proportion of women aged 20-24 years who were married or in a union before age 15: Удио жена у доби од 20 до 24 године које су биле у браку или у заједници прије 15. године (%)
-proportion of women aged 20-24 years who were married or in a union before age 18: Удио жена у доби од 20 до 24 године које су биле у браку или у заједници прије 18. године (%)
-Location: Локација
-all area: Укупна површина
-rural: Рурална
-urban: Урбана
-freight volume, by mode of transport: Обим терета, по гранама саобраћаја (тонским километрима)
-passenger volume, by mode of transport: Обим путника (путничких километара), по гранама саобраћаја
-all: Укупно
-domestic material consumption per capita: Материјални отисак по глави становника, према врсти сировине (тoнe)
-tonnes: Тoнe
-type of product: Врста производа
-domestic material consumption per unit of GDP: Материјални отисак по БДП-у, према врсти сировине (килограми по константном америчком долару из 2010)
-domestic material consumption by type of raw material: Материјални отисак, према врсти сировине (тoнe)
-per 100000 live births: На 100000 живорођених
-total: Укупно
-per 100 population: "На 100 становника"
-number of local governments: Број локалних самоуправа (број)
-number of local governments that adopt and implement local DRR strategies in: Број локалних самоуправа које усвајају и проводе локалне стратегије смањења ризика од катастрофа у складу с националним стратегијама (број)
-proportion of local governments that adopt and implement local disaster risk: Удио локалних самоуправа које усвајају и проводе локалне стратегије смањења ризика од катастрофа у складу с националним стратегијама смањења ризика од катастрофе (%)
-number: Број
-per 100000 population: На 100000 становника
-number of victims of intentional homicide per 100,000 population, by sex: Број жртава убистава с намјером на 100.000 становника, према полу (жртве на 100.000 становника)
-number of victims of intentional homicide, by sex: Број жртава убистава с намјером, по полу (број) 
-index: Индекс
 export_2019: Извоз 2019
 import_2019: Увоз 2019
 export_2020: Извоз 2020
