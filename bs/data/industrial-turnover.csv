@@ -1,55 +1,55 @@
 Year,UNIT_MEASURE,Tip,Value
-1-2019 2020 jan,Index,Ukupno,-2.0
-2-2019 2020 feb,Index,Ukupno,-2.8
-3-2019 2020 mar,Index,Ukupno,-12.6
-4-2019 2020 apr,Index,Ukupno,-29.5
-5-2019 2020 may,Index,Ukupno,-24.5
-6-2019 2020 june,Index,Ukupno,-18.2
-7-2019 2020 july,Index,Ukupno,-10.1
-8-2019 2020 aug,Index,Ukupno,-0.4
-9-2019 2020 sept,Index,Ukupno,-1.3
-1-2019 2020 jan,Index,Intermedijarni proizvodi,-4.0
-2-2019 2020 feb,Index,Intermedijarni proizvodi,-4.6
-3-2019 2020 mar,Index,Intermedijarni proizvodi,-14.3
-4-2019 2020 apr,Index,Intermedijarni proizvodi,-26.7
-5-2019 2020 may,Index,Intermedijarni proizvodi,-19.2
-6-2019 2020 june,Index,Intermedijarni proizvodi,-20.1
-7-2019 2020 july,Index,Intermedijarni proizvodi,-7.9
-8-2019 2020 aug,Index,Intermedijarni proizvodi,1.2
-9-2019 2020 sept,Index,Intermedijarni proizvodi,-4.9
-1-2019 2020 jan,Index,Energija,-43.6
-2-2019 2020 feb,Index,Energija,-37.6
-3-2019 2020 mar,Index,Energija,-32.5
-4-2019 2020 apr,Index,Energija,-49.8
-5-2019 2020 may,Index,Energija,-52.5
-6-2019 2020 june,Index,Energija,-53.0
-7-2019 2020 july,Index,Energija,-57.7
-8-2019 2020 aug,Index,Energija,-5.7
-9-2019 2020 sept,Index,Energija,-13.5
-1-2019 2020 jan,Index,Kapitalni proizvodi,3.1
-2-2019 2020 feb,Index,Kapitalni proizvodi,1.1
-3-2019 2020 mar,Index,Kapitalni proizvodi,-27.1
-4-2019 2020 apr,Index,Kapitalni proizvodi,-41.1
-5-2019 2020 may,Index,Kapitalni proizvodi,-39.2
-6-2019 2020 june,Index,Kapitalni proizvodi,-37.6
-7-2019 2020 july,Index,Kapitalni proizvodi,-3.3
-8-2019 2020 aug,Index,Kapitalni proizvodi,15.9
-9-2019 2020 sept,Index,Kapitalni proizvodi,10.8
-1-2019 2020 jan,Index,Trajni proizvodi za široku potrošnju,-2.0
-2-2019 2020 feb,Index,Trajni proizvodi za široku potrošnju,2.1
-3-2019 2020 mar,Index,Trajni proizvodi za široku potrošnju,-24.9
-4-2019 2020 apr,Index,Trajni proizvodi za široku potrošnju,-51.6
-5-2019 2020 may,Index,Trajni proizvodi za široku potrošnju,-30.2
-6-2019 2020 june,Index,Trajni proizvodi za široku potrošnju,3.8
-7-2019 2020 july,Index,Trajni proizvodi za široku potrošnju,3.8
-8-2019 2020 aug,Index,Trajni proizvodi za široku potrošnju,6.5
-9-2019 2020 sept,Index,Trajni proizvodi za široku potrošnju,14.9
-1-2019 2020 jan,Index,Netrajni proizvodi za široku potrošnju,12.1
-2-2019 2020 feb,Index,Netrajni proizvodi za široku potrošnju,8.7
-3-2019 2020 mar,Index,Netrajni proizvodi za široku potrošnju,6.5
-4-2019 2020 apr,Index,Netrajni proizvodi za široku potrošnju,-17.3
-5-2019 2020 may,Index,Netrajni proizvodi za široku potrošnju,-14.4
-6-2019 2020 june,Index,Netrajni proizvodi za široku potrošnju,1.9
-7-2019 2020 july,Index,Netrajni proizvodi za široku potrošnju,-2.8
-8-2019 2020 aug,Index,Netrajni proizvodi za široku potrošnju,-8.9
-9-2019 2020 sept,Index,Netrajni proizvodi za široku potrošnju,0.9
+a)2019 - 2020 Januar,Index,Ukupno,-2.0
+b)2019 - 2020 Februar,Index,Ukupno,-2.8
+c)2019 - 2020 Mart,Index,Ukupno,-12.6
+d)2019 - 2020 April,Index,Ukupno,-29.5
+e)2019 - 2020 Maj,Index,Ukupno,-24.5
+f)2019 - 2020 Juni,Index,Ukupno,-18.2
+g)2019 - 2020 Juli,Index,Ukupno,-10.1
+h)2019 - 2020 August,Index,Ukupno,-0.4
+i)2019 - 2020 Septembar,Index,Ukupno,-1.3
+a)2019 - 2020 Januar,Index,Intermedijarni proizvodi,-4.0
+b)2019 - 2020 Februar,Index,Intermedijarni proizvodi,-4.6
+c)2019 - 2020 Mart,Index,Intermedijarni proizvodi,-14.3
+d)2019 - 2020 April,Index,Intermedijarni proizvodi,-26.7
+e)2019 - 2020 Maj,Index,Intermedijarni proizvodi,-19.2
+f)2019 - 2020 Juni,Index,Intermedijarni proizvodi,-20.1
+g)2019 - 2020 Juli,Index,Intermedijarni proizvodi,-7.9
+h)2019 - 2020 August,Index,Intermedijarni proizvodi,1.2
+i)2019 - 2020 Septembar,Index,Intermedijarni proizvodi,-4.9
+a)2019 - 2020 Januar,Index,Energija,-43.6
+b)2019 - 2020 Februar,Index,Energija,-37.6
+c)2019 - 2020 Mart,Index,Energija,-32.5
+d)2019 - 2020 April,Index,Energija,-49.8
+e)2019 - 2020 Maj,Index,Energija,-52.5
+f)2019 - 2020 Juni,Index,Energija,-53.0
+g)2019 - 2020 Juli,Index,Energija,-57.7
+h)2019 - 2020 August,Index,Energija,-5.7
+i)2019 - 2020 Septembar,Index,Energija,-13.5
+a)2019 - 2020 Januar,Index,Kapitalni proizvodi,3.1
+b)2019 - 2020 Februar,Index,Kapitalni proizvodi,1.1
+c)2019 - 2020 Mart,Index,Kapitalni proizvodi,-27.1
+d)2019 - 2020 April,Index,Kapitalni proizvodi,-41.1
+e)2019 - 2020 Maj,Index,Kapitalni proizvodi,-39.2
+f)2019 - 2020 Juni,Index,Kapitalni proizvodi,-37.6
+g)2019 - 2020 Juli,Index,Kapitalni proizvodi,-3.3
+h)2019 - 2020 August,Index,Kapitalni proizvodi,15.9
+i)2019 - 2020 Septembar,Index,Kapitalni proizvodi,10.8
+a)2019 - 2020 Januar,Index,Trajni proizvodi za široku potrošnju,-2.0
+b)2019 - 2020 Februar,Index,Trajni proizvodi za široku potrošnju,2.1
+c)2019 - 2020 Mart,Index,Trajni proizvodi za široku potrošnju,-24.9
+d)2019 - 2020 April,Index,Trajni proizvodi za široku potrošnju,-51.6
+e)2019 - 2020 Maj,Index,Trajni proizvodi za široku potrošnju,-30.2
+f)2019 - 2020 Juni,Index,Trajni proizvodi za široku potrošnju,3.8
+g)2019 - 2020 Juli,Index,Trajni proizvodi za široku potrošnju,3.8
+h)2019 - 2020 August,Index,Trajni proizvodi za široku potrošnju,6.5
+i)2019 - 2020 Septembar,Index,Trajni proizvodi za široku potrošnju,14.9
+a)2019 - 2020 Januar,Index,Netrajni proizvodi za široku potrošnju,12.1
+b)2019 - 2020 Februar,Index,Netrajni proizvodi za široku potrošnju,8.7
+c)2019 - 2020 Mart,Index,Netrajni proizvodi za široku potrošnju,6.5
+d)2019 - 2020 April,Index,Netrajni proizvodi za široku potrošnju,-17.3
+e)2019 - 2020 Maj,Index,Netrajni proizvodi za široku potrošnju,-14.4
+f)2019 - 2020 Juni,Index,Netrajni proizvodi za široku potrošnju,1.9
+g)2019 - 2020 Juli,Index,Netrajni proizvodi za široku potrošnju,-2.8
+h)2019 - 2020 August,Index,Netrajni proizvodi za široku potrošnju,-8.9
+i)2019 - 2020 Septembar,Index,Netrajni proizvodi za široku potrošnju,0.9
