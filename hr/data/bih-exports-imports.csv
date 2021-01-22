@@ -1,37 +1,37 @@
-Year,UNIT_MEASURE,Tip,Value
-a)Siječanj,u tisućama KM,Izvoz 2019,856376
-b)Veljača,u tisućama KM,Izvoz 2019,926443
-c)Ožujak,u tisućama KM,Izvoz 2019,989133
-d)Travanj,u tisućama KM,Izvoz 2019,1034867
-e)Svibanj,u tisućama KM,Izvoz 2019,1028163
-f)Lipanj,u tisućama KM,Izvoz 2019,995601
-g)Srpanj,u tisućama KM,Izvoz 2019,1005663
-h)Kolovoz,u tisućama KM,Izvoz 2019,844904
-i)Rujan,u tisućama KM,Izvoz 2019,983719
-a)Siječanj,u tisućama KM,Uvoz 2019,1292899
-b)Veljača,u tisućama KM,Uvoz 2019,1549613
-c)Ožujak,u tisućama KM,Uvoz 2019,1772859
-d)Travanj,u tisućama KM,Uvoz 2019,1750450
-e)Svibanj,u tisućama KM,Uvoz 2019,1809099
-f)Lipanj,u tisućama KM,Uvoz 2019,1608480
-g)Srpanj,u tisućama KM,Uvoz 2019,1745495
-h)Kolovoz,u tisućama KM,Uvoz 2019,1526382
-i)Rujan,u tisućama KM,Uvoz 2019,1572606
-a)Siječanj,u tisućama KM,Izvoz 2020,855977
-b)Veljača,u tisućama KM,Izvoz 2020,923256
-c)Ožujak,u tisućama KM,Izvoz 2020,848386
-d)Travanj,u tisućama KM,Izvoz 2020,696198
-e)Svibanj,u tisućama KM,Izvoz 2020,736613
-f)Lipanj,u tisućama KM,Izvoz 2020,888104
-g)Srpanj,u tisućama KM,Izvoz 2020,874153
-h)Kolovoz,u tisućama KM,Izvoz 2020,775220
-i)Rujan,u tisućama KM,Izvoz 2020,977148
-a)Siječanj,u tisućama KM,Uvoz 2020,1235871
-b)Veljača,u tisućama KM,Uvoz 2020,1567515
-c)Ožujak,u tisućama KM,Uvoz 2020,1483047
-d)Travanj,u tisućama KM,Uvoz 2020,1133427
-e)Svibanj,u tisućama KM,Uvoz 2020,1183197
-f)Lipanj,u tisućama KM,Uvoz 2020,1416588
-g)Srpanj,u tisućama KM,Uvoz 2020,1511289
-h)Kolovoz,u tisućama KM,Uvoz 2020,1306882
-i)Rujan,u tisućama KM,Uvoz 2020,1483216
+Year,UNIT_MEASURE,Type,Value
+a)Siječanj,u tisućama KM,export_2019,856376
+b)Veljača,u tisućama KM,export_2019,926443
+c)Ožujak,u tisućama KM,export_2019,989133
+d)Travanj,u tisućama KM,export_2019,1034867
+e)Svibanj,u tisućama KM,export_2019,1028163
+f)Lipanj,u tisućama KM,export_2019,995601
+g)Srpanj,u tisućama KM,export_2019,1005663
+h)Kolovoz,u tisućama KM,export_2019,844904
+i)Rujan,u tisućama KM,export_2019,983719
+a)Siječanj,u tisućama KM,import_2019,1292899
+b)Veljača,u tisućama KM,import_2019,1549613
+c)Ožujak,u tisućama KM,import_2019,1772859
+d)Travanj,u tisućama KM,import_2019,1750450
+e)Svibanj,u tisućama KM,import_2019,1809099
+f)Lipanj,u tisućama KM,import_2019,1608480
+g)Srpanj,u tisućama KM,import_2019,1745495
+h)Kolovoz,u tisućama KM,import_2019,1526382
+i)Rujan,u tisućama KM,import_2019,1572606
+a)Siječanj,u tisućama KM,export_2020,855977
+b)Veljača,u tisućama KM,export_2020,923256
+c)Ožujak,u tisućama KM,export_2020,848386
+d)Travanj,u tisućama KM,export_2020,696198
+e)Svibanj,u tisućama KM,export_2020,736613
+f)Lipanj,u tisućama KM,export_2020,888104
+g)Srpanj,u tisućama KM,export_2020,874153
+h)Kolovoz,u tisućama KM,export_2020,775220
+i)Rujan,u tisućama KM,export_2020,977148
+a)Siječanj,u tisućama KM,import_2020,1235871
+b)Veljača,u tisućama KM,import_2020,1567515
+c)Ožujak,u tisućama KM,import_2020,1483047
+d)Travanj,u tisućama KM,import_2020,1133427
+e)Svibanj,u tisućama KM,import_2020,1183197
+f)Lipanj,u tisućama KM,import_2020,1416588
+g)Srpanj,u tisućama KM,import_2020,1511289
+h)Kolovoz,u tisućama KM,import_2020,1306882
+i)Rujan,u tisućama KM,import_2020,1483216

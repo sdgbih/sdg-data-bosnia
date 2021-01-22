@@ -1,17 +1,17 @@
-Year,UNIT_MEASURE,Tip,Value
-a)Siječanj,Broj,Zaposleni 2019,823455
-b)Veljača,Broj,Zaposleni 2019,819410
-c)Ožujak,Broj,Zaposleni 2019,822275
-d)Travanj,Broj,Zaposleni 2019,827121
-e)Svibanj,Broj,Zaposleni 2019,819832
-f)Lipanj,Broj,Zaposleni 2019,821124
-g)Srpanj,Broj,Zaposleni 2019,821791
-h)Kolovoz,Broj,Zaposleni 2019,816926
-a)Siječanj,Broj,Zaposleni 2020,833909
-b)Veljača,Broj,Zaposleni 2020,832200
-c)Ožujak,Broj,Zaposleni 2020,830421
-d)Travanj,Broj,Zaposleni 2020,808894
-e)Svibanj,Broj,Zaposleni 2020,800067
-f)Lipanj,Broj,Zaposleni 2020,804028
-g)Srpanj,Broj,Zaposleni 2020,807326
-h)Kolovoz,Broj,Zaposleni 2020,799207
+Year,UNIT_MEASURE,Type,Value
+a)Siječanj,Broj,employed 2019,823455
+b)Veljača,Broj,employed 2019,819410
+c)Ožujak,Broj,employed 2019,822275
+d)Travanj,Broj,employed 2019,827121
+e)Svibanj,Broj,employed 2019,819832
+f)Lipanj,Broj,employed 2019,821124
+g)Srpanj,Broj,employed 2019,821791
+h)Kolovoz,Broj,employed 2019,816926
+a)Siječanj,Broj,employed 2020,833909
+b)Veljača,Broj,employed 2020,832200
+c)Ožujak,Broj,employed 2020,830421
+d)Travanj,Broj,employed 2020,808894
+e)Svibanj,Broj,employed 2020,800067
+f)Lipanj,Broj,employed 2020,804028
+g)Srpanj,Broj,employed 2020,807326
+h)Kolovoz,Broj,employed 2020,799207
