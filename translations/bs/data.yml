@@ -10,6 +10,10 @@ seasonal: "Desezonirani podaci Q/Q-1"
 final trend: "Finalni trend Q/Q-1"
 Type: Tip
 type of product: Vrsta proizvoda
+excise duties on import goods: Akciza na uvozne proizvode
+excise duties on domestic goods: Akciza na domaće proizvode
+road tax on petroleum products: Posebna taksa (putarina) na naftne derivate
+other income and changes: Ostali prihodi i naknade
 export_2019: Izvoz 2019
 import_2019: Uvoz 2019
 export_2020: Izvoz 2020
