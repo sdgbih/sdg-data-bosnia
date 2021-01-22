@@ -1,37 +1,37 @@
 Year,UNIT_MEASURE,Type,Value
-a)January,in thousands of BAM,Export 2019,856376
-b)February,in thousands of BAM,Export 2019,926443
-c)March,in thousands of BAM,Export 2019,989133
-d)April,in thousands of BAM,Export 2019,1034867
-e)May,in thousands of BAM,Export 2019,1028163
-f)June,in thousands of BAM,Export 2019,995601
-g)July,in thousands of BAM,Export 2019,1005663
-h)August,in thousands of BAM,Export 2019,844904
-i)September,in thousands of BAM,Export 2019,983719
-a)January,in thousands of BAM,Import 2019,1292899
-b)February,in thousands of BAM,Import 2019,1549613
-c)March,in thousands of BAM,Import 2019,1772859
-d)April,in thousands of BAM,Import 2019,1750450
-e)May,in thousands of BAM,Import 2019,1809099
-f)June,in thousands of BAM,Import 2019,1608480
-g)July,in thousands of BAM,Import 2019,1745495
-h)August,in thousands of BAM,Import 2019,1526382
-i)September,in thousands of BAM,Import 2019,1572606
-a)January,in thousands of BAM,Export 2020,855977
-b)February,in thousands of BAM,Export 2020,923256
-c)March,in thousands of BAM,Export 2020,848386
-d)April,in thousands of BAM,Export 2020,696198
-e)May,in thousands of BAM,Export 2020,736613
-f)June,in thousands of BAM,Export 2020,888104
-g)July,in thousands of BAM,Export 2020,874153
-h)August,in thousands of BAM,Export 2020,775220
-i)September,in thousands of BAM,Export 2020,977148
-a)January,in thousands of BAM,Import 2020,1235871
-b)February,in thousands of BAM,Import 2020,1567515
-c)March,in thousands of BAM,Import 2020,1483047
-d)April,in thousands of BAM,Import 2020,1133427
-e)May,in thousands of BAM,Import 2020,1183197
-f)June,in thousands of BAM,Import 2020,1416588
-g)July,in thousands of BAM,Import 2020,1511289
-h)August,in thousands of BAM,Import 2020,1306882
-i)September,in thousands of BAM,Import 2020,1483216
+a)January,in thousands of BAM,export_2019,856376
+b)February,in thousands of BAM,export_2019,926443
+c)March,in thousands of BAM,export_2019,989133
+d)April,in thousands of BAM,export_2019,1034867
+e)May,in thousands of BAM,export_2019,1028163
+f)June,in thousands of BAM,export_2019,995601
+g)July,in thousands of BAM,export_2019,1005663
+h)August,in thousands of BAM,export_2019,844904
+i)September,in thousands of BAM,export_2019,983719
+a)January,in thousands of BAM,import_2019,1292899
+b)February,in thousands of BAM,import_2019,1549613
+c)March,in thousands of BAM,import_2019,1772859
+d)April,in thousands of BAM,import_2019,1750450
+e)May,in thousands of BAM,import_2019,1809099
+f)June,in thousands of BAM,import_2019,1608480
+g)July,in thousands of BAM,import_2019,1745495
+h)August,in thousands of BAM,import_2019,1526382
+i)September,in thousands of BAM,import_2019,1572606
+a)January,in thousands of BAM,export_2020,855977
+b)February,in thousands of BAM,export_2020,923256
+c)March,in thousands of BAM,export_2020,848386
+d)April,in thousands of BAM,export_2020,696198
+e)May,in thousands of BAM,export_2020,736613
+f)June,in thousands of BAM,export_2020,888104
+g)July,in thousands of BAM,export_2020,874153
+h)August,in thousands of BAM,export_2020,775220
+i)September,in thousands of BAM,export_2020,977148
+a)January,in thousands of BAM,import_2020,1235871
+b)February,in thousands of BAM,import_2020,1567515
+c)March,in thousands of BAM,import_2020,1483047
+d)April,in thousands of BAM,import_2020,1133427
+e)May,in thousands of BAM,import_2020,1183197
+f)June,in thousands of BAM,import_2020,1416588
+g)July,in thousands of BAM,import_2020,1511289
+h)August,in thousands of BAM,import_2020,1306882
+i)September,in thousands of BAM,import_2020,1483216
