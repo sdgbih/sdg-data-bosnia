@@ -1,17 +1,17 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.1099367097622
+Year,UNIT_MEASURE,Tip,Value
+a)Siječanj,Broj,Raspoloživo za finalnu potrošnju 2019,1241
+b)Veljača,Broj,Raspoloživo za finalnu potrošnju 2019,1031
+c)Ožujak,Broj,Raspoloživo za finalnu potrošnju 2019,1066
+d)Travanj,Broj,Raspoloživo za finalnu potrošnju 2019,993
+e)Svibanj,Broj,Raspoloživo za finalnu potrošnju 2019,1002
+f)Lipanj,Broj,Raspoloživo za finalnu potrošnju 2019,"965,807"
+g)Srpanj,Broj,Raspoloživo za finalnu potrošnju 2019,946
+h)Kolovoz,Broj,Raspoloživo za finalnu potrošnju 2019,944
+a)Siječanj,Broj,Raspoloživo za finalnu potrošnju 2020,1137
+b)Veljača,Broj,Raspoloživo za finalnu potrošnju 2020,976
+c)Ožujak,Broj,Raspoloživo za finalnu potrošnju 2020,931
+d)Travanj,Broj,Raspoloživo za finalnu potrošnju 2020,828
+e)Svibanj,Broj,Raspoloživo za finalnu potrošnju 2020,808
+f)Lipanj,Broj,Raspoloživo za finalnu potrošnju 2020,812
+g)Srpanj,Broj,Raspoloživo za finalnu potrošnju 2020,890
+h)Kolovoz,Broj,Raspoloživo za finalnu potrošnju 2020,848

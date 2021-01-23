@@ -1,17 +1,17 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.1099367097622
+Year,UNIT_MEASURE,Type,Value
+January,NUMBER,available for final consumption_2019,1241
+February,NUMBER,available for final consumption_2019,1031
+March,NUMBER,available for final consumption_2019,1066
+April,NUMBER,available for final consumption_2019,993
+May,NUMBER,available for final consumption_2019,1002
+June,NUMBER,available for final consumption_2019,"965,807"
+July,NUMBER,available for final consumption_2019,946
+August,NUMBER,available for final consumption_2019,944
+January,NUMBER,available for final consumption_2020,1137
+February,NUMBER,available for final consumption_2020,976
+March,NUMBER,available for final consumption_2020,931
+April,NUMBER,available for final consumption_2020,828
+May,NUMBER,available for final consumption_2020,808
+June,NUMBER,available for final consumption_2020,812
+July,NUMBER,available for final consumption_2020,890
+August,NUMBER,available for final consumption_2020,848
