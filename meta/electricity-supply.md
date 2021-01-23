@@ -1,9 +1,9 @@
 ---
 permalink: covid-19-impact/electricity-supply
 data_non_statistical: false
-graph_title: global_indicators.18-c-12-title
+graph_title: global_indicators.18-c-14-title
 graph_type: line
-indicator_name: global_indicators.18-c-12-title
+indicator_name: global_indicators.18-c-14-title
 standalone: true
 reporting_status: complete
 national_geographical_coverage: National
