@@ -1,9 +1,9 @@
 ---
-permalink: covid-19-impact/gross-domestic-product
+permalink: covid-19-impact/railway-transport
 data_non_statistical: false
-graph_title: global_indicators.18-c-1-title
+graph_title: global_indicators.18-c-10-title
 graph_type: bar
-indicator_name: global_indicators.18-c-1-title
+indicator_name: global_indicators.18-c-10-title
 standalone: true
 reporting_status: complete
 national_geographical_coverage: National
