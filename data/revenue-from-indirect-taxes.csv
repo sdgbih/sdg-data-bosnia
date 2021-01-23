@@ -1,57 +1,57 @@
-Year,type of revenue,UNIT_MEASURE,Value
-1-2019 2020 jan,vat,IX,102.68
-2-2019 2020 feb,vat,IX,108.04
-3-2019 2020 mar,vat,IX,99.23
-4-2019 2020 apr,vat,IX,76.73
-5-2019 2020 may,vat,IX,69.59
-6-2019 2020 june,vat,IX,93.00
-7-2019 2020 july,vat,IX,98.56
-8-2019 2020 aug,vat,IX,84.90
-1-2019 2020 jan,customs,IX,102.24
-2-2019 2020 feb,customs,IX,109
-3-2019 2020 mar,customs,IX,90.08
-4-2019 2020 apr,customs,IX,56.70
-5-2019 2020 may,customs,IX,63.74
-6-2019 2020 june,customs,IX,89.74
-7-2019 2020 july,customs,IX,92.66
-8-2019 2020 aug,customs,IX,82.75
-1-2019 2020 jan,excise duties on import goods,IX,96.36
-2-2019 2020 feb,excise duties on import goods,IX,124.30
-3-2019 2020 mar,excise duties on import goods,IX,130.95
-4-2019 2020 apr,excise duties on import goods,IX,101.58
-5-2019 2020 may,excise duties on import goods,IX,52.06
-6-2019 2020 june,excise duties on import goods,IX,96.95
-7-2019 2020 july,excise duties on import goods,IX,76.47
-8-2019 2020 aug,excise duties on import goods,IX,75.01
-1-2019 2020 jan,excise duties on domestic goods,IX,39.08
-2-2019 2020 feb,excise duties on domestic goods,IX,37.23
-3-2019 2020 mar,excise duties on domestic goods,IX,79.14
-4-2019 2020 apr,excise duties on domestic goods,IX,13.29
-5-2019 2020 may,excise duties on domestic goods,IX,30.71
-6-2019 2020 june,excise duties on domestic goods,IX,66.47
-7-2019 2020 july,excise duties on domestic goods,IX,73.22
-8-2019 2020 aug,excise duties on domestic goods,IX,83.15
-1-2019 2020 jan,road tax on petroleum products,IX,98.18
-2-2019 2020 feb,road tax on petroleum products,IX,106.13
-3-2019 2020 mar,road tax on petroleum products,IX,106.08
-4-2019 2020 apr,road tax on petroleum products,IX,66.56
-5-2019 2020 may,road tax on petroleum products,IX,89.87
-6-2019 2020 june,road tax on petroleum products,IX,95.43
-7-2019 2020 july,road tax on petroleum products,IX,80.37
-8-2019 2020 aug,road tax on petroleum products,IX,75.88
-1-2019 2020 jan,other income and charges,IX,103.63
-2-2019 2020 feb,other income and charges,IX,101.1
-3-2019 2020 mar,other income and charges,IX,81.34
-4-2019 2020 apr,other income and charges,IX,82.57
-5-2019 2020 may,other income and charges,IX,77.67
-6-2019 2020 june,other income and charges,IX,86.03
-7-2019 2020 july,other income and charges,IX,86.96
-8-2019 2020 aug,other income and charges,IX,107.15
-1-2019 2020 jan,total,IX,98.5
-2-2019 2020 feb,total,IX,108.88
-3-2019 2020 mar,total,IX,104.14
-4-2019 2020 apr,total,IX,77.33
-5-2019 2020 may,total,IX,66.53
-6-2019 2020 june,total,IX,93.06
-7-2019 2020 july,total,IX,91.76
-8-2019 2020 aug,total,IX,82.2
+Year,UNIT_MEASURE,Type,Value
+1-2019 2020 jan,IX,vat,102.68
+2-2019 2020 feb,IX,vat,108.04
+3-2019 2020 mar,IX,vat,99.23
+4-2019 2020 apr,IX,vat,76.73
+5-2019 2020 may,IX,vat,69.59
+6-2019 2020 june,IX,vat,93.00
+7-2019 2020 july,IX,vat,98.56
+8-2019 2020 aug,IX,vat,84.90
+1-2019 2020 jan,IX,customs,102.24
+2-2019 2020 feb,IX,customs,109
+3-2019 2020 mar,IX,customs,90.08
+4-2019 2020 apr,IX,customs,56.70
+5-2019 2020 may,IX,customs,63.74
+6-2019 2020 june,IX,customs,89.74
+7-2019 2020 july,IX,customs,92.66
+8-2019 2020 aug,IX,customs,82.75
+1-2019 2020 jan,IX,excise duties on import goods,96.36
+2-2019 2020 feb,IX,excise duties on import goods,124.30
+3-2019 2020 mar,IX,excise duties on import goods,130.95
+4-2019 2020 apr,IX,excise duties on import goods,101.58
+5-2019 2020 may,IX,excise duties on import goods,52.06
+6-2019 2020 june,IX,excise duties on import goods,96.95
+7-2019 2020 july,IX,excise duties on import goods,76.47
+8-2019 2020 aug,IX,excise duties on import goods,75.01
+1-2019 2020 jan,IX,excise duties on domestic goods,39.08
+2-2019 2020 feb,IX,excise duties on domestic goods,37.23
+3-2019 2020 mar,IX,excise duties on domestic goods,79.14
+4-2019 2020 apr,IX,excise duties on domestic goods,13.29
+5-2019 2020 may,IX,excise duties on domestic goods,30.71
+6-2019 2020 june,IX,excise duties on domestic goods,66.47
+7-2019 2020 july,IX,excise duties on domestic goods,73.22
+8-2019 2020 aug,IX,excise duties on domestic goods,83.15
+1-2019 2020 jan,IX,road tax on petroleum products,98.18
+2-2019 2020 feb,IX,road tax on petroleum products,106.13
+3-2019 2020 mar,IX,road tax on petroleum products,106.08
+4-2019 2020 apr,IX,road tax on petroleum products,66.56
+5-2019 2020 may,IX,road tax on petroleum products,89.87
+6-2019 2020 june,IX,road tax on petroleum products,95.43
+7-2019 2020 july,IX,road tax on petroleum products,80.37
+8-2019 2020 aug,IX,road tax on petroleum products,75.88
+1-2019 2020 jan,IX,other income and charges,103.63
+2-2019 2020 feb,IX,other income and charges,101.1
+3-2019 2020 mar,IX,other income and charges,81.34
+4-2019 2020 apr,IX,other income and charges,82.57
+5-2019 2020 may,IX,other income and charges,77.67
+6-2019 2020 june,IX,other income and charges,86.03
+7-2019 2020 july,IX,other income and charges,86.96
+8-2019 2020 aug,IX,other income and charges,107.15
+1-2019 2020 jan,IX,total,98.5
+2-2019 2020 feb,IX,total,108.88
+3-2019 2020 mar,IX,total,104.14
+4-2019 2020 apr,IX,total,77.33
+5-2019 2020 may,IX,total,66.53
+6-2019 2020 june,IX,total,93.06
+7-2019 2020 july,IX,total,91.76
+8-2019 2020 aug,IX,total,82.2
