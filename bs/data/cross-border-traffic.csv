@@ -1,13 +1,13 @@
 Year,UNIT_MEASURE,Tip,Value
-2019 Q1,Broj,cross- border traffic total - Entry,6793862
-2019 Q2,Broj,cross- border traffic total - Entry,6754482
-2019 Q3,Broj,cross- border traffic total - Entry,8253750
-2019 Q1,Broj,cross- border traffic total - Exit,5248925
-2019 Q2,Broj,cross- border traffic total - Exit,6793862
-2019 Q3,Broj,cross- border traffic total - Exit,8328680
-2020 Q1,Broj,cross- border traffic total - Entry,4213687
-2020 Q2,Broj,cross- border traffic total - Entry,1582652
-2020 Q3,Broj,cross- border traffic total - Entry,3668004
-2020 Q1,Broj,cross- border traffic total - Exit,4349367
-2020 Q2,Broj,cross- border traffic total - Exit,1531978
-2020 Q3,Broj,cross- border traffic total - Exit,3673817
+2019 Q1,Broj,Ukupan granični promet - Ulaz,6793862
+2019 Q2,Broj,Ukupan granični promet - Ulaz,6754482
+2019 Q3,Broj,Ukupan granični promet - Ulaz,8253750
+2019 Q1,Broj,Ukupan granični promet - Izlaz,5248925
+2019 Q2,Broj,Ukupan granični promet - Izlaz,6793862
+2019 Q3,Broj,Ukupan granični promet - Izlaz,8328680
+2020 Q1,Broj,Ukupan granični promet - Ulaz,4213687
+2020 Q2,Broj,Ukupan granični promet - Ulaz,1582652
+2020 Q3,Broj,Ukupan granični promet - Ulaz,3668004
+2020 Q1,Broj,Ukupan granični promet - Izlaz,4349367
+2020 Q2,Broj,Ukupan granični promet - Izlaz,1531978
+2020 Q3,Broj,Ukupan granični promet - Izlaz,3673817
