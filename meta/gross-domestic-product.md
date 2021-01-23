@@ -24,5 +24,7 @@ source_url_text_6: Link to source
 title: Untitled
 computation_units: '%'
 sort: a
-goal_meta_link_text: UN metadata
+copyright: BHAS
+source_url_1: >-
+  http://www.bhas.gov.ba/data/Publikacije/Saopstenja/2021/NAC_02_2020_Q3_0_HR.pdf
 ---
