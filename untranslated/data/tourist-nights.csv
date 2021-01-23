@@ -1,17 +1,37 @@
-Year,UNIT_MEASURE,Value
-2003,%,23.9562657328075
-2004,%,23.9562657328075
-2005,%,41.4129818899751
-2006,%,44.2008029040042
-2007,%,44.9060770735408
-2008,%,43.6400967955669
-2009,%,41.7375095023106
-2010,%,42.8563874887263
-2011,%,43.3316157280503
-2012,%,43.7502030221352
-2013,%,42.6582565862232
-2014,%,43.8087208477132
-2015,%,43.1510838982097
-2016,%,42.7014657297644
-2017,%,42.9602093929945
-2018,%,43.109936709765
+Year,UNIT_MEASURE,Type,Value
+January,NUMBER,domestic tourist_2019,56765
+February,NUMBER,domestic tourist_2019,55616
+March,NUMBER,domestic tourist_2019,80776
+April,NUMBER,domestic tourist_2019,79264
+May,NUMBER,domestic tourist_2019,103960
+June,NUMBER,domestic tourist_2019,93363
+July,NUMBER,domestic tourist_2019,93363
+August,NUMBER,domestic tourist_2019,97373
+September,NUMBER,domestic tourist_2019,87541
+January,NUMBER,domestic tourist_2020,59641
+February,NUMBER,domestic tourist_2020,58055
+March,NUMBER,domestic tourist_2020,31515
+April,NUMBER,domestic tourist_2020,2310
+May,NUMBER,domestic tourist_2020,1670
+June,NUMBER,domestic tourist_2020,13471
+July,NUMBER,domestic tourist_2020,111824
+August,NUMBER,domestic tourist_2020,156165
+September,NUMBER,domestic tourist_2020,106510
+January,NUMBER,foreign tourist_2019,101438
+February,NUMBER,foreign tourist_2019,119711
+March,NUMBER,foreign tourist_2019,131648
+April,NUMBER,foreign tourist_2019,207194
+May,NUMBER,foreign tourist_2019,245634
+June,NUMBER,foreign tourist_2019,329756
+July,NUMBER,foreign tourist_2019,357357
+August,NUMBER,foreign tourist_2019,357357
+September,NUMBER,foreign tourist_2019,240968
+January,NUMBER,foreign tourist_2020:,126406
+February,NUMBER,foreign tourist_2020:,112000
+March,NUMBER,foreign tourist_2020:,36353
+April,NUMBER,foreign tourist_2020:,5541
+May,NUMBER,foreign tourist_2020:,12043
+June,NUMBER,foreign tourist_2020:,41580
+July,NUMBER,foreign tourist_2020:,22763
+August,NUMBER,foreign tourist_2020:,51555
+September,NUMBER,foreign tourist_2020:,34695
