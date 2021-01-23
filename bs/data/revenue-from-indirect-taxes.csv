@@ -1,57 +1,57 @@
-Year,Naziv prihoda,UNIT_MEASURE,Value
-a)2019 - 2020 Januar,Porez na dodanu vrijednost,Index,102.68
-b)2019 - 2020 Februar,Porez na dodanu vrijednost,Index,108.04
-c)2019 - 2020 Mart,Porez na dodanu vrijednost,Index,99.23
-d)2019 - 2020 April,Porez na dodanu vrijednost,Index,76.73
-e)2019 - 2020 Maj,Porez na dodanu vrijednost,Index,69.59
-f)2019 - 2020 Juni,Porez na dodanu vrijednost,Index,93.0
-g)2019 - 2020 Juli,Porez na dodanu vrijednost,Index,98.56
-h)2019 - 2020 August,Porez na dodanu vrijednost,Index,84.9
-a)2019 - 2020 Januar,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,102.24
-b)2019 - 2020 Februar,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,109.0
-c)2019 - 2020 Mart,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,90.08
-d)2019 - 2020 April,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,56.7
-e)2019 - 2020 Maj,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,63.74
-f)2019 - 2020 Juni,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,89.74
-g)2019 - 2020 Juli,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,92.66
-h)2019 - 2020 August,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",Index,82.75
-a)2019 - 2020 Januar,Akciza na uvozne proizvode,Index,96.36
-b)2019 - 2020 Februar,Akciza na uvozne proizvode,Index,124.3
-c)2019 - 2020 Mart,Akciza na uvozne proizvode,Index,130.95
-d)2019 - 2020 April,Akciza na uvozne proizvode,Index,101.58
-e)2019 - 2020 Maj,Akciza na uvozne proizvode,Index,52.06
-f)2019 - 2020 Juni,Akciza na uvozne proizvode,Index,96.95
-g)2019 - 2020 Juli,Akciza na uvozne proizvode,Index,76.47
-h)2019 - 2020 August,Akciza na uvozne proizvode,Index,75.01
-a)2019 - 2020 Januar,Akciza na domaće proizvode,Index,39.08
-b)2019 - 2020 Februar,Akciza na domaće proizvode,Index,37.23
-c)2019 - 2020 Mart,Akciza na domaće proizvode,Index,79.14
-d)2019 - 2020 April,Akciza na domaće proizvode,Index,13.29
-e)2019 - 2020 Maj,Akciza na domaće proizvode,Index,30.71
-f)2019 - 2020 Juni,Akciza na domaće proizvode,Index,66.47
-g)2019 - 2020 Juli,Akciza na domaće proizvode,Index,73.22
-h)2019 - 2020 August,Akciza na domaće proizvode,Index,83.15
-a)2019 - 2020 Januar,Posebna taksa (putarina) na naftne derivate,Index,98.18
-b)2019 - 2020 Februar,Posebna taksa (putarina) na naftne derivate,Index,106.13
-c)2019 - 2020 Mart,Posebna taksa (putarina) na naftne derivate,Index,106.08
-d)2019 - 2020 April,Posebna taksa (putarina) na naftne derivate,Index,66.56
-e)2019 - 2020 Maj,Posebna taksa (putarina) na naftne derivate,Index,89.87
-f)2019 - 2020 Juni,Posebna taksa (putarina) na naftne derivate,Index,95.43
-g)2019 - 2020 Juli,Posebna taksa (putarina) na naftne derivate,Index,80.37
-h)2019 - 2020 August,Posebna taksa (putarina) na naftne derivate,Index,75.88
-a)2019 - 2020 Januar,other income and charges,Index,103.63
-b)2019 - 2020 Februar,other income and charges,Index,101.1
-c)2019 - 2020 Mart,other income and charges,Index,81.34
-d)2019 - 2020 April,other income and charges,Index,82.57
-e)2019 - 2020 Maj,other income and charges,Index,77.67
-f)2019 - 2020 Juni,other income and charges,Index,86.03
-g)2019 - 2020 Juli,other income and charges,Index,86.96
-h)2019 - 2020 August,other income and charges,Index,107.15
-a)2019 - 2020 Januar,total,Index,98.5
-b)2019 - 2020 Februar,total,Index,108.88
-c)2019 - 2020 Mart,total,Index,104.14
-d)2019 - 2020 April,total,Index,77.33
-e)2019 - 2020 Maj,total,Index,66.53
-f)2019 - 2020 Juni,total,Index,93.06
-g)2019 - 2020 Juli,total,Index,91.76
-h)2019 - 2020 August,total,Index,82.2
+Year,UNIT_MEASURE,Tip,Value
+a)2019 - 2020 Januar,Index,Porez na dodanu vrijednost,102.68
+b)2019 - 2020 Februar,Index,Porez na dodanu vrijednost,108.04
+c)2019 - 2020 Mart,Index,Porez na dodanu vrijednost,99.23
+d)2019 - 2020 April,Index,Porez na dodanu vrijednost,76.73
+e)2019 - 2020 Maj,Index,Porez na dodanu vrijednost,69.59
+f)2019 - 2020 Juni,Index,Porez na dodanu vrijednost,93.0
+g)2019 - 2020 Juli,Index,Porez na dodanu vrijednost,98.56
+h)2019 - 2020 August,Index,Porez na dodanu vrijednost,84.9
+a)2019 - 2020 Januar,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",102.24
+b)2019 - 2020 Februar,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",109.0
+c)2019 - 2020 Mart,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",90.08
+d)2019 - 2020 April,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",56.7
+e)2019 - 2020 Maj,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",63.74
+f)2019 - 2020 Juni,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",89.74
+g)2019 - 2020 Juli,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",92.66
+h)2019 - 2020 August,Index,"Carinske dažbine, naknade za carinsko evidentiranje i posebne dažbine",82.75
+a)2019 - 2020 Januar,Index,Akciza na uvozne proizvode,96.36
+b)2019 - 2020 Februar,Index,Akciza na uvozne proizvode,124.3
+c)2019 - 2020 Mart,Index,Akciza na uvozne proizvode,130.95
+d)2019 - 2020 April,Index,Akciza na uvozne proizvode,101.58
+e)2019 - 2020 Maj,Index,Akciza na uvozne proizvode,52.06
+f)2019 - 2020 Juni,Index,Akciza na uvozne proizvode,96.95
+g)2019 - 2020 Juli,Index,Akciza na uvozne proizvode,76.47
+h)2019 - 2020 August,Index,Akciza na uvozne proizvode,75.01
+a)2019 - 2020 Januar,Index,Akciza na domaće proizvode,39.08
+b)2019 - 2020 Februar,Index,Akciza na domaće proizvode,37.23
+c)2019 - 2020 Mart,Index,Akciza na domaće proizvode,79.14
+d)2019 - 2020 April,Index,Akciza na domaće proizvode,13.29
+e)2019 - 2020 Maj,Index,Akciza na domaće proizvode,30.71
+f)2019 - 2020 Juni,Index,Akciza na domaće proizvode,66.47
+g)2019 - 2020 Juli,Index,Akciza na domaće proizvode,73.22
+h)2019 - 2020 August,Index,Akciza na domaće proizvode,83.15
+a)2019 - 2020 Januar,Index,Posebna taksa (putarina) na naftne derivate,98.18
+b)2019 - 2020 Februar,Index,Posebna taksa (putarina) na naftne derivate,106.13
+c)2019 - 2020 Mart,Index,Posebna taksa (putarina) na naftne derivate,106.08
+d)2019 - 2020 April,Index,Posebna taksa (putarina) na naftne derivate,66.56
+e)2019 - 2020 Maj,Index,Posebna taksa (putarina) na naftne derivate,89.87
+f)2019 - 2020 Juni,Index,Posebna taksa (putarina) na naftne derivate,95.43
+g)2019 - 2020 Juli,Index,Posebna taksa (putarina) na naftne derivate,80.37
+h)2019 - 2020 August,Index,Posebna taksa (putarina) na naftne derivate,75.88
+a)2019 - 2020 Januar,Index,other income and charges,103.63
+b)2019 - 2020 Februar,Index,other income and charges,101.1
+c)2019 - 2020 Mart,Index,other income and charges,81.34
+d)2019 - 2020 April,Index,other income and charges,82.57
+e)2019 - 2020 Maj,Index,other income and charges,77.67
+f)2019 - 2020 Juni,Index,other income and charges,86.03
+g)2019 - 2020 Juli,Index,other income and charges,86.96
+h)2019 - 2020 August,Index,other income and charges,107.15
+a)2019 - 2020 Januar,Index,total,98.5
+b)2019 - 2020 Februar,Index,total,108.88
+c)2019 - 2020 Mart,Index,total,104.14
+d)2019 - 2020 April,Index,total,77.33
+e)2019 - 2020 Maj,Index,total,66.53
+f)2019 - 2020 Juni,Index,total,93.06
+g)2019 - 2020 Juli,Index,total,91.76
+h)2019 - 2020 August,Index,total,82.2
