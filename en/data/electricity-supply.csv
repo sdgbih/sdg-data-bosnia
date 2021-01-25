@@ -1,17 +1,17 @@
 Year,UNIT_MEASURE,Type,Value
-a)January,Number,available for final consumption_2019,1241
-b)February,Number,available for final consumption_2019,1031
-c)March,Number,available for final consumption_2019,1066
-d)April,Number,available for final consumption_2019,993
-e)May,Number,available for final consumption_2019,1002
-f)June,Number,available for final consumption_2019,"965,807"
-g)July,Number,available for final consumption_2019,946
-h)August,Number,available for final consumption_2019,944
-a)January,Number,available for final consumption_2020,1137
-b)February,Number,available for final consumption_2020,976
-c)March,Number,available for final consumption_2020,931
-d)April,Number,available for final consumption_2020,828
-e)May,Number,available for final consumption_2020,808
-f)June,Number,available for final consumption_2020,812
-g)July,Number,available for final consumption_2020,890
-h)August,Number,available for final consumption_2020,848
+a)January,Number,Available for final consumption 2019,1241
+b)February,Number,Available for final consumption 2019,1031
+c)March,Number,Available for final consumption 2019,1066
+d)April,Number,Available for final consumption 2019,993
+e)May,Number,Available for final consumption 2019,1002
+f)June,Number,Available for final consumption 2019,"965,807"
+g)July,Number,Available for final consumption 2019,946
+h)August,Number,Available for final consumption 2019,944
+a)January,Number,Available for final consumption 2020,1137
+b)February,Number,Available for final consumption 2020,976
+c)March,Number,Available for final consumption 2020,931
+d)April,Number,Available for final consumption 2020,828
+e)May,Number,Available for final consumption 2020,808
+f)June,Number,Available for final consumption 2020,812
+g)July,Number,Available for final consumption 2020,890
+h)August,Number,Available for final consumption 2020,848

@@ -1,52 +1,52 @@
 Year,UNIT_MEASURE,Type,Value
-a)2019 - 2020 January,Index,vat,102.68
-b)2019 - 2020 February,Index,vat,108.04
-c)2019 - 2020 March,Index,vat,99.23
-d)2019 - 2020 April,Index,vat,76.73
-e)2019 - 2020 May,Index,vat,69.59
-f)2019 - 2020 June,Index,vat,93.0
-g)2019 - 2020 July,Index,vat,98.56
-h)2019 - 2020 August,Index,vat,84.9
-a)2019 - 2020 January,Index,customs,102.24
-b)2019 - 2020 February,Index,customs,109.0
-c)2019 - 2020 March,Index,customs,90.08
-d)2019 - 2020 April,Index,customs,56.7
-e)2019 - 2020 May,Index,customs,63.74
-f)2019 - 2020 June,Index,customs,89.74
-g)2019 - 2020 July,Index,customs,92.66
-h)2019 - 2020 August,Index,customs,82.75
-a)2019 - 2020 January,Index,excise duties on import goods,96.36
-b)2019 - 2020 February,Index,excise duties on import goods,124.3
-c)2019 - 2020 March,Index,excise duties on import goods,130.95
-d)2019 - 2020 April,Index,excise duties on import goods,101.58
-e)2019 - 2020 May,Index,excise duties on import goods,52.06
-f)2019 - 2020 June,Index,excise duties on import goods,96.95
-g)2019 - 2020 July,Index,excise duties on import goods,76.47
-h)2019 - 2020 August,Index,excise duties on import goods,75.01
-a)2019 - 2020 January,Index,excise duties on domestic goods,39.08
-b)2019 - 2020 February,Index,excise duties on domestic goods,37.23
-c)2019 - 2020 March,Index,excise duties on domestic goods,79.14
-d)2019 - 2020 April,Index,excise duties on domestic goods,13.29
-e)2019 - 2020 May,Index,excise duties on domestic goods,30.71
-f)2019 - 2020 June,Index,excise duties on domestic goods,66.47
-g)2019 - 2020 July,Index,excise duties on domestic goods,73.22
-h)2019 - 2020 August,Index,excise duties on domestic goods,83.15
-a)2019 - 2020 January,Index,road tax on petroleum products,98.18
-b)2019 - 2020 February,Index,road tax on petroleum products,106.13
-c)2019 - 2020 March,Index,road tax on petroleum products,106.08
-d)2019 - 2020 April,Index,road tax on petroleum products,66.56
-e)2019 - 2020 May,Index,road tax on petroleum products,89.87
-f)2019 - 2020 June,Index,road tax on petroleum products,95.43
-g)2019 - 2020 July,Index,road tax on petroleum products,80.37
-h)2019 - 2020 August,Index,road tax on petroleum products,75.88
-a)2019 - 2020 January,Index,other income and charges,103.63
-b)2019 - 2020 February,Index,other income and charges,101.1
-c)2019 - 2020 March,Index,other income and charges,81.34
-d)2019 - 2020 April,Index,other income and charges,82.57
-e)2019 - 2020 May,Index,other income and charges,77.67
-f)2019 - 2020 June,Index,other income and charges,86.03
-g)2019 - 2020 July,Index,other income and charges,86.96
-h)2019 - 2020 August,Index,other income and charges,107.15
+a)2019 - 2020 January,Index,VAT,102.68
+b)2019 - 2020 February,Index,VAT,108.04
+c)2019 - 2020 March,Index,VAT,99.23
+d)2019 - 2020 April,Index,VAT,76.73
+e)2019 - 2020 May,Index,VAT,69.59
+f)2019 - 2020 June,Index,VAT,93.0
+g)2019 - 2020 July,Index,VAT,98.56
+h)2019 - 2020 August,Index,VAT,84.9
+a)2019 - 2020 January,Index,Customs,102.24
+b)2019 - 2020 February,Index,Customs,109.0
+c)2019 - 2020 March,Index,Customs,90.08
+d)2019 - 2020 April,Index,Customs,56.7
+e)2019 - 2020 May,Index,Customs,63.74
+f)2019 - 2020 June,Index,Customs,89.74
+g)2019 - 2020 July,Index,Customs,92.66
+h)2019 - 2020 August,Index,Customs,82.75
+a)2019 - 2020 January,Index,Excise duties on import goods,96.36
+b)2019 - 2020 February,Index,Excise duties on import goods,124.3
+c)2019 - 2020 March,Index,Excise duties on import goods,130.95
+d)2019 - 2020 April,Index,Excise duties on import goods,101.58
+e)2019 - 2020 May,Index,Excise duties on import goods,52.06
+f)2019 - 2020 June,Index,Excise duties on import goods,96.95
+g)2019 - 2020 July,Index,Excise duties on import goods,76.47
+h)2019 - 2020 August,Index,Excise duties on import goods,75.01
+a)2019 - 2020 January,Index,Excise duties on domestic goods,39.08
+b)2019 - 2020 February,Index,Excise duties on domestic goods,37.23
+c)2019 - 2020 March,Index,Excise duties on domestic goods,79.14
+d)2019 - 2020 April,Index,Excise duties on domestic goods,13.29
+e)2019 - 2020 May,Index,Excise duties on domestic goods,30.71
+f)2019 - 2020 June,Index,Excise duties on domestic goods,66.47
+g)2019 - 2020 July,Index,Excise duties on domestic goods,73.22
+h)2019 - 2020 August,Index,Excise duties on domestic goods,83.15
+a)2019 - 2020 January,Index,Road tax on petroleum products,98.18
+b)2019 - 2020 February,Index,Road tax on petroleum products,106.13
+c)2019 - 2020 March,Index,Road tax on petroleum products,106.08
+d)2019 - 2020 April,Index,Road tax on petroleum products,66.56
+e)2019 - 2020 May,Index,Road tax on petroleum products,89.87
+f)2019 - 2020 June,Index,Road tax on petroleum products,95.43
+g)2019 - 2020 July,Index,Road tax on petroleum products,80.37
+h)2019 - 2020 August,Index,Road tax on petroleum products,75.88
+a)2019 - 2020 January,Index,Other income and charges,103.63
+b)2019 - 2020 February,Index,Other income and charges,101.1
+c)2019 - 2020 March,Index,Other income and charges,81.34
+d)2019 - 2020 April,Index,Other income and charges,82.57
+e)2019 - 2020 May,Index,Other income and charges,77.67
+f)2019 - 2020 June,Index,Other income and charges,86.03
+g)2019 - 2020 July,Index,Other income and charges,86.96
+h)2019 - 2020 August,Index,Other income and charges,107.15
 a)2019 - 2020 January,Index,total,98.5
 b)2019 - 2020 February,Index,total,108.88
 c)2019 - 2020 March,Index,total,104.14
