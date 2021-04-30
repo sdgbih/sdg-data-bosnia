@@ -1,22 +1,25 @@
 Year,UNIT_MEASURE,Type,Value
-2019 Q1,%,non seasonal,2.6
-2019 Q2,%,non seasonal,3.0
-2019 Q3,%,non seasonal,3.2
-2019 Q4,%,non seasonal,1.8
-2020 Q1,%,non seasonal,2.1
-2020 Q2,%,non seasonal,-9.3
-2020 Q2,%,non seasonal,-6.3
-2019 Q1,%,seasonal,0.2
-2019 Q2,%,seasonal,0.8
-2019 Q3,%,seasonal,0.8
-2019 Q4,%,seasonal,0.0
-2020 Q1,%,seasonal,0.6
-2020 Q2,%,seasonal,-10.5
-2020 Q3,%,seasonal,4.0
-2019 Q1,%,final trend,0.7
-2019 Q2,%,final trend,0.6
-2019 Q3,%,final trend,0.6
-2019 Q4,%,final trend,0.5
-2020 Q1,%,final trend,0.5
-2020 Q2,%,final trend,0.6
-2020 Q3,%,final trend,0.5
+ Q1, %, non seasonal,2.7
+ Q2, %, non seasonal,3.2
+ Q3, %, non seasonal,3.4
+ Q4, %,non seasonal,1.9
+ Q1, %, non seasonal,2.3
+ Q2, %, non seasonal,-9.0
+ Q3, %, non seasonal,-6.3
+ Q4, %, non seasonal,-3.8
+ Q1, %, seasonal,0.4
+ Q2, %, seasonal,0.8
+ Q3, %, seasonal,0.9
+ Q4, %, seasonal,0.2
+ Q1, %, seasonal,0.5
+ Q2, %, seasonal,-10.6
+ Q3, %, seasonal,4.1
+ Q4, %, seasonal,3.0
+ Q1, %, final trend,0.7
+ Q2, %, final trend,0.7
+ Q3, %, final trend,0.6
+ Q4, %, final trend,0.6
+ Q1, %, final trend,0.6
+ Q2, %, final trend,0.6
+ Q3, %, final trend,0.6
+ Q4, %, final trend,0.6
