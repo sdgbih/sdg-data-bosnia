@@ -1,6 +1,85 @@
-Year,Mounth,UNIT_MEASURE,Tip,Value
-2020/2019,January,Ukupno,-2.0,
-2020/2019,Februaryy,Ukupno,-2.8,
-2020/2019,March,Ukupno,-12.6,
-2021/2020,January,Ukupno,-2.7,
-2021/20209,Februaryy,Ukupno,-5.5,
+Year,UNIT_MEASURE,Tip,Value
+a)2020 - 2019  Siječanj,Index,Ukupno,-2.0
+b)2020 - 2019  Veljača,Index,Ukupno,-2.8
+c)2020 - 2019  Ožujak,Index,Ukupno,-12.6
+d)2020 - 2019  Trvanj,Index,Ukupno,29.5
+e)2020 - 2019  Svibanj,Index,Ukupno,-4.5
+f)2020 - 2019  Lipanj,Index,Ukupno,18.2
+g)2020 - 2019  Srpanj,Index,Ukupno,-10.1
+h)2020 - 2019  Kolovoz,Index,Ukupno,-0.4
+i)2020 - 2019  Rujan,Index,Ukupno,-1.3
+j)2020 - 2019  Listopad,Index,Ukupno,3.2
+k)2020 - 2019  Studeni,Index,Ukupno,1.6
+l)2020 - 2019  Prosinac,Index,Ukupno,9.7
+a)2021 - 2020  Siječanj,Index,Ukupno,-2.7
+b)2021 - 2020  Veljača,Index,Ukupno,-5.5
+a)2020 - 2019  Siječanj,Index,Intermedijarni proizvodi,-4.0
+b)2020 - 2019  Veljača,Index,Intermedijarni proizvodi,-4.6
+c)2020 - 2019  Ožujak,Index,Intermedijarni proizvodi,-14.3
+d)2020 - 2019  Trvanj,Index,Intermedijarni proizvodi,-26.7
+e)2020 - 2019  Svibanj,Index,Intermedijarni proizvodi,-19.2
+f)2020 - 2019  Lipanj,Index,Intermedijarni proizvodi,-20.1
+g)2020 - 2019  Srpanj,Index,Intermedijarni proizvodi,-7.9
+h)2020 - 2019  Kolovoz,Index,Intermedijarni proizvodi,1.2
+i)2020 - 2019  Rujan,Index,Intermedijarni proizvodi,-4.9
+j)2020 - 2019  Listopad,Index,Intermedijarni proizvodi,2.7
+k)2020 - 2019  Studeni,Index,Intermedijarni proizvodi,3.7
+l)2020 - 2019  Prosinac,Index,Intermedijarni proizvodi,11.4
+a)2021 - 2020  Siječanj,Index,Intermedijarni proizvodi,-1.0
+b)2021 - 2020  Veljača,Index,Intermedijarni proizvodi,-4.2
+a)2020 - 2019  Siječanj,Index,Energija,-43.6
+b)2020 - 2019  Veljača,Index,Energija,-37.6
+c)2020 - 2019  Ožujak,Index,Energija,-32.5
+d)2020 - 2019  Trvanj,Index,Energija,-49.8
+e)2020 - 2019  Svibanj,Index,Energija,-52.5
+f)2020 - 2019  Lipanj,Index,Energija,-53.0
+g)2020 - 2019  Srpanj,Index,Energija,-57.7
+h)2020 - 2019  Kolovoz,Index,Energija,-5.7
+i)2020 - 2019  Rujan,Index,Energija,-13.5
+j)2020 - 2019  Listopad,Index,Energija,-11.6
+k)2020 - 2019  Studeni,Index,Energija,-5.6
+l)2020 - 2019  Prosinac,Index,Energija,-10.7
+a)2021 - 2020  Siječanj,Index,Energija,2.4
+b)2021 - 2020  Veljača,Index,Energija,-1.9
+a)2020 - 2019  Siječanj,Index,Kapitalni proizvodi,3.1
+b)2020 - 2019  Veljača,Index,Kapitalni proizvodi,1.1
+c)2020 - 2019  Ožujak,Index,Kapitalni proizvodi,-27.1
+d)2020 - 2019  Trvanj,Index,Kapitalni proizvodi,-41.1
+e)2020 - 2019  Svibanj,Index,Kapitalni proizvodi,-39.2
+f)2020 - 2019  Lipanj,Index,Kapitalni proizvodi,-37.6
+g)2020 - 2019  Srpanj,Index,Kapitalni proizvodi,-3.3
+h)2020 - 2019  Kolovoz,Index,Kapitalni proizvodi,15.9
+i)2020 - 2019  Rujan,Index,Kapitalni proizvodi,10.8
+j)2020 - 2019  Listopad,Index,Kapitalni proizvodi,7.1
+k)2020 - 2019  Studeni,Index,Kapitalni proizvodi,6.4
+l)2020 - 2019  Prosinac,Index,Kapitalni proizvodi,24.4
+a)2021 - 2020  Siječanj,Index,Kapitalni proizvodi,8.5
+b)2021 - 2020  Veljača,Index,Kapitalni proizvodi,4.3
+a)2020 - 2019  Siječanj,Index,Trajni proizvodi za široku uporabu,-2.0
+b)2020 - 2019  Veljača,Index,Trajni proizvodi za široku uporabu,2.1
+c)2020 - 2019  Ožujak,Index,Trajni proizvodi za široku uporabu,-24.9
+d)2020 - 2019  Trvanj,Index,Trajni proizvodi za široku uporabu,-51.6
+e)2020 - 2019  Svibanj,Index,Trajni proizvodi za široku uporabu,-30.2
+f)2020 - 2019  Lipanj,Index,Trajni proizvodi za široku uporabu,3.8
+g)2020 - 2019  Srpanj,Index,Trajni proizvodi za široku uporabu,3.8
+h)2020 - 2019  Kolovoz,Index,Trajni proizvodi za široku uporabu,6.5
+i)2020 - 2019  Rujan,Index,Trajni proizvodi za široku uporabu,14.9
+j)2020 - 2019  Listopad,Index,Trajni proizvodi za široku uporabu,10.9
+k)2020 - 2019  Studeni,Index,Trajni proizvodi za široku uporabu,9.9
+l)2020 - 2019  Prosinac,Index,Trajni proizvodi za široku uporabu,20.7
+a)2021 - 2020  Siječanj,Index,Trajni proizvodi za široku uporabu,7.6
+b)2021 - 2020  Veljača,Index,Trajni proizvodi za široku uporabu,4.1
+a)2020 - 2019  Siječanj,Index,Netrajni proizvodi za široku uporabu,12.1
+b)2020 - 2019  Veljača,Index,Netrajni proizvodi za široku uporabu,8.7
+c)2020 - 2019  Ožujak,Index,Netrajni proizvodi za široku uporabu,6.5
+d)2020 - 2019  Trvanj,Index,Netrajni proizvodi za široku uporabu,-17.3
+e)2020 - 2019  Svibanj,Index,Netrajni proizvodi za široku uporabu,-14.4
+f)2020 - 2019  Lipanj,Index,Netrajni proizvodi za široku uporabu,1.9
+g)2020 - 2019  Srpanj,Index,Netrajni proizvodi za široku uporabu,-2.8
+h)2020 - 2019  Kolovoz,Index,Netrajni proizvodi za široku uporabu,-8.9
+i)2020 - 2019  Rujan,Index,Netrajni proizvodi za široku uporabu,0.9
+j)2020 - 2019  Listopad,Index,Netrajni proizvodi za široku uporabu,5.0
+k)2020 - 2019  Studeni,Index,Netrajni proizvodi za široku uporabu,-1.1
+l)2020 - 2019  Prosinac,Index,Netrajni proizvodi za široku uporabu,3.2
+a)2021 - 2020  Siječanj,Index,Netrajni proizvodi za široku uporabu,-10.0
+b)2021 - 2020  Veljača,Index,Netrajni proizvodi za široku uporabu,10.3

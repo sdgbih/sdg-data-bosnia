@@ -1,6 +1,85 @@
-Year,Mounth,UNIT_MEASURE,Type,Value
-2020/2019,January,Total,-2.0,
-2020/2019,Februaryy,Total,-2.8,
-2020/2019,March,Total,-12.6,
-2021/2020,January,Total,-2.7,
-2021/20209,Februaryy,Total,-5.5,
+Year,UNIT_MEASURE,Type,Value
+a)2020 - 2019 January,Index,Total,-2.0
+b)2020 - 2019 February,Index,Total,-2.8
+c)2020 - 2019 March,Index,Total,-12.6
+d)2020 - 2019 April,Index,Total,29.5
+e)2020 - 2019 May,Index,Total,-4.5
+f)2020 - 2019 June,Index,Total,18.2
+g)2020 - 2019 July,Index,Total,-10.1
+h)2020 - 2019 August,Index,Total,-0.4
+i)2020 - 2019 September,Index,Total,-1.3
+j)2020 - 2019 October,Index,Total,3.2
+k)2020 - 2019 November,Index,Total,1.6
+l)2020 - 2019 December,Index,Total,9.7
+a)2021 - 2020 January,Index,Total,-2.7
+b)2021 - 2020 February,Index,Total,-5.5
+a)2020 - 2019 January,Index,Intermediate goods,-4.0
+b)2020 - 2019 February,Index,Intermediate goods,-4.6
+c)2020 - 2019 March,Index,Intermediate goods,-14.3
+d)2020 - 2019 April,Index,Intermediate goods,-26.7
+e)2020 - 2019 May,Index,Intermediate goods,-19.2
+f)2020 - 2019 June,Index,Intermediate goods,-20.1
+g)2020 - 2019 July,Index,Intermediate goods,-7.9
+h)2020 - 2019 August,Index,Intermediate goods,1.2
+i)2020 - 2019 September,Index,Intermediate goods,-4.9
+j)2020 - 2019 October,Index,Intermediate goods,2.7
+k)2020 - 2019 November,Index,Intermediate goods,3.7
+l)2020 - 2019 December,Index,Intermediate goods,11.4
+a)2021 - 2020 January,Index,Intermediate goods,-1.0
+b)2021 - 2020 February,Index,Intermediate goods,-4.2
+a)2020 - 2019 January,Index,Energy,-43.6
+b)2020 - 2019 February,Index,Energy,-37.6
+c)2020 - 2019 March,Index,Energy,-32.5
+d)2020 - 2019 April,Index,Energy,-49.8
+e)2020 - 2019 May,Index,Energy,-52.5
+f)2020 - 2019 June,Index,Energy,-53.0
+g)2020 - 2019 July,Index,Energy,-57.7
+h)2020 - 2019 August,Index,Energy,-5.7
+i)2020 - 2019 September,Index,Energy,-13.5
+j)2020 - 2019 October,Index,Energy,-11.6
+k)2020 - 2019 November,Index,Energy,-5.6
+l)2020 - 2019 December,Index,Energy,-10.7
+a)2021 - 2020 January,Index,Energy,2.4
+b)2021 - 2020 February,Index,Energy,-1.9
+a)2020 - 2019 January,Index,Capital goods,3.1
+b)2020 - 2019 February,Index,Capital goods,1.1
+c)2020 - 2019 March,Index,Capital goods,-27.1
+d)2020 - 2019 April,Index,Capital goods,-41.1
+e)2020 - 2019 May,Index,Capital goods,-39.2
+f)2020 - 2019 June,Index,Capital goods,-37.6
+g)2020 - 2019 July,Index,Capital goods,-3.3
+h)2020 - 2019 August,Index,Capital goods,15.9
+i)2020 - 2019 September,Index,Capital goods,10.8
+j)2020 - 2019 October,Index,Capital goods,7.1
+k)2020 - 2019 November,Index,Capital goods,6.4
+l)2020 - 2019 December,Index,Capital goods,24.4
+a)2021 - 2020 January,Index,Capital goods,8.5
+b)2021 - 2020 February,Index,Capital goods,4.3
+a)2020 - 2019 January,Index,Consumer durables,-2.0
+b)2020 - 2019 February,Index,Consumer durables,2.1
+c)2020 - 2019 March,Index,Consumer durables,-24.9
+d)2020 - 2019 April,Index,Consumer durables,-51.6
+e)2020 - 2019 May,Index,Consumer durables,-30.2
+f)2020 - 2019 June,Index,Consumer durables,3.8
+g)2020 - 2019 July,Index,Consumer durables,3.8
+h)2020 - 2019 August,Index,Consumer durables,6.5
+i)2020 - 2019 September,Index,Consumer durables,14.9
+j)2020 - 2019 October,Index,Consumer durables,10.9
+k)2020 - 2019 November,Index,Consumer durables,9.9
+l)2020 - 2019 December,Index,Consumer durables,20.7
+a)2021 - 2020 January,Index,Consumer durables,7.6
+b)2021 - 2020 February,Index,Consumer durables,4.1
+a)2020 - 2019 January,Index,Consumer non-durables,12.1
+b)2020 - 2019 February,Index,Consumer non-durables,8.7
+c)2020 - 2019 March,Index,Consumer non-durables,6.5
+d)2020 - 2019 April,Index,Consumer non-durables,-17.3
+e)2020 - 2019 May,Index,Consumer non-durables,-14.4
+f)2020 - 2019 June,Index,Consumer non-durables,1.9
+g)2020 - 2019 July,Index,Consumer non-durables,-2.8
+h)2020 - 2019 August,Index,Consumer non-durables,-8.9
+i)2020 - 2019 September,Index,Consumer non-durables,0.9
+j)2020 - 2019 October,Index,Consumer non-durables,5.0
+k)2020 - 2019 November,Index,Consumer non-durables,-1.1
+l)2020 - 2019 December,Index,Consumer non-durables,3.2
+a)2021 - 2020 January,Index,Consumer non-durables,-10.0
+b)2021 - 2020 February,Index,Consumer non-durables,10.3
