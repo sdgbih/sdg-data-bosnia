@@ -10,6 +10,7 @@ August,IX,overall indeks 2019,99.9
 September,IX,overall indeks 2019,99.5
 October,IX,overall indeks 2019,99.0
 November,IX,overall indeks 2019,99.6
+December,IX,overall indeks 2019,99.8
 January,IX,overall indeks 2020,99.9
 February,IX,overall indeks 2020,99.9
 March,IX,overall indeks 2020,99.1
@@ -21,6 +22,10 @@ August,IX,overall indeks 2020,99.9
 September,IX,overall indeks 2020,100.3
 October,IX,overall indeks 2020,98.8
 November,IX,overall indeks 2020,98.6
+December,IX,overall indeks 2020,101.2
+January,IX,overall indeks 2021,100.3
+February,IX,overall indeks 2021,101.6
+March,IX,overall indeks 2021,99.8
 January,IX,domestic market 2019,99.6
 February,IX,domestic market 2019,100.4
 March,IX,domestic market 2019,98.2
@@ -32,6 +37,7 @@ August,IX,domestic market 2019,100.0
 September,IX,domestic market 2019,100.1
 October,IX,domestic market 2019,99.0
 November,IX,domestic market 2019,100.3
+December,IX,domestic market 2019,100.0
 January,IX,domestic market 2020,100.0
 February,IX,domestic market 2020,100.0
 March,IX,domestic market 2020,98.5
@@ -43,6 +49,10 @@ August,IX,domestic market 2020,99.9
 September,IX,domestic market 2020,100.3
 October,IX,domestic market 2020,98.1
 November,IX,domestic market 2020,98.2
+December,IX,domestic market 2020,101.6
+January,IX,domestic market 2021,100.1
+February,IX,domestic market 2021,101.8
+March,IX,domestic market 2021,99.0
 January,IX,non-domestic market 2019,100.8
 February,IX,non-domestic market 2019,100.1
 March,IX,non-domestic market 2019,100.6
@@ -54,6 +64,7 @@ August,IX,non-domestic market 2019,99.7
 September,IX,non-domestic market 2019,98.5
 October,IX,non-domestic market 2019,99.0
 November,IX,non-domestic market 2019,98.6
+December,IX,non-domestic market 2019,99.5
 January,IX,non-domestic market 2020,99.9
 February,IX,non-domestic market 2020,99.8
 March,IX,non-domestic market 2020,100.1
@@ -65,3 +76,7 @@ August,IX,non-domestic market 2020,100.0
 September,IX,non-domestic market 2020,100.4
 October,IX,non-domestic market 2020,99.8
 November,IX,non-domestic market 2020,99.2
+December,IX,non-domestic market 2020,100.4
+January,IX,non-domestic market 2021,100.6
+February,IX,non-domestic market 2021,101.5
+March,IX,non-domestic market 2021,101.1

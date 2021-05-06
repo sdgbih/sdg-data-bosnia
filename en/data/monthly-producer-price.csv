@@ -10,6 +10,7 @@ h)August,Index,Overall indeks 2019,99.9
 i)September,Index,Overall indeks 2019,99.5
 j)October,Index,Overall indeks 2019,99.0
 k)November,Index,Overall indeks 2019,99.6
+l)December,Index,Overall indeks 2019,99.8
 a)January,Index,Overall indeks 2020,99.9
 b)February,Index,Overall indeks 2020,99.9
 c)March,Index,Overall indeks 2020,99.1
@@ -21,6 +22,10 @@ h)August,Index,Overall indeks 2020,99.9
 i)September,Index,Overall indeks 2020,100.3
 j)October,Index,Overall indeks 2020,98.8
 k)November,Index,Overall indeks 2020,98.6
+l)December,Index,Overall indeks 2020,101.2
+a)January,Index,Overall indeks 2021,100.3
+b)February,Index,Overall indeks 2021,101.6
+c)March,Index,Overall indeks 2021,99.8
 a)January,Index,Domestic market 2019,99.6
 b)February,Index,Domestic market 2019,100.4
 c)March,Index,Domestic market 2019,98.2
@@ -32,6 +37,7 @@ h)August,Index,Domestic market 2019,100.0
 i)September,Index,Domestic market 2019,100.1
 j)October,Index,Domestic market 2019,99.0
 k)November,Index,Domestic market 2019,100.3
+l)December,Index,Domestic market 2019,100.0
 a)January,Index,Domestic market 2020,100.0
 b)February,Index,Domestic market 2020,100.0
 c)March,Index,Domestic market 2020,98.5
@@ -43,6 +49,10 @@ h)August,Index,Domestic market 2020,99.9
 i)September,Index,Domestic market 2020,100.3
 j)October,Index,Domestic market 2020,98.1
 k)November,Index,Domestic market 2020,98.2
+l)December,Index,Domestic market 2020,101.6
+a)January,Index,Domestic market 2021,100.1
+b)February,Index,Domestic market 2021,101.8
+c)March,Index,Domestic market 2021,99.0
 a)January,Index,Non-domestic market 2019,100.8
 b)February,Index,Non-domestic market 2019,100.1
 c)March,Index,Non-domestic market 2019,100.6
@@ -54,6 +64,7 @@ h)August,Index,Non-domestic market 2019,99.7
 i)September,Index,Non-domestic market 2019,98.5
 j)October,Index,Non-domestic market 2019,99.0
 k)November,Index,Non-domestic market 2019,98.6
+l)December,Index,Non-domestic market 2019,99.5
 a)January,Index,Non-domestic market 2021,99.9
 b)February,Index,Non-domestic market 2021,99.8
 c)March,Index,Non-domestic market 2021,100.1
@@ -65,3 +76,7 @@ h)August,Index,Non-domestic market 2021,100.0
 i)September,Index,Non-domestic market 2021,100.4
 j)October,Index,Non-domestic market 2021,99.8
 k)November,Index,Non-domestic market 2021,99.2
+l)December,Index,Non-domestic market 2021,100.4
+a)January,Index,non-domestic market 2021,100.6
+b)February,Index,non-domestic market 2021,101.5
+c)March,Index,non-domestic market 2021,101.1
