@@ -1,23 +1,53 @@
 Year,UNIT_MEASURE,Tip,Value
-a)Siječanj,u KM,average monthly gross earning 2020,1460
-b)Veljača,u KM,average monthly gross earning 2020,1452
-c)Ožujak,u KM,average monthly gross earning 2020,1466
-d)Travanj,u KM,average monthly gross earning 2020,1454
-e)Svibanj,u KM,average monthly gross earning 2020,1450
-f)Lipanj,u KM,average monthly gross earning 2020,1475
-g)Srpanj,u KM,average monthly gross earning 2020,1492
-h)Kolovoz,u KM,average monthly gross earning 2020,1472
-i)Rujan,u KM,average monthly gross earning 2020,1485
-j)Listopad,u KM,average monthly gross earning 2020,1485
-k)Studeni,u KM,average monthly gross earning 2020,1493
-a)Siječanj,u KM,average monthly paid off net earning 2020,945
-b)Veljača,u KM,average monthly paid off net earning 2020,941
-c)Ožujak,u KM,average monthly paid off net earning 2020,950
-d)Travanj,u KM,average monthly paid off net earning 2020,942
-e)Svibanj,u KM,average monthly paid off net earning 2020,940
-f)Lipanj,u KM,average monthly paid off net earning 2020,955
-g)Srpanj,u KM,average monthly paid off net earning 2020,965
-h)Kolovoz,u KM,average monthly paid off net earning 2020,953
-i)Rujan,u KM,average monthly paid off net earning 2020,962
-j)Listopad,u KM,average monthly paid off net earning 2020,961
-k)Studeni,u KM,average monthly paid off net earning 2020,966
+a)Siječanj 2019,u KM,Prosječna mjesečna bruto plaća,1408
+February_2019,u KM,average monthly gross earning ,1378
+c)Ožujak 2019,u KM,average monthly gross earning ,1397
+d)Travanj 2019,u KM,average monthly gross earning ,1413
+e)Svibanj 2019,u KM,average monthly gross earning ,1430
+f)Lipanj 2019,u KM,average monthly gross earning ,1404
+g)Srpanj 2019,u KM,average monthly gross earning ,1439
+h)Kolovoz 2019,u KM,average monthly gross earning ,1429
+i)Rujan 2019,u KM,average monthly gross earning ,1415
+j)Listopad 2019,u KM,average monthly gross earning ,1440
+k)Studeni 2019,u KM,average monthly gross earning ,1433
+l)Prosinac 2019,u KM,average monthly gross earning ,1470
+m)Siječanj 2020,u KM,Prosječna mjesečna bruto plaća,1460
+n)Veljača 2020,u KM,average monthly gross earning ,1452
+o)Ožujak 2020,u KM,average monthly gross earning ,1466
+p)Travanj 2020,u KM,average monthly gross earning ,1454
+q)Svibanj 2020,u KM,average monthly gross earning ,1450
+r)Lipanj 2020,u KM,average monthly gross earning ,1475
+s)Srpanj 2020,u KM,average monthly gross earning ,1492
+t)Kolovoz 2020,u KM,average monthly gross earning ,1472
+u)Rujan 2020,u KM,average monthly gross earning ,1485
+v)Listopad 2020,u KM,average monthly gross earning ,1485
+w)Studeni 2020,u KM,average monthly gross earning ,1493
+x)Prosinac 2020,u KM,average monthly gross earning ,1526
+y)Siječanj 2021,u KM,average monthly gross earning ,1504
+z)Veljača 2021,u KM,average monthly gross earning ,1490
+a)Siječanj 2019,u KM,average monthly paid off net earning ,913
+February_2019,u KM,average monthly paid off net earning ,895
+c)Ožujak 2019,u KM,average monthly paid off net earning ,907
+d)Travanj 2019,u KM,average monthly paid off net earning ,916
+e)Svibanj 2019,u KM,average monthly paid off net earning ,926
+f)Lipanj 2019,u KM,average monthly paid off net earning ,910
+g)Srpanj 2019,u KM,average monthly paid off net earning ,932
+h)Kolovoz 2019,u KM,average monthly paid off net earning ,925
+i)Rujan 2019,u KM,average monthly paid off net earning ,916
+j)Listopad 2019,u KM,average monthly paid off net earning ,932
+k)Studeni 2019,u KM,average monthly paid off net earning ,928
+l)Prosinac 2019,u KM,average monthly paid off net earning ,951
+m)Siječanj 2020,u KM,average monthly paid off net earning ,945
+n)Veljača 2020,u KM,average monthly paid off net earning ,941
+o)Ožujak 2020,u KM,average monthly paid off net earning ,950
+p)Travanj 2020,u KM,average monthly paid off net earning ,942
+q)Svibanj 2020,u KM,average monthly paid off net earning ,940
+r)Lipanj 2020,u KM,average monthly paid off net earning ,955
+s)Srpanj 2020,u KM,average monthly paid off net earning ,965
+t)Kolovoz 2020,u KM,average monthly paid off net earning ,953
+u)Rujan 2020,u KM,average monthly paid off net earning ,962
+v)Listopad 2020,u KM,average monthly paid off net earning ,961
+w)Studeni 2020,u KM,average monthly paid off net earning ,966
+x)Prosinac 2020,u KM,average monthly paid off net earning ,988
+y)Siječanj 2021,u KM,average monthly paid off net earning ,969
+z)Veljača 2021,u KM,average monthly paid off net earning ,961
