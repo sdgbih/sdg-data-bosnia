@@ -1,7 +1,9 @@
 Year,UNIT_MEASURE,Type,Value
-Q1 2019,TONNES_T,tons of goods transported,3340
-Q2 2019,TONNES_T,tons of goods transported,3686
-Q3 2019,TONNES_T,tons of goods transported,3345
-Q1 2020,TONNES_T,tons of goods transported,2864
-Q2 2020,TONNES_T,tons of goods transported,2710
-Q3 2020,TONNES_T,tons of goods transported,2801
+2019 Q1,TONNES_T,tons of goods transported,3340
+2019 Q2,TONNES_T,tons of goods transported,3686
+2019 Q3,TONNES_T,tons of goods transported,3345
+2019 Q4,TONNES_T,tons of goods transported,3322
+2020 Q1,TONNES_T,tons of goods transported,2864
+2020 Q2,TONNES_T,tons of goods transported,2710
+2020 Q3,TONNES_T,tons of goods transported,2801
+2020 Q4,TONNES_T,tons of goods transported,3136
