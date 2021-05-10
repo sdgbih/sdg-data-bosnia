@@ -1,7 +1,9 @@
 Year,UNIT_MEASURE,Type,Value
-Q1 2019,TONNES_T,freight transported,0.442
-Q2 2019,TONNES_T,freight transported,0.514
-Q3 2019,TONNES_T,freight transported,0.737
-Q1 2020,TONNES_T,freight transported,0.423
-Q2 2020,TONNES_T,freight transported,0.566
-Q3 2020,TONNES_T,freight transported,0.963
+2019 Q1,TONNES,tons of goods transported,442
+2019 Q2,TONNES,tons of goods transported,514
+2019 Q3,TONNES,tons of goods transported,737
+2019 Q4,TONNES,tons of goods transported,542
+2020 Q1,TONNES,tons of goods transported,423
+2020 Q2,TONNES,tons of goods transported,566
+2020 Q3,TONNES,tons of goods transported,963
+2020 Q4,TONNES,tons of goods transported,463
