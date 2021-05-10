@@ -1,17 +1,27 @@
 Year,UNIT_MEASURE,Tip,Value
-a)Januar,Broj,Zaposleni 2019,823455
-b)Februar,Broj,Zaposleni 2019,819410
-c)Mart,Broj,Zaposleni 2019,822275
-d)April,Broj,Zaposleni 2019,827121
-e)Maj,Broj,Zaposleni 2019,819832
-f)Juni,Broj,Zaposleni 2019,821124
-g)Juli,Broj,Zaposleni 2019,821791
-h)August,Broj,Zaposleni 2019,816926
-a)Januar,Broj,Zaposleni 2020,833909
-b)Februar,Broj,Zaposleni 2020,832200
-c)Mart,Broj,Zaposleni 2020,830421
-d)April,Broj,Zaposleni 2020,808894
-e)Maj,Broj,Zaposleni 2020,800067
-f)Juni,Broj,Zaposleni 2020,804028
-g)Juli,Broj,Zaposleni 2020,807326
-h)August,Broj,Zaposleni 2020,799207
+a)Januar 2019,Broj,Zaposleni 2019,823455
+b)Februar 2019,Broj,Zaposleni 2019,819410
+c)Mart 2019,Broj,Zaposleni 2019,822275
+d)April 2019,Broj,Zaposleni 2019,827121
+e)Maj 2019,Broj,Zaposleni 2019,829477
+f)Juni 2019,Broj,Zaposleni 2019,821124
+g)Juli 2019,Broj,Zaposleni 2019,821791
+h)August 2019,Broj,Zaposleni 2019,816926
+i)Septembar 2019,Broj,Zaposleni 2019,822259
+j)Oktobar 2019,Broj,Zaposleni 2019,825466
+k)Novembar 2019,Broj,Zaposleni 2019,831126
+l)Decembar 2019,Broj,Zaposleni 2019,830383
+m)Januar 2020,Broj,Zaposleni 2020,833909
+n)Februar 2020,Broj,Zaposleni 2020,832200
+o)Mart 2020,Broj,Zaposleni 2020,830421
+p)April 2020,Broj,Zaposleni 2020,808894
+q)Maj 2020,Broj,Zaposleni 2020,808868
+r)Juni 2020,Broj,Zaposleni 2020,804028
+s)Juli 2020,Broj,Zaposleni 2020,803326
+t)August 2020,Broj,Zaposleni 2020,799207
+u)Septembar 2020,Broj,Zaposleni 2020,806350
+v)Oktobar 2020,Broj,Zaposleni 2020,807985
+w)Novembar 2020,Broj,Zaposleni 2020,814715
+x)Decembar 2020,Broj,Zaposleni 2020,813942
+y)Januar 2021,Broj,Zaposleni 2021,809667
+z)Februar 2021,Broj,Zaposleni 2021,808884

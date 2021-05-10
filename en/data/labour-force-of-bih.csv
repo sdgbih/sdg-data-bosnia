@@ -1,17 +1,27 @@
 Year,UNIT_MEASURE,Type,Value
-a)January,Number,Employed 2019,823455
-b)February,Number,Employed 2019,819410
-c)March,Number,Employed 2019,822275
-d)April,Number,Employed 2019,827121
-e)May,Number,Employed 2019,819832
-f)June,Number,Employed 2019,821124
-g)July,Number,Employed 2019,821791
-h)August,Number,Employed 2019,816926
-a)January,Number,Employed 2020,833909
-b)February,Number,Employed 2020,832200
-c)March,Number,Employed 2020,830421
-d)April,Number,Employed 2020,808894
-e)May,Number,Employed 2020,800067
-f)June,Number,Employed 2020,804028
-g)July,Number,Employed 2020,807326
-h)August,Number,Employed 2020,799207
+a)January 2019,Number,Employed 2019,823455
+b)February 2019,Number,Employed 2019,819410
+c)March 2019,Number,Employed 2019,822275
+d)April 2019,Number,Employed 2019,827121
+e)May 2019,Number,Employed 2019,829477
+f)June 2019,Number,Employed 2019,821124
+g)July 2019,Number,Employed 2019,821791
+h)August 2019,Number,Employed 2019,816926
+i)September 2019,Number,Employed 2019,822259
+j)October 2019,Number,Employed 2019,825466
+k)November 2019,Number,Employed 2019,831126
+l)December 2019,Number,Employed 2019,830383
+m)January 2020,Number,Employed 2020,833909
+n)February 2020,Number,Employed 2020,832200
+o)March 2020,Number,Employed 2020,830421
+p)April 2020,Number,Employed 2020,808894
+q)May 2020,Number,Employed 2020,808868
+r)June 2020,Number,Employed 2020,804028
+s)July 2020,Number,Employed 2020,803326
+t)August 2020,Number,Employed 2020,799207
+u)September 2020,Number,Employed 2020,806350
+v)October 2020,Number,Employed 2020,807985
+w)November 2020,Number,Employed 2020,814715
+x)December 2020,Number,Employed 2020,813942
+y)January 2021,Number,Employed 2021,809667
+z)February 2021,Number,Employed 2021,808884
