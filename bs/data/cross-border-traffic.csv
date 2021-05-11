@@ -1,13 +1,17 @@
 Year,UNIT_MEASURE,Tip,Value
-a)2019 Q1,Broj,Ukupan granični promet - Ulaz,6793862
-b)2019 Q2,Broj,Ukupan granični promet - Ulaz,6754482
+a)2019 Q1,Broj,Ukupan granični promet - Ulaz,5089290
+b)2019 Q2,Broj,Ukupan granični promet - Ulaz,6754888
 c)2019 Q3,Broj,Ukupan granični promet - Ulaz,8253750
+d)2019 Q4,Broj,Ukupan granični promet - Ulaz,6284465
 a)2019 Q1,Broj,Ukupan granični promet - Izlaz,5248925
 b)2019 Q2,Broj,Ukupan granični promet - Izlaz,6793862
 c)2019 Q3,Broj,Ukupan granični promet - Izlaz,8328680
-e)2020 Q1,Broj,Ukupan granični promet - Ulaz,4213687
+d)2019 Q4,Broj,Ukupan granični promet - Izlaz,6212490
+e)2020 Q1,Broj,Ukupan granični promet - Ulaz,4213587
 f)2020 Q2,Broj,Ukupan granični promet - Ulaz,1582652
 g)2020 Q3,Broj,Ukupan granični promet - Ulaz,3668004
-e)2020 Q1,Broj,Ukupan granični promet - Izlaz,4349367
+h)2020 Q4,Broj,Ukupan granični promet - Ulaz,2708268
+e)2020 Q1,Broj,Ukupan granični promet - Ulaz,4349367
 f)2020 Q2,Broj,Ukupan granični promet - Izlaz,1531978
 g)2020 Q3,Broj,Ukupan granični promet - Izlaz,3673817
+h)2020 Q4,Broj,Ukupan granični promet - Izlaz,2620815
