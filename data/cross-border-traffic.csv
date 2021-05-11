@@ -1,13 +1,17 @@
 Year,UNIT_MEASURE,Type,Value
-2019 Q1,NUMBER,cross- border traffic total - Entry,6793862
-2019 Q2,NUMBER,cross- border traffic total - Entry,6754482
+2019 Q1,NUMBER,cross- border traffic total - Entry,5089290
+2019 Q2,NUMBER,cross- border traffic total - Entry,6754888
 2019 Q3,NUMBER,cross- border traffic total - Entry,8253750
+2019 Q4,NUMBER,cross- border traffic total - Entry,6284465
 2019 Q1,NUMBER,cross- border traffic total - Exit,5248925
 2019 Q2,NUMBER,cross- border traffic total - Exit,6793862
 2019 Q3,NUMBER,cross- border traffic total - Exit,8328680
-2020 Q1,NUMBER,cross- border traffic total - Entry,4213687
+2019 Q4,NUMBER,cross- border traffic total - Exit,6212490
+2020 Q1,NUMBER,cross- border traffic total - Entry,4213587
 2020 Q2,NUMBER,cross- border traffic total - Entry,1582652
 2020 Q3,NUMBER,cross- border traffic total - Entry,3668004
-2020 Q1,NUMBER,cross- border traffic total - Exit,4349367
+2020 Q4,NUMBER,cross- border traffic total - Entry,2708268
+2020 Q1,NUMBER,cross- border traffic total - Entry,4349367
 2020 Q2,NUMBER,cross- border traffic total - Exit,1531978
 2020 Q3,NUMBER,cross- border traffic total - Exit,3673817
+2020 Q4,NUMBER,cross- border traffic total - Exit,2620815
