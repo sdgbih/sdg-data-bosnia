@@ -319,7 +319,10 @@ SH_XPD_EARN10: Proportion of population with large household expenditures on hea
   (greater than 10%) as a share of total household expenditure or income
 SH_XPD_EARN25: Proportion of population with large household expenditures on health
   (greater than 25%) as a share of total household expenditure or income
+SI_COV_BENFTS: Proportion of population covered by at least one social protection benefit, by sex (%)
+SI_COV_DISAB: Proportion of population with severe disabilities receiving disability cash benefit, by sex (%) 
 SI_COV_LMKT: Proportion of population covered by labour market programs
+SI_COV_MATNL: Proportion of mothers with newborns receiving maternity cash benefit (%) 
 SI_COV_PENSN: Proportion of population above statutory pensionable age receiving a
   pension
 SI_COV_SOCAST: Proportion of population covered by social assistance programs
