@@ -215,7 +215,10 @@ SH_TBS_INCD: Učestalost tuberkuloze
 SH_TRP_INTVN: Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti
 SH_XPD_EARN10: Udio stanovništva s velikim troškovima za zdravstvo po domaćinstvu kao udio u ukupnim rashodima ili prihodima domaćinstva 
 SH_XPD_EARN25: Udio stanovništva s velikim troškovima za zdravstvo (većim od 25%) po domaćinstvu kao udio u ukupnim rashodima ili prihodima domaćinstva 
+SI_COV_BENFTS: Udio stanovništva obuhvaćenog najmanje jednom naknadom socijalne zaštite, prema spolu (%)
+SI_COV_DISAB: Udio stanovništva s teškim invaliditetom koje prima novčanu naknadu za invalidnost, prema spolu (%) 
 SI_COV_LMKT: Udio stanovništva obuhvaćenog programima tržišta rada
+SI_COV_MATNL: Udio majki s novorođenčadi koje primaju novčanu naknadu za materinstvo (%) 
 SI_COV_PENSN: Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju
 SI_COV_SOCAST: Udio stanovništva obuhvaćenog programima socijalne pomoći
 SI_COV_SOCINS: Udio stanovništva obuhvaćenog programima socijalnog osiguranja
