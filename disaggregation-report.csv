@@ -7,6 +7,6 @@ INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,�
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
 SERIES,SDG Series,SDG Varijable,SDG Варијабле,SDG Varijable,146,264
-SEX,Sex,Spol,Пол,Spol,31,6
+SEX,Sex,Spol,Пол,Spol,31,5
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,146,30
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,9,3
