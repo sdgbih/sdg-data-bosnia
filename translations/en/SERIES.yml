@@ -199,6 +199,7 @@ SG_DMK_PARLMP_UC: "Ratio for female members of parliaments (Ratio of the proport
 SG_DMK_PARLSP_LC: Number of speakers in parliament, by age and sex , Lower Chamber
   or Unicameral
 SG_DMK_PARLSP_UC: Number of speakers in parliament, by age and sex, Upper Chamber
+SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in line with the Sendai Framework 
 SG_DSR_SILN: Number of local governments that adopt and implement local DRR strategies
   in line with national strategies
 SG_DSR_SILS: Proportion of local governments that adopt and implement local disaster
