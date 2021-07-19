@@ -137,6 +137,7 @@ SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u par
 SG_DMK_PARLMP_UC: "Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
 SG_DMK_PARLSP_LC: Broj govornika u parlamentu, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu
 SG_DMK_PARLSP_UC: Broj govornika u parlamentu, prema starosti i spolu, u gornjem domu
+SG_DSR_LGRGSR: Ocjena usvajanja i provedbe nacionalnih strategija za smanjenje rizika od katastrofa sukladno sa Sendai okvirom 
 SG_DSR_SILN: Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa sukladno nacionalnim strategijama
 SG_DSR_SILS: Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa sukladno nacionalnim strategijama smanjenja rizika od katastrofa
 SG_GEN_EQPWN: Udio zemalja sa sustavima praćenja i raspodjelom javnih rashoda za rodnu ravnopravnost i osnaživanje žena 
