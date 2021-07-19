@@ -329,6 +329,7 @@ SI_COV_PENSN: Proportion of population above statutory pensionable age receiving
 SI_COV_SOCAST: Proportion of population covered by social assistance programs
 SI_COV_SOCINS: Proportion of population covered by social insurance programs
 SI_COV_UEMP: Proportion of unemployed persons receiving unemployment cash benefit
+SI_COV_WKINJRY:  Proportion of employed population covered in the event of work injury, by sex (%)
 SI_POV_50MI: "Proportion of people living below 50\_percent of median income"
 SI_POV_DAY1: Proportion of population below international poverty line
 SI_POV_EMP1: Employed population below international poverty line
