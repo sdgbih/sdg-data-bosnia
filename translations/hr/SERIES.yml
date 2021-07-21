@@ -115,6 +115,8 @@ NV_IND_MANFPC: Dodana vrijednost proizvodnje po glavi stanovnika
 NV_IND_SSIS: Udio malih industrija u ukupnoj dodanoj vrijednosti industrije
 NV_IND_TECH: Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost
 NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
+PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta u 2011. međunarodnim USD) 
+PD_AGR_SSFP: Produktivnost malih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta iz 2011. u međunarodnim USD) 
 SD_CPA_UPRDP: "Broj zemalja koje imaju nacionalne urbane politike ili planove regionalnog razvitka koji (a) odgovaraju na dinamiku stanovništva; (b) osiguravaju uravnotežen teritorijalni razvoj; i (c) povećava lokalni fiskalni prostor (1 = DA; 0 = NE)"
 SERIES: SDG Varijable
 SE_ADT_ACTS: Udio mladih i odraslih sa vještinama u informacijskim i komunikacijskim tehnologijama (IKT)
@@ -219,6 +221,7 @@ SH_TBS_INCD: Učestalost tuberkuloze
 SH_TRP_INTVN: Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti
 SH_XPD_EARN10: Udio stanovništva s velikim troškovima za zdravstvo po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
 SH_XPD_EARN25: Udio stanovništva s velikim troškovima za zdravstvo (većim od 25%) po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
+SI_AGR_LSFP: Prosječni dohodak velikih proizvođača hrane, PPP (konstanta u 2011. godini u inozemstvu)
 SI_COV_BENFTS: Udio stanovništva obuhvaćenog najmanje jednom naknadom socijalne zaštite, prema spolu (%)
 SI_COV_DISAB: Udio stanovništva s teškim invaliditetom koje prima novčanu naknadu za invalidnost, prema spolu (%) 
 SI_COV_LMKT: Udio stanovništva obuhvaćenog programima tržišta rada
