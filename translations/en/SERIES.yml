@@ -64,7 +64,7 @@ ER_CBD_ORSPGRFA: Countries that have legislative, administrative and policy fram
 ER_CBD_PTYPGRFA: Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)
 ER_CBD_SMTA: Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
 ER_GRF_ANIMRCNTN: Number of local breeds for which sufficient genetic resources are stored for reconstitution
-ER_GRF_PLNTSTOR: Plant breeds for which sufficient genetic resources are stored (number)
+ER_GRF_PLNTSTOR: Plant genetic resources accessions stored ex situ (number) 
 ER_H2O_IWRMD: Degree of integrated water resources management implementation
 ER_H2O_PRDU: Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)
 ER_H2O_RURP: Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)
