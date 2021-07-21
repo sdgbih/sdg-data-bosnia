@@ -115,6 +115,8 @@ NV_IND_MANFPC: Manufacturing value added per capita
 NV_IND_SSIS: Proportion of small-scale industries in total industry value added
 NV_IND_TECH: Proportion of medium and high-tech industry value added in total value added
 NY_GDP_PCAP: Annual growth rate of real GDP per capita
+PD_AGR_LSFP: Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) 
+PD_AGR_SSFP: Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)
 SD_CPA_UPRDP: "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO) \nSD_CPA_UPRDP"
 SERIES: SDG Series
 SE_ADT_ACTS: Proportion of youth and adults with information and communications technology (ICT) skills
@@ -219,6 +221,7 @@ SH_TBS_INCD: Tuberculosis incidence
 SH_TRP_INTVN: Number of people requiring interventions against neglected tropical diseases
 SH_XPD_EARN10: Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income
 SH_XPD_EARN25: Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income
+SI_AGR_LSFP: Average income of large-scale food producers, PPP (constant 2011 international $) 
 SI_COV_BENFTS: Proportion of population covered by at least one social protection benefit, by sex (%)
 SI_COV_DISAB: Proportion of population with severe disabilities receiving disability cash benefit, by sex (%) 
 SI_COV_LMKT: Proportion of population covered by labour market programs
