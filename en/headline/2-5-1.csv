@@ -9,12 +9,12 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,0,Number,Number of local breeds for which sufficient genetic resources are stored for reconstitution
 2018,0,Number,Number of local breeds for which sufficient genetic resources are stored for reconstitution
 2019,0,Number,Number of local breeds for which sufficient genetic resources are stored for reconstitution
-2000,62,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2005,64,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2010,211,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2012,434,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2014,434,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2016,434,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2017,479,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2018,479,Number,Plant breeds for which sufficient genetic resources are stored (number)
-2019,479,Number,Plant breeds for which sufficient genetic resources are stored (number)
+2000,62,Number,Plant genetic resources accessions stored ex situ (number)
+2005,64,Number,Plant genetic resources accessions stored ex situ (number)
+2010,211,Number,Plant genetic resources accessions stored ex situ (number)
+2012,434,Number,Plant genetic resources accessions stored ex situ (number)
+2014,434,Number,Plant genetic resources accessions stored ex situ (number)
+2016,434,Number,Plant genetic resources accessions stored ex situ (number)
+2017,479,Number,Plant genetic resources accessions stored ex situ (number)
+2018,479,Number,Plant genetic resources accessions stored ex situ (number)
+2019,479,Number,Plant genetic resources accessions stored ex situ (number)
