@@ -199,6 +199,9 @@ SH_SAN_DEFECT: Udio stanovništva koje prakticira otvorenu defekaciju
 SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
 SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja
 SH_STA_AIRP: Stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka
+SH_STA_ANEM: Udio žena u dobi od 15-49 godina s anemijom (%)
+SH_STA_ANEM_NPRG: Udio žena u dobi od 15-49 godina s anemijom, koje nisu trudne (%) 
+SH_STA_ANEM_PREG: Udio žena u dobi od 15-49 godina s anemijom, trudnica (%) 
 SH_STA_ASAIRP: Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka (umrli na 100 000 stanovnika)
 SH_STA_BRTC: Udio poroda uz prisustvo kvalifikovanih zdravstvenih radnika
 SH_STA_MORT: Stopa smrtnosti majki 
