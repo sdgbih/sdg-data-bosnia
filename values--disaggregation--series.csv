@@ -7,6 +7,7 @@ AG_LND_FRSTCERT,Forest area certified under an independently verified certificat
 AG_LND_FRSTCHG,Forest area net change rate (%),Neto promjene šumske površine (%),AG_LND_FRSTCHG,Neto promjene šumske površine (%),1,1
 AG_LND_FRSTN,Forest area (hectares),Šumska površina (hektari),AG_LND_FRSTN,Šumska površina (hektari),1,1
 AG_LND_TOTL,Land area (hectares),Površina zemljišta (hektari),AG_LND_TOTL,Površina zemljišta (hektari),1,1
+AG_PRD_AGVAS,Agriculture value added share of GDP,Udio dodane vrijednosti poljoprivrede u BDP-u,AG_PRD_AGVAS,Udio dodane vrijednosti poljoprivrede u BDP-u,1,1
 AG_PRD_FIESMS,Prevalence of moderate or severe food insecurity in the population,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,AG_PRD_FIESMS,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije,3,1
 AG_PRD_FIESMSN,Population in moderate or severe food insecurity (number),Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),AG_PRD_FIESMSN,Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj),3,1
 AG_PRD_FIESS,Prevalence of severe food insecurity in the population,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,AG_PRD_FIESS,Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije,3,1
