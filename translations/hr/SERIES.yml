@@ -6,6 +6,7 @@ AG_LND_FRSTCERT: Površina šume certificirana prema neovisno potvrđenoj certif
 AG_LND_FRSTCHG: Neto promjene šumske površine (%)
 AG_LND_FRSTN: Šumska površina (hektari)
 AG_LND_TOTL: Površina zemljišta (hektari)
+AG_PRD_AGVAS: Udio dodane vrijednosti poljoprivrede u BDP-u 
 AG_PRD_FIESMS: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije 
 AG_PRD_FIESMSN: Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (broj) 
 AG_PRD_FIESS: Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije 
