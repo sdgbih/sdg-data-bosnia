@@ -1,7 +1,20 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2001,Agriculture value added share of GDP,Percent,8.92
+2002,Agriculture value added share of GDP,Percent,8.57
+2003,Agriculture value added share of GDP,Percent,7.78
+2004,Agriculture value added share of GDP,Percent,8.52
+2005,Agriculture value added share of GDP,Percent,8.3
+2006,Agriculture value added share of GDP,Percent,8.05
+2007,Agriculture value added share of GDP,Percent,7.7
+2008,Agriculture value added share of GDP,Percent,7.21
+2009,Agriculture value added share of GDP,Percent,7.08
+2010,Agriculture value added share of GDP,Percent,6.8
+2011,Agriculture value added share of GDP,Percent,6.76
+2012,Agriculture value added share of GDP,Percent,6.14
+2013,Agriculture value added share of GDP,Percent,6.84
+2014,Agriculture value added share of GDP,Percent,5.95
+2015,Agriculture value added share of GDP,Percent,6.24
+2016,Agriculture value added share of GDP,Percent,6.37
+2017,Agriculture value added share of GDP,Percent,5.6
+2018,Agriculture value added share of GDP,Percent,5.89
+2018,Agriculture value added share of GDP,Percent,5.6
