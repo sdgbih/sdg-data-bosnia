@@ -77,6 +77,7 @@ ER_MTN_TOTL: Planinsko područje (kvadratni kilometri)
 ER_PTD_FRHWTR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
 ER_PTD_MTN: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
 ER_PTD_TERR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
+ER_RSK_LBREDS: Udio lokalnih sorti klasificiranih kao u opasnosti od izumiranja
 ER_RSK_LST: Indeks crvene liste
 ER_WAT_PART: Zemlje sa korisnicima/zajednicama koje učestvuju u programima planiranja i upravljanja vodnim resursima, prema nivou učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)
 ER_WAT_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja u planiranju i upravljanju vodnim resursima, prema nivou definicije u postupcima (10 = Jasno definisano; 5 = Nije jasno definisano; 0 = NA) 
