@@ -16,7 +16,8 @@ DC_FTA_TOTAL: Total official development assistance (gross disbursement) for tec
 DC_ODA_BDVL: Total official development assistance for biodiversity, by recipient countries
 DC_ODA_POVLG: Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)
 DC_TOF_AGRL: Total official flows (disbursements) for agriculture, by recipient countries
-DC_TOF_HLTHL: Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries
+DC_TOF_HLTHL: Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2019 United States dollars) 
+DC_TOF_HLTHNT: Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2019 United States dollars)
 DC_TOF_INFRAL: Total official flows for infrastructure, by recipient countries
 DC_TOF_SCHIPSL: Total official flows for scholarships, by recipient countries
 DC_TOF_TRDCML: Total official flows (commitments) for Aid for Trade, by recipient countries
@@ -177,11 +178,12 @@ SH_AAP_ASMORT: Age-standardized mortality rate attributed to ambient air polluti
 SH_AAP_MORT: Crude death rate attributed to ambient air pollution
 SH_ACS_DTP3: Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)
 SH_ACS_MCV2: Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)
+SH_ACS_PCV3: Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%) 
 SH_ACS_UNHC: Universal health coverage (UHC) service coverage index
 SH_ALC_CONSPT: Alcohol consumption per capita (aged 15 years and older) within a calendar year
 SH_BLD_ECOLI: Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested
 SH_BLD_MRSA: Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested
-SH_DTH_NCD: Deaths attributed non-communicable diseases (number)
+SH_DTH_NCD: Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)
 SH_DTH_NCOM: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
 SH_DYN_IMRT: Infant mortality rate
 SH_DYN_IMRTN: Infant deaths (number)
@@ -195,8 +197,9 @@ SH_HAP_ASMORT: Age-standardized mortality rate attributed to household air pollu
 SH_HAP_HBSAG: Prevalence of hepatitis B surface antigen (HBsAg)
 SH_HAP_MORT: Crude death rate attributed to household air pollution
 SH_HIV_INCD: Number of new HIV infections per 1,000 uninfected population
+SH_HLF_EMED: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)
 SH_IHR_CAPS: International Health Regulations (IHR) capacity, by type of IHR capacity
-SH_MED_DEN: Health workder density
+SH_MED_DEN: Health worker density, by type of occupation (per 10,000 population) 
 SH_MED_HWRKDIS: Health worker distribution, by sex and type of occupation
 SH_PRV_SMOK: Age-standardized prevalence of current tobacco use among persons aged 15 years and older
 SH_SAN_DEFECT: Proportion of population practicing open defecation
@@ -214,12 +217,13 @@ SH_STA_SCIDE: Suicide mortality rate
 SH_STA_SCIDEN: Number of deaths attributed to suicide
 SH_STA_STNT: Proportion of children moderately or severely stunted
 SH_STA_STNTN: Children moderately or severely stunted (number)
-SH_STA_TRAF: Death rate due to road traffic injuries
+SH_STA_TRAF: Death rate due to road traffic injuries, by sex (per 100,000 population) 
 SH_STA_WASH: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene
 SH_STA_WAST: Proportion of children moderately or severely wasted
 SH_STA_WASTN: Children moderately or severely wasted (number)
 SH_SUD_ALCOL: Alcohol use disorders, 12-month prevalence (%)
-SH_TBS_INCD: Tuberculosis incidence
+SH_SUD_TREAT: Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%) 
+SH_TBS_INCID: Tuberculosis incidence (per 100,000 population) 
 SH_TRP_INTVN: Number of people requiring interventions against neglected tropical diseases
 SH_XPD_EARN10: Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income
 SH_XPD_EARN25: Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income
