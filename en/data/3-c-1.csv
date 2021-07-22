@@ -1,71 +1,71 @@
 Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
-2000,Health workder density,"Per 10,000 population",,Medical doctors,14.547
-2001,Health workder density,"Per 10,000 population",,Medical doctors,14.499
-2002,Health workder density,"Per 10,000 population",,Medical doctors,14.478
-2003,Health workder density,"Per 10,000 population",,Medical doctors,14.776
-2004,Health workder density,"Per 10,000 population",,Medical doctors,15.09
-2005,Health workder density,"Per 10,000 population",,Medical doctors,15.332
-2006,Health workder density,"Per 10,000 population",,Medical doctors,15.754
-2007,Health workder density,"Per 10,000 population",,Medical doctors,16.429
-2008,Health workder density,"Per 10,000 population",,Medical doctors,16.714
-2009,Health workder density,"Per 10,000 population",,Medical doctors,17.38
-2010,Health workder density,"Per 10,000 population",,Medical doctors,17.987
-2011,Health workder density,"Per 10,000 population",,Medical doctors,18.794
-2012,Health workder density,"Per 10,000 population",,Medical doctors,19.49
-2013,Health workder density,"Per 10,000 population",,Medical doctors,20.355
-2014,Health workder density,"Per 10,000 population",,Medical doctors,21.326
-2015,Health workder density,"Per 10,000 population",,Medical doctors,21.616
-2000,Health workder density,"Per 10,000 population",,Pharmacists,1.013
-2001,Health workder density,"Per 10,000 population",,Pharmacists,0.932
-2002,Health workder density,"Per 10,000 population",,Pharmacists,0.99
-2003,Health workder density,"Per 10,000 population",,Pharmacists,0.965
-2004,Health workder density,"Per 10,000 population",,Pharmacists,0.978
-2005,Health workder density,"Per 10,000 population",,Pharmacists,0.879
-2006,Health workder density,"Per 10,000 population",,Pharmacists,0.916
-2007,Health workder density,"Per 10,000 population",,Pharmacists,0.97
-2008,Health workder density,"Per 10,000 population",,Pharmacists,0.964
-2009,Health workder density,"Per 10,000 population",,Pharmacists,0.974
-2010,Health workder density,"Per 10,000 population",,Pharmacists,1.001
-2011,Health workder density,"Per 10,000 population",,Pharmacists,1.071
-2012,Health workder density,"Per 10,000 population",,Pharmacists,1.171
-2013,Health workder density,"Per 10,000 population",,Pharmacists,1.211
-2014,Health workder density,"Per 10,000 population",,Pharmacists,1.266
-2015,Health workder density,"Per 10,000 population",,Pharmacists,1.292
-2000,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,44.687
-2001,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,43.968
-2002,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,44.664
-2003,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,48.341
-2004,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,48.093
-2005,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,48.687
-2006,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,49.394
-2007,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,50.221
-2008,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,51.898
-2009,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,53.096
-2010,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,54.867
-2011,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,56.085
-2012,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,58.921
-2013,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,59.005
-2014,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,61.319
-2015,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,61.798
-2016,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,54.726
-2017,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,55.647
-2018,Health workder density,"Per 10,000 population",,Nursing and midwifery personnel,57.333
-2000,Health workder density,"Per 10,000 population",,Dentists,1.933
-2001,Health workder density,"Per 10,000 population",,Dentists,1.808
-2002,Health workder density,"Per 10,000 population",,Dentists,1.825
-2003,Health workder density,"Per 10,000 population",,Dentists,1.223
-2004,Health workder density,"Per 10,000 population",,Dentists,1.918
-2005,Health workder density,"Per 10,000 population",,Dentists,1.918
-2006,Health workder density,"Per 10,000 population",,Dentists,2.045
-2007,Health workder density,"Per 10,000 population",,Dentists,1.988
-2008,Health workder density,"Per 10,000 population",,Dentists,1.795
-2009,Health workder density,"Per 10,000 population",,Dentists,1.82
-2010,Health workder density,"Per 10,000 population",,Dentists,2.151
-2011,Health workder density,"Per 10,000 population",,Dentists,2.207
-2012,Health workder density,"Per 10,000 population",,Dentists,2.427
-2013,Health workder density,"Per 10,000 population",,Dentists,2.284
-2014,Health workder density,"Per 10,000 population",,Dentists,2.369
-2015,Health workder density,"Per 10,000 population",,Dentists,2.4
+2000,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,14.547
+2001,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,14.499
+2002,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,14.478
+2003,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,14.776
+2004,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,15.09
+2005,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,15.332
+2006,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,15.754
+2007,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,16.429
+2008,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,16.714
+2009,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,17.38
+2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,17.987
+2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,18.794
+2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,19.49
+2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,20.355
+2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,21.326
+2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,21.616
+2000,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.013
+2001,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.932
+2002,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.99
+2003,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.965
+2004,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.978
+2005,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.879
+2006,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.916
+2007,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.97
+2008,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.964
+2009,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.974
+2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.001
+2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.071
+2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.171
+2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.211
+2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.266
+2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.292
+2000,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,44.687
+2001,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,43.968
+2002,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,44.664
+2003,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,48.341
+2004,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,48.093
+2005,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,48.687
+2006,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,49.394
+2007,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,50.221
+2008,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,51.898
+2009,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,53.096
+2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,54.867
+2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,56.085
+2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,58.921
+2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,59.005
+2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,61.319
+2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,61.798
+2016,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,54.726
+2017,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,55.647
+2018,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,57.333
+2000,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.933
+2001,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.808
+2002,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.825
+2003,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.223
+2004,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.918
+2005,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.918
+2006,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.045
+2007,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.988
+2008,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.795
+2009,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.82
+2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.151
+2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.207
+2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.427
+2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.284
+2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.369
+2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.4
 2013,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing personnel,79.5
 2014,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing personnel,78.2
 2015,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing personnel,78.6

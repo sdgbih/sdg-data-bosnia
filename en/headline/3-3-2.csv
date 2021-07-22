@@ -1,20 +1,20 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,83,"Per 100,000 population",Tuberculosis incidence
-2001,82,"Per 100,000 population",Tuberculosis incidence
-2002,56,"Per 100,000 population",Tuberculosis incidence
-2003,59,"Per 100,000 population",Tuberculosis incidence
-2004,78,"Per 100,000 population",Tuberculosis incidence
-2005,70,"Per 100,000 population",Tuberculosis incidence
-2006,59,"Per 100,000 population",Tuberculosis incidence
-2007,79,"Per 100,000 population",Tuberculosis incidence
-2008,57,"Per 100,000 population",Tuberculosis incidence
-2009,58,"Per 100,000 population",Tuberculosis incidence
-2010,45,"Per 100,000 population",Tuberculosis incidence
-2011,46,"Per 100,000 population",Tuberculosis incidence
-2012,49,"Per 100,000 population",Tuberculosis incidence
-2013,44,"Per 100,000 population",Tuberculosis incidence
-2014,43,"Per 100,000 population",Tuberculosis incidence
-2015,40,"Per 100,000 population",Tuberculosis incidence
-2016,33,"Per 100,000 population",Tuberculosis incidence
-2017,29,"Per 100,000 population",Tuberculosis incidence
-2018,25,"Per 100,000 population",Tuberculosis incidence
+2000,83,"Per 100,000 population",SH_TBS_INCD
+2001,82,"Per 100,000 population",SH_TBS_INCD
+2002,56,"Per 100,000 population",SH_TBS_INCD
+2003,59,"Per 100,000 population",SH_TBS_INCD
+2004,78,"Per 100,000 population",SH_TBS_INCD
+2005,70,"Per 100,000 population",SH_TBS_INCD
+2006,59,"Per 100,000 population",SH_TBS_INCD
+2007,79,"Per 100,000 population",SH_TBS_INCD
+2008,57,"Per 100,000 population",SH_TBS_INCD
+2009,58,"Per 100,000 population",SH_TBS_INCD
+2010,45,"Per 100,000 population",SH_TBS_INCD
+2011,46,"Per 100,000 population",SH_TBS_INCD
+2012,49,"Per 100,000 population",SH_TBS_INCD
+2013,44,"Per 100,000 population",SH_TBS_INCD
+2014,43,"Per 100,000 population",SH_TBS_INCD
+2015,40,"Per 100,000 population",SH_TBS_INCD
+2016,33,"Per 100,000 population",SH_TBS_INCD
+2017,29,"Per 100,000 population",SH_TBS_INCD
+2018,25,"Per 100,000 population",SH_TBS_INCD

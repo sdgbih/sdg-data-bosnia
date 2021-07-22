@@ -14,63 +14,63 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,COMPOSITE_BREAKDOWN,Value
 2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,26.6
 2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,23.6
 2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,23.1
-2000,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cancer,4952.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cancer,5983.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cancer,6617.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cancer,7212.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cancer,7262.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Female,Cancer,2035.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Female,Cancer,2490.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Female,Cancer,2726.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Female,Cancer,2955.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Female,Cancer,2955.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cardiovascular disease,17774.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cardiovascular disease,19965.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20095.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20044.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20279.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Female,Cardiovascular disease,9160.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Female,Cardiovascular disease,10313.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Female,Cardiovascular disease,10777.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Female,Cardiovascular disease,10809.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Female,Cardiovascular disease,10982.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Diabetes,1021.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Diabetes,2025.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Diabetes,2522.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Diabetes,2567.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Diabetes,2552.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Female,Diabetes,657.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Female,Diabetes,1234.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Female,Diabetes,1518.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Female,Diabetes,1522.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Female,Diabetes,1511.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1298.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1474.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1475.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1447.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1448.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Male,Cancer,2917.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Male,Cancer,3493.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Male,Cancer,3891.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Male,Cancer,4257.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Male,Cancer,4307.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Male,Cardiovascular disease,8614.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Male,Cardiovascular disease,9652.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Male,Cardiovascular disease,9318.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Male,Cardiovascular disease,9235.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Male,Cardiovascular disease,9298.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Male,Diabetes,365.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Male,Diabetes,791.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Male,Diabetes,1004.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Male,Diabetes,1045.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Male,Diabetes,1040.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Female,Chronic respiratory disease,564.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Female,Chronic respiratory disease,584.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Female,Chronic respiratory disease,597.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Female,Chronic respiratory disease,575.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Female,Chronic respiratory disease,580.0
-2000,Deaths attributed non-communicable diseases (number),Number,,Male,Chronic respiratory disease,735.0
-2005,Deaths attributed non-communicable diseases (number),Number,,Male,Chronic respiratory disease,890.0
-2010,Deaths attributed non-communicable diseases (number),Number,,Male,Chronic respiratory disease,879.0
-2015,Deaths attributed non-communicable diseases (number),Number,,Male,Chronic respiratory disease,872.0
-2016,Deaths attributed non-communicable diseases (number),Number,,Male,Chronic respiratory disease,868.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,4952.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,5983.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,6617.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,7212.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,7262.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,2035.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,2490.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,2726.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,2955.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,2955.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,17774.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,19965.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20095.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20044.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,20279.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,9160.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10313.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10777.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10809.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10982.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,1021.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2025.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2522.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2567.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2552.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,657.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1234.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1518.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1522.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1511.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1298.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1474.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1475.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1447.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1448.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,2917.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,3493.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,3891.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,4257.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,4307.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,8614.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,9652.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,9318.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,9235.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,9298.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,365.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,791.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,1004.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,1045.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,1040.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,564.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,584.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,597.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,575.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,580.0
+2000,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,735.0
+2005,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,890.0
+2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,879.0
+2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,872.0
+2016,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,868.0
