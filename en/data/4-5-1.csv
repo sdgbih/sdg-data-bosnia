@@ -110,20 +110,20 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Male,,Urban,0.0
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,Male,,Urban,0.0
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,Male,,Urban,0.0
-2018,Gender parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,1.00606
-2018,Gender parity index for achievement,Ratio,Lower secondary education,,,Reading,,1.43035
-2006,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,0.883600405130323
-2007,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,0.891686129033341
-2008,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,1.06196239724885
-2010,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,0.910083897185205
-2011,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,0.98996595671436
-2012,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,1.05592578636944
-2016,Gender parity index for participation rate in formal and non-formal education and training,Ratio,,,,,,0.955056179775281
+2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,1.00606
+2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,1.43035
+2006,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.883600405130323
+2007,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.891686129033341
+2008,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.06196239724885
+2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.910083897185205
+2011,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.98996595671436
+2012,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.05592578636944
+2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.955056179775281
 2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,0.902083532281409
 2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.853972251001899
-2018,Low to high socio-economic parity status index for achievement,Ratio,Lower secondary education,,,Mathematics,,0.452756475702723
-2018,Low to high socio-economic parity status index for achievement,Ratio,Lower secondary education,,,Reading,,0.498835485525049
-2018,Native parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,0.885883261376352
-2018,Native parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.792833837645942
-2018,Rural to urban parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,0.582614943513902
-2018,Rural to urban parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.555354166299471
+2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.452756475702723
+2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.498835485525049
+2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.885883261376352
+2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.792833837645942
+2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.582614943513902
+2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.555354166299471
