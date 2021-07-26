@@ -1,2 +1,4 @@
-Year,SERIES,UNIT_MEASURE,Value
-2012,SE_DEV_ONTRK,Проценат,96.4
+Year,SERIES,UNIT_MEASURE,Пол,Value
+2012,SE_DEV_ONTRK,Проценат,Оба пола или без подјеле по полу,96.4
+2012,SE_DEV_ONTRK,Проценат,Жене,97.6
+2012,SE_DEV_ONTRK,Проценат,Мушкарци,95.3
