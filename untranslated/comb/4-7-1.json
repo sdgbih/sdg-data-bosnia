@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2020,2020],"SERIES":["SE_GCEDESD_NEP","SE_GCEDESD_SAS"],"UNIT_MEASURE":["IX","IX"],"Value":[0.583,0.5]},"edges":[]}
