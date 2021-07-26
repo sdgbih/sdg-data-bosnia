@@ -158,7 +158,7 @@ SG_DSR_SILS: Proportion of local governments that adopt and implement local disa
 SG_GEN_EQPWN: Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment
 SG_GEN_LOCGELS: Proportion of elected seats held by women in deliberative bodies of local government
 SG_GEN_PARL: Proportion of seats held by women in national parliaments (% of total number of seats)
-SG_GEN_PARLN: Number of seats held by women in national parliaments
+SG_GEN_PARLN:  Current number of seats in national parliaments (number)
 SG_GEN_PARLNT: Number of seats in national parliaments
 SG_GOV_LOGV: Number of local governments
 SG_HAZ_CMRBASEL: Compliance with the Basel Convention on hazardous waste and other chemicals
@@ -168,6 +168,7 @@ SG_HAZ_CMRSTHOLM: Compliance with the Stockholm Convention on hazardous waste an
 SG_INF_ACCSS: Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information
 SG_INT_MBRDEV: Proportion of members of developing countries in international organizations, by organization
 SG_INT_VRTDEV: Proportion of voting rights of developing countries in international organizations, by organization
+SG_LGL_LNDFEMOD: Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) 
 SG_NHR_IMPLN: Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)
 SG_NHR_NOAPPLN: Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)
 SG_PLN_RECNDI: Proportion of new development interventions drawn from country-led result frameworks - data by recipient (%)
@@ -286,4 +287,5 @@ VC_HTF_DETVSX: Detected victims of human trafficking for sexual exploitaton (num
 VC_IHR_PSRC: Number of victims of intentional homicide per 100,000 population
 VC_IHR_PSRCN: Number of victims of intentional homicide
 VC_PRS_UNSNT: Unsentenced detainees as a proportion of overall prison population
+C_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) 
 VC_VAW_PHYPYV: Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month
