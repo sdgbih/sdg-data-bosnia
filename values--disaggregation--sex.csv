@@ -1,7 +1,15 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,Оба пола или без подјеле по полу,Oba spola ili bez podjele po spolu,127,27
+_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,Оба пола или без подјеле по полу,Oba spola ili bez podjele po spolu,136,27
 _U,Unknown,Nepoznato,Непознато,Nepoznato,5,1
 _X,Not available,Nije dostupno,Није доступно,Nije dostupno,2,1
-F,Female,Žene,Жене,Žene,149,35
-M,Male,Muškarci,Мушкарци,Muškarci,140,28
+F,Female,Žene,Жене,Žene,158,35
+M,Male,Muškarci,Мушкарци,Muškarci,148,28
+SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,1,1
+SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,2,1
+SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,2,1
+SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,2,1
+SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,2,1
+SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,1,1
+SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,2,1
+SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,2,1
 T,T,T,T,T,1,1

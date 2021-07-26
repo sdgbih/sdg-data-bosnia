@@ -55,30 +55,66 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Urban,0.0
-2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,0.0
-2000,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.97704
-2006,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99838
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.98434
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.98433
-2000,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Both sexes or no breakdown by sex,,,0.99638
-2006,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Both sexes or no breakdown by sex,,,1.01804
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Both sexes or no breakdown by sex,,,0.99747
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,Both sexes or no breakdown by sex,,,0.98717
-2000,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Both sexes or no breakdown by sex,,,0.60731
-2006,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Both sexes or no breakdown by sex,,,0.60786
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Both sexes or no breakdown by sex,,,0.9377
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,0.91663
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Female,,,0.98805
+2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,0.99243
+2000,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.97704,
+2006,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.99838,
+2012,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.98434,
+2012,SE_ALP_CPLRRO,ISCED11_2,_T,F,,,0.98805,
+2012,SE_ALP_CPLRRO,ISCED11_2,_T,M,,,0.98121 ,
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Female,,,0.0
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Female,,,1.00079
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,Female,,,0.0
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Female,,,0.94017
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),Female,,,0.0
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Male,,,0.98121
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Male,,,0.0
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Male,,,0.99417
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,Both sexes or no breakdown by sex,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 3,Both sexes or no breakdown by sex,,,0.98433
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 3,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 3,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 4,Both sexes or no breakdown by sex,,,0.97623
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 4,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 4,Male,,,1.00326
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Male,,,0.0
+2000,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,0.99638 ,
+2006,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,1.01804,
+2012,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,0.99747,
+2012,SE_ALP_CPLRRO,ISCED11_1,_T,F,,,1.00079,
+2012,SE_ALP_CPLRRO,ISCED11_1,_T,M,,,0.99417,
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Both sexes or no breakdown by sex,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,Both sexes or no breakdown by sex,,,0.98717
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,Male,,,0.0
-2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Male,,,0.93559
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 4,Both sexes or no breakdown by sex,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 4,Female,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 4,Male,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Female,,,1.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Male,,,1.0
+2000,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.60731,
+2006,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.60786,
+2012,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.9377,
+2012,SE_ALP_CPLRRO,ISCED11_3,_T,F,,,0.94017,
+2012,SE_ALP_CPLRRO,ISCED11_3,_T,M,,,0.93559 ,
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,Both sexes or no breakdown by sex,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,Both sexes or no breakdown by sex,,,0.91663
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Both sexes or no breakdown by sex,,,1.00836
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Female,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,Male,,,0.0
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,1.01963
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),Male,,,0.0
 2006,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,Total,0.95734
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,Total,0.90817
@@ -110,20 +146,34 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,Male,,Urban,0.0
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,Male,,Urban,0.0
 2012,"Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,Male,,Urban,0.0
-2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,1.00606
-2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,1.43035
-2006,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.883600405130323
-2007,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.891686129033341
-2008,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.06196239724885
-2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.910083897185205
-2011,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.98996595671436
-2012,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.05592578636944
-2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.955056179775281
-2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,0.902083532281409
-2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.853972251001899
-2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.452756475702723
-2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.498835485525049
-2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.885883261376352
-2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.792833837645942
-2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.582614943513902
-2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.555354166299471
+2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,1.30087
+2006,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.8836
+2007,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.89169
+2008,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.06196
+2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.91008
+2011,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.98997
+2012,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.05593
+2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.95506
+2019,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,0.97203
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSSHT,,1.03128,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSSHT,,0.70046,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCMFL,,0.94207 ,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCMFL,,0.94222,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCPT,,0.84348 ,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCPT,,0.73837,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTATCH,,0.75366,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPST,,0.73845,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPST,,0.69955,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPRGM,,0.31226,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPRGM,,0.28540,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSFWR,,0.79713,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTTRFF,,0.88954,
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTTRFF,,0.91255,
+2007,Language test parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,1.31399
+2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.85397
+2007,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.93271
+2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.49884
+2007,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.50366
+2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.79283
+2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.73563
+2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,0.55535

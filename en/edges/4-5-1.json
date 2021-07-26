@@ -1,1 +1,1 @@
-{"From":["Education level","Education level","Income or wealth quantile","Income or wealth quantile"],"To":["Income or wealth quantile","COMPOSITE_BREAKDOWN","Sex","Degree of urbanisation"]}
+{"From":["Education level","Education level"],"To":["Income or wealth quantile","COMPOSITE_BREAKDOWN"]}
