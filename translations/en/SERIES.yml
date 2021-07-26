@@ -128,14 +128,24 @@ SE_AGP_CPRA: Adjusted gender parity index for completion rate, by sex, location,
 SE_ALP_CPLR: Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level
 SE_AWP_CPRA: Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level
 SE_DEV_ONTRK: 'Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning'
-SE_GPI_PART: Gender parity index for participation rate in formal and non-formal education and training
+SE_GCEDESD_CUR: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula 
+SE_GCEDESD_NEP: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies 
+SE_GCEDESD_SAS: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment 
+SE_GCEDESD_TED: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
+SE_GPI_ICTS: Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio) 
+SE_GPI_PART: Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) 
+SE_GPI_PTNPRE: Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) 
+SE_IMP_FPOF: Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) 
 SE_LGP_ACHI: Language test parity index for achievement
-SE_NAP_ACHI: Native parity index for achievement
+SE_NAP_ACHI: Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_PRE_PARTN: Participation rate in organized learning (one year before the official primary entry age), by sex (%)
 SE_TOT_CPLR: Completion rate, by sex, location, wealth quintile and education level (%)
-SE_TOT_GPI: Gender parity index for achievement
+SE_TOT_GPI: Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_TOT_GPI_FS: Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
 SE_TOT_PRFL: Proportion of children and young people achieving a minimum proficiency level in reading and mathematics
-SE_TOT_RUPI: Rural to urban parity index for achievement
-SE_TOT_SESPI: Low to high socio-economic parity status index for achievement
+SE_TOT_RUPI: Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_TOT_SESPI: Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_TRA_GRDL: Proportion of teachers with the minimum required qualifications, by education level and sex (%) 
 SG_DMK_PARLCC_LC: Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral
 SG_DMK_PARLCC_UC: Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber
 SG_DMK_PARLMP_LC: "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
