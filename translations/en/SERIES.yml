@@ -287,5 +287,5 @@ VC_HTF_DETVSX: Detected victims of human trafficking for sexual exploitaton (num
 VC_IHR_PSRC: Number of victims of intentional homicide per 100,000 population
 VC_IHR_PSRCN: Number of victims of intentional homicide
 VC_PRS_UNSNT: Unsentenced detainees as a proportion of overall prison population
-C_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) 
+VC_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) 
 VC_VAW_PHYPYV: Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month
