@@ -3,11 +3,10 @@ ACTIVITY,Economic activity,Privredna aktivnost,Привредна активно
 AGE,Age,Godine,Године,Godine,24,19
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,3,3
-Group,Group,Group,Group,Group,1,2
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,6
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
-SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,150,270
-SEX,Sex,Spol,Пол,Spol,35,6
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,150,30
+SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,151,271
+SEX,Sex,Spol,Пол,Spol,36,6
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,151,30
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,9,3
