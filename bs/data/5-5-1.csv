@@ -20,6 +20,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2018,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,9.0
 2019,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,9.0
 2020,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,9.0
+2021,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,11.0
 2000,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2001,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2002,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
@@ -41,7 +42,9 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2018,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2019,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2020,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
+2021,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2018,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Procenat,Žene,18.59
+2020,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Procenat,Žene,19.5973
 2000,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,7.14
 2001,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,7.14
 2002,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,16.67
@@ -63,3 +66,4 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2018,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,21.43
 2019,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,21.43
 2020,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,21.43
+2021,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,26.19
