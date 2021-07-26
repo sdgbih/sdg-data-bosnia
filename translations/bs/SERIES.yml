@@ -128,14 +128,25 @@ SE_AGP_CPRA: Prilagođeni indeks rodnog pariteta za stopu završetka, prema spol
 SE_ALP_CPLR: Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja
 SE_AWP_CPRA: Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja
 SE_DEV_ONTRK: 'Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje'
-SE_GPI_PART: Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci
-SE_LGP_ACHI: Indeks pariteta jezičkog testa za postignuća
-SE_NAP_ACHI: Izvorni indeks pariteta za postignuće
+SE_GCEDESD_CUR: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nastavne planove i programe 
+SE_GCEDESD_NEP: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nacionalne obrazovne politike 
+SE_GCEDESD_SAS: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u ocjenjivanje učenika 
+SE_GCEDESD_TED: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u obrazovanju nastavnika 
+SE_GPI_ICTS: Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer) 
+SE_GPI_PART: Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer) 
+SE_GPI_PTNPRE: Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer) 
+SE_IMP_FPOF: Prilagođeni imigracioni status ndeks pariteta za postizanje najmanje fiksnog nivoa znanja u funkcionalnim vještinama, prema vještini računanja/pismenosti (omjer) 
+SE_LGP_ACHI: Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer) 
+SE_NAP_ACHI: Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer) 
+SE_PRE_PARTN: Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%) 
 SE_TOT_CPLR: Stopa završetka studija prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja (%)
-SE_TOT_GPI: Indeks rodnog pariteta za postignuća
+SE_TOT_GPI: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer) 
+SE_TOT_GPI_FS: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer) 
 SE_TOT_PRFL: Udio djece i mladih  koja postižu najmanje minimalan nivo dostignuća u čitanju i  matematici 
-SE_TOT_RUPI: Indeks ruralnog prema urbanom paritetu za postignuća
-SE_TOT_SESPI: Niski do visoki indeks statusa socijalno-ekonomskog pariteta za postignuća
+SE_TOT_RUPI: Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog nivoa čitanja i računanja (omjer)
+SE_TOT_SESPI: Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer) 
+SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%) 
+SERIES: SDG Serije
 SG_DMK_PARLCC_LC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
 SG_DMK_PARLCC_UC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, gornji dom 
 SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
