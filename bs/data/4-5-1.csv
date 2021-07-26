@@ -110,20 +110,20 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,Urbano,0.0
 2012,"Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,Urbano,0.0
 2012,"Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,Urbano,0.0
-2018,Indeks rodnog pariteta za postignuća,Odnos,Niže srednje obrazovanje,,,Matematika,,1.00606
-2018,Indeks rodnog pariteta za postignuća,Odnos,Niže srednje obrazovanje,,,Čitanje,,1.43035
-2006,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,0.883600405130323
-2007,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,0.891686129033341
-2008,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,1.06196239724885
-2010,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,0.910083897185205
-2011,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,0.98996595671436
-2012,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,1.05592578636944
-2016,Indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci,Odnos,,,,,,0.955056179775281
-2018,Indeks pariteta jezičkog testa za postignuća,Odnos,Niže srednje obrazovanje,,,Matematika,,0.902083532281409
-2018,Indeks pariteta jezičkog testa za postignuća,Odnos,Niže srednje obrazovanje,,,Čitanje,,0.853972251001899
-2018,Niski do visoki indeks statusa socijalno-ekonomskog pariteta za postignuća,Odnos,Niže srednje obrazovanje,,,Matematika,,0.452756475702723
-2018,Niski do visoki indeks statusa socijalno-ekonomskog pariteta za postignuća,Odnos,Niže srednje obrazovanje,,,Čitanje,,0.498835485525049
-2018,Izvorni indeks pariteta za postignuće,Odnos,Niže srednje obrazovanje,,,Matematika,,0.885883261376352
-2018,Izvorni indeks pariteta za postignuće,Odnos,Niže srednje obrazovanje,,,Čitanje,,0.792833837645942
-2018,Indeks ruralnog prema urbanom paritetu za postignuća,Odnos,Niže srednje obrazovanje,,,Matematika,,0.582614943513902
-2018,Indeks ruralnog prema urbanom paritetu za postignuća,Odnos,Niže srednje obrazovanje,,,Čitanje,,0.555354166299471
+2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,1.00606
+2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,1.43035
+2006,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.883600405130323
+2007,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.891686129033341
+2008,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,1.06196239724885
+2010,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.910083897185205
+2011,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.98996595671436
+2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,1.05592578636944
+2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.955056179775281
+2018,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.902083532281409
+2018,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.853972251001899
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.452756475702723
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.498835485525049
+2018,Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.885883261376352
+2018,Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.792833837645942
+2018,Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.582614943513902
+2018,Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.555354166299471
