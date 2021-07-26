@@ -3,6 +3,7 @@ ACTIVITY,Economic activity,Privredna aktivnost,Привредна активно
 AGE,Age,Godine,Године,Godine,24,19
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,3,4
+Group,Group,Group,Group,Group,1,2
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,8
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
