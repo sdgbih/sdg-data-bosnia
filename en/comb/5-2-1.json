@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2018,2018],"SERIES":["VC_VAW_MARR","VC_VAW_MARR"],"UNIT_MEASURE":["Percent","Percent"],"Age":["15 years old and over","15 to 49 years old"],"Sex":["Female","Female"],"Value":[2.7,3.4]},"edges":{"From":["Age"],"To":["Sex"]}}
