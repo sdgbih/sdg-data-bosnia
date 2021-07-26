@@ -159,7 +159,7 @@ SG_GEN_EQPWN: Udio zemalja sa sustavima praćenja i raspodjelom javnih rashoda z
 SG_GEN_LOCGELS: Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave
 SG_GEN_PARL: Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta)
 SG_GEN_PARLN: Broj mjesta koje imaju žene u nacionalnim parlamentima
-SG_GEN_PARLNT: Broj mjesta u nacionalnim parlamentima
+SG_GEN_PARLNT: Trenutni broj mjesta u nacionalnim parlamentima (broj) 
 SG_GOV_LOGV: Broj lokalnih samouprava
 SG_HAZ_CMRBASEL: Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim kemikalijama
 SG_HAZ_CMRMNTRL: Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama
@@ -168,6 +168,7 @@ SG_HAZ_CMRSTHOLM: Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i d
 SG_INF_ACCSS: Broj zemalja koje usvajaju i provode ustavne, zakonske i/ili političke garancije za pristup informacijama od javnog značaja 
 SG_INT_MBRDEV: Udio članova zemalja u razvoju u međunarodnim organizacijama, prema organizaciji  
 SG_INT_VRTDEV: Udio prava glasa zemalja u razvoju u međunarodnim organizacijama, prema organizaciji
+SG_LGL_LNDFEMOD: Stupanj do kojeg zakonski okvir (uključujući običajno pravo) garantira jednaka prava žena na vlasništvo nad zemljom i /ili kontrolu (1 = Nema dokaza do 6 = Najviši nivo garancija) 
 SG_NHR_IMPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)
 SG_NHR_NOAPPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, D status (1 = DA; 0 = NE)
 SG_PLN_RECNDI: Udio novih razvojnih intervencija izvučenih iz okvira rezultata koje vode zemlje - podaci prema primatelju
@@ -286,4 +287,5 @@ VC_HTF_DETVSX: Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje
 VC_IHR_PSRC: Broj žrtava ubojstava s namjerom na 100 000 stanovnika
 VC_IHR_PSRCN: Broj žrtava ubojstava s predomišljajem
 VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
+VC_VAW_MARR: Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)  
 VC_VAW_PHYPYV: Udio djece starosti 1 - 14 godina koja su tijekom proteklog mjeseca doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane skrbnika, u proteklih mjesec dana 
