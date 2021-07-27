@@ -1,4 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,Без пођеле,Bez podjele,3,1
-ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",3,1
+_T,No breakdown,Bez podjele,Без пођеле,Bez podjele,6,2
+INDUSTRIES,Industries,Industrije,Индустрије,Industrije,3,1
+ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",4,2
 ISIC4_BTU,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,3,1
+ISIC4_C,Manufacturing,Proizvodnja,Производња,Proizvodnja,1,1
+PRIV_HH,Private households,Privatna domaćinstva,Приватна домаћинства,Privatna domaćinstva,1,1
+SERV_HH,"Services, and activities by households",Usluge i aktivnosti domaćinstava,Услуге и активности домаћинстава,Usluge i aktivnosti domaćinstava,1,1
+SERVICES,Services,Usluge,Услуге,Usluge,1,1
