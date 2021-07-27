@@ -1,4 +1,12 @@
 ACTIVITY: Economic activity
+INDUSTRIES: Industries
 ISIC4_A: Agriculture, forestry and fishing
+ISIC4_B: Mining and quarrying
+ISIC4_C: Manufacturing
+ISIC4_D: Electricity, gas, steam and air conditioning supply
+ISIC4_F: Construction
+PRIV_HH: Private households
+SERV_HH: Services, and activities by households
+SERVICES: Services
 ISIC4_BTU: Non-agriculture
 _T: No breakdown
