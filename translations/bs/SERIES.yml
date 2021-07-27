@@ -57,6 +57,9 @@ EN_SCP_FSHGDP: Održivi ribolov kao udio u BDP-u
 EN_WBE_PMNR: Opseg vodnog tijela (trajni) (kvadratni kilometri)
 EN_WBE_PMPN: Opseg vodnog tijela (trajni i možda trajnih) (kvadratni kilometri)
 EN_WBE_PMPR: Opseg vodnog tijela (trajni) (% ukupne površine kopna)
+EN_WWT_GEN: Ukupna generisana otpadna voda (milion m3/godišnje) 
+EN_WWT_TREAT: Ukupna prečišćena otpadna voda (milion m3/godišnje) 
+EN_WWT_TREATR: Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%) 
 EN_WWT_WWDS: Udio sigurno prečišćenih protoka otpadnih voda iz domaćinstva
 ER_BDY_ABT2NP: Zemlje koje su uspostavile nacionalne ciljeve u skladu sa Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE)
 ER_BDY_SEEA: Zemlje s integrisanim vrijednostima biodiverziteta u nacionalnim sistemima računovodstva i izvještavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)
