@@ -57,6 +57,9 @@ EN_SCP_FSHGDP: Sustainable fisheries as a proportion of GDP
 EN_WBE_PMNR: Water body extent (permanent) (square kilometres)
 EN_WBE_PMPN: Water body extent (permanent and maybe permanent) (square kilometres)
 EN_WBE_PMPR: Water body extent (permanent) (% of total land area)
+EN_WWT_GEN: Total wastewater generated (million m3/year) 
+EN_WWT_TREAT: Total wastewater treated (million m3/year) 
+EN_WWT_TREATR: Proportion of wastewater treated, by activity and location (%) 
 EN_WWT_WWDS: Proportion of safely treated domestic wastewater flows
 ER_BDY_ABT2NP: Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)
 ER_BDY_SEEA: Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)
