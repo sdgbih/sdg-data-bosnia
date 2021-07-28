@@ -4,3 +4,24 @@ ISCO08_222_322: Medicinsko osoblje i babice
 ISCO08_2261: Zubari
 ISCO08_2262: Farmaceuti
 OCCUPATION: Zanimanje
+isco08: Sva zanimanja
+isco08-0: Zanimanja oružanih snaga
+isco08-1: Menadžeri
+isco08-2: Profesionalci
+isco08-3: Tehničari i pridruženi profesionalci
+isco08-4: Službenici hitne pomoći
+isco08-5: Uslužni i prodajni radnici
+isco08-6: KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu
+isco08-7: Zanatski i srodni radnici
+isco08-8: Operateri postrojenja i strojeva, te monteri
+isco08-9: Osnovna zanimanja
+isco88-1: Zakonodavci, visoki službenici i menadžeri
+isco88-2: Profesionalci
+isco88-3: Tehničari i saradnici
+isco88-4: Službenici
+isco88-5: Uslužni radnici i radnici u trgovini i prodaji
+isco88-6: Kvalificirani poljoprivredni i ribarstveni radnici
+isco88-7: Zanatski i srodni radnici
+isco88-8: Rukovaoci postrojenja i mašina i monteri
+isco88-9: Osnovna zanimanja
+isco88-X: Neklasificirani na drugom mjestu
