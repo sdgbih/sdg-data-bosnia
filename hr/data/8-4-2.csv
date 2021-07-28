@@ -122,7 +122,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2012,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,3.9123
 2013,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,3.86773
 2014,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,3.87477
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.3249
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.32493
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.48257
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.62956
 2000,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni plin,0.04529
@@ -611,24 +611,24 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2015,"Potrošnja domaćih materijala, po jedinici BDP-a",Kilogrami po konstanti američkog dolara,Drvo,0.10868
 2016,"Potrošnja domaćih materijala, po jedinici BDP-a",Kilogrami po konstanti američkog dolara,Drvo,0.10473
 2017,"Potrošnja domaćih materijala, po jedinici BDP-a",Kilogrami po konstanti američkog dolara,Drvo,0.10104
-2000,Potrošnja domaćih materijala,Tone,Bez podjele,6925657.0
-2001,Potrošnja domaćih materijala,Tone,Bez podjele,7512072.0
-2002,Potrošnja domaćih materijala,Tone,Bez podjele,7782116.0
-2003,Potrošnja domaćih materijala,Tone,Bez podjele,6224523.0
-2004,Potrošnja domaćih materijala,Tone,Bez podjele,8323459.0
-2005,Potrošnja domaćih materijala,Tone,Bez podjele,8329607.0
-2006,Potrošnja domaćih materijala,Tone,Bez podjele,8604851.0
-2007,Potrošnja domaćih materijala,Tone,Bez podjele,7841856.0
-2008,Potrošnja domaćih materijala,Tone,Bez podjele,8899146.0
-2009,Potrošnja domaćih materijala,Tone,Bez podjele,8491325.0
-2010,Potrošnja domaćih materijala,Tone,Bez podjele,8296309.0
-2011,Potrošnja domaćih materijala,Tone,Bez podjele,8310136.0
-2012,Potrošnja domaćih materijala,Tone,Bez podjele,7469798.0
-2013,Potrošnja domaćih materijala,Tone,Bez podjele,8718073.0
-2014,Potrošnja domaćih materijala,Tone,Bez podjele,8291559.0
-2015,Potrošnja domaćih materijala,Tone,Bez podjele,8273228.0
-2016,Potrošnja domaćih materijala,Tone,Bez podjele,8382525.0
-2017,Potrošnja domaćih materijala,Tone,Bez podjele,8491821.0
+2000,Potrošnja domaćih materijala,Tone,Bez podjele,23365825.75365
+2001,Potrošnja domaćih materijala,Tone,Bez podjele,24613314.28434
+2002,Potrošnja domaćih materijala,Tone,Bez podjele,26390478.3
+2003,Potrošnja domaćih materijala,Tone,Bez podjele,31600971.235
+2004,Potrošnja domaćih materijala,Tone,Bez podjele,32465536.662
+2005,Potrošnja domaćih materijala,Tone,Bez podjele,32188746.13883
+2006,Potrošnja domaćih materijala,Tone,Bez podjele,36275747.38391
+2007,Potrošnja domaćih materijala,Tone,Bez podjele,37152644.0546
+2008,Potrošnja domaćih materijala,Tone,Bez podjele,41532236.07692
+2009,Potrošnja domaćih materijala,Tone,Bez podjele,40348689.97848
+2010,Potrošnja domaćih materijala,Tone,Bez podjele,38823258.16083
+2011,Potrošnja domaćih materijala,Tone,Bez podjele,40395999.20143
+2012,Potrošnja domaćih materijala,Tone,Bez podjele,39402478.74455
+2013,Potrošnja domaćih materijala,Tone,Bez podjele,41976401.6291
+2014,Potrošnja domaćih materijala,Tone,Bez podjele,42791244.54296
+2015,Potrošnja domaćih materijala,Tone,Bez podjele,45513731.42272
+2016,Potrošnja domaćih materijala,Tone,Bez podjele,47360105.11949
+2017,Potrošnja domaćih materijala,Tone,Bez podjele,49206478.81624
 2000,Potrošnja domaćih materijala,Tone,Biomasa,6925657.0
 2001,Potrošnja domaćih materijala,Tone,Biomasa,7512072.0
 2002,Potrošnja domaćih materijala,Tone,Biomasa,7782116.0
@@ -804,7 +804,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2010,Potrošnja domaćih materijala,Tone,Rude obojenih metala,880288.0
 2011,Potrošnja domaćih materijala,Tone,Rude obojenih metala,872157.0
 2012,Potrošnja domaćih materijala,Tone,Rude obojenih metala,904645.0
-2013,Potrošnja domaćih materijala,Tone,Rude obojenih metala,904645.0
+2013,Potrošnja domaćih materijala,Tone,Rude obojenih metala,887141.0
 2014,Potrošnja domaćih materijala,Tone,Rude obojenih metala,771812.0
 2015,Potrošnja domaćih materijala,Tone,Rude obojenih metala,812117.0
 2016,Potrošnja domaćih materijala,Tone,Rude obojenih metala,852422.0
