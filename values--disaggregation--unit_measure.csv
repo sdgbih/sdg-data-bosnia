@@ -2,6 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,2,1
 CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,7,6
 CUR_LCU_M,CUR_LCU_M,Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
+CUR_NAC,in BAM,u KM,у KM,u KM,31,1
 GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,2,1
 HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
 ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,5,1
