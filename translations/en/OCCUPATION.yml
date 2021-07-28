@@ -4,3 +4,24 @@ ISCO08_222_322: Nursing and midwifery personnel
 ISCO08_2261: Dentists
 ISCO08_2262: Pharmacists
 OCCUPATION: Occupation
+isco08:	All occupations
+isco08-0:	Armed forces occupations
+isco08-1:	Managers
+isco08-2:	Professionals
+isco08-3:	Technicians and associate professionals
+isco08-4:	Clerical support workers
+isco08-5:	Service and sales workers
+isco08-6:	Skilled agricultural, forestry and fishery workers
+isco08-7:	Craft and related trades workers
+isco08-8:	Plant and machine operators, and assemblers
+isco08-9:	Elementary occupations
+isco88-1:	Legislators, senior officials and managers
+isco88-2:	Professionals
+isco88-3:	Technicians and associate professionals
+isco88-4:	Clerks
+isco88-5:	Service workers and shop and market sales workers
+isco88-6:	Skilled agricultural and fishery workers
+isco88-7:	Craft and related trades workers
+isco88-8:	Plant and machine operators and assemblers
+isco88-9:	Elementary occupations
+isco88-X:	Not elsewhere classified
