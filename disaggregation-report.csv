@@ -2,11 +2,12 @@ Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,2,8
 AGE,Age,Godine,Године,Godine,25,19
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,58
+DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,1,4
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,3,4
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,8
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
-SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,154,281
+SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,154,292
 SEX,Sex,Spol,Пол,Spol,37,14
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,154,34
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,10,32

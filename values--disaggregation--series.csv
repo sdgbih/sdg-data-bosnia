@@ -49,15 +49,26 @@ EN_H2O_WBAMBQ,Proportion of bodies of water with good ambient water quality,Udio
 EN_HAZ_GENGDP,"Hazardous waste generated, per unit of GDP","Proizvedeni opasni otpad, po jedinici BDP-a",EN_HAZ_GENGDP,"Proizvedeni opasni otpad, po jedinici BDP-a",1,1
 EN_HAZ_GENV,Hazardous waste generated (Tonnes),Proizvedeni opasni otpad (tone),EN_HAZ_GENV,Proizvedeni opasni otpad (tone),1,1
 EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)","Proizvedeni opasni otpad, po stanovniku (Kg)",EN_HAZ_PCAP,"Proizvedeni opasni otpad, po stanovniku (Kg)",1,1
+EN_LKRV_PWAC,Lakes and rivers permanent water area change (%),"Jezera i rijeke, trajne vodne promjene površine (%)",EN_LKRV_PWAC,"Jezera i rijeke, trajne vodne promjene površine (%)",1,1
+EN_LKRV_PWAN,Lakes and rivers permanent water area (square kilometres),"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",EN_LKRV_PWAN,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",1,1
+EN_LKRV_PWAP,Lakes and rivers permanent water area (% of total land area),"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",EN_LKRV_PWAP,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",1,1
+EN_LKRV_SWAC,Lakes and rivers seasonal water area change (%),Jezera i rijeke sezonska promjena vodnog područja (%),EN_LKRV_SWAC,Jezera i rijeke sezonska promjena vodnog područja (%),1,1
+EN_LKRV_SWAN,Lakes and rivers seasonal water area (square kilometres),Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),EN_LKRV_SWAN,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),1,1
+EN_LKRV_SWAP,Lakes and rivers seasonal water area (% of total land area),Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),EN_LKRV_SWAP,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),1,1
+EN_LKW_QLTRB,Lake water quality turbidity (%),Vode jezera zamućenost kvalitete (%),EN_LKW_QLTRB,Vode jezera zamućenost kvalitete (%),4,1
+EN_LKW_QLTRST,Lake water quality trophic state (%),Vode jezera kvalitetno trofičko stanje (%),EN_LKW_QLTRST,Vode jezera kvalitetno trofičko stanje (%),4,1
 EN_LND_SLUM,Proportion of urban population living in slums,Udio gradskog stanovništva koje živi u siromašnim četvrtima,EN_LND_SLUM,Udio gradskog stanovništva koje živi u siromašnim četvrtima,1,1
 EN_MAT_DOMCMPC,"Domestic material consumption per capita, by type of raw material","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",EN_MAT_DOMCMPC,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",34,2
 EN_MAT_DOMCMPG,Domestic material consumption per unit of GDP,"Potrošnja domaćih materijala, po jedinici BDP-a",EN_MAT_DOMCMPG,"Potrošnja domaćih materijala, po jedinici BDP-a",34,2
 EN_MAT_DOMCMPT,Domestic material consumption,Potrošnja domaćih materijala,EN_MAT_DOMCMPT,Potrošnja domaćih materijala,34,2
 EN_REF_WASCOL,"Municipal Solid Waste collection coverage, by cities (%)","Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)",EN_REF_WASCOL,"Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)",1,1
+EN_RSRV_MNWAN,Reservoir minimum water area (square kilometres),Minimalna vodena površina rezervoara (kvadratni kilometri),EN_RSRV_MNWAN,Minimalna vodena površina rezervoara (kvadratni kilometri),1,1
+EN_RSRV_MNWAP,Reservoir minimum water area (% of total land area),Minimalna površina akumulacije (% ukupne površine kopna),EN_RSRV_MNWAP,Minimalna površina akumulacije (% ukupne površine kopna),1,1
+EN_RSRV_MXWAN,Reservoir maximum water area (square kilometres),Maksimalna površina akumulacije (kvadratni kilometri),EN_RSRV_MXWAN,Maksimalna površina akumulacije (kvadratni kilometri),1,1
+EN_RSRV_MXWAP,Reservoir maximum water area (% of total land area),Maksimalna površina akumulacije (% ukupne površine kopna),EN_RSRV_MXWAP,Maksimalna površina akumulacije (% ukupne površine kopna),1,1
 EN_SCP_FSHGDP,Sustainable fisheries as a proportion of GDP,Održivi ribolov kao udio u BDP-u,EN_SCP_FSHGDP,Održivi ribolov kao udio u BDP-u,1,1
-EN_WBE_PMNR,Water body extent (permanent) (square kilometres),Opseg vodnog tijela (trajni) (kvadratni kilometri),EN_WBE_PMNR,Opseg vodnog tijela (trajni) (kvadratni kilometri),1,1
-EN_WBE_PMPN,Water body extent (permanent and maybe permanent) (square kilometres),Opseg vodnog tijela (trajni i možda trajnih) (kvadratni kilometri),EN_WBE_PMPN,Opseg vodnog tijela (trajni i možda trajnih) (kvadratni kilometri),1,1
-EN_WBE_PMPR,Water body extent (permanent) (% of total land area),Opseg vodnog tijela (trajni) (% ukupne površine kopna),EN_WBE_PMPR,Opseg vodnog tijela (trajni) (% ukupne površine kopna),1,1
+EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,1,1
+EN_WBE_WTLP,Wetlands area (% of total land area),Močvarno područje (% od ukupne površine kopna),EN_WBE_WTLP,Močvarno područje (% od ukupne površine kopna),1,1
 EN_WWT_GEN,Total wastewater generated (million m3/year),Ukupna generisana otpadna voda (milion m3/godišnje),EN_WWT_GEN,Ukupna generisana otpadna voda (milion m3/godišnje),7,1
 EN_WWT_TREAT,Total wastewater treated (million m3/year),Ukupna prečišćena otpadna voda (milion m3/godišnje),EN_WWT_TREAT,Ukupna prečišćena otpadna voda (milion m3/godišnje),2,1
 EN_WWT_TREATR,"Proportion of wastewater treated, by activity and location (%)",Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%),EN_WWT_TREATR,Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%),2,1
