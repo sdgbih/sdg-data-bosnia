@@ -6,7 +6,7 @@ DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,DEVIATION_LEVEL,
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,3,4
 Group,Group,Group,Group,Group,1,2
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,8
-OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,1,5
+OCCUPATION,OCCUPATION,Zanimanje,Занимање,Zanimanje,1,5
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
 SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,154,292
 SEX,Sex,Spol,Пол,Spol,37,14
