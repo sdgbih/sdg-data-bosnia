@@ -5,30 +5,35 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,Agriculture products,72.09544
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,Agriculture products,80.38654
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,Agriculture products,80.10167
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,Agriculture products,78.26421
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,80.36611
 2010,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,77.00822
 2015,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,72.14442
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,62.6327
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,71.74151
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,71.94006
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,No breakdown,68.96074
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,84.375
 2010,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,100.0
 2015,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,66.66667
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,68.42105
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,72.22222
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,72.22222
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,Arms,81.48148
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,49.75369
 2010,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,39.92188
 2015,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,42.10526
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,33.31467
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,44.23565
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,45.09502
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,Clothing,41.31455
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,85.44423
 2010,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,82.15344
 2015,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,78.20907
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,69.63315
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,75.68703
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,75.75446
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,Industrial products,73.20584
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,Oil,0.0
 2015,Proportion of tariff lines applied to imports with zero-tariff,Percent,Oil,100.0
 2005,Proportion of tariff lines applied to imports with zero-tariff,Percent,Textiles,86.64921
@@ -37,3 +42,4 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2016,Proportion of tariff lines applied to imports with zero-tariff,Percent,Textiles,69.17808
 2017,Proportion of tariff lines applied to imports with zero-tariff,Percent,Textiles,84.49477
 2018,Proportion of tariff lines applied to imports with zero-tariff,Percent,Textiles,85.31469
+2019,Proportion of tariff lines applied to imports with zero-tariff,Percent,Textiles,77.11016
