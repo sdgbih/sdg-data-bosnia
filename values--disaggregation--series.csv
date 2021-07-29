@@ -128,6 +128,7 @@ IT_NET_BBNDN,Fixed broadband subscriptions (number),Broj pretplatnika fiksnog š
 IT_USE_II99,Internet users per 100 inhabitants,Korisnici interneta na 100 stanovnika,IT_USE_II99,Korisnici interneta na 100 stanovnika,1,1
 IU_COR_BRIB,Prevalence rate of bribery,Stopa rasprostranjenosti mita,IU_COR_BRIB,Stopa rasprostranjenosti mita,3,1
 NV_IND_MANF,Manufacturing value added as a proportion of GDP,Dodana vrijednost u proizvodnji kao udio u BDP-u,NV_IND_MANF,Dodana vrijednost u proizvodnji kao udio u BDP-u,1,1
+NV_IND_MANF_CD,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),NV_IND_MANF_CD,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),1,1
 NV_IND_MANFPC,Manufacturing value added per capita,Dodana vrijednost proizvodnje po glavi stanovnika,NV_IND_MANFPC,Dodana vrijednost proizvodnje po glavi stanovnika,1,1
 NV_IND_SSIS,Proportion of small-scale industries in total industry value added,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,NV_IND_SSIS,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,1,1
 NV_IND_TECH,Proportion of medium and high-tech industry value added in total value added,Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost,NV_IND_TECH,Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost,1,1
