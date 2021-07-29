@@ -24,6 +24,7 @@ MOT_IWW: Inland waterway transport
 MOT_RAI: Rail
 MOT_ROA: Road
 MOT_SEA: Maritime
+MOT_AIR: Aire
 NCD_CARDIO: Cardiovascular disease
 NCD_CNCR: Cancer
 NCD_CRESPD: Chronic respiratory disease
