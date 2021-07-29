@@ -3,6 +3,7 @@ INDUSTRIES: Industries
 ISIC4_A: Agriculture, forestry and fishing
 ISIC4_B: Mining and quarrying
 ISIC4_C: Manufacturing
+ISIC4_C10T32X19: Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment
 ISIC4_D: Electricity, gas, steam and air conditioning supply
 ISIC4_F: Construction
 PRIV_HH: Private households
