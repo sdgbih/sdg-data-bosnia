@@ -24,6 +24,7 @@ MOT_IWW: Unutarnji plovni put
 MOT_RAI: Željeznički 
 MOT_ROA: Cestovni
 MOT_SEA: Pomorski
+MOT_AIR: Zračni
 NCD_CARDIO: Kardiovaskularne bolesti
 NCD_CNCR: Rak
 NCD_CRESPD: Kronična respiratorna bolest
