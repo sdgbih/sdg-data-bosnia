@@ -1,6 +1,13 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,1187941000
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,4303121000
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,40000000
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,1661000000
+2019,Obim tereta (tonski kilometri),Tonski kilometri,Zračni,0.0
+2018,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
+2019,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
+2018,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,1187941000.0
+2019,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,801400000.0
+2018,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,4303121000.0
+2018,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,3461400000.0
+2019,Obim putnika (putnički kilometri),Putnički kilometri,Zračni,7353050.0
+2018,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,40000000.0
+2019,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,4751600000.0
+2018,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,1661000000.0
+2019,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,16706400000.0

@@ -118,8 +118,8 @@ GR_G14_XDC,"Total government revenue, in local currency","Ukupni državni prihod
 IC_FRM_BRIB,Bribery incidence (% of firms experiencing at least one bribe payment request),Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita),IC_FRM_BRIB,Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita),1,1
 IC_GEN_MGTL,Proportion of women in managerial positions,Udio žena na rukovodećim pozicijama,IC_GEN_MGTL,Udio žena na rukovodećim pozicijama,1,1
 IC_GEN_MGTN,Proportion of women in senior and middle management positions,Udio žena na višim i srednjim rukovodećim pozicijama,IC_GEN_MGTN,Udio žena na višim i srednjim rukovodećim pozicijama,1,1
-IS_RDP_FRGVOL,Freight volume (tonne kilometres),Obim tereta (tonski kilometri),IS_RDP_FRGVOL,Obujam tereta (tonski kilometri),3,1
-IS_RDP_PFVOL,Passenger volume (passenger kilometres),Obim putnika (putnički kilometri),IS_RDP_PFVOL,Obujam putnika (putnički kilometri),2,1
+IS_RDP_FRGVOL,Freight volume (tonne kilometres),Obim tereta (tonski kilometri),IS_RDP_FRGVOL,Obujam tereta (tonski kilometri),4,1
+IS_RDP_PFVOL,Passenger volume (passenger kilometres),Obim putnika (putnički kilometri),IS_RDP_PFVOL,Obujam putnika (putnički kilometri),3,1
 IT_MOB_2GNTWK,Proportion of population covered by at least a 2G mobile network,Udio stanovništva pokriven najmanje 2G mobilnom mrežom,IT_MOB_2GNTWK,Udio stanovništva pokriven najmanje 2G mobilnom mrežom,1,1
 IT_MOB_3GNTWK,Proportion of population covered by at least a 3G mobile network,Udio stanovništva pokriven najmanje 3G mobilnom mrežom,IT_MOB_3GNTWK,Udio stanovništva pokriven najmanje 3G mobilnom mrežom,1,1
 IT_MOB_4GNTWK,Proportion of population covered by at least a 4G mobile network,Udio stanovništva pokriven najmanje 4G mobilnom mrežom,IT_MOB_4GNTWK,Udio stanovništva pokriven najmanje 4G mobilnom mrežom,1,1
