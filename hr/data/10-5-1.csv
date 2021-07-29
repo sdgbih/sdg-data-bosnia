@@ -18,6 +18,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.0938567313618
 2017,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.3097575211274
 2018,Likvidna imovina na kratkoročnim obvezama (%),Postotak,44.6595444498472
+2018,Likvidna imovina na kratkoročnim obvezama (%),Postotak,45.5263647095392
 2000,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
 2001,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
 2002,Neto otvorena pozicija u devizama do kapitala (%),Postotak,0.0
@@ -37,6 +38,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Neto otvorena pozicija u devizama do kapitala (%),Postotak,1.69666615634728
 2017,Neto otvorena pozicija u devizama do kapitala (%),Postotak,-0.227571565492382
 2018,Neto otvorena pozicija u devizama do kapitala (%),Postotak,2.24102504028798
+2019,Neto otvorena pozicija u devizama do kapitala (%),Postotak,3.52963705646491
 2000,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,32.4693389054788
 2001,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,37.6090647205685
 2002,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,27.5147145004714
@@ -56,6 +58,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,18.4798679001815
 2017,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,14.3545245961634
 2018,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,12.1460435458492
+2019,Neto krediti određeni za kapital koji se ne izvode (%),Postotak,9.91116011510126
 2000,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,21.215964833505
 2001,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,17.9071007297324
 2002,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.0172196258194
@@ -75,6 +78,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,11.7777190845963
 2017,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,10.0462751524632
 2018,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,8.77033547967657
+2019,Krediti u ukupnim bruto kreditima koji se ne izvode (%),Postotak,7.41165705829786
 2000,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,26.4758691558612
 2001,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,22.3586710421588
 2002,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,18.2029212704059
@@ -94,6 +98,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,15.0283883801236
 2017,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,14.7677813404756
 2018,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,16.4870496553286
+2019,Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%),Postotak,17.4728655569677
 2000,Regulatorni kapital za imovinu (%),Postotak,20.439232259874
 2001,Regulatorni kapital za imovinu (%),Postotak,14.5276556119215
 2002,Regulatorni kapital za imovinu (%),Postotak,14.3457936836765
@@ -113,6 +118,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Regulatorni kapital za imovinu (%),Postotak,14.3546916360292
 2017,Regulatorni kapital za imovinu (%),Postotak,14.0096509147407
 2018,Regulatorni kapital za imovinu (%),Postotak,13.1861645768664
+2019,Regulatorni kapital za imovinu (%),Postotak,12.8424006118574
 2000,Povrat imovine (%),Postotak,-1.76461726674205
 2001,Povrat imovine (%),Postotak,-1.06884542168492
 2002,Povrat imovine (%),Postotak,-0.285976995872053
@@ -132,3 +138,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Povrat imovine (%),Postotak,1.07780770729665
 2017,Povrat imovine (%),Postotak,1.46374049149548
 2018,Povrat imovine (%),Postotak,1.31107329243831
+2019,Povrat imovine (%),Postotak,1.37100108330309
