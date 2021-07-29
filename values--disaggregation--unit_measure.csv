@@ -10,7 +10,7 @@ ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,5,1
 ISCED11_3,ISCED11_3,ISCED11_3,ISCED11_3,ISCED11_3,5,1
 IX,Index,Index,Индеx,Index,6,5
 KG,Kilograms,Kilogrami,Килограми,Kilogrami,4,2
-KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,37,4
+KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,36,4
 KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,7,2
 LITRES,LITRES,Litri,Литри,Litri,3,1
 M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,Милион кубних метара годишње,Milion kubnih metara godišnje,9,1
@@ -32,5 +32,5 @@ SCORE,Score,Rezultat,Резултат,Rezultat,4,4
 T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,Tonski kilometri,4,1
 THOUSANDS,THOUSANDS,Hiljade,Хиљаде,Tisuće,8,3
 TONNES,TONNES,Tone,Тоне,Tone,72,4
-TONNES_M,TONNES_M,Milioni tona,Милиони тона,Milijuni tona,1,1
+TONNES_M,TONNES_M,Milioni tona,Милиони тона,Milijuni tona,3,1
 USD,USD,Američki dolar,Амерички долар,Američki dolar,8,7
