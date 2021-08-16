@@ -9,8 +9,8 @@ INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,�
 LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zahtjeva,1,2
 OCCUPATION,OCCUPATION,Zanimanje,Занимање,Zanimanje,2,16
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
-SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,159,302
+SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,160,303
 SEX,Sex,Spol,Пол,Spol,38,14
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,159,35
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,160,36
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,11,32
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2

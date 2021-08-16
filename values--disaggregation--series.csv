@@ -38,6 +38,7 @@ EG_TBA_H2CORL,Proportion of transboundary river and lake basins with an operatio
 EN_ATM_CO2,Carbon dioxide emissions from fuel combustion,Emisije ugljen-dioksida izgaranjem goriva,EN_ATM_CO2,Emisije ugljen-dioksida izgaranjem goriva,2,1
 EN_ATM_CO2GDP,Carbon dioxide emissions per unit of GDP,Emisije ugljen-dioksida po jedinici BDP-a,EN_ATM_CO2GDP,Emisije ugljen-dioksida po jedinici BDP-a,1,1
 EN_ATM_CO2MVA,Carbon dioxide emissions per unit of manufacturing value added,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti,EN_ATM_CO2MVA,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti,1,1
+EN_ATM_GHGT_NAIP,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),EN_ATM_GHGT_NAIP,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),1,1
 EN_ATM_PM25,"Annual mean levels of fine particulate matter in cities, urban population","Srednji godišnji nivo finih čestica u gradovima, urbano stanovništvo",EN_ATM_PM25,"Srednja godišnja razina finih čestica u gradovima, urbano stanovništvo",3,1
 EN_EWT_RCYPCAP,"Electronic waste recycling, per capita (Kg)","Reciklaža elektronskog otpada, po stanovniku (Kg)",EN_EWT_RCYPCAP,"Reciklaža elektroničkog otpada, po stanovniku (Kg)",1,1
 EN_EWT_RCYR,"Electronic waste recycling, rate (%)","Reciklaža elektronskog otpada, stopa (%)",EN_EWT_RCYR,"Reciklaža elektroničkog otpada, stopa (%)",1,1
