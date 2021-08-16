@@ -1,28 +1,28 @@
-Year,SERIES,UNIT_MEASURE,DEVIATION_LEVEL,Value
-2017,Lake water quality trophic state (%),Percent,EXTREME,0.0
-2018,Lake water quality trophic state (%),Percent,EXTREME,0.0
-2019,Lake water quality trophic state (%),Percent,EXTREME,0.15333
-2017,Lake water quality trophic state (%),Percent,HIGH,0.67917
-2018,Lake water quality trophic state (%),Percent,HIGH,4.905
-2019,Lake water quality trophic state (%),Percent,HIGH,6.71
-2017,Lake water quality trophic state (%),Percent,LOW,85.98667
-2018,Lake water quality trophic state (%),Percent,LOW,87.80667
-2019,Lake water quality trophic state (%),Percent,LOW,83.95833
-2017,Lake water quality trophic state (%),Percent,MEDIUM,13.33583
-2018,Lake water quality trophic state (%),Percent,MEDIUM,7.29
-2019,Lake water quality trophic state (%),Percent,MEDIUM,9.1775
-2017,Lake water quality turbidity (%),Percent,EXTREME,27.795
-2018,Lake water quality turbidity (%),Percent,EXTREME,12.555
-2019,Lake water quality turbidity (%),Percent,EXTREME,19.4
-2017,Lake water quality turbidity (%),Percent,HIGH,21.5425
-2018,Lake water quality turbidity (%),Percent,HIGH,14.00083
-2019,Lake water quality turbidity (%),Percent,HIGH,18.70667
-2017,Lake water quality turbidity (%),Percent,LOW,44.11667
-2018,Lake water quality turbidity (%),Percent,LOW,60.21333
-2019,Lake water quality turbidity (%),Percent,LOW,42.66917
-2017,Lake water quality turbidity (%),Percent,MEDIUM,6.54667
-2018,Lake water quality turbidity (%),Percent,MEDIUM,13.235
-2019,Lake water quality turbidity (%),Percent,MEDIUM,19.22083
+Year,SERIES,UNIT_MEASURE,Deviation Level,Value
+2017,Lake water quality trophic state (%),Percent,Extreme (75-100%),0.0
+2018,Lake water quality trophic state (%),Percent,Extreme (75-100%),0.0
+2019,Lake water quality trophic state (%),Percent,Extreme (75-100%),0.15333
+2017,Lake water quality trophic state (%),Percent,High (50-75%),0.67917
+2018,Lake water quality trophic state (%),Percent,High (50-75%),4.905
+2019,Lake water quality trophic state (%),Percent,High (50-75%),6.71
+2017,Lake water quality trophic state (%),Percent,Low (0-25%),85.98667
+2018,Lake water quality trophic state (%),Percent,Low (0-25%),87.80667
+2019,Lake water quality trophic state (%),Percent,Low (0-25%),83.95833
+2017,Lake water quality trophic state (%),Percent,Medium (25-50%),13.33583
+2018,Lake water quality trophic state (%),Percent,Medium (25-50%),7.29
+2019,Lake water quality trophic state (%),Percent,Medium (25-50%),9.1775
+2017,Lake water quality turbidity (%),Percent,Extreme (75-100%),27.795
+2018,Lake water quality turbidity (%),Percent,Extreme (75-100%),12.555
+2019,Lake water quality turbidity (%),Percent,Extreme (75-100%),19.4
+2017,Lake water quality turbidity (%),Percent,High (50-75%),21.5425
+2018,Lake water quality turbidity (%),Percent,High (50-75%),14.00083
+2019,Lake water quality turbidity (%),Percent,High (50-75%),18.70667
+2017,Lake water quality turbidity (%),Percent,Low (0-25%),44.11667
+2018,Lake water quality turbidity (%),Percent,Low (0-25%),60.21333
+2019,Lake water quality turbidity (%),Percent,Low (0-25%),42.66917
+2017,Lake water quality turbidity (%),Percent,Medium (25-50%),6.54667
+2018,Lake water quality turbidity (%),Percent,Medium (25-50%),13.235
+2019,Lake water quality turbidity (%),Percent,Medium (25-50%),19.22083
 2000,Lakes and rivers permanent water area (% of total land area),Percent,,0.00037
 2001,Lakes and rivers permanent water area (% of total land area),Percent,,0.00072
 2002,Lakes and rivers permanent water area (% of total land area),Percent,,0.00112
