@@ -42,18 +42,18 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2012,Hazardous waste imported,TONNES,,,0.0
 2013,Hazardous waste imported,TONNES,,,0.0
 2014,Hazardous waste imported,TONNES,,,0.0
-2001,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2002,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2003,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2004,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2005,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2006,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2007,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2008,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2009,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2010,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2011,EN_HAZ_TREATV,TONNES,Incineration,,0.0
-2012,EN_HAZ_TREATV,TONNES,Incineration,,0.0
+2001,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2002,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2003,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2004,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2005,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2006,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2007,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2008,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2009,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2010,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2011,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
+2012,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
 2008,Municipal waste generated,TONNES,,,1367089.96582
 2009,Municipal waste generated,TONNES,,,1260060.05859
 2010,Municipal waste generated,TONNES,,,1057767.94434
