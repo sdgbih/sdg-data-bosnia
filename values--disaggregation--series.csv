@@ -51,7 +51,7 @@ EN_HAZ_GENGDP,"Hazardous waste generated, per unit of GDP","Proizvedeni opasni o
 EN_HAZ_GENV,Hazardous waste generated (Tonnes),Proizvedeni opasni otpad (tone),EN_HAZ_GENV,Proizvedeni opasni otpad (tone),1,1
 EN_HAZ_IMP,Hazardous waste imported,Uvoz opasnog otpada,EN_HAZ_IMP,Uvoz opasnog otpada,1,1
 EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)","Proizvedeni opasni otpad, po stanovniku (Kg)",EN_HAZ_PCAP,"Proizvedeni opasni otpad, po stanovniku (Kg)",1,1
-EN_HAZ_TREATV,"Hazardous waste treated, by type of treatment","Opasni otpad tretiran, prema vrsti tretmana",EN_HAZ_TREATV,EN_HAZ_TREATV,1,1
+EN_HAZ_TREATV,"Hazardous waste treated, by type of treatment","Opasni otpad tretiran, prema vrsti tretmana",EN_HAZ_TREATV,"Opasni otpad tretiran, prema vrsti tretmana",1,1
 EN_LKRV_PWAC,Lakes and rivers permanent water area change (%),"Jezera i rijeke, trajne vodne promjene površine (%)",EN_LKRV_PWAC,"Jezera i rijeke, trajne vodne promjene površine (%)",1,1
 EN_LKRV_PWAN,Lakes and rivers permanent water area (square kilometres),"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",EN_LKRV_PWAN,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",1,1
 EN_LKRV_PWAP,Lakes and rivers permanent water area (% of total land area),"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",EN_LKRV_PWAP,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",1,1
