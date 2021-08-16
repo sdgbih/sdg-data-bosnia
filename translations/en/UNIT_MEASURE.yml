@@ -35,3 +35,4 @@ CUR_NAC: in BAM
 NUMBER: Number
 GWh: GWh
 M_M3_PER_YR: Million of cubic metres per annum
+MT_CO2E: Million tons of CO2 equivalent
