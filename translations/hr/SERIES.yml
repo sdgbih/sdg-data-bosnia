@@ -324,3 +324,9 @@ AG_FOOD_WST_PC: Otpad od hrane po stanovniku (KG)
 EN_EWT_COLLV: Prikupljeni elektronski otpad
 EN_EWT_COLLPCAP: Prikupljeni elektronski otpad po glavi stanovnika 
 EN_EWT_COLLR: Electronic waste collection rate
+EN_HAZ_EXP: Izvoz opasnog otpada
+EN_HAZ_IMP: Uvoz opasnog otpada
+EN_MWT_COLLV: Prikupljeni komunalni otpad
+EN_MWT_GENV: Stvoreni komunalni otpad
+EN_MWT_TREATR: Obrađeni komunalni otpad prema vrsti obrade
+EN_TWT_GENV: Ukupno stvaranje otpada, prema djelatnostima
