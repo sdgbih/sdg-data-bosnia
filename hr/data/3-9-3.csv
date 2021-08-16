@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2000,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.7
-2005,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.5
-2010,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
-2000,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.4
-2005,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2010,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2000,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,1.0
-2005,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.6
-2010,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.5
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.5
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.5
+2000,SH_STA_POISN,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.7
+2005,SH_STA_POISN,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.5
+2010,SH_STA_POISN,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
+2015,SH_STA_POISN,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
+2019,SH_STA_POISN,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
+2000,SH_STA_POISN,Na 100 000 stanovnika,Žene,0.4
+2005,SH_STA_POISN,Na 100 000 stanovnika,Žene,0.3
+2010,SH_STA_POISN,Na 100 000 stanovnika,Žene,0.3
+2015,SH_STA_POISN,Na 100 000 stanovnika,Žene,0.3
+2019,SH_STA_POISN,Na 100 000 stanovnika,Žene,0.3
+2000,SH_STA_POISN,Na 100 000 stanovnika,Muškarci,1.0
+2005,SH_STA_POISN,Na 100 000 stanovnika,Muškarci,0.6
+2010,SH_STA_POISN,Na 100 000 stanovnika,Muškarci,0.5
+2015,SH_STA_POISN,Na 100 000 stanovnika,Muškarci,0.5
+2019,SH_STA_POISN,Na 100 000 stanovnika,Muškarci,0.5

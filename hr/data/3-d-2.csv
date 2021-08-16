@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran,Postotak,22.73
-2017,Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran,Postotak,24.87
-2018,Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran,Postotak,20.16
-2019,Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran,Postotak,20.34
-2016,Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran,Postotak,17.97
-2017,Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran,Postotak,25.81
-2018,Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran,Postotak,16.3
-2019,Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran,Postotak,10.55
+2016,SH_BLD_ECOLI,Postotak,22.73
+2017,SH_BLD_ECOLI,Postotak,24.87
+2018,SH_BLD_ECOLI,Postotak,20.16
+2019,SH_BLD_ECOLI,Postotak,20.34
+2016,SH_BLD_MRSA,Postotak,17.97
+2017,SH_BLD_MRSA,Postotak,25.81
+2018,SH_BLD_MRSA,Postotak,16.3
+2019,SH_BLD_MRSA,Postotak,10.55

@@ -1,11 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,328
-2005,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,331
-2010,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,483
-2012,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,725
-2014,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,734
-2016,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,880
-2017,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,881
-2018,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,478
-2019,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,965
-2020,Pristup uskladištenim biljnim genetičkim resursima (broj),Broj,971
+2000,ER_GRF_PLNTSTOR,Broj,328
+2005,ER_GRF_PLNTSTOR,Broj,331
+2010,ER_GRF_PLNTSTOR,Broj,483
+2012,ER_GRF_PLNTSTOR,Broj,725
+2014,ER_GRF_PLNTSTOR,Broj,734
+2016,ER_GRF_PLNTSTOR,Broj,880
+2017,ER_GRF_PLNTSTOR,Broj,881
+2018,ER_GRF_PLNTSTOR,Broj,478
+2019,ER_GRF_PLNTSTOR,Broj,965
+2020,ER_GRF_PLNTSTOR,Broj,971

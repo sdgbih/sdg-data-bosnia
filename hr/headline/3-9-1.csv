@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2016,44,Na 100 000 stanovnika,Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
-2016,43,Na 100 000 stanovnika,Stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
-2016,80,Na 100 000 stanovnika,Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka (umrli na 100 000 stanovnika)
-2016,87,Na 100 000 stanovnika,Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
-2016,85,Na 100 000 stanovnika,Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
-2016,159,Na 100 000 stanovnika,Stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka
+2016,44,Na 100 000 stanovnika,SH_AAP_ASMORT
+2016,43,Na 100 000 stanovnika,SH_HAP_ASMORT
+2016,80,Na 100 000 stanovnika,SH_STA_ASAIRP
+2016,87,Na 100 000 stanovnika,SH_AAP_MORT
+2016,85,Na 100 000 stanovnika,SH_HAP_MORT
+2016,159,Na 100 000 stanovnika,SH_STA_AIRP

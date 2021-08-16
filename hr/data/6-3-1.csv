@@ -1,14 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Stupanj urbanizacije,Value
-2018,Udio sigurno prečišćenih protoka otpadnih voda iz kućanstva,Postotak,,,22.70747
-2020,Udio sigurno prečišćenih protoka otpadnih voda iz kućanstva,Postotak,,,46.7966
-2015,Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%),Postotak,Industrije,Ukupno,100.0
-2015,Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%),Postotak,Bez podjele,Ukupno,54.3595
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Industrije,Ukupno,8.6
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,"Poljoprivreda, šumarstvo i ribolov",Ukupno,0.5
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Proizvodnja,Ukupno,8.6
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Privatna domaćinstva,Ukupno,70.0
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Usluge i aktivnosti domaćinstava,Ukupno,84.0
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Usluge,Ukupno,13.8
-2015,Ukupna generisana otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Bez podjele,Ukupno,92.9
-2015,Ukupna prečišćena otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Industrije,Ukupno,45.8
-2015,Ukupna prečišćena otpadna voda (milion m3/godišnje),Milion kubnih metara godišnje,Bez podjele,Ukupno,50.5
+2018,EN_WWT_WWDS,Postotak,,,22.70747
+2020,EN_WWT_WWDS,Postotak,,,46.7966
+2015,EN_WWT_TREATR,Postotak,Industrije,Ukupno,100.0
+2015,EN_WWT_TREATR,Postotak,Bez podjele,Ukupno,54.3595
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Industrije,Ukupno,8.6
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,"Poljoprivreda, šumarstvo i ribolov",Ukupno,0.5
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Proizvodnja,Ukupno,8.6
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Privatna domaćinstva,Ukupno,70.0
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Usluge i aktivnosti domaćinstava,Ukupno,84.0
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Usluge,Ukupno,13.8
+2015,EN_WWT_GEN,Milion kubnih metara godišnje,Bez podjele,Ukupno,92.9
+2015,EN_WWT_TREAT,Milion kubnih metara godišnje,Industrije,Ukupno,45.8
+2015,EN_WWT_TREAT,Milion kubnih metara godišnje,Bez podjele,Ukupno,50.5

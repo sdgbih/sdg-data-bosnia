@@ -1,8 +1,8 @@
 Year,SERIES,UNIT_MEASURE,Razina obrazovanja,Spol,COMPOSITE_BREAKDOWN,Value
-2007,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Oba spola ili bez podjele po spolu,Matematika,42.14675
-2018,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Oba spola ili bez podjele po spolu,Čitanje,46.32493
-2019,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Osnovno obrazovanje,T,Matematika,40.0
-2007,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Žene,Matematika,42.6821
-2018,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Žene,Čitanje,54.76662
-2007,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Muškarci,Matematika,41.70517
-2018,Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici,Postotak,Niže srednje obrazovanje,Muškarci,Čitanje,38.28907
+2007,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Oba spola ili bez podjele po spolu,Matematika,42.14675
+2018,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Oba spola ili bez podjele po spolu,Čitanje,46.32493
+2019,SE_TOT_PRFL,Postotak,Osnovno obrazovanje,T,Matematika,40.0
+2007,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Žene,Matematika,42.6821
+2018,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Žene,Čitanje,54.76662
+2007,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Muškarci,Matematika,41.70517
+2018,SE_TOT_PRFL,Postotak,Niže srednje obrazovanje,Muškarci,Čitanje,38.28907

@@ -1,33 +1,33 @@
 Year,SERIES,UNIT_MEASURE,Value
-2003,Ukupni prihodi države kao udio u BDP-u,Postotak,23.9562657328075
-2004,Ukupni prihodi države kao udio u BDP-u,Postotak,22.8445369491468
-2005,Ukupni prihodi države kao udio u BDP-u,Postotak,41.4129818899751
-2006,Ukupni prihodi države kao udio u BDP-u,Postotak,44.2008029040042
-2007,Ukupni prihodi države kao udio u BDP-u,Postotak,44.9060770735408
-2008,Ukupni prihodi države kao udio u BDP-u,Postotak,43.6400967955669
-2009,Ukupni prihodi države kao udio u BDP-u,Postotak,41.7375095023106
-2010,Ukupni prihodi države kao udio u BDP-u,Postotak,42.8563874887263
-2011,Ukupni prihodi države kao udio u BDP-u,Postotak,43.3316157280503
-2012,Ukupni prihodi države kao udio u BDP-u,Postotak,43.7502030221352
-2013,Ukupni prihodi države kao udio u BDP-u,Postotak,42.6582565862232
-2014,Ukupni prihodi države kao udio u BDP-u,Postotak,43.8087208477132
-2015,Ukupni prihodi države kao udio u BDP-u,Postotak,43.1510838982097
-2016,Ukupni prihodi države kao udio u BDP-u,Postotak,42.7014657297644
-2017,Ukupni prihodi države kao udio u BDP-u,Postotak,42.9602093929945
-2018,Ukupni prihodi države kao udio u BDP-u,Postotak,43.1099367097622
-2003,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),3519.1
-2004,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),3654.7
-2005,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),7122.1
-2006,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),8586.4
-2007,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),9832.7
-2008,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),10903.1
-2009,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),10342.5
-2010,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),10862.6
-2011,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),11357.1
-2012,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),11459.5
-2013,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),11408.1
-2014,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),11961.7
-2015,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),12335.1
-2016,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),12767.3
-2017,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),13479.3
-2018,"Ukupni državni prihodi, u lokalnoj valuti",Lokalna valuta (milioni),14402.3
+2003,GR_G14_GDP,Postotak,23.9562657328075
+2004,GR_G14_GDP,Postotak,22.8445369491468
+2005,GR_G14_GDP,Postotak,41.4129818899751
+2006,GR_G14_GDP,Postotak,44.2008029040042
+2007,GR_G14_GDP,Postotak,44.9060770735408
+2008,GR_G14_GDP,Postotak,43.6400967955669
+2009,GR_G14_GDP,Postotak,41.7375095023106
+2010,GR_G14_GDP,Postotak,42.8563874887263
+2011,GR_G14_GDP,Postotak,43.3316157280503
+2012,GR_G14_GDP,Postotak,43.7502030221352
+2013,GR_G14_GDP,Postotak,42.6582565862232
+2014,GR_G14_GDP,Postotak,43.8087208477132
+2015,GR_G14_GDP,Postotak,43.1510838982097
+2016,GR_G14_GDP,Postotak,42.7014657297644
+2017,GR_G14_GDP,Postotak,42.9602093929945
+2018,GR_G14_GDP,Postotak,43.1099367097622
+2003,GR_G14_XDC,Lokalna valuta (milioni),3519.1
+2004,GR_G14_XDC,Lokalna valuta (milioni),3654.7
+2005,GR_G14_XDC,Lokalna valuta (milioni),7122.1
+2006,GR_G14_XDC,Lokalna valuta (milioni),8586.4
+2007,GR_G14_XDC,Lokalna valuta (milioni),9832.7
+2008,GR_G14_XDC,Lokalna valuta (milioni),10903.1
+2009,GR_G14_XDC,Lokalna valuta (milioni),10342.5
+2010,GR_G14_XDC,Lokalna valuta (milioni),10862.6
+2011,GR_G14_XDC,Lokalna valuta (milioni),11357.1
+2012,GR_G14_XDC,Lokalna valuta (milioni),11459.5
+2013,GR_G14_XDC,Lokalna valuta (milioni),11408.1
+2014,GR_G14_XDC,Lokalna valuta (milioni),11961.7
+2015,GR_G14_XDC,Lokalna valuta (milioni),12335.1
+2016,GR_G14_XDC,Lokalna valuta (milioni),12767.3
+2017,GR_G14_XDC,Lokalna valuta (milioni),13479.3
+2018,GR_G14_XDC,Lokalna valuta (milioni),14402.3

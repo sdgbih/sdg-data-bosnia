@@ -1,21 +1,21 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,7.2
-2001,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,6.0
-2002,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,7.0
-2003,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,5.3
-2004,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,7.5
-2005,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,11.1
-2006,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,6.0
-2007,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,0.8
-2008,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,-4.0
-2009,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,-2.0
-2010,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,4.2
-2011,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,3.1
-2012,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,0.3
-2013,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,3.6
-2014,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,0.5
-2015,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,5.1
-2016,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,1.2
-2017,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,-2.8
-2018,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,1.7
-2019,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi,Postotak,-2.0
+2000,SL_EMP_PCAP,Postotak,7.2
+2001,SL_EMP_PCAP,Postotak,6.0
+2002,SL_EMP_PCAP,Postotak,7.0
+2003,SL_EMP_PCAP,Postotak,5.3
+2004,SL_EMP_PCAP,Postotak,7.5
+2005,SL_EMP_PCAP,Postotak,11.1
+2006,SL_EMP_PCAP,Postotak,6.0
+2007,SL_EMP_PCAP,Postotak,0.8
+2008,SL_EMP_PCAP,Postotak,-4.0
+2009,SL_EMP_PCAP,Postotak,-2.0
+2010,SL_EMP_PCAP,Postotak,4.2
+2011,SL_EMP_PCAP,Postotak,3.1
+2012,SL_EMP_PCAP,Postotak,0.3
+2013,SL_EMP_PCAP,Postotak,3.6
+2014,SL_EMP_PCAP,Postotak,0.5
+2015,SL_EMP_PCAP,Postotak,5.1
+2016,SL_EMP_PCAP,Postotak,1.2
+2017,SL_EMP_PCAP,Postotak,-2.8
+2018,SL_EMP_PCAP,Postotak,1.7
+2019,SL_EMP_PCAP,Postotak,-2.0

@@ -1,14 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2014,1108.73,Tone,Reciklaža elektroničkog otpada (tone)
-2015,1157.02,Tone,Reciklaža elektroničkog otpada (tone)
-2016,1197.58,Tone,Reciklaža elektroničkog otpada (tone)
-2017,1237.93,Tone,Reciklaža elektroničkog otpada (tone)
-2018,1271.2,Tone,Reciklaža elektroničkog otpada (tone)
-2019,1310.05,Tone,Reciklaža elektroničkog otpada (tone)
-2014,0.318407021497909,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2015,0.337387641782932,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2016,0.3536585660948359,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2017,0.369362624696631,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2018,0.382439398976331,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2019,0.396865579742853,Kilogrami,"Reciklaža elektroničkog otpada, po stanovniku (Kg)"
-2014,4.799937,Postotak,"Reciklaža elektroničkog otpada, stopa (%)"
+2014,1108.73,Tone,EN_EWT_RCYV
+2015,1157.02,Tone,EN_EWT_RCYV
+2016,1197.58,Tone,EN_EWT_RCYV
+2017,1237.93,Tone,EN_EWT_RCYV
+2018,1271.2,Tone,EN_EWT_RCYV
+2019,1310.05,Tone,EN_EWT_RCYV
+2014,0.318407021497909,Kilogrami,EN_EWT_RCYPCAP
+2015,0.337387641782932,Kilogrami,EN_EWT_RCYPCAP
+2016,0.3536585660948359,Kilogrami,EN_EWT_RCYPCAP
+2017,0.369362624696631,Kilogrami,EN_EWT_RCYPCAP
+2018,0.382439398976331,Kilogrami,EN_EWT_RCYPCAP
+2019,0.396865579742853,Kilogrami,EN_EWT_RCYPCAP
+2014,4.799937,Postotak,EN_EWT_RCYR

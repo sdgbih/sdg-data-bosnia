@@ -1,26 +1,26 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.17778
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.15767
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.13076
-2009,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,1.90902
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.11273
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.18184
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.23761
-2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,1.74418
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,8.7
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.02557
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.03539
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.15464
-2009,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.86016
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.978
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.13504
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.30169
-2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.63634
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,8.5
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.29241
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.28263
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.02114
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.17342
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.15668
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.17297
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,8.9
+2006,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.17778
+2007,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.15767
+2008,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.13076
+2009,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,1.90902
+2010,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.11273
+2011,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.18184
+2012,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,2.23761
+2014,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,1.74418
+2016,SE_ADT_EDUCTRN,Postotak,Oba spola ili bez podjele po spolu,8.7
+2006,SE_ADT_EDUCTRN,Postotak,Žene,2.02557
+2007,SE_ADT_EDUCTRN,Postotak,Žene,2.03539
+2008,SE_ADT_EDUCTRN,Postotak,Žene,2.15464
+2009,SE_ADT_EDUCTRN,Postotak,Žene,1.86016
+2010,SE_ADT_EDUCTRN,Postotak,Žene,1.978
+2011,SE_ADT_EDUCTRN,Postotak,Žene,2.13504
+2012,SE_ADT_EDUCTRN,Postotak,Žene,2.30169
+2014,SE_ADT_EDUCTRN,Postotak,Žene,1.63634
+2016,SE_ADT_EDUCTRN,Postotak,Žene,8.5
+2006,SE_ADT_EDUCTRN,Postotak,Muškarci,2.29241
+2007,SE_ADT_EDUCTRN,Postotak,Muškarci,2.28263
+2008,SE_ADT_EDUCTRN,Postotak,Muškarci,2.02114
+2010,SE_ADT_EDUCTRN,Postotak,Muškarci,2.17342
+2011,SE_ADT_EDUCTRN,Postotak,Muškarci,2.15668
+2012,SE_ADT_EDUCTRN,Postotak,Muškarci,2.17297
+2016,SE_ADT_EDUCTRN,Postotak,Muškarci,8.9

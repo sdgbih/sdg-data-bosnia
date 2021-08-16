@@ -1,37 +1,37 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,60.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2001,80.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2002,90.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2003,93.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2004,95.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2005,97.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2006,99.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2007,99.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2008,99.3,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2009,99.5,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2010,99.7,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2011,99.7,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2012,99.8,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2013,99.8,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2014,99.8,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2015,100.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2016,100.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2017,100.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2018,100.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2019,100.0,Postotak,Udio stanovništva pokriven najmanje 2G mobilnom mrežom
-2009,25.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2010,60.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2011,70.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2012,72.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2013,90.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2014,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2015,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2016,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2017,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2018,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2019,95.0,Postotak,Udio stanovništva pokriven najmanje 3G mobilnom mrežom
-2014,0.0,Postotak,Udio stanovništva pokriven najmanje 4G mobilnom mrežom
-2015,0.0,Postotak,Udio stanovništva pokriven najmanje 4G mobilnom mrežom
-2016,0.0,Postotak,Udio stanovništva pokriven najmanje 4G mobilnom mrežom
-2017,0.0,Postotak,Udio stanovništva pokriven najmanje 4G mobilnom mrežom
-2018,0.0,Postotak,Udio stanovništva pokriven najmanje 4G mobilnom mrežom
+2000,60.0,Postotak,IT_MOB_2GNTWK
+2001,80.0,Postotak,IT_MOB_2GNTWK
+2002,90.0,Postotak,IT_MOB_2GNTWK
+2003,93.0,Postotak,IT_MOB_2GNTWK
+2004,95.0,Postotak,IT_MOB_2GNTWK
+2005,97.0,Postotak,IT_MOB_2GNTWK
+2006,99.0,Postotak,IT_MOB_2GNTWK
+2007,99.0,Postotak,IT_MOB_2GNTWK
+2008,99.3,Postotak,IT_MOB_2GNTWK
+2009,99.5,Postotak,IT_MOB_2GNTWK
+2010,99.7,Postotak,IT_MOB_2GNTWK
+2011,99.7,Postotak,IT_MOB_2GNTWK
+2012,99.8,Postotak,IT_MOB_2GNTWK
+2013,99.8,Postotak,IT_MOB_2GNTWK
+2014,99.8,Postotak,IT_MOB_2GNTWK
+2015,100.0,Postotak,IT_MOB_2GNTWK
+2016,100.0,Postotak,IT_MOB_2GNTWK
+2017,100.0,Postotak,IT_MOB_2GNTWK
+2018,100.0,Postotak,IT_MOB_2GNTWK
+2019,100.0,Postotak,IT_MOB_2GNTWK
+2009,25.0,Postotak,IT_MOB_3GNTWK
+2010,60.0,Postotak,IT_MOB_3GNTWK
+2011,70.0,Postotak,IT_MOB_3GNTWK
+2012,72.0,Postotak,IT_MOB_3GNTWK
+2013,90.0,Postotak,IT_MOB_3GNTWK
+2014,95.0,Postotak,IT_MOB_3GNTWK
+2015,95.0,Postotak,IT_MOB_3GNTWK
+2016,95.0,Postotak,IT_MOB_3GNTWK
+2017,95.0,Postotak,IT_MOB_3GNTWK
+2018,95.0,Postotak,IT_MOB_3GNTWK
+2019,95.0,Postotak,IT_MOB_3GNTWK
+2014,0.0,Postotak,IT_MOB_4GNTWK
+2015,0.0,Postotak,IT_MOB_4GNTWK
+2016,0.0,Postotak,IT_MOB_4GNTWK
+2017,0.0,Postotak,IT_MOB_4GNTWK
+2018,0.0,Postotak,IT_MOB_4GNTWK

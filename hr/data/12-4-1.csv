@@ -1,11 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama,Postotak,100.0
-2020,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama,Postotak,100.0
-2015,Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,50.0
-2020,Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,80.0
-2015,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama,Postotak,100.0
-2020,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim kemikalijama,Postotak,100.0
-2015,Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,72.55
-2020,Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,91.38
-2015,Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,33.33
-2020,Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim kemikalijama,Postotak,62.5
+2015,SG_HAZ_CMRMNTRL,Postotak,100.0
+2020,SG_HAZ_CMRMNTRL,Postotak,100.0
+2015,SG_HAZ_CMRBASEL,Postotak,50.0
+2020,SG_HAZ_CMRBASEL,Postotak,80.0
+2015,SG_HAZ_CMRMNTRL,Postotak,100.0
+2020,SG_HAZ_CMRMNTRL,Postotak,100.0
+2015,SG_HAZ_CMRROTDAM,Postotak,72.55
+2020,SG_HAZ_CMRROTDAM,Postotak,91.38
+2015,SG_HAZ_CMRSTHOLM,Postotak,33.33
+2020,SG_HAZ_CMRSTHOLM,Postotak,62.5
