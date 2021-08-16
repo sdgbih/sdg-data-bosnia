@@ -1,68 +1,52 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,5840.530188,Tone,Proizvedeni elektronski otpad (tone)
-2001,6423.310797,Tone,Proizvedeni elektronski otpad (tone)
-2002,7071.186127,Tone,Proizvedeni elektronski otpad (tone)
-2003,7799.5171,Tone,Proizvedeni elektronski otpad (tone)
-2004,8710.545001,Tone,Proizvedeni elektronski otpad (tone)
-2005,9836.447902000002,Tone,Proizvedeni elektronski otpad (tone)
-2006,10969.259658,Tone,Proizvedeni elektronski otpad (tone)
-2007,12299.791088,Tone,Proizvedeni elektronski otpad (tone)
-2008,14238.835722,Tone,Proizvedeni elektronski otpad (tone)
-2009,16035.974038,Tone,Proizvedeni elektronski otpad (tone)
-2010,17776.63375,Tone,Proizvedeni elektronski otpad (tone)
-2011,19364.73607,Tone,Proizvedeni elektronski otpad (tone)
-2012,20781.265121,Tone,Proizvedeni elektronski otpad (tone)
-2013,21973.322746,Tone,Proizvedeni elektronski otpad (tone)
-2014,23098.780528,Tone,Proizvedeni elektronski otpad (tone)
-2015,24104.988606,Tone,Proizvedeni elektronski otpad (tone)
-2016,24949.927958,Tone,Proizvedeni elektronski otpad (tone)
-2017,25790.573868,Tone,Proizvedeni elektronski otpad (tone)
-2018,26483.708202,Tone,Proizvedeni elektronski otpad (tone)
-2019,27293.116197,Tone,Proizvedeni elektronski otpad (tone)
-2000,1.550446,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2001,1.703344,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2002,1.872666,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2003,2.06391,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2004,2.303768,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2005,2.600859,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2006,2.902688,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2007,3.259086,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2008,3.7829,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2009,4.279683,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2010,4.776097,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2011,5.249319,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2012,5.696619,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2013,6.095235,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2014,6.477504,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2015,6.817022,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2016,7.094094,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2017,7.354027,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2018,7.558136,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2019,7.79358,Kilogrami,"Proizvedeni elektronski otpad, po stanovniku (Kg)"
-2014,1108.73,Tone,Reciklaža elektronskog otpada (tone)
-2015,1157.02,Tone,Reciklaža elektronskog otpada (tone)
-2016,1197.58,Tone,Reciklaža elektronskog otpada (tone)
-2017,1237.93,Tone,Reciklaža elektronskog otpada (tone)
-2018,1271.2,Tone,Reciklaža elektronskog otpada (tone)
-2019,1310.05,Tone,Reciklaža elektronskog otpada (tone)
-2014,0.318407021497909,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2015,0.337387641782932,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2016,0.3536585660948359,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2017,0.369362624696631,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2018,0.382439398976331,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2019,0.396865579742853,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2014,4.799937,Procenat,"Reciklaža elektronskog otpada, stopa (%)"
+2001,568.88599,Tone,Izvoz opasnog otpada
+2002,1830.0,Tone,Izvoz opasnog otpada
+2003,6295.0,Tone,Izvoz opasnog otpada
+2004,7094.29981,Tone,Izvoz opasnog otpada
+2005,709.42999,Tone,Izvoz opasnog otpada
+2006,656.0,Tone,Izvoz opasnog otpada
+2007,666.0,Tone,Izvoz opasnog otpada
+2008,444.73599,Tone,Izvoz opasnog otpada
+2009,497.05621,Tone,Izvoz opasnog otpada
+2010,253.14,Tone,Izvoz opasnog otpada
+2011,87.0,Tone,Izvoz opasnog otpada
+2012,426.194,Tone,Izvoz opasnog otpada
+2013,554.39203,Tone,Izvoz opasnog otpada
+2014,506.28299,Tone,Izvoz opasnog otpada
 2008,10588.0,Tone,Proizvedeni opasni otpad (tone)
 2009,9632.0,Tone,Proizvedeni opasni otpad (tone)
 2010,10320.0,Tone,Proizvedeni opasni otpad (tone)
-2012,945923.0,Tone,Proizvedeni opasni otpad (tone)
+2012,4432.0,Tone,Proizvedeni opasni otpad (tone)
 2014,8408.0,Tone,Proizvedeni opasni otpad (tone)
-2008,2.813265,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2009,2.570891,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2010,2.77264,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2012,259.284853,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2014,2.414631,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2008,0.000682840355,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2010,0.00068021727,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2012,0.062272243966,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2014,0.000534657159,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2008,2.82026,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2009,2.5782,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2010,2.78507,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2012,1.22941,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2014,2.41463,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2008,0.00068,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2010,0.00064,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2012,0.00029,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2014,0.00053,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2000,0.0,Tone,Uvoz opasnog otpada
+2001,0.0,Tone,Uvoz opasnog otpada
+2002,0.0,Tone,Uvoz opasnog otpada
+2003,0.0,Tone,Uvoz opasnog otpada
+2004,0.0,Tone,Uvoz opasnog otpada
+2005,0.0,Tone,Uvoz opasnog otpada
+2006,0.0,Tone,Uvoz opasnog otpada
+2007,0.0,Tone,Uvoz opasnog otpada
+2008,0.0,Tone,Uvoz opasnog otpada
+2009,0.0,Tone,Uvoz opasnog otpada
+2010,0.0,Tone,Uvoz opasnog otpada
+2011,0.0,Tone,Uvoz opasnog otpada
+2012,0.0,Tone,Uvoz opasnog otpada
+2013,0.0,Tone,Uvoz opasnog otpada
+2014,0.0,Tone,Uvoz opasnog otpada
+2008,1367089.96582,Tone,Prikupljeni komunalni otpad
+2009,1260060.05859,Tone,Prikupljeni komunalni otpad
+2010,1057767.94434,Tone,Prikupljeni komunalni otpad
+2011,1027005.98145,Tone,Prikupljeni komunalni otpad
+2012,964120.97168,Tone,Prikupljeni komunalni otpad
+2013,882049.01123,Tone,Prikupljeni komunalni otpad
+2014,989546.02051,Tone,Prikupljeni komunalni otpad
+2015,924051.02539,Tone,Prikupljeni komunalni otpad

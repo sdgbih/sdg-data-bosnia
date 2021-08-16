@@ -1,68 +1,52 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,5840.530188,TONNES,Electronic waste generated (Tonnes)
-2001,6423.310797,TONNES,Electronic waste generated (Tonnes)
-2002,7071.186127,TONNES,Electronic waste generated (Tonnes)
-2003,7799.5171,TONNES,Electronic waste generated (Tonnes)
-2004,8710.545001,TONNES,Electronic waste generated (Tonnes)
-2005,9836.447902000002,TONNES,Electronic waste generated (Tonnes)
-2006,10969.259658,TONNES,Electronic waste generated (Tonnes)
-2007,12299.791088,TONNES,Electronic waste generated (Tonnes)
-2008,14238.835722,TONNES,Electronic waste generated (Tonnes)
-2009,16035.974038,TONNES,Electronic waste generated (Tonnes)
-2010,17776.63375,TONNES,Electronic waste generated (Tonnes)
-2011,19364.73607,TONNES,Electronic waste generated (Tonnes)
-2012,20781.265121,TONNES,Electronic waste generated (Tonnes)
-2013,21973.322746,TONNES,Electronic waste generated (Tonnes)
-2014,23098.780528,TONNES,Electronic waste generated (Tonnes)
-2015,24104.988606,TONNES,Electronic waste generated (Tonnes)
-2016,24949.927958,TONNES,Electronic waste generated (Tonnes)
-2017,25790.573868,TONNES,Electronic waste generated (Tonnes)
-2018,26483.708202,TONNES,Electronic waste generated (Tonnes)
-2019,27293.116197,TONNES,Electronic waste generated (Tonnes)
-2000,1.550446,Kilograms,"Electronic waste generated, per capita (Kg)"
-2001,1.703344,Kilograms,"Electronic waste generated, per capita (Kg)"
-2002,1.872666,Kilograms,"Electronic waste generated, per capita (Kg)"
-2003,2.06391,Kilograms,"Electronic waste generated, per capita (Kg)"
-2004,2.303768,Kilograms,"Electronic waste generated, per capita (Kg)"
-2005,2.600859,Kilograms,"Electronic waste generated, per capita (Kg)"
-2006,2.902688,Kilograms,"Electronic waste generated, per capita (Kg)"
-2007,3.259086,Kilograms,"Electronic waste generated, per capita (Kg)"
-2008,3.7829,Kilograms,"Electronic waste generated, per capita (Kg)"
-2009,4.279683,Kilograms,"Electronic waste generated, per capita (Kg)"
-2010,4.776097,Kilograms,"Electronic waste generated, per capita (Kg)"
-2011,5.249319,Kilograms,"Electronic waste generated, per capita (Kg)"
-2012,5.696619,Kilograms,"Electronic waste generated, per capita (Kg)"
-2013,6.095235,Kilograms,"Electronic waste generated, per capita (Kg)"
-2014,6.477504,Kilograms,"Electronic waste generated, per capita (Kg)"
-2015,6.817022,Kilograms,"Electronic waste generated, per capita (Kg)"
-2016,7.094094,Kilograms,"Electronic waste generated, per capita (Kg)"
-2017,7.354027,Kilograms,"Electronic waste generated, per capita (Kg)"
-2018,7.558136,Kilograms,"Electronic waste generated, per capita (Kg)"
-2019,7.79358,Kilograms,"Electronic waste generated, per capita (Kg)"
-2014,1108.73,TONNES,Electronic waste recycling (Tonnes)
-2015,1157.02,TONNES,Electronic waste recycling (Tonnes)
-2016,1197.58,TONNES,Electronic waste recycling (Tonnes)
-2017,1237.93,TONNES,Electronic waste recycling (Tonnes)
-2018,1271.2,TONNES,Electronic waste recycling (Tonnes)
-2019,1310.05,TONNES,Electronic waste recycling (Tonnes)
-2014,0.318407021497909,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2015,0.337387641782932,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2016,0.3536585660948359,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2017,0.369362624696631,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2018,0.382439398976331,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2019,0.396865579742853,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2014,4.799937,Percent,"Electronic waste recycling, rate (%)"
+2001,568.88599,TONNES,Hazardous waste exported
+2002,1830.0,TONNES,Hazardous waste exported
+2003,6295.0,TONNES,Hazardous waste exported
+2004,7094.29981,TONNES,Hazardous waste exported
+2005,709.42999,TONNES,Hazardous waste exported
+2006,656.0,TONNES,Hazardous waste exported
+2007,666.0,TONNES,Hazardous waste exported
+2008,444.73599,TONNES,Hazardous waste exported
+2009,497.05621,TONNES,Hazardous waste exported
+2010,253.14,TONNES,Hazardous waste exported
+2011,87.0,TONNES,Hazardous waste exported
+2012,426.194,TONNES,Hazardous waste exported
+2013,554.39203,TONNES,Hazardous waste exported
+2014,506.28299,TONNES,Hazardous waste exported
 2008,10588.0,TONNES,Hazardous waste generated (Tonnes)
 2009,9632.0,TONNES,Hazardous waste generated (Tonnes)
 2010,10320.0,TONNES,Hazardous waste generated (Tonnes)
-2012,945923.0,TONNES,Hazardous waste generated (Tonnes)
+2012,4432.0,TONNES,Hazardous waste generated (Tonnes)
 2014,8408.0,TONNES,Hazardous waste generated (Tonnes)
-2008,2.813265,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2009,2.570891,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2010,2.77264,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2012,259.284853,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2014,2.414631,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2008,0.000682840355,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2010,0.00068021727,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2012,0.062272243966,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2014,0.000534657159,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
+2008,2.82026,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2009,2.5782,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2010,2.78507,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2012,1.22941,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2014,2.41463,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2008,0.00068,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
+2010,0.00064,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
+2012,0.00029,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
+2014,0.00053,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
+2000,0.0,TONNES,Hazardous waste imported
+2001,0.0,TONNES,Hazardous waste imported
+2002,0.0,TONNES,Hazardous waste imported
+2003,0.0,TONNES,Hazardous waste imported
+2004,0.0,TONNES,Hazardous waste imported
+2005,0.0,TONNES,Hazardous waste imported
+2006,0.0,TONNES,Hazardous waste imported
+2007,0.0,TONNES,Hazardous waste imported
+2008,0.0,TONNES,Hazardous waste imported
+2009,0.0,TONNES,Hazardous waste imported
+2010,0.0,TONNES,Hazardous waste imported
+2011,0.0,TONNES,Hazardous waste imported
+2012,0.0,TONNES,Hazardous waste imported
+2013,0.0,TONNES,Hazardous waste imported
+2014,0.0,TONNES,Hazardous waste imported
+2008,1367089.96582,TONNES,Municipal waste generated
+2009,1260060.05859,TONNES,Municipal waste generated
+2010,1057767.94434,TONNES,Municipal waste generated
+2011,1027005.98145,TONNES,Municipal waste generated
+2012,964120.97168,TONNES,Municipal waste generated
+2013,882049.01123,TONNES,Municipal waste generated
+2014,989546.02051,TONNES,Municipal waste generated
+2015,924051.02539,TONNES,Municipal waste generated
