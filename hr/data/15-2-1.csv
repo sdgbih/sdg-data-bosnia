@@ -9,7 +9,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Nadzemna biomasa u šumi po hektaru (tone po hektaru),Tisuće hektara,156.36
 2010,Neto promjene šumske površine (%),Postotak,-0.04
 2015,Neto promjene šumske površine (%),Postotak,0.54
-2020,Neto promjene šumske površine (%),Postotak,0.25
+2020,Neto promjene šumske površine (%),Postotak,0.4
 2000,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,0.0
 2005,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,0.0
 2010,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,108.692
@@ -18,3 +18,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2017,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,1532.625
 2018,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,1654.459
 2019,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,1768.071
+2020,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),Tisuće hektara,1888.803
