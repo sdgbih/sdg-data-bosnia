@@ -1,4 +1,17 @@
-Year,SERIES,UNIT_MEASURE,Value
-2017,Indeks planinskog zelenog pokrivača,Index,94.405594
-2017,Planinsko područje (kvadratni kilometri),Kvadratnih kilometara,36.4415446484375
-2017,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Kvadratnih kilometara,34.4028568359375
+Year,SERIES,UNIT_MEASURE,Planinsko uzvišenje,Value
+2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.83175
+2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.6789
+2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.65706
+2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.65706
+2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.89037
+2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.87283
+2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.87137
+2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.86991
+2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,99.08893
+2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.94655
+2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.86165
+2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.84271
+2000,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.31639
+2010,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.21062
+2015,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.15297
+2018,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.13996
