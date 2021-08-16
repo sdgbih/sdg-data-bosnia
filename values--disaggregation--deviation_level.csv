@@ -1,5 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-EXTREME,Extreme (75-100%),EXTREME,EXTREME,EXTREME,2,1
-HIGH,High (50-75%),HIGH,HIGH,HIGH,2,1
-LOW,Low (0-25%),LOW,LOW,LOW,2,1
-MEDIUM,Medium (25-50%),MEDIUM,MEDIUM,MEDIUM,2,1
+EXTREME,Extreme (75-100%),Ekstreman (75-100%),EXTREME,EXTREME,2,1
+HIGH,High (50-75%),Visok (50-75%),HIGH,HIGH,2,1
+LOW,Low (0-25%),Nizak (0-25%),LOW,LOW,2,1
+MEDIUM,Medium (25-50%),Srednji (25-50%),MEDIUM,MEDIUM,2,1
