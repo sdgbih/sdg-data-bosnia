@@ -1,9 +1,9 @@
 Year,Value,UNIT_MEASURE,SERIES
-2017,5.79,Postotak,EN_H2O_WBAMBQ
-2020,30.58,Postotak,EN_H2O_WBAMBQ
-2017,16.67,Postotak,EN_H2O_GRAMBQ
-2020,94.74,Postotak,EN_H2O_GRAMBQ
-2017,100.0,Postotak,EN_H2O_OPAMBQ
-2020,100.0,Postotak,EN_H2O_OPAMBQ
-2017,4.89,Postotak,EN_H2O_RVAMBQ
-2020,28.35,Postotak,EN_H2O_RVAMBQ
+2017,5.79,Postotak,Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode
+2020,30.58,Postotak,Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode
+2017,16.67,Postotak,Udio tijela podzemnih voda sa dobrim kvalitetom ambijentalne vode
+2020,94.74,Postotak,Udio tijela podzemnih voda sa dobrim kvalitetom ambijentalne vode
+2017,100.0,Postotak,Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode
+2020,100.0,Postotak,Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode
+2017,4.89,Postotak,Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode
+2020,28.35,Postotak,Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode

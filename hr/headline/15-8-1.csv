@@ -1,4 +1,4 @@
 Year,Value,UNIT_MEASURE,SERIES
-2010,0,Logička ili binarna mjera,ER_IAS_LEGIS
-2016,1,Logička ili binarna mjera,ER_IAS_LEGIS
-2016,1,Logička ili binarna mjera,ER_IAS_NBSAP
+2010,0,Logička ili binarna mjera,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2016,1,Logička ili binarna mjera,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2016,1,Logička ili binarna mjera,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)"

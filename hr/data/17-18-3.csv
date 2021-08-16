@@ -1,5 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Value
-2018,SG_STT_NSDSFND,Broj,1
-2018,SG_STT_NSDSIMPL,Broj,1
-2018,SG_STT_NSDSFDGVT,Broj,1
-2018,SG_STT_NSDSFDDNR,Broj,1
+2018,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),Broj,1
+2018,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),Broj,1
+2018,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),Broj,1
+2018,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),Broj,1

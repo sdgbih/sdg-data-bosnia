@@ -1,10 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Value
-2013,SG_REG_CENSUSN,Broj,1
-2015,SG_REG_BRTH90N,Broj,1
-2016,SG_REG_BRTH90N,Broj,1
-2017,SG_REG_BRTH90N,Broj,1
-2018,SG_REG_BRTH90N,Broj,1
-2015,SG_REG_DETH75N,Broj,1
-2016,SG_REG_DETH75N,Broj,1
-2017,SG_REG_DETH75N,Broj,1
-2018,SG_REG_DETH75N,Broj,1
+2013,Zemlje koje su provele najmanje jedan popis stanovništva i kućanstava u posljednjih 10 godina (1 = DA; 0 = NE),Broj,1
+2015,Zemlja sa matičnim knjigama rođenih koje su popunjene najmanje 90 posto (1 = DA; 0 = NE),Broj,1
+2016,Zemlja sa matičnim knjigama rođenih koje su popunjene najmanje 90 posto (1 = DA; 0 = NE),Broj,1
+2017,Zemlja sa matičnim knjigama rođenih koje su popunjene najmanje 90 posto (1 = DA; 0 = NE),Broj,1
+2018,Zemlja sa matičnim knjigama rođenih koje su popunjene najmanje 90 posto (1 = DA; 0 = NE),Broj,1
+2015,Zemlje sa knjigom umrlih koje su popunjene najmanje 75 posto (1 = DA; 0 = NE),Broj,1
+2016,Zemlje sa knjigom umrlih koje su popunjene najmanje 75 posto (1 = DA; 0 = NE),Broj,1
+2017,Zemlje sa knjigom umrlih koje su popunjene najmanje 75 posto (1 = DA; 0 = NE),Broj,1
+2018,Zemlje sa knjigom umrlih koje su popunjene najmanje 75 posto (1 = DA; 0 = NE),Broj,1

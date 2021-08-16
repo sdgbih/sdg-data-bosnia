@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Sektor prehrambenog otpada,Value
-2019,AG_FOOD_WST,Tone,Kućanstva,273269.2359
-2019,AG_FOOD_WST,Tone,Potrošnja izvan kućanstva,91266.29414
-2019,AG_FOOD_WST,Tone,Maloprodaja,51628.39459
-2019,AG_FOOD_WST_PC,Tone,Kućanstva,82.78377
-2019,AG_FOOD_WST_PC,Tone,Potrošnja izvan kućanstva,27.64808
-2019,AG_FOOD_WST_PC,Tone,Maloprodaja,15.64023
+2019,Otpad od hrane (tone),Tone,Kućanstva,273269.2359
+2019,Otpad od hrane (tone),Tone,Potrošnja izvan kućanstva,91266.29414
+2019,Otpad od hrane (tone),Tone,Maloprodaja,51628.39459
+2019,Otpad od hrane po stanovniku (KG),Tone,Kućanstva,82.78377
+2019,Otpad od hrane po stanovniku (KG),Tone,Potrošnja izvan kućanstva,27.64808
+2019,Otpad od hrane po stanovniku (KG),Tone,Maloprodaja,15.64023

@@ -1,22 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Value
-2001,SN_ITK_DEFCN,Milijuni,0.1
-2002,SN_ITK_DEFCN,Milijuni,0.1
-2003,SN_ITK_DEFCN,Milijuni,0.1
-2001,SN_ITK_DEFC,Postotak,3.2
-2002,SN_ITK_DEFC,Postotak,3.1
-2003,SN_ITK_DEFC,Postotak,2.7
-2004,SN_ITK_DEFC,Postotak,2.5
-2005,SN_ITK_DEFC,Postotak,2.5
-2006,SN_ITK_DEFC,Postotak,2.5
-2007,SN_ITK_DEFC,Postotak,2.5
-2008,SN_ITK_DEFC,Postotak,2.5
-2009,SN_ITK_DEFC,Postotak,2.5
-2010,SN_ITK_DEFC,Postotak,2.5
-2011,SN_ITK_DEFC,Postotak,2.5
-2012,SN_ITK_DEFC,Postotak,2.5
-2013,SN_ITK_DEFC,Postotak,2.5
-2014,SN_ITK_DEFC,Postotak,2.5
-2015,SN_ITK_DEFC,Postotak,2.5
-2016,SN_ITK_DEFC,Postotak,2.5
-2017,SN_ITK_DEFC,Postotak,2.5
-2018,SN_ITK_DEFC,Postotak,2.5
+2001,Broj pothranjenih ljudi,Milijuni,0.1
+2002,Broj pothranjenih ljudi,Milijuni,0.1
+2003,Broj pothranjenih ljudi,Milijuni,0.1
+2001,Rasprostranjenost pothranjenosti,Postotak,3.2
+2002,Rasprostranjenost pothranjenosti,Postotak,3.1
+2003,Rasprostranjenost pothranjenosti,Postotak,2.7
+2004,Rasprostranjenost pothranjenosti,Postotak,2.5
+2005,Rasprostranjenost pothranjenosti,Postotak,2.5
+2006,Rasprostranjenost pothranjenosti,Postotak,2.5
+2007,Rasprostranjenost pothranjenosti,Postotak,2.5
+2008,Rasprostranjenost pothranjenosti,Postotak,2.5
+2009,Rasprostranjenost pothranjenosti,Postotak,2.5
+2010,Rasprostranjenost pothranjenosti,Postotak,2.5
+2011,Rasprostranjenost pothranjenosti,Postotak,2.5
+2012,Rasprostranjenost pothranjenosti,Postotak,2.5
+2013,Rasprostranjenost pothranjenosti,Postotak,2.5
+2014,Rasprostranjenost pothranjenosti,Postotak,2.5
+2015,Rasprostranjenost pothranjenosti,Postotak,2.5
+2016,Rasprostranjenost pothranjenosti,Postotak,2.5
+2017,Rasprostranjenost pothranjenosti,Postotak,2.5
+2018,Rasprostranjenost pothranjenosti,Postotak,2.5

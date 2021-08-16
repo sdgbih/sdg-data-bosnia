@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Value
-2017,ER_H2O_PRDU,Broj,Ruralno,10
-2019,ER_H2O_PRDU,Broj,Ruralno,10
-2017,ER_WAT_PRDU,Broj,,10
-2019,ER_WAT_PRDU,Broj,,10
-2017,ER_H2O_RURP,Broj,Ruralno,2
-2019,ER_H2O_RURP,Broj,Ruralno,3
-2017,ER_WAT_PART,Broj,,1
-2019,ER_WAT_PART,Broj,,3
+2017,"Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja i upravljanja vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)",Broj,Ruralno,10
+2019,"Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja i upravljanja vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)",Broj,Ruralno,10
+2017,"Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja u planiranju i upravljanju vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)",Broj,,10
+2019,"Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja u planiranju i upravljanju vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)",Broj,,10
+2017,"Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja u ruralnoj opskrbi pitkom vodom, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)",Broj,Ruralno,2
+2019,"Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja u ruralnoj opskrbi pitkom vodom, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)",Broj,Ruralno,3
+2017,"Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja i upravljanja vodnim resursima, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)",Broj,,1
+2019,"Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja i upravljanja vodnim resursima, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)",Broj,,3

@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Value
-2012,ER_CBD_PTYPGRFA,Broj,0
-2013,ER_CBD_PTYPGRFA,Broj,0
-2014,ER_CBD_PTYPGRFA,Broj,0
-2015,ER_CBD_PTYPGRFA,Broj,0
-2016,ER_CBD_PTYPGRFA,Broj,0
-2017,ER_CBD_PTYPGRFA,Broj,0
-2018,ER_CBD_PTYPGRFA,Broj,0
-2019,ER_CBD_PTYPGRFA,Broj,0
-2012,ER_CBD_NAGOYA,Broj,0
-2016,ER_CBD_ORSPGRFA,Broj,0
-2017,ER_CBD_ORSPGRFA,Broj,0
-2018,ER_CBD_ORSPGRFA,Broj,0
-2019,ER_CBD_ORSPGRFA,Broj,0
-2012,ER_CBD_ABSCLRHS,Broj,0
-2012,ER_CBD_SMTA,Broj,2
-2013,ER_CBD_SMTA,Broj,2
-2014,ER_CBD_SMTA,Broj,2
-2015,ER_CBD_SMTA,Broj,2
-2016,ER_CBD_SMTA,Broj,2
-2017,ER_CBD_SMTA,Broj,2
-2018,ER_CBD_SMTA,Broj,2
-2019,ER_CBD_SMTA,Broj,2
+2012,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2013,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2014,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2015,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2016,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2017,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2018,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2019,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
+2012,Zemlje potpisnice Nagojskog protokola (1 = DA; 0 = NE),Broj,0
+2016,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
+2017,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
+2018,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
+2019,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
+2012,"Zemlje koje imaju zakonodavne, administrativne i političke okvire za osiguranje pravedne raspodjele koristi (1 = DA; 0 = NE)",Broj,0
+2012,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2013,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2014,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2015,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2016,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2017,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2018,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
+2019,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2

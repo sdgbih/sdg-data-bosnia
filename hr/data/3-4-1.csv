@@ -1,19 +1,19 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,COMPOSITE_BREAKDOWN,Value
-2000,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,22.0
-2005,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,21.7
-2010,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,20.1
-2015,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,19.2
-2019,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,18.7
-2000,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Žene,,17.0
-2005,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Žene,,16.2
-2010,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Žene,,15.2
-2015,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Žene,,14.1
-2019,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Žene,,13.6
-2000,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Muškarci,,27.4
-2005,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Muškarci,,27.5
-2010,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Muškarci,,25.3
-2015,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Muškarci,,24.6
-2019,SH_DTH_NCOM,Postotak,30 do točno 70 godina,Muškarci,,24.0
+2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,22.0
+2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,21.7
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,20.1
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,19.2
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Oba spola ili bez podjele po spolu,,18.7
+2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Žene,,17.0
+2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Žene,,16.2
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Žene,,15.2
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Žene,,14.1
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Žene,,13.6
+2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Muškarci,,27.4
+2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Muškarci,,27.5
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Muškarci,,25.3
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Muškarci,,24.6
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću",Postotak,30 do točno 70 godina,Muškarci,,24.0
 2000,SH_DTH_NCD,Broj,,Oba spola ili bez podjele po spolu,Rak,5888.0
 2005,SH_DTH_NCD,Broj,,Oba spola ili bez podjele po spolu,Rak,7304.0
 2010,SH_DTH_NCD,Broj,,Oba spola ili bez podjele po spolu,Rak,8032.0
