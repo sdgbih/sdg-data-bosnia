@@ -7,7 +7,7 @@ EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Raz
 FOOD_WS,Food Waste Sector,Sektor prehrambenog otpada,Сектор прехрамбеног отпада,Sektor prehrambenog otpada,1,3
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,2,8
 LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zahtjeva,1,2
-M_ELEVATION,Mountain Elevation,Mountain Elevation,Планинско узвишење,Planinsko uzvišenje,1,4
+M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,OCCUPATION,Zanimanje,Занимање,Zanimanje,2,16
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,23
 SERIES,SDG Series,SDG Serije,SERIES,SDG Varijable,162,302
