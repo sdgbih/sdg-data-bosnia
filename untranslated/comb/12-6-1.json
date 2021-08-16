@@ -1,1 +1,1 @@
-{"data":{"Year":[2020,2020],"EN_SCP_FRMN":["EN_SCP_FRMN","EN_SCP_FRMN"],"UNIT_MEASURE":["NUMBER","NUMBER"],"LEV_REQ":["ADVANCED","MINIMUM"],"Value":[0,0]},"edges":{"From":["EN_SCP_FRMN"],"To":["LEV_REQ"]}}
+{"data":{"Year":[2020,2020],"SERIES":["EN_SCP_FRMN","EN_SCP_FRMN"],"UNIT_MEASURE":["NUMBER","NUMBER"],"LEV_REQ":["ADVANCED","MINIMUM"],"Value":[0,0]},"edges":[]}

@@ -72,6 +72,7 @@ EN_RSRV_MNWAN,Reservoir minimum water area (square kilometres),Minimalna vodena 
 EN_RSRV_MNWAP,Reservoir minimum water area (% of total land area),Minimalna površina akumulacije (% ukupne površine kopna),EN_RSRV_MNWAP,Minimalna površina akumulacije (% ukupne površine kopna),1,1
 EN_RSRV_MXWAN,Reservoir maximum water area (square kilometres),Maksimalna površina akumulacije (kvadratni kilometri),EN_RSRV_MXWAN,Maksimalna površina akumulacije (kvadratni kilometri),1,1
 EN_RSRV_MXWAP,Reservoir maximum water area (% of total land area),Maksimalna površina akumulacije (% ukupne površine kopna),EN_RSRV_MXWAP,Maksimalna površina akumulacije (% ukupne površine kopna),1,1
+EN_SCP_FRMN,"Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement","Broj kompanija koje objavljuju izvještaje o održivosti s objavom po dimenzijama, prema nivou zahtjeva",EN_SCP_FRMN,"Broj tvrtki koje objavljuju izvješća o održivosti s objavom po dimenzijama, prema razini zahtjeva",2,1
 EN_SCP_FSHGDP,Sustainable fisheries as a proportion of GDP,Održivi ribolov kao udio u BDP-u,EN_SCP_FSHGDP,Održivi ribolov kao udio u BDP-u,1,1
 EN_TWT_GENV,"Total waste generation, by activity","Ukupno stvaranje otpada, prema djelatnostima",EN_TWT_GENV,"Ukupno stvaranje otpada, prema djelatnostima",5,1
 EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,EN_WBE_WTLN,1,1
