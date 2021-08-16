@@ -1,28 +1,28 @@
-Year,SERIES,UNIT_MEASURE,DEVIATION_LEVEL,Value
-2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,EXTREME,0.0
-2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,EXTREME,0.0
-2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,EXTREME,0.15333
-2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,HIGH,0.67917
-2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,HIGH,4.905
-2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,HIGH,6.71
-2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,LOW,85.98667
-2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,LOW,87.80667
-2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,LOW,83.95833
-2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,MEDIUM,13.33583
-2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,MEDIUM,7.29
-2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,MEDIUM,9.1775
-2017,Vode jezera zamućenost kvalitete (%),Postotak,EXTREME,27.795
-2018,Vode jezera zamućenost kvalitete (%),Postotak,EXTREME,12.555
-2019,Vode jezera zamućenost kvalitete (%),Postotak,EXTREME,19.4
-2017,Vode jezera zamućenost kvalitete (%),Postotak,HIGH,21.5425
-2018,Vode jezera zamućenost kvalitete (%),Postotak,HIGH,14.00083
-2019,Vode jezera zamućenost kvalitete (%),Postotak,HIGH,18.70667
-2017,Vode jezera zamućenost kvalitete (%),Postotak,LOW,44.11667
-2018,Vode jezera zamućenost kvalitete (%),Postotak,LOW,60.21333
-2019,Vode jezera zamućenost kvalitete (%),Postotak,LOW,42.66917
-2017,Vode jezera zamućenost kvalitete (%),Postotak,MEDIUM,6.54667
-2018,Vode jezera zamućenost kvalitete (%),Postotak,MEDIUM,13.235
-2019,Vode jezera zamućenost kvalitete (%),Postotak,MEDIUM,19.22083
+Year,SERIES,UNIT_MEASURE,Stupanj odstupanja,Value
+2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,Ekstreman (75-100%),0.0
+2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,Ekstreman (75-100%),0.0
+2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,Ekstreman (75-100%),0.15333
+2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,Visok (50-75%),0.67917
+2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,Visok (50-75%),4.905
+2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,Visok (50-75%),6.71
+2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,Nizak (0-25%),85.98667
+2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,Nizak (0-25%),87.80667
+2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,Nizak (0-25%),83.95833
+2017,Vode jezera kvalitetno trofičko stanje (%),Postotak,Srednji (25-50%),13.33583
+2018,Vode jezera kvalitetno trofičko stanje (%),Postotak,Srednji (25-50%),7.29
+2019,Vode jezera kvalitetno trofičko stanje (%),Postotak,Srednji (25-50%),9.1775
+2017,Vode jezera zamućenost kvalitete (%),Postotak,Ekstreman (75-100%),27.795
+2018,Vode jezera zamućenost kvalitete (%),Postotak,Ekstreman (75-100%),12.555
+2019,Vode jezera zamućenost kvalitete (%),Postotak,Ekstreman (75-100%),19.4
+2017,Vode jezera zamućenost kvalitete (%),Postotak,Visok (50-75%),21.5425
+2018,Vode jezera zamućenost kvalitete (%),Postotak,Visok (50-75%),14.00083
+2019,Vode jezera zamućenost kvalitete (%),Postotak,Visok (50-75%),18.70667
+2017,Vode jezera zamućenost kvalitete (%),Postotak,Nizak (0-25%),44.11667
+2018,Vode jezera zamućenost kvalitete (%),Postotak,Nizak (0-25%),60.21333
+2019,Vode jezera zamućenost kvalitete (%),Postotak,Nizak (0-25%),42.66917
+2017,Vode jezera zamućenost kvalitete (%),Postotak,Srednji (25-50%),6.54667
+2018,Vode jezera zamućenost kvalitete (%),Postotak,Srednji (25-50%),13.235
+2019,Vode jezera zamućenost kvalitete (%),Postotak,Srednji (25-50%),19.22083
 2000,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Postotak,,0.00037
 2001,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Postotak,,0.00072
 2002,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Postotak,,0.00112
