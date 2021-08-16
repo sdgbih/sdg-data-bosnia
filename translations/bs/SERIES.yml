@@ -322,3 +322,6 @@ SL_EMP_AEARN: Prosječna zarada po satu zaposlenih prema spolu i zanimanju (naci
 NV_IND_MANF_CD: Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%)
 AG_FOOD_WST: Otpad od hrane (tone) 
 AG_FOOD_WST_PC: Otpad od hrane po stanovniku (KG) 
+EN_EWT_COLLV: Prikupljeni elektronski otpad
+EN_EWT_COLLPCAP: Prikupljeni elektronski otpad po glavi stanovnika 
+EN_EWT_COLLR: Electronic waste collection rate
