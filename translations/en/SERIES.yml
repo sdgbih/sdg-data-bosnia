@@ -321,3 +321,6 @@ SL_EMP_AEARN: Average hourly earnings of employees by sex and occupation (local 
 NV_IND_MANF_CD: Manufacturing value added (current United States dollars) as a proportion of GDP (%) 
 AG_FOOD_WST: Food waste (Tonnes) 
 AG_FOOD_WST_PC: Food waste per capita (KG) 
+EN_EWT_COLLV: Electronic waste collected
+EN_EWT_COLLPCAP: Electronic waste collected, per capita 
+EN_EWT_COLLR: Electronic waste collection rate
