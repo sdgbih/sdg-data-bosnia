@@ -1,4 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+1,1,1,1,1,1,1
 _T,No breakdown,Bez podjele,_T,Bez podjele,2,1
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
@@ -30,11 +31,11 @@ NCD_CARDIO,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваск�
 NCD_CNCR,Cancer,Rak,Рак,Rak,3,1
 NCD_CRESPD,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 NCD_DIABTS,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
-PC_DEFENCE,Defence,Odbrana,Одбрана,Obrana,2,1
+PC_DEFENCE,Defence,Odbrana,Одбрана,Obrana,1,1
 PC_FINANCE,Finance,Finansije,Финансије,Financije,2,1
 PC_FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни послови,Vanjski poslovi,2,1
 PC_GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,2,1
-PC_HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,2,1
+PC_HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,1,1
 SKILL_ICTATCH,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,Слање е-поште с приложеним датотекама,Slanje e-pošte s priloženim datotekama,3,1
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,3,1
 SKILL_ICTCPT,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,3,1

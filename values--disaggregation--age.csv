@@ -1,8 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+<=45Y,under 46 years old,mlađi od 46 godina,млађи од 46 година,mlađi od 46 godina,6,1
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,17,3
 _U,Unknown,Nepoznato,Непознато,Nepoznato,5,1
-_X,Not available,Nije dostupno,Није доступно,Nije dostupno,2,1
 M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,Mlađi od 1 mjeseca,2,1
+PC_HUM_RIGH,PC_HUM_RIGH,PC_HUM_RIGH,PC_HUM_RIGH,PC_HUM_RIGH,1,1
 Y0,under 1 year old,Mlađi od 1 godine,Млађи од 1 године,Mlađi od 1 godine,6,1
 Y0T17,under 18 years old,Ispod 18 godina,Испод 18 година,Ispod 18 godina,8,1
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,13,5
