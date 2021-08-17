@@ -343,5 +343,5 @@ SG_DMK_PARLYN_LC: Broj mladih u parlamentu (starosti 45 ili manje godina), Donji
 SG_DMK_PARLYN_UC: Broj mladih u parlamentu (sstarosti 45 ili manje godin), Gornji dom
 SG_DMK_PARLYP_LC: Udio mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom
 SG_DMK_PARLYP_UC: Udio mladih u parlamentu (starosti 45 ili manje godina), Gornji dom
-SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (tarosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Donji dom ili jednodomnom
-SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (tarosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Gornji dom
+SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Donji dom ili jednodomnom
+SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Gornji dom
