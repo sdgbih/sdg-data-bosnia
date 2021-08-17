@@ -8,6 +8,7 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,5.78
 2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,9.05
 2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,9.76
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,12.15
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,7.21
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,3.59
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,2.79
@@ -17,6 +18,7 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,0.94
 2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,0.82
 2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,0.84
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,256 kbit/s do manje od 2 Mbit/s,0.99
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,3.21
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,6.16
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,8.28
@@ -26,6 +28,7 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,12.85
 2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,9.93
 2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,10.27
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,9.46
 2000,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,0.0
 2001,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,0.0
 2002,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,0.01
@@ -45,6 +48,7 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,19.56
 2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,19.81
 2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,20.87
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,Bez podjele,22.6
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,5000.0
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,7298.0
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,8054.0
@@ -52,8 +56,9 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2014,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,93970.0
 2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,122666.0
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,195585.0
-2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,303455.0
-2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,324492.0
+2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,333455.0
+2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,339725.0
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,10 Mbit/s ili više,400988.0
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,267092.0
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,131531.0
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,100404.0
@@ -62,7 +67,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,32114.0
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,31839.0
 2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,27612.0
-2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,27801.0
+2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,30381.0
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,256 kbit/s do manje od 2 Mbit/s,32654.0
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,118810.0
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,225685.0
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,298318.0
@@ -70,8 +76,9 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2014,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,401223.0
 2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,480208.0
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,435044.0
-2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,332846.0
-2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,341260.0
+2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,339280.0
+2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,346260.0
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,2 Mbit/s do manje od 10 Mbit/s,312245.0
 2000,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,27.0
 2001,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,68.0
 2002,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,213.0
@@ -89,5 +96,6 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2014,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,542405.0
 2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,634987.0
 2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,662468.0
-2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,663913.0
-2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,693554.0
+2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,700347.0
+2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,716366.0
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu (broj),Broj,Bez podjele,745887.0
