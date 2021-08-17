@@ -1,5 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Sex,Age,COMPOSITE_BREAKDOWN,Value
-2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",M,Unknown,PC_HUM_RIGH,1,
+2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Number,Male,Unknown,Human Rights,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",Number,Male,46 years old and over,Finance,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",Number,Male,46 years old and over,Foreign Affairs,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",Number,Male,46 years old and over,Gender Equality,1.0

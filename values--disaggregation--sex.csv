@@ -1,8 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,Оба пола или без подјеле по полу,Oba spola ili bez podjele po spolu,147,28
-_U,Unknown,Nepoznato,Непознато,Nepoznato,5,1
+_U,Unknown,Nepoznato,Непознато,Nepoznato,4,1
 F,Female,Žene,Жене,Žene,170,37
-M,Male,Muškarci,Мушкарци,Muškarci,159,29
+M,Male,Muškarci,Мушкарци,Muškarci,160,29
 SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,1,1
 SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,2,1
 SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,2,1
