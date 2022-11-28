@@ -1,14 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,Оба пола или без подјеле по полу,Oba spola ili bez podjele po spolu,147,28
+_T,Both sexes or no breakdown by sex,Oba spola ili bez podjele po spolu,Оба пола или без подјеле по полу,Oba spola ili bez podjele po spolu,150,28
 _U,Unknown,Nepoznato,Непознато,Nepoznato,4,1
-F,Female,Žene,Жене,Žene,170,37
-M,Male,Muškarci,Мушкарци,Muškarci,160,29
-SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,1,1
-SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,2,1
-SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,2,1
-SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,2,1
-SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,2,1
-SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,1,1
-SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,2,1
-SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,2,1
+F,Female,Žene,Жене,Žene,173,37
+M,Male,Muškarci,Мушкарци,Muškarci,163,29
 T,T,T,T,T,1,1

@@ -56,11 +56,11 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,0.99243
-2000,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.97704,
-2006,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.99838,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,Total (national average) or no breakdown,,,0.98434,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,F,,,0.98805,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,M,,,0.98121 ,
+2000,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.97704
+2006,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99838
+2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.98434
+2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Female,,,0.98805
+2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Male,,,0.98121
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Male,,,0.0
@@ -76,11 +76,11 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,1.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),Male,,,0.0
-2000,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,0.99638 ,
-2006,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,1.01804,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,Total (national average) or no breakdown,,,0.99747,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,F,,,1.00079,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,M,,,0.99417,
+2000,SE_ALP_CPLRRO,,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99638
+2006,SE_ALP_CPLRRO,,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,1.01804
+2012,SE_ALP_CPLRRO,,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99747
+2012,SE_ALP_CPLRRO,,Primary education,Total (national average) or no breakdown,Female,,,1.00079
+2012,SE_ALP_CPLRRO,,Primary education,Total (national average) or no breakdown,Male,,,0.99417
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),Male,,,0.0
@@ -96,11 +96,11 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Both sexes or no breakdown by sex,,,1.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Female,,,1.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),Male,,,1.0
-2000,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.60731,
-2006,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.60786,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,Total (national average) or no breakdown,,,0.9377,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,F,,,0.94017,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,M,,,0.93559 ,
+2000,SE_ALP_CPLRRO,,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.60731
+2006,SE_ALP_CPLRRO,,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.60786
+2012,SE_ALP_CPLRRO,,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.9377
+2012,SE_ALP_CPLRRO,,Upper secondary education,Total (national average) or no breakdown,Female,,,0.94017
+2012,SE_ALP_CPLRRO,,Upper secondary education,Total (national average) or no breakdown,Male,,,0.93559
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),Male,,,0.0
@@ -155,20 +155,20 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,1.05593
 2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,0.95506
 2019,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,0.97203
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSSHT,,1.03128,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSSHT,,0.70046,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCMFL,,0.94207 ,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCMFL,,0.94222,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCPT,,0.84348 ,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTCPT,,0.73837,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTATCH,,0.75366,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPST,,0.73845,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPST,,0.69955,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPRGM,,0.31226,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTPRGM,,0.28540,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTSFWR,,0.79713,
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTTRFF,,0.88954,
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,SKILL_ICTTRFF,,0.91255,
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formula in a spreadsheet,,1.03128
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formula in a spreadsheet,,0.70046
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Copying or moving a file or folder,,0.94207
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Copying or moving a file or folder,,0.94222
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,0.84348
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,0.73837
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Sending e-mails with attached files,,0.75366
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Creating electronic presentations with presentation software,,0.73845
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Creating electronic presentations with presentation software,,0.69955
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Writing a computer program using a specialized programming language,,0.31226
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Writing a computer program using a specialized programming language,,0.2854
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Finding, downloading, installing and configuring software",,0.79713
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,0.88954
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,0.91255
 2007,Language test parity index for achievement,Ratio,Lower secondary education,,,Mathematics,,1.31399
 2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Reading,,0.85397
 2007,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,0.93271

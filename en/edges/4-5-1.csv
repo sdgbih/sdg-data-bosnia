@@ -1,3 +1,4 @@
 From,To
 Education level,Income or wealth quantile
-Education level,COMPOSITE_BREAKDOWN
+Income or wealth quantile,Sex
+Income or wealth quantile,Degree of urbanisation

@@ -56,11 +56,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 3,,,Urbano,0.0
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 4,,,Urbano,0.0
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 5 (najbogatiji),,,Urbano,0.99243
-2000,SE_ALP_CPLRRO,ISCED11_2,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.97704,
-2006,SE_ALP_CPLRRO,ISCED11_2,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.99838,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.98434,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,F,,,0.98805,
-2012,SE_ALP_CPLRRO,ISCED11_2,_T,M,,,0.98121 ,
+2000,SE_ALP_CPLRRO,,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.97704
+2006,SE_ALP_CPLRRO,,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.99838
+2012,SE_ALP_CPLRRO,,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.98434
+2012,SE_ALP_CPLRRO,,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.98805
+2012,SE_ALP_CPLRRO,,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.98121
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Oba spola ili bez podjele po spolu,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Muškarci,,,0.0
@@ -76,11 +76,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 5 (najbogatiji),Oba spola ili bez podjele po spolu,,,1.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 5 (najbogatiji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 5 (najbogatiji),Muškarci,,,0.0
-2000,SE_ALP_CPLRRO,ISCED11_1,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.99638 ,
-2006,SE_ALP_CPLRRO,ISCED11_1,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,1.01804,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.99747,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,F,,,1.00079,
-2012,SE_ALP_CPLRRO,ISCED11_1,_T,M,,,0.99417,
+2000,SE_ALP_CPLRRO,,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.99638
+2006,SE_ALP_CPLRRO,,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,1.01804
+2012,SE_ALP_CPLRRO,,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.99747
+2012,SE_ALP_CPLRRO,,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,1.00079
+2012,SE_ALP_CPLRRO,,Osnovno obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.99417
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 1 (najsiromašniji),Oba spola ili bez podjele po spolu,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 1 (najsiromašniji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 1 (najsiromašniji),Muškarci,,,0.0
@@ -96,11 +96,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Oba spola ili bez podjele po spolu,,,1.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Žene,,,1.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Muškarci,,,1.0
-2000,SE_ALP_CPLRRO,ISCED11_3,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.60731,
-2006,SE_ALP_CPLRRO,ISCED11_3,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.60786,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,Ukupno (nacionalni prosjek) ili bez podjele,,,0.9377,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,F,,,0.94017,
-2012,SE_ALP_CPLRRO,ISCED11_3,_T,M,,,0.93559 ,
+2000,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60731
+2006,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60786
+2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.9377
+2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.94017
+2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.93559
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Oba spola ili bez podjele po spolu,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Muškarci,,,0.0
@@ -155,20 +155,20 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,1.05593
 2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.95506
 2019,"Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer)",Odnos,,,,,,0.97203
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTSSHT,,1.03128,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTSSHT,,0.70046,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTCMFL,,0.94207 ,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTCMFL,,0.94222,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTCPT,,0.84348 ,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTCPT,,0.73837,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTATCH,,0.75366,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTPST,,0.73845,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTPST,,0.69955,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTPRGM,,0.31226,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTPRGM,,0.28540,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTSFWR,,0.79713,
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTTRFF,,0.88954,
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,SKILL_ICTTRFF,,0.91255,
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,,1.03128
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,,0.70046
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Kopiranje ili premještanje datoteke ili mape,,0.94207
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Kopiranje ili premještanje datoteke ili mape,,0.94222
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,,0.84348
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,,0.73837
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Slanje e-pošte s priloženim datotekama,,0.75366
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Izrada elektronskih prezentacija pomoću softvera za prezentacije,,0.73845
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Izrada elektronskih prezentacija pomoću softvera za prezentacije,,0.69955
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,,0.31226
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,,0.2854
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",,0.79713
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Prijenos datoteka između računara i drugih uređaja,,0.88954
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Prijenos datoteka između računara i drugih uređaja,,0.91255
 2007,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,1.31399
 2018,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.85397
 2007,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.93271

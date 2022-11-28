@@ -5,9 +5,6 @@ CUR_LCU_M,CUR_LCU_M,Lokalna valuta (milioni),Локална валута (мил
 CUR_NAC,in BAM,u KM,у KM,u KM,31,1
 GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,3,1
 HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
-ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,5,1
-ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,5,1
-ISCED11_3,ISCED11_3,ISCED11_3,ISCED11_3,ISCED11_3,5,1
 IX,Index,Index,Индеx,Index,10,7
 KG,Kilograms,Kilogrami,Килограми,Kilogrami,2,2
 KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,36,4
@@ -28,7 +25,7 @@ PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 станов�
 PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,Na 1 000 nezaraženog stanovništva,9,1
 PER_100_POP,Per 100 population,Na 100 stanovnika,На 100 становника,Na 100 stanovnika,5,2
 PT,Percent,Procenat,Проценат,Postotak,477,93
-RO,Ratio,Odnos,Однос,Odnos,153,2
+RO,Ratio,Odnos,Однос,Odnos,147,2
 SCORE,Score,Rezultat,Резултат,Rezultat,4,4
 T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,Tonski kilometri,4,1
 THOUSANDS,THOUSANDS,Hiljade,Хиљаде,Tisuće,8,3
