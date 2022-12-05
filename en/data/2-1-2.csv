@@ -1,16 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2015,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,9.61827
-2016,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,9.06745
-2017,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,7.78605
-2018,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,8.17431
-2015,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.18687
-2016,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,10.96086
-2017,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.20166
-2018,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.61538
-2015,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,9.59245
-2016,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,10.26853
-2017,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,8.6838
-2018,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,9.18705
+2015,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,9.6
+2016,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,9.1
+2017,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,7.8
+2018,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,8.2
+2019,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,10.6
+2020,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Female,13.7
+2015,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.2
+2016,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,11.0
+2017,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.2
+2018,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.6
+2019,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,9.8
+2020,Prevalence of moderate or severe food insecurity in the population,Percent,15 years old and over,Male,11.1
+2015,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,9.6
+2016,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,10.3
+2017,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,8.7
+2018,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,9.2
+2019,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,10.0
+2020,Prevalence of moderate or severe food insecurity in the population,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,12.6
 2015,Prevalence of severe food insecurity in the population,Percent,15 years old and over,Female,1.36182
 2016,Prevalence of severe food insecurity in the population,Percent,15 years old and over,Female,1.36499
 2017,Prevalence of severe food insecurity in the population,Percent,15 years old and over,Female,1.00075
