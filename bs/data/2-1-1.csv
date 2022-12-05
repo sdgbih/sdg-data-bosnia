@@ -3,8 +3,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2002,Broj pothranjenih ljudi,Milioni,0.1
 2003,Broj pothranjenih ljudi,Milioni,0.1
 2001,Rasprostranjenost pothranjenosti,Procenat,3.2
-2002,Rasprostranjenost pothranjenosti,Procenat,3.1
-2003,Rasprostranjenost pothranjenosti,Procenat,2.7
+2002,Rasprostranjenost pothranjenosti,Procenat,3.0
+2003,Rasprostranjenost pothranjenosti,Procenat,2.6
 2004,Rasprostranjenost pothranjenosti,Procenat,2.5
 2005,Rasprostranjenost pothranjenosti,Procenat,2.5
 2006,Rasprostranjenost pothranjenosti,Procenat,2.5
@@ -20,3 +20,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Rasprostranjenost pothranjenosti,Procenat,2.5
 2017,Rasprostranjenost pothranjenosti,Procenat,2.5
 2018,Rasprostranjenost pothranjenosti,Procenat,2.5
+2019,Rasprostranjenost pothranjenosti,Procenat,2.5
