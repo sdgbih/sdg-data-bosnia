@@ -2,14 +2,14 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2000,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,367.0
 2001,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,336.0
 2002,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,312.0
-2003,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,294.0
-2004,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,281.0
+2003,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,295.0
+2004,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,282.0
 2005,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,271.0
-2006,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,260.0
+2006,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,261.0
 2007,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,250.0
 2008,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,238.0
 2009,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,226.0
-2010,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,213.0
+2010,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,214.0
 2011,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,202.0
 2012,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,191.0
 2013,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,181.0
@@ -19,8 +19,9 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,150.0
 2018,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,142.0
 2019,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,135.0
+2020,Infant deaths (number),Number,under 1 year old,Both sexes or no breakdown by sex,128.0
 2000,Infant deaths (number),Number,under 1 year old,Female,157.0
-2001,Infant deaths (number),Number,under 1 year old,Female,145.0
+2001,Infant deaths (number),Number,under 1 year old,Female,144.0
 2002,Infant deaths (number),Number,under 1 year old,Female,134.0
 2003,Infant deaths (number),Number,under 1 year old,Female,127.0
 2004,Infant deaths (number),Number,under 1 year old,Female,121.0
@@ -39,17 +40,18 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Infant deaths (number),Number,under 1 year old,Female,66.0
 2018,Infant deaths (number),Number,under 1 year old,Female,62.0
 2019,Infant deaths (number),Number,under 1 year old,Female,59.0
+2020,Infant deaths (number),Number,under 1 year old,Female,56.0
 2000,Infant deaths (number),Number,under 1 year old,Male,210.0
-2001,Infant deaths (number),Number,under 1 year old,Male,191.0
+2001,Infant deaths (number),Number,under 1 year old,Male,192.0
 2002,Infant deaths (number),Number,under 1 year old,Male,178.0
-2003,Infant deaths (number),Number,under 1 year old,Male,167.0
-2004,Infant deaths (number),Number,under 1 year old,Male,160.0
+2003,Infant deaths (number),Number,under 1 year old,Male,168.0
+2004,Infant deaths (number),Number,under 1 year old,Male,161.0
 2005,Infant deaths (number),Number,under 1 year old,Male,155.0
-2006,Infant deaths (number),Number,under 1 year old,Male,148.0
+2006,Infant deaths (number),Number,under 1 year old,Male,149.0
 2007,Infant deaths (number),Number,under 1 year old,Male,142.0
 2008,Infant deaths (number),Number,under 1 year old,Male,135.0
 2009,Infant deaths (number),Number,under 1 year old,Male,128.0
-2010,Infant deaths (number),Number,under 1 year old,Male,120.0
+2010,Infant deaths (number),Number,under 1 year old,Male,121.0
 2011,Infant deaths (number),Number,under 1 year old,Male,114.0
 2012,Infant deaths (number),Number,under 1 year old,Male,108.0
 2013,Infant deaths (number),Number,under 1 year old,Male,102.0
@@ -59,10 +61,11 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Infant deaths (number),Number,under 1 year old,Male,84.0
 2018,Infant deaths (number),Number,under 1 year old,Male,80.0
 2019,Infant deaths (number),Number,under 1 year old,Male,76.0
+2020,Infant deaths (number),Number,under 1 year old,Male,72.0
 2000,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,8.7
 2001,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,8.4
 2002,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,8.2
-2003,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,8.0
+2003,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,8.1
 2004,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,7.9
 2005,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,7.8
 2006,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,7.5
@@ -79,6 +82,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.3
 2018,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.2
 2019,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.1
+2020,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,4.9
 2000,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,7.7
 2001,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,7.5
 2002,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,7.3
@@ -96,9 +100,10 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2014,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.0
 2015,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.9
 2016,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.8
-2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.8
+2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.7
 2018,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.7
 2019,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.6
+2020,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.5
 2000,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,9.6
 2001,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,9.3
 2002,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,9.1
@@ -122,12 +127,12 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2000,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,424.0
 2001,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,389.0
 2002,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,362.0
-2003,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,341.0
+2003,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,342.0
 2004,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,326.0
 2005,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,313.0
 2006,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,300.0
 2007,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,287.0
-2008,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,273.0
+2008,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,274.0
 2009,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,259.0
 2010,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,246.0
 2011,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,233.0
@@ -139,35 +144,37 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,175.0
 2018,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,167.0
 2019,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,158.0
-2000,Under-five deaths (number),Number,under 5 years old,Female,182.0
+2020,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,150.0
+2000,Under-five deaths (number),Number,under 5 years old,Female,181.0
 2001,Under-five deaths (number),Number,under 5 years old,Female,167.0
 2002,Under-five deaths (number),Number,under 5 years old,Female,155.0
 2003,Under-five deaths (number),Number,under 5 years old,Female,146.0
-2004,Under-five deaths (number),Number,under 5 years old,Female,140.0
+2004,Under-five deaths (number),Number,under 5 years old,Female,139.0
 2005,Under-five deaths (number),Number,under 5 years old,Female,134.0
 2006,Under-five deaths (number),Number,under 5 years old,Female,128.0
-2007,Under-five deaths (number),Number,under 5 years old,Female,124.0
+2007,Under-five deaths (number),Number,under 5 years old,Female,123.0
 2008,Under-five deaths (number),Number,under 5 years old,Female,118.0
 2009,Under-five deaths (number),Number,under 5 years old,Female,112.0
 2010,Under-five deaths (number),Number,under 5 years old,Female,107.0
 2011,Under-five deaths (number),Number,under 5 years old,Female,101.0
-2012,Under-five deaths (number),Number,under 5 years old,Male,96.0
-2013,Under-five deaths (number),Number,under 5 years old,Male,91.0
-2014,Under-five deaths (number),Number,under 5 years old,Male,87.0
-2015,Under-five deaths (number),Number,under 5 years old,Male,84.0
-2016,Under-five deaths (number),Number,under 5 years old,Male,80.0
-2017,Under-five deaths (number),Number,under 5 years old,Male,76.0
-2018,Under-five deaths (number),Number,under 5 years old,Male,73.0
-2019,Under-five deaths (number),Number,under 5 years old,Male,69.0
-2000,Under-five deaths (number),Number,under 5 years old,Male,242.0
+2012,Under-five deaths (number),Number,under 5 years old,Female,96.0
+2013,Under-five deaths (number),Number,under 5 years old,Female,91.0
+2014,Under-five deaths (number),Number,under 5 years old,Female,87.0
+2015,Under-five deaths (number),Number,under 5 years old,Female,84.0
+2016,Under-five deaths (number),Number,under 5 years old,Female,80.0
+2017,Under-five deaths (number),Number,under 5 years old,Female,76.0
+2018,Under-five deaths (number),Number,under 5 years old,Female,73.0
+2019,Under-five deaths (number),Number,under 5 years old,Female,69.0
+2020,Under-five deaths (number),Number,under 5 years old,Female,65.0
+2000,Under-five deaths (number),Number,under 5 years old,Male,243.0
 2001,Under-five deaths (number),Number,under 5 years old,Male,222.0
 2002,Under-five deaths (number),Number,under 5 years old,Male,207.0
-2003,Under-five deaths (number),Number,under 5 years old,Male,195.0
-2004,Under-five deaths (number),Number,under 5 years old,Male,186.0
+2003,Under-five deaths (number),Number,under 5 years old,Male,196.0
+2004,Under-five deaths (number),Number,under 5 years old,Male,187.0
 2005,Under-five deaths (number),Number,under 5 years old,Male,179.0
 2006,Under-five deaths (number),Number,under 5 years old,Male,172.0
-2007,Under-five deaths (number),Number,under 5 years old,Male,163.0
-2008,Under-five deaths (number),Number,under 5 years old,Male,155.0
+2007,Under-five deaths (number),Number,under 5 years old,Male,164.0
+2008,Under-five deaths (number),Number,under 5 years old,Male,156.0
 2009,Under-five deaths (number),Number,under 5 years old,Male,147.0
 2010,Under-five deaths (number),Number,under 5 years old,Male,139.0
 2011,Under-five deaths (number),Number,under 5 years old,Male,132.0
@@ -179,6 +186,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Under-five deaths (number),Number,under 5 years old,Male,99.0
 2018,Under-five deaths (number),Number,under 5 years old,Male,94.0
 2019,Under-five deaths (number),Number,under 5 years old,Male,89.0
+2020,Under-five deaths (number),Number,under 5 years old,Male,85.0
 2000,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,9.9
 2001,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,9.6
 2002,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,9.3
@@ -199,6 +207,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.1
 2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.0
 2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,5.9
+2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,5.7
 2000,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,8.7
 2001,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,8.5
 2002,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,8.3
@@ -215,27 +224,29 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2013,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.8
 2014,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.7
 2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.6
-2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.6
+2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.5
 2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.5
 2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.4
 2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.3
+2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.1
 2000,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,11.0
 2001,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,10.6
 2002,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,10.4
 2003,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,10.2
-2004,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,10.0
-2005,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,9.8
-2006,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,9.5
+2004,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,10.1
+2005,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,9.9
+2006,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,9.6
 2007,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,9.2
-2008,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,8.7
+2008,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,8.8
 2009,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,8.3
 2010,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.9
 2011,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.6
-2012,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.3
-2013,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.1
+2012,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.4
+2013,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.2
 2014,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.0
 2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.9
 2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.8
 2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.7
 2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.6
 2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.4
+2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.3
