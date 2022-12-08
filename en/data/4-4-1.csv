@@ -1,43 +1,43 @@
 Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Value
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using basic arithmetic formula in a spreadsheet,9.16614
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using basic arithmetic formula in a spreadsheet,7.52968
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTSSHT,9.16614
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTSSHT,7.52968
 2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Copying or moving a file or folder,59.63432
 2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Copying or moving a file or folder,44.59803
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using copy and paste tools to duplicate or move information within a document,28.14609
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using copy and paste tools to duplicate or move information within a document,22.46445
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Sending e-mails with attached files,30.09595
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Creating electronic presentations with presentation software,12.45847
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Creating electronic presentations with presentation software,11.0905
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Writing a computer program using a specialized programming language,2.08691
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Writing a computer program using a specialized programming language,2.13639
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,"Finding, downloading, installing and configuring software",22.29269
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Transferring files between a computer and other devices,59.74172
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Transferring files between a computer and other devices,49.02722
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using basic arithmetic formula in a spreadsheet,9.29936
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using basic arithmetic formula in a spreadsheet,6.28157
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTCPT,28.14609
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTCPT,22.46445
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTATCH,30.09595
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTPST,12.45847
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTPST,11.0905
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTPRGM,2.08691
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTPRGM,2.13639
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTSFWR,22.29269
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTTRFF,59.74172
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_ICTTRFF,49.02722
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTSSHT,9.29936
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTSSHT,6.28157
 2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Copying or moving a file or folder,57.95128
 2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Copying or moving a file or folder,43.36247
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using copy and paste tools to duplicate or move information within a document,25.87817
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using copy and paste tools to duplicate or move information within a document,19.28883
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Sending e-mails with attached files,26.12795
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Creating electronic presentations with presentation software,10.67309
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Creating electronic presentations with presentation software,9.24555
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Writing a computer program using a specialized programming language,1.0229
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Writing a computer program using a specialized programming language,0.98752
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,"Finding, downloading, installing and configuring software",19.90068
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Transferring files between a computer and other devices,56.43204
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Transferring files between a computer and other devices,46.93722
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using basic arithmetic formula in a spreadsheet,9.01728
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using basic arithmetic formula in a spreadsheet,8.9678
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTCPT,25.87817
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTCPT,19.28883
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTATCH,26.12795
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTPST,10.67309
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTPST,9.24555
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTPRGM,1.0229
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTPRGM,0.98752
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTSFWR,19.90068
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTTRFF,56.43204
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_ICTTRFF,46.93722
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTSSHT,9.01728
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTSSHT,8.9678
 2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Copying or moving a file or folder,61.51488
 2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Copying or moving a file or folder,46.02169
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using copy and paste tools to duplicate or move information within a document,30.68018
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using copy and paste tools to duplicate or move information within a document,26.12354
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Sending e-mails with attached files,34.66806
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Creating electronic presentations with presentation software,14.45337
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Creating electronic presentations with presentation software,13.21634
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Writing a computer program using a specialized programming language,3.27579
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Writing a computer program using a specialized programming language,3.46017
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,"Finding, downloading, installing and configuring software",24.96542
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,63.43982
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,51.43541
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTCPT,30.68018
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTCPT,26.12354
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTATCH,34.66806
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTPST,14.45337
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTPST,13.21634
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTPRGM,3.27579
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTPRGM,3.46017
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTSFWR,24.96542
+2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTTRFF,63.43982
+2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_ICTTRFF,51.43541
