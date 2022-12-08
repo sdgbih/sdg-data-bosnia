@@ -34,14 +34,14 @@ PC_FINANCE: Financije
 PC_FOR_AFF: Vanjski poslovi
 PC_GEN_EQU: Ravnopravnost spolova
 PC_HUM_RIGH: Ljudska prava
-SKILL_ICTATCH: Slanje e-pošte s priloženim datotekama
+SKILL_ICTEMAIL: Slanje e-pošte s priloženim datotekama
 SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
-SKILL_ICTCPT: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
-SKILL_ICTPRGM: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
-SKILL_ICTPST: Izrada elektroničkih prezentacija pomoću softvera za prezentacije
-SKILL_ICTSFWR: Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera
-SKILL_ICTSSHT: Korištenje osnovne aritmetičke formule u proračunskoj tablici
-SKILL_ICTTRFF: Prijenos datoteka između računara i drugih uređaja
+SKILL_ICTCOPA: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
+SKILL_ICTCPR: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
+SKILL_ICTEPRS: Izrada elektroničkih prezentacija pomoću softvera za prezentacije
+SKILL_ICTSOFT: Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera
+SKILL_ICTARSP: Korištenje osnovne aritmetičke formule u proračunskoj tablici
+SKILL_ICTTRAF: Prijenos datoteka između računara i drugih uređaja
 SKILL_MATH: Matematika
 SKILL_READ: Čitanje
 SPAR_01: Zakonodavstvo i financiranje
