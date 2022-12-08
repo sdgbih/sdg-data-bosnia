@@ -161,20 +161,20 @@ Year,SERIES,UNIT_MEASURE,Razina obrazovanja,Kvantil dohotka ili bogatstva,Spol,C
 2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,0.95506
 2019,"Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer)",Odnos,,,,,,0.97203
 2020,"Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer)",Odnos,,,,,,0.9511
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje osnovne aritmetičke formule u proračunskoj tablici,,1.03128
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje osnovne aritmetičke formule u proračunskoj tablici,,0.70046
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTSSHT,,1.03128
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTSSHT,,0.70046
 2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Kopiranje ili premještanje datoteke ili mape,,0.94207
 2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Kopiranje ili premještanje datoteke ili mape,,0.94222
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,,0.84348
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,,0.73837
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Slanje e-pošte s priloženim datotekama,,0.75366
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,,0.73845
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,,0.69955
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Pisanje računarskog programa pomoću specijaliziranog programskog jezika,,0.31226
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Pisanje računarskog programa pomoću specijaliziranog programskog jezika,,0.2854
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,"Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",,0.79713
-2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Prijenos datoteka između računara i drugih uređaja,,0.88954
-2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Prijenos datoteka između računara i drugih uređaja,,0.91255
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTCPT,,0.84348
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTCPT,,0.73837
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTATCH,,0.75366
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTPST,,0.73845
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTPST,,0.69955
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTPRGM,,0.31226
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTPRGM,,0.2854
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTSFWR,,0.79713
+2017,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTTRFF,,0.88954
+2019,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,SKILL_ICTTRFF,,0.91255
 2007,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,1.31399
 2018,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,0.85397
 2007,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,0.93271
