@@ -6,6 +6,7 @@ ISIC4_C: Manufacturing
 ISIC4_C10T32X19: Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment
 ISIC4_D: Electricity, gas, steam and air conditioning supply
 ISIC4_F: Construction
+ISIC4_A01_A0210_A0322: Agriculture (ISIC4 A01 A0210 A0322)
 PRIV_HH: Private households
 SERV_HH: Services, and activities by households
 SERVICES: Services
