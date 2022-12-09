@@ -43,8 +43,8 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2019,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2020,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
 2021,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,42.0
-2018,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Postotak,Žene,18.59
-2020,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Postotak,Žene,19.5973
+2018,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Postotak,Žene,18.6
+2020,Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave,Postotak,Žene,19.6
 2000,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,7.14
 2001,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,7.14
 2002,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,16.67
@@ -67,3 +67,4 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2019,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,21.43
 2020,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,21.43
 2021,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,26.19
+2022,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Postotak,Žene,26.19
