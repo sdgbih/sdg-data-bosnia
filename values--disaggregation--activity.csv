@@ -1,12 +1,13 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,No breakdown,Bez podjele,Без пођеле,Bez podjele,8,4
-INDUSTRIES,Industries,Industrije,Индустрије,Industrije,3,1
+INDUSTRIES,Industries,Industrije,Индустрије,Industrije,4,2
 ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",4,2
 ISIC4_B,Mining and quarrying,Vađenja ruda i kamena,Вађења руда и камена,Vađenja ruda i kamena,1,1
 ISIC4_BTU,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,3,1
 ISIC4_C,Manufacturing,Proizvodnja,Производња,Proizvodnja,7,5
 ISIC4_C10T32X19,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,Производња искљ. кокса и рафинираних нафтних деривата те поправак и уградња стројева и опреме,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1,1
 ISIC4_D,"Electricity, gas, steam and air conditioning supply","Proizvodnja i snadbijevanje električnom energijom, plinom, parom i klimatizacija","Производња и снадбијевање електричном енергијом, плином, паром и климатизација","Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1,1
+ISIC4_GTT,ISIC4_GTT,ISIC4_GTT,ISIC4_GTT,ISIC4_GTT,1,1
 ISIC4_T,ISIC4_T,ISIC4_T,ISIC4_T,ISIC4_T,1,1
 PRIV_HH,Private households,Privatna domaćinstva,Приватна домаћинства,Privatna domaćinstva,1,1
 SERV_HH,"Services, and activities by households",Usluge i aktivnosti domaćinstava,Услуге и активности домаћинстава,Usluge i aktivnosti domaćinstava,1,1
