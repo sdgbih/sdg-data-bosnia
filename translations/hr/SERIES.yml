@@ -72,6 +72,7 @@ ER_GRF_ANIMRCNTN: Broj lokalnih pasmina za koje se čuva dovoljno genetskih resu
 ER_GRF_PLNTSTOR: Pristup uskladištenim biljnim genetičkim resursima (broj) 
 ER_H2O_IWRMD: Stupanj primjene integriranog upravljanja vodnim resursima
 ER_H2O_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja i upravljanja vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA)
+ER_H2O_WUEYST: Efikasnost upotrebe vode (u američkim dolarima po kubnom metru)
 ER_H2O_RURP: Zemlje sa korisnicima/zajednicama koje sudjeluju u programima planiranja u ruralnoj opskrbi pitkom vodom, prema razini učešća (3 = visoko; 2 = umjereno; 1 = nisko; 0 = NA)
 ER_H2O_STRESS: ' Razina vodenog stresa: povlačenje slatke vode kao udio raspoloživih slatkovodnih resursa'
 ER_IAS_LEGIS: Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)
