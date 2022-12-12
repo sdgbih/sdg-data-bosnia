@@ -35,21 +35,14 @@ PC_FINANCE,Finance,Finansije,Финансије,Financije,2,1
 PC_FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни послови,Vanjski poslovi,2,1
 PC_GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,2,1
 PC_HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,2,1
-SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,1,1
-SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,SKILL_ICTATCH,3,1
+SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,4,2
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,4,2
-SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,1,1
-SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,SKILL_ICTCPT,3,1
-SKILL_ICTEMAIL,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,Слање е-поште с приложеним датотекама,Slanje e-pošte s priloženim datotekama,1,1
-SKILL_ICTEPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,Израда електронских презентација помоћу софтвера за презентације,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,1,1
-SKILL_ICTPCPR,Writing a computer program using a specialized programming language,SKILL_ICTPCPR,Писање рачунарског програма помоћу специјализованог програмског језика,SKILL_ICTPCPR,1,1
-SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,SKILL_ICTPRGM,3,1
-SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,SKILL_ICTPST,3,1
-SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,SKILL_ICTSFWR,3,1
-SKILL_ICTSOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера","Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",1,1
-SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,SKILL_ICTSSHT,3,1
-SKILL_ICTTRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,Prijenos datoteka između računara i drugih uređaja,1,1
-SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,SKILL_ICTTRFF,3,1
+SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,4,2
+SKILL_ICTEMAIL,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,Слање е-поште с приложеним датотекама,Slanje e-pošte s priloženim datotekama,4,2
+SKILL_ICTEPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,Израда електронских презентација помоћу софтвера за презентације,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,4,2
+SKILL_ICTPCPR,Writing a computer program using a specialized programming language,SKILL_ICTPCPR,Писање рачунарског програма помоћу специјализованог програмског језика,SKILL_ICTPCPR,4,2
+SKILL_ICTSOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера","Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",4,2
+SKILL_ICTTRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,Prijenos datoteka između računara i drugih uređaja,4,2
 SKILL_MATH,Mathematics,Matematika,Математика,Matematika,12,2
 SKILL_READ,Reading,Čitanje,Читање,Čitanje,8,2
 SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,Законодавство и финансирање,Zakonodavstvo i financiranje,1,1
