@@ -1,11 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
 2017,61,Procenat,Stepen primjene integrisanog upravljanja vodnim resursima
 2020,53,Procenat,Stepen primjene integrisanog upravljanja vodnim resursima
-2017,66,Procenat,ER_H2O_IWRMD_EE
-2020,60,Procenat,ER_H2O_IWRMD_EE
-2017,62,Procenat,ER_H2O_IWRMD_IP
-2020,53,Procenat,ER_H2O_IWRMD_IP
-2017,62,Procenat,ER_H2O_IWRMD_MI
-2020,56,Procenat,ER_H2O_IWRMD_MI
-2017,53,Procenat,ER_H2O_IWRMD_FI
-2020,43,Procenat,ER_H2O_IWRMD_FI
+2017,66,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, okruženje koje omogućava"
+2020,60,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, okruženje koje omogućava"
+2017,62,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, institucije i učešće"
+2020,53,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, institucije i učešće"
+2017,62,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, instrumenti upravljanja"
+2020,56,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, instrumenti upravljanja"
+2017,53,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, finansiranje"
+2020,43,Procenat,"Stepen implementacije integrisanog upravljanja vodnim resursima, finansiranje"
