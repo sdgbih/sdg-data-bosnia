@@ -1,11 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
 2017,61,Percent,Degree of integrated water resources management implementation
 2020,53,Percent,Degree of integrated water resources management implementation
-2017,66,Percent,ER_H2O_IWRMD_EE
-2020,60,Percent,ER_H2O_IWRMD_EE
-2017,62,Percent,ER_H2O_IWRMD_IP
-2020,53,Percent,ER_H2O_IWRMD_IP
-2017,62,Percent,ER_H2O_IWRMD_MI
-2020,56,Percent,ER_H2O_IWRMD_MI
-2017,53,Percent,ER_H2O_IWRMD_FI
-2020,43,Percent,ER_H2O_IWRMD_FI
+2017,66,Percent,"Degree of integrated water resources management implementation, enabling environment"
+2020,60,Percent,"Degree of integrated water resources management implementation, enabling environment"
+2017,62,Percent,"Degree of integrated water resources management implementation, institutions and participation"
+2020,53,Percent,"Degree of integrated water resources management implementation, institutions and participation"
+2017,62,Percent,"Degree of integrated water resources management implementation, management instruments"
+2020,56,Percent,"Degree of integrated water resources management implementation, management instruments"
+2017,53,Percent,"Degree of integrated water resources management implementation, financing"
+2020,43,Percent,"Degree of integrated water resources management implementation, financing"
