@@ -36,8 +36,7 @@ PC_GEN_EQU: Gender Equality
 PC_HUM_RIGH: Human Rights
 SKILL_ICTEMAIL: Sending e-mails with attached files
 SKILL_ICTCMFL: Copying or moving a file or folder
-SKILL_ICTCOPA: Using copy and paste tools to duplicate or move information within a
-  document
+SKILL_ICTCOPA: Using copy and paste tools to duplicate or move information within a document
 SKILL_ICTPCPR: Writing a computer program using a specialized programming language
 SKILL_ICTEPRS: Creating electronic presentations with presentation software
 SKILL_ICTSOFT: Finding, downloading, installing and configuring software
