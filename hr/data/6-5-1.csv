@@ -1,2 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2018,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,61
+2017,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,61
+2020,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,53
+2017,ER_H2O_IWRMD_EE,Postotak,66
+2020,ER_H2O_IWRMD_EE,Postotak,60
+2017,ER_H2O_IWRMD_IP,Postotak,62
+2020,ER_H2O_IWRMD_IP,Postotak,53
+2017,ER_H2O_IWRMD_MI,Postotak,62
+2020,ER_H2O_IWRMD_MI,Postotak,56
+2017,ER_H2O_IWRMD_FI,Postotak,53
+2020,ER_H2O_IWRMD_FI,Postotak,43
