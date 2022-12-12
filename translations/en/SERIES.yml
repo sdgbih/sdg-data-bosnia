@@ -71,6 +71,10 @@ ER_CBD_SMTA: Total reported number of Standard Material Transfer Agreements (SMT
 ER_GRF_ANIMRCNTN: Number of local breeds for which sufficient genetic resources are stored for reconstitution
 ER_GRF_PLNTSTOR: Plant genetic resources accessions stored ex situ (number) 
 ER_H2O_IWRMD: Degree of integrated water resources management implementation
+ER_H2O_IWRMD_EE: Degree of integrated water resources management implementation, enabling environment
+ER_H2O_IWRMD_IP: Degree of integrated water resources management implementation, institutions and participation
+ER_H2O_IWRMD_MI: Degree of integrated water resources management implementation, management instruments
+ER_H2O_IWRMD_FI: Degree of integrated water resources management implementation, financing
 ER_H2O_PRDU: Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)
 ER_H2O_RURP: Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)
 ER_H2O_WUEYST: Water Use Efficiency (United States dollars per cubic meter)
