@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Value
 2000,Annual growth rate of real GDP per capita,Percent,5.19
-2001,Annual growth rate of real GDP per capita,Percent,2.57
-2002,Annual growth rate of real GDP per capita,Percent,4.93
-2003,Annual growth rate of real GDP per capita,Percent,3.82
-2004,Annual growth rate of real GDP per capita,Percent,6.26
+2001,Annual growth rate of real GDP per capita,Percent,2.31
+2002,Annual growth rate of real GDP per capita,Percent,4.92
+2003,Annual growth rate of real GDP per capita,Percent,3.79
+2004,Annual growth rate of real GDP per capita,Percent,6.27
 2005,Annual growth rate of real GDP per capita,Percent,3.87
 2006,Annual growth rate of real GDP per capita,Percent,5.41
 2007,Annual growth rate of real GDP per capita,Percent,5.93
@@ -18,4 +18,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Annual growth rate of real GDP per capita,Percent,4.46
 2017,Annual growth rate of real GDP per capita,Percent,4.24
 2018,Annual growth rate of real GDP per capita,Percent,4.6
-2019,Annual growth rate of real GDP per capita,Percent,3.39
+2019,Annual growth rate of real GDP per capita,Percent,3.56
+2020,Annual growth rate of real GDP per capita,Percent,3.73
