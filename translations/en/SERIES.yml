@@ -27,7 +27,7 @@ DC_TRF_TOTL: Total assistance for development, by recipient countries
 DT_TDS_DECT: Debt service as a proportion of exports of goods and services
 EG_ACS_ELEC: Proportion of population with access to electricity
 EG_EGY_CLEAN: Proportion of population with primary reliance on clean fuels and technology
-EG_EGY_PRIM: Energy intensity level of primary energy
+EG_EGY_PRIM: Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)
 EG_FEC_RNEW: Renewable energy share in the total final energy consumption
 EG_TBA_H2CO: Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation
 EG_TBA_H2COAQ: Proportion of transboundary aquifers with an operational arrangement for water cooperation
