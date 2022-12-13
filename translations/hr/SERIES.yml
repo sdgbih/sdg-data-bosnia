@@ -22,7 +22,7 @@ DC_TOF_INFRAL: Ukupni zvanični tokovi za infrastrukturu, prema zemljama primate
 DC_TOF_SCHIPSL: Ukupni zvanični tokovi stipendija, prema zemljama primateljima
 DC_TOF_TRDCML: Ukupni zvanični tokovi (obveze) za pomoć trgovini, prema zemljama primateljima
 DC_TOF_TRDDBML: Ukupni zvanični tokovi (isplate) za pomoć trgovini, prema zemljama primateljima
-DC_TOF_WASHL: Ukupna zvanična razvojna pomoć (bruto izdaci) za vodoopskrbu i kanalizaciju, prema zemljama primateljima
+DC_TOF_WASHL: Ukupna zvanična razvojna pomoć (bruto izdaci) za vodoopskrbu i kanalizaciju, prema zemljama primateljima (milioni stalnih američkih dolara iz 2020.)
 DC_TRF_TOTL: Ukupna razvojna pomoć, prema zemljama primateljima
 DT_TDS_DECT: Servisiranja duga kao udio izvoza roba i usluga
 EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji
