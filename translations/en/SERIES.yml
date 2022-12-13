@@ -22,7 +22,7 @@ DC_TOF_INFRAL: Total official flows for infrastructure, by recipient countries
 DC_TOF_SCHIPSL: Total official flows for scholarships, by recipient countries
 DC_TOF_TRDCML: Total official flows (commitments) for Aid for Trade, by recipient countries
 DC_TOF_TRDDBML: Total official flows (disbursement) for Aid for Trade, by recipient countries
-DC_TOF_WASHL: Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries
+DC_TOF_WASHL: Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2020 United States dollars)
 DC_TRF_TOTL: Total assistance for development, by recipient countries
 DT_TDS_DECT: Debt service as a proportion of exports of goods and services
 EG_ACS_ELEC: Proportion of population with access to electricity
