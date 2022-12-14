@@ -9,7 +9,7 @@ INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,�
 LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zahtjeva,1,2
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,2,15
-PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,28
+PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,30
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,163,315
 SEX,Sex,Spol,Пол,Spol,38,5
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,163,34
