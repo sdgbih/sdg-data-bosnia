@@ -16,8 +16,8 @@ DC_FTA_TOTAL: Ukupna zvanična razvojna pomoć (bruto isplata) za tehničku sara
 DC_ODA_BDVL: Ukupna zvanična razvojna pomoć za biodiverzitet, po zemljama primaocima
 DC_ODA_POVLG: Zvanični grantovi za razvojnu pomoć za smanjenje siromaštva po zemljama primaocima (procenat BND-a) 
 DC_TOF_AGRL: Ukupni zvanični tokovi (isplate) za poljoprivredu, prema zemljama primaocima
-DC_TOF_HLTHL: Ukupna zvanična razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, bruto isplata, prema zemljama primaocima (milioni američkih dolara konstanta 2019) 
-DC_TOF_HLTHNT: Ukupna službena razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, neto isplata, po zemljama primaocima (milioni američkih dolara konstanta 2019.) 
+DC_TOF_HLTHL: Ukupna zvanična razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, bruto isplata, prema zemljama primaocima (milioni američkih dolara konstanta 2020.) 
+DC_TOF_HLTHNT: Ukupna službena razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, neto isplata, po zemljama primaocima (milioni američkih dolara konstanta 2020.) 
 DC_TOF_INFRAL: Ukupni zvanični tokovi za infrastrukturu, prema zemljama primaocima
 DC_TOF_SCHIPSL: Ukupni zvanični tokovi stipendija, prema zemljama primaocima
 DC_TOF_TRDCML: Ukupni zvanični tokovi (obaveze) za pomoć trgovini, prema zemljama primaocima
