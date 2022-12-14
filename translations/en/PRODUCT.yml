@@ -12,15 +12,15 @@ BIM: Biomass
 CRO: Crops
 CPR: Crop residues
 GBO: Grazed biomass and fodder crops
-MF13: Wood
-MF14: Wild catch and harvest
+WOD: Wood
+WCH: Wild catch and harvest
 MEO: Metal ores
 FEO: Ferrous ores
 NFO: Non-ferrous ores
 NMM: Non-metallic minerals
 FOF: Fossil fuels
 COL: Coal
-MF421: Petroleum
+PET: Petroleum
 GAS: Natural gas
 NMC: Non-metallic minerals - construction dominant
 NMA: Non-metallic minerals - industrial or agricultural dominant
