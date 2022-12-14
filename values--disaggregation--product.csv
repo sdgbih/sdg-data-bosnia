@@ -1,14 +1,19 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,9,4
+_T,_T,_T,_T,_T,8,4
 AGG_AGR,Agriculture products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 AGG_ARMS,Arms,Oružje,Оружје,Oružje,3,2
 AGG_CLTH,Clothing,Odjeća,Одјећа,Odjeća,3,2
 AGG_IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
-MF1,MF1,MF1,MF1,MF1,6,2
-MF11,MF11,MF11,MF11,MF11,6,2
-MF121,MF121,MF121,MF121,MF121,6,2
+ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,1,1
+BIM,Biomass,Biomasa,Биомаса,Biomasa,1,1
+COL,Coal,Ugalj,Угаљ,Ugljen,1,1
+CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,1,1
+CRO,Crops,Usjevi,Усјеви,Usjevi,1,1
+MF1,MF1,MF1,MF1,MF1,5,2
+MF11,MF11,MF11,MF11,MF11,5,2
+MF121,MF121,MF121,MF121,MF121,5,2
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,6,2
 MF13,MF13,MF13,MF13,MF13,6,2
 MF14,MF14,MF14,MF14,MF14,6,2
@@ -17,7 +22,7 @@ MF21,MF21,MF21,MF21,MF21,6,2
 MF22,MF22,MF22,MF22,MF22,6,2
 MF3,MF3,MF3,MF3,MF3,6,2
 MF4,MF4,MF4,MF4,MF4,6,2
-MF41,MF41,MF41,MF41,MF41,6,2
+MF41,MF41,MF41,MF41,MF41,5,2
 MF421,MF421,MF421,MF421,MF421,6,2
 MF422,MF422,MF422,MF422,MF422,6,2
 MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,6,2
