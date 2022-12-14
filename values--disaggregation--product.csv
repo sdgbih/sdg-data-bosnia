@@ -1,24 +1,24 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,Без подјеле,_T,9,4
+_T,_T,_T,_T,_T,9,4
 AGG_AGR,Agriculture products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 AGG_ARMS,Arms,Oružje,Оружје,Oružje,3,2
 AGG_CLTH,Clothing,Odjeća,Одјећа,Odjeća,3,2
 AGG_IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
-MF1,MF1,MF1,Биомаса,MF1,6,2
-MF11,MF11,MF11,Усјеви,MF11,6,2
-MF121,MF121,MF121,Остаци усјева,MF121,6,2
+MF1,MF1,MF1,MF1,MF1,6,2
+MF11,MF11,MF11,MF11,MF11,6,2
+MF121,MF121,MF121,MF121,MF121,6,2
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,6,2
-MF13,MF13,MF13,Дрво,MF13,6,2
-MF14,MF14,MF14,Дивљи улов и жетва,MF14,6,2
-MF2,MF2,MF2,Металне руде,MF2,6,2
-MF21,MF21,MF21,Руде жељеза,MF21,6,2
-MF22,MF22,MF22,Руде обојених метала,MF22,6,2
-MF3,MF3,MF3,Неметални минерали,MF3,6,2
-MF4,MF4,MF4,Фосилна горива,MF4,6,2
-MF41,MF41,MF41,Угаљ,MF41,6,2
-MF421,MF421,MF421,Нафта,MF421,6,2
-MF422,MF422,MF422,Природни гас,MF422,6,2
-MF_AGG3A,MF_AGG3A,MF_AGG3A,Неметални минерали - доминантна градња,MF_AGG3A,6,2
-MF_AGG3B,MF_AGG3B,MF_AGG3B,Неметални минерали - доминантни у индустрији или пољопривреди,MF_AGG3B,6,2
+MF13,MF13,MF13,MF13,MF13,6,2
+MF14,MF14,MF14,MF14,MF14,6,2
+MF2,MF2,MF2,MF2,MF2,6,2
+MF21,MF21,MF21,MF21,MF21,6,2
+MF22,MF22,MF22,MF22,MF22,6,2
+MF3,MF3,MF3,MF3,MF3,6,2
+MF4,MF4,MF4,MF4,MF4,6,2
+MF41,MF41,MF41,MF41,MF41,6,2
+MF421,MF421,MF421,MF421,MF421,6,2
+MF422,MF422,MF422,MF422,MF422,6,2
+MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,6,2
+MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,6,2
