@@ -1,24 +1,24 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,Без подјеле,Bez podjele,9,4
+_T,_T,Bez podjele,Без подјеле,Bez podjele,9,4
 AGG_AGR,Agriculture products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 AGG_ARMS,Arms,Oružje,Оружје,Oružje,3,2
 AGG_CLTH,Clothing,Odjeća,Одјећа,Odjeća,3,2
 AGG_IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
-MF1,Biomass,Biomasa,Биомаса,Biomasa,6,2
-MF11,Crops,Usjevi,Усјеви,Usjevi,6,2
-MF121,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,6,2
-MF122,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,Сточна храна и крмно биље,Stočna hrana i krmno bilje,6,2
+MF1,MF1,Biomasa,Биомаса,Biomasa,6,2
+MF11,MF11,Usjevi,Усјеви,Usjevi,6,2
+MF121,MF121,Ostaci usjeva,Остаци усјева,Ostaci usjeva,6,2
+MF122,MF122,Stočna hrana i krmno bilje,Сточна храна и крмно биље,Stočna hrana i krmno bilje,6,2
 MF13,Wood,Drvo,Дрво,Drvo,6,2
 MF14,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,6,2
-MF2,Metal ores,Metalne rude,Металне руде,Metalne rude,6,2
-MF21,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,6,2
-MF22,Non-ferrous ores,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,6,2
-MF3,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
-MF4,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
-MF41,Coal,Ugalj,Угаљ,Ugljen,6,2
+MF2,MF2,Metalne rude,Металне руде,Metalne rude,6,2
+MF21,MF21,Rude željeza,Руде жељеза,Rude željeza,6,2
+MF22,MF22,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,6,2
+MF3,MF3,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
+MF4,MF4,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
+MF41,MF41,Ugalj,Угаљ,Ugljen,6,2
 MF421,Petroleum,Nafta,Нафта,Nafta,6,2
-MF422,Natural gas,Prirodni gas,Природни гас,Prirodni plin,6,2
-MF_AGG3A,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,6,2
-MF_AGG3B,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,6,2
+MF422,MF422,Prirodni gas,Природни гас,Prirodni plin,6,2
+MF_AGG3A,MF_AGG3A,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,6,2
+MF_AGG3B,MF_AGG3B,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,6,2
