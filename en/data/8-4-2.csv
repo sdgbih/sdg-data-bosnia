@@ -251,60 +251,60 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF3,5.55601
 2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF3,5.90616
 2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF3,6.24347
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.30478
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.29778
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.28789
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.26751
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.31391
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.29618
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.31777
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.33863
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.39085
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.43693
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.44867
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.46464
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.42021
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.41304
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.38839
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.40346
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.41748
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,Petroleum,0.43051
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00225
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.0023
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00296
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00311
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00361
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00408
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00296
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00292
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00291
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00271
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00245
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00225
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.0023
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00246
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00248
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00246
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00242
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,Wild catch and harvest,0.00238
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.65807
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.5795
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.65011
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.63242
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.48414
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.50906
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.56101
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.49105
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.54082
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.4581
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.51753
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.54586
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.57248
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.61619
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.59812
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.56402
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.5637
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,Wood,0.56187
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.30478
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.29778
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.28789
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.26751
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.31391
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.29618
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.31777
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.33863
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.39085
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.43693
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.44867
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.46464
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.42021
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.41304
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.38839
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.40346
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.41748
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF421,0.43051
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00225
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.0023
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00296
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00311
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00361
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00408
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00296
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00292
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00291
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00271
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00245
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00225
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.0023
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00246
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00248
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00246
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00242
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF14,0.00238
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.65807
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.5795
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.65011
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.63242
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.48414
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.50906
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.56101
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.49105
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.54082
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.4581
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.51753
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.54586
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.57248
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.61619
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.59812
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.56402
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.5637
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF13,0.56187
 2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,_T,1.93849
 2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,_T,1.98851
 2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,_T,2.02977
@@ -557,60 +557,60 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF3,1.07055
 2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF3,1.09735
 2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF3,1.12276
-2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.09524
-2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.09073
-2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.0836
-2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07484
-2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.08265
-2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07506
-2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07635
-2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07675
-2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.0838
-2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.09613
-2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.09723
-2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.09884
-2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.08914
-2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.08459
-2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07779
-2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07774
-2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07757
-2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,Petroleum,0.07742
-2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.0007
-2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.0007
-2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00086
-2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00087
-2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00095
-2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00103
-2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00071
-2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00066
-2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00062
-2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.0006
-2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00053
-2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00048
-2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00049
-2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.0005
-2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.0005
-2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00047
-2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00045
-2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wild catch and harvest,0.00043
-2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.20564
-2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.17656
-2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.1888
-2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.17693
-2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.12747
-2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.12901
-2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.1348
-2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.1113
-2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.11595
-2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.10079
-2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.11215
-2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.11612
-2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.12145
-2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.1262
-2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.1198
-2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.10868
-2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.10473
-2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,Wood,0.10104
+2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.09524
+2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.09073
+2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.0836
+2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07484
+2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.08265
+2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07506
+2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07635
+2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07675
+2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.0838
+2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.09613
+2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.09723
+2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.09884
+2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.08914
+2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.08459
+2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07779
+2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07774
+2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07757
+2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF421,0.07742
+2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.0007
+2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.0007
+2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00086
+2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00087
+2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00095
+2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00103
+2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00071
+2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00066
+2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00062
+2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.0006
+2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00053
+2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00048
+2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00049
+2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.0005
+2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.0005
+2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00047
+2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00045
+2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF14,0.00043
+2000,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.20564
+2001,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.17656
+2002,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.1888
+2003,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.17693
+2004,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.12747
+2005,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.12901
+2006,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.1348
+2007,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.1113
+2008,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.11595
+2009,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.10079
+2010,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.11215
+2011,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.11612
+2012,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.12145
+2013,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.1262
+2014,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.1198
+2015,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.10868
+2016,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.10473
+2017,Domestic material consumption per unit of GDP,Kilograms per constant USD,MF13,0.10104
 2000,Domestic material consumption,TONNES,_T,23365825.75365
 2001,Domestic material consumption,TONNES,_T,24613314.28434
 2002,Domestic material consumption,TONNES,_T,26390478.3
@@ -863,57 +863,57 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2015,Domestic material consumption,TONNES,MF3,19645818.0
 2016,Domestic material consumption,TONNES,MF3,20770890.0
 2017,Domestic material consumption,TONNES,MF3,21895961.0
-2000,Domestic material consumption,TONNES,Petroleum,1148000.0
-2001,Domestic material consumption,TONNES,Petroleum,1123000.0
-2002,Domestic material consumption,TONNES,Petroleum,1087000.0
-2003,Domestic material consumption,TONNES,Petroleum,1011000.0
-2004,Domestic material consumption,TONNES,Petroleum,1187000.0
-2005,Domestic material consumption,TONNES,Petroleum,1120000.0
-2006,Domestic material consumption,TONNES,Petroleum,1201000.0
-2007,Domestic material consumption,TONNES,Petroleum,1278000.0
-2008,Domestic material consumption,TONNES,Petroleum,1471000.0
-2009,Domestic material consumption,TONNES,Petroleum,1637000.0
-2010,Domestic material consumption,TONNES,Petroleum,1670000.0
-2011,Domestic material consumption,TONNES,Petroleum,1714000.0
-2012,Domestic material consumption,TONNES,Petroleum,1533000.0
-2013,Domestic material consumption,TONNES,Petroleum,1489000.0
-2014,Domestic material consumption,TONNES,Petroleum,1385000.0
-2015,Domestic material consumption,TONNES,Petroleum,1426607.0
-2016,Domestic material consumption,TONNES,Petroleum,1468214.0
-2017,Domestic material consumption,TONNES,Petroleum,1509821.0
-2000,Domestic material consumption,TONNES,Wild catch and harvest,8465.0
-2001,Domestic material consumption,TONNES,Wild catch and harvest,8679.0
-2002,Domestic material consumption,TONNES,Wild catch and harvest,11182.0
-2003,Domestic material consumption,TONNES,Wild catch and harvest,11748.0
-2004,Domestic material consumption,TONNES,Wild catch and harvest,13649.0
-2005,Domestic material consumption,TONNES,Wild catch and harvest,15432.0
-2006,Domestic material consumption,TONNES,Wild catch and harvest,11180.0
-2007,Domestic material consumption,TONNES,Wild catch and harvest,11029.0
-2008,Domestic material consumption,TONNES,Wild catch and harvest,10938.0
-2009,Domestic material consumption,TONNES,Wild catch and harvest,10162.0
-2010,Domestic material consumption,TONNES,Wild catch and harvest,9106.0
-2011,Domestic material consumption,TONNES,Wild catch and harvest,8310.0
-2012,Domestic material consumption,TONNES,Wild catch and harvest,8391.0
-2013,Domestic material consumption,TONNES,Wild catch and harvest,8855.0
-2014,Domestic material consumption,TONNES,Wild catch and harvest,8855.0
-2015,Domestic material consumption,TONNES,Wild catch and harvest,8682.0
-2016,Domestic material consumption,TONNES,Wild catch and harvest,8510.0
-2017,Domestic material consumption,TONNES,Wild catch and harvest,8337.0
-2000,Domestic material consumption,TONNES,Wood,2478757.0
-2001,Domestic material consumption,TONNES,Wood,2185477.0
-2002,Domestic material consumption,TONNES,Wood,2454677.0
-2003,Domestic material consumption,TONNES,Wood,2390059.0
-2004,Domestic material consumption,TONNES,Wood,1830655.0
-2005,Domestic material consumption,TONNES,Wood,1925044.0
-2006,Domestic material consumption,TONNES,Wood,2120334.0
-2007,Domestic material consumption,TONNES,Wood,1853219.0
-2008,Domestic material consumption,TONNES,Wood,2035444.0
-2009,Domestic material consumption,TONNES,Wood,1716285.0
-2010,Domestic material consumption,TONNES,Wood,1926305.0
-2011,Domestic material consumption,TONNES,Wood,2013618.0
-2012,Domestic material consumption,TONNES,Wood,2088522.0
-2013,Domestic material consumption,TONNES,Wood,2221379.0
-2014,Domestic material consumption,TONNES,Wood,2132902.0
-2015,Domestic material consumption,TONNES,Wood,1994345.0
-2016,Domestic material consumption,TONNES,Wood,1982417.0
-2017,Domestic material consumption,TONNES,Wood,1970489.0
+2000,Domestic material consumption,TONNES,MF421,1148000.0
+2001,Domestic material consumption,TONNES,MF421,1123000.0
+2002,Domestic material consumption,TONNES,MF421,1087000.0
+2003,Domestic material consumption,TONNES,MF421,1011000.0
+2004,Domestic material consumption,TONNES,MF421,1187000.0
+2005,Domestic material consumption,TONNES,MF421,1120000.0
+2006,Domestic material consumption,TONNES,MF421,1201000.0
+2007,Domestic material consumption,TONNES,MF421,1278000.0
+2008,Domestic material consumption,TONNES,MF421,1471000.0
+2009,Domestic material consumption,TONNES,MF421,1637000.0
+2010,Domestic material consumption,TONNES,MF421,1670000.0
+2011,Domestic material consumption,TONNES,MF421,1714000.0
+2012,Domestic material consumption,TONNES,MF421,1533000.0
+2013,Domestic material consumption,TONNES,MF421,1489000.0
+2014,Domestic material consumption,TONNES,MF421,1385000.0
+2015,Domestic material consumption,TONNES,MF421,1426607.0
+2016,Domestic material consumption,TONNES,MF421,1468214.0
+2017,Domestic material consumption,TONNES,MF421,1509821.0
+2000,Domestic material consumption,TONNES,MF14,8465.0
+2001,Domestic material consumption,TONNES,MF14,8679.0
+2002,Domestic material consumption,TONNES,MF14,11182.0
+2003,Domestic material consumption,TONNES,MF14,11748.0
+2004,Domestic material consumption,TONNES,MF14,13649.0
+2005,Domestic material consumption,TONNES,MF14,15432.0
+2006,Domestic material consumption,TONNES,MF14,11180.0
+2007,Domestic material consumption,TONNES,MF14,11029.0
+2008,Domestic material consumption,TONNES,MF14,10938.0
+2009,Domestic material consumption,TONNES,MF14,10162.0
+2010,Domestic material consumption,TONNES,MF14,9106.0
+2011,Domestic material consumption,TONNES,MF14,8310.0
+2012,Domestic material consumption,TONNES,MF14,8391.0
+2013,Domestic material consumption,TONNES,MF14,8855.0
+2014,Domestic material consumption,TONNES,MF14,8855.0
+2015,Domestic material consumption,TONNES,MF14,8682.0
+2016,Domestic material consumption,TONNES,MF14,8510.0
+2017,Domestic material consumption,TONNES,MF14,8337.0
+2000,Domestic material consumption,TONNES,MF13,2478757.0
+2001,Domestic material consumption,TONNES,MF13,2185477.0
+2002,Domestic material consumption,TONNES,MF13,2454677.0
+2003,Domestic material consumption,TONNES,MF13,2390059.0
+2004,Domestic material consumption,TONNES,MF13,1830655.0
+2005,Domestic material consumption,TONNES,MF13,1925044.0
+2006,Domestic material consumption,TONNES,MF13,2120334.0
+2007,Domestic material consumption,TONNES,MF13,1853219.0
+2008,Domestic material consumption,TONNES,MF13,2035444.0
+2009,Domestic material consumption,TONNES,MF13,1716285.0
+2010,Domestic material consumption,TONNES,MF13,1926305.0
+2011,Domestic material consumption,TONNES,MF13,2013618.0
+2012,Domestic material consumption,TONNES,MF13,2088522.0
+2013,Domestic material consumption,TONNES,MF13,2221379.0
+2014,Domestic material consumption,TONNES,MF13,2132902.0
+2015,Domestic material consumption,TONNES,MF13,1994345.0
+2016,Domestic material consumption,TONNES,MF13,1982417.0
+2017,Domestic material consumption,TONNES,MF13,1970489.0
