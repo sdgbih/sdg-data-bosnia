@@ -5,7 +5,7 @@ INDUSTRIES,Industries,Industrije,Индустрије,Industrije,4,2
 ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",4,2
 ISIC4_A01_A0210_A0322,Agriculture (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),Пољопривреда (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),1,1
 ISIC4_B,Mining and quarrying,Vađenja ruda i kamena,Вађења руда и камена,Vađenja ruda i kamena,1,1
-ISIC4_BTU,ISIC4_BTU,ISIC4_BTU,Непољопривредна,ISIC4_BTU,3,1
+ISIC4_BTU,ISIC4_BTU,ISIC4_BTU,ISIC4_BTU,ISIC4_BTU,3,1
 ISIC4_C,Manufacturing,Proizvodnja,Производња,Proizvodnja,7,5
 ISIC4_C10T32X19,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,Производња искљ. кокса и рафинираних нафтних деривата те поправак и уградња стројева и опреме,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1,1
 ISIC4_D,"Electricity, gas, steam and air conditioning supply","Proizvodnja i snadbijevanje električnom energijom, plinom, parom i klimatizacija","Производња и снадбијевање електричном енергијом, плином, паром и климатизација","Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1,1
