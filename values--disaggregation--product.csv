@@ -9,21 +9,21 @@ AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
 ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,2,1
 BIM,Biomass,Biomasa,Биомаса,Biomasa,2,1
 COL,Coal,Ugalj,Угаљ,Ugljen,2,1
-CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,1,1
-CRO,Crops,Usjevi,Усјеви,Usjevi,1,1
-FEO,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,1,1
+CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,2,1
+CRO,Crops,Usjevi,Усјеви,Usjevi,2,1
+FEO,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,2,1
 FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,1,1
 GAS,Natural gas,Prirodni gas,Природни гас,Prirodni plin,1,1
 GBO,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,GBO,Stočna hrana i krmno bilje,1,1
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,1,1
 MF1,MF1,MF1,MF1,MF1,4,2
-MF11,MF11,MF11,MF11,MF11,5,2
-MF121,MF121,MF121,MF121,MF121,5,2
+MF11,MF11,MF11,MF11,MF11,4,2
+MF121,MF121,MF121,MF121,MF121,4,2
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,5,2
 MF13,MF13,MF13,MF13,MF13,5,2
 MF14,MF14,MF14,MF14,MF14,5,2
 MF2,MF2,MF2,MF2,MF2,5,2
-MF21,MF21,MF21,MF21,MF21,5,2
+MF21,MF21,MF21,MF21,MF21,4,2
 MF22,MF22,MF22,MF22,MF22,5,2
 MF3,MF3,MF3,MF3,MF3,5,2
 MF4,MF4,MF4,MF4,MF4,5,2
