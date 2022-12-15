@@ -50,7 +50,7 @@ EN_HAZ_GENV: Hazardous waste generated (Tonnes)
 EN_HAZ_PCAP: Hazardous waste generated, per capita (Kg)
 EN_LND_SLUM: Proportion of urban population living in slums
 EN_MAT_DOMCMPC: Domestic material consumption per capita, by type of raw material
-EN_MAT_DOMCMPG: Domestic material consumption per unit of GDP
+EN_MAT_DOMCMPG: Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)
 EN_MAT_DOMCMPT: Domestic material consumption
 EN_REF_WASCOL: Municipal Solid Waste collection coverage, by cities (%)
 EN_SCP_FSHGDP: Sustainable fisheries as a proportion of GDP
