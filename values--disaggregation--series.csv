@@ -63,7 +63,7 @@ EN_LKW_QLTRB,Lake water quality turbidity (%),Vode jezera zamućenost kvalitete 
 EN_LKW_QLTRST,Lake water quality trophic state (%),Vode jezera kvalitetno trofičko stanje (%),Воде језера квалитетно трофичко стање (%),Vode jezera kvalitetno trofičko stanje (%),4,1
 EN_LND_SLUM,Proportion of urban population living in slums,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Удио градског становништва које живи у сиромашним четвртима,Udio gradskog stanovništva koje živi u siromašnim četvrtima,1,1
 EN_MAR_BEALITSQ,Beach litter per square kilometer,Dužina plaže po kvadratnom kilometru,Дужина плаже по квадратном километру,Dužina plaže po kvadratnom kilometru,1,1
-EN_MAT_DOMCMPC,"Domestic material consumption per capita, by type of raw material","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine","Потрошња домаћих материјала по становнику, према врсти сировине","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",34,2
+EN_MAT_DOMCMPC,"Domestic material consumption per capita, by type of raw material","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine","Потрошња домаћих материјала по становнику, према врсти сировине","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",35,2
 EN_MAT_DOMCMPG,Domestic material consumption per unit of GDP,"Potrošnja domaćih materijala, po jedinici BDP-a","Потрошња домаћих материјала, по јединици БДП-а","Potrošnja domaćih materijala, po jedinici BDP-a",34,2
 EN_MAT_DOMCMPT,Domestic material consumption,Potrošnja domaćih materijala,Потрошња домаћих материјала,Potrošnja domaćih materijala,34,2
 EN_MWT_COLLV,Municipal waste generated,Prikupljeni komunalni otpad,Прикупљени комунални отпад,Prikupljeni komunalni otpad,1,1

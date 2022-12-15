@@ -25,12 +25,15 @@ MF14,MF14,MF14,MF14,MF14,6,2
 MF2,MF2,MF2,MF2,MF2,5,2
 MF21,MF21,MF21,MF21,MF21,5,2
 MF22,MF22,MF22,MF22,MF22,5,2
-MF3,MF3,MF3,MF3,MF3,6,2
+MF3,MF3,MF3,MF3,MF3,5,2
 MF4,MF4,MF4,MF4,MF4,5,2
 MF41,MF41,MF41,MF41,MF41,5,2
 MF421,MF421,MF421,MF421,MF421,6,2
 MF422,MF422,MF422,MF422,MF422,5,2
-MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,6,2
+MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,5,2
 MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,5,2
 NFO,Non-ferrous ores,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,1,1
 NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,1,1
+NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,1,1
+NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,1,1
+ONT,Oil shale and tar sands,Nemetalni minerali - Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,1,1
