@@ -799,96 +799,106 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2017,Domestic material consumption,TONNES,Crop residues,1643118.85
 2018,Domestic material consumption,TONNES,Crop residues,2498779.44
 2019,Domestic material consumption,TONNES,Crop residues,2506116.555
-2000,Domestic material consumption,TONNES,MF11,2947535.0
-2001,Domestic material consumption,TONNES,MF11,3621751.0
-2002,Domestic material consumption,TONNES,MF11,3436185.0
-2003,Domestic material consumption,TONNES,MF11,2659906.0
-2004,Domestic material consumption,TONNES,MF11,4408017.0
-2005,Domestic material consumption,TONNES,MF11,4300520.0
-2006,Domestic material consumption,TONNES,MF11,4153998.0
-2007,Domestic material consumption,TONNES,MF11,3773949.0
-2008,Domestic material consumption,TONNES,MF11,4231476.0
-2009,Domestic material consumption,TONNES,MF11,4129768.0
-2010,Domestic material consumption,TONNES,MF11,3817818.0
-2011,Domestic material consumption,TONNES,MF11,3811119.0
-2012,Domestic material consumption,TONNES,MF11,3355493.0
-2013,Domestic material consumption,TONNES,MF11,4007620.0
-2014,Domestic material consumption,TONNES,MF11,3848757.0
-2015,Domestic material consumption,TONNES,MF11,3900797.0
-2016,Domestic material consumption,TONNES,MF11,3953837.0
-2017,Domestic material consumption,TONNES,MF11,4006877.0
-2000,Domestic material consumption,TONNES,MF21,363000.0
-2001,Domestic material consumption,TONNES,MF21,264000.0
-2002,Domestic material consumption,TONNES,MF21,212000.0
-2003,Domestic material consumption,TONNES,MF21,271762.0
-2004,Domestic material consumption,TONNES,MF21,367790.0
-2005,Domestic material consumption,TONNES,MF21,1930316.0
-2006,Domestic material consumption,TONNES,MF21,2067141.0
-2007,Domestic material consumption,TONNES,MF21,2001352.0
-2008,Domestic material consumption,TONNES,MF21,2410638.0
-2009,Domestic material consumption,TONNES,MF21,2333265.0
-2010,Domestic material consumption,TONNES,MF21,841223.0
-2011,Domestic material consumption,TONNES,MF21,1066128.0
-2012,Domestic material consumption,TONNES,MF21,955854.0
-2013,Domestic material consumption,TONNES,MF21,1309470.0
-2014,Domestic material consumption,TONNES,MF21,1389676.0
-2015,Domestic material consumption,TONNES,MF21,1489794.0
-2016,Domestic material consumption,TONNES,MF21,1589912.0
-2017,Domestic material consumption,TONNES,MF21,1690030.0
-2000,Domestic material consumption,TONNES,MF4,8696585.0
-2001,Domestic material consumption,TONNES,MF4,8729640.0
-2002,Domestic material consumption,TONNES,MF4,8966593.0
-2003,Domestic material consumption,TONNES,MF4,9578052.0
-2004,Domestic material consumption,TONNES,MF4,9940564.0
-2005,Domestic material consumption,TONNES,MF4,10357386.0
-2006,Domestic material consumption,TONNES,MF4,11289840.0
-2007,Domestic material consumption,TONNES,MF4,11172316.0
-2008,Domestic material consumption,TONNES,MF4,12831129.0
-2009,Domestic material consumption,TONNES,MF4,13527645.0
-2010,Domestic material consumption,TONNES,MF4,13208622.0
-2011,Domestic material consumption,TONNES,MF4,15040166.0
-2012,Domestic material consumption,TONNES,MF4,14272837.0
-2013,Domestic material consumption,TONNES,MF4,13943173.0
-2014,Domestic material consumption,TONNES,MF4,13817450.0
-2015,Domestic material consumption,TONNES,MF4,15292774.0
-2016,Domestic material consumption,TONNES,MF4,15764357.0
-2017,Domestic material consumption,TONNES,MF4,16235940.0
-2000,Domestic material consumption,TONNES,MF422,170585.0
-2001,Domestic material consumption,TONNES,MF422,111640.0
-2002,Domestic material consumption,TONNES,MF422,105593.0
-2003,Domestic material consumption,TONNES,MF422,138052.0
-2004,Domestic material consumption,TONNES,MF422,217564.0
-2005,Domestic material consumption,TONNES,MF422,258386.0
-2006,Domestic material consumption,TONNES,MF422,271840.0
-2007,Domestic material consumption,TONNES,MF422,287316.0
-2008,Domestic material consumption,TONNES,MF422,285129.0
-2009,Domestic material consumption,TONNES,MF422,162645.0
-2010,Domestic material consumption,TONNES,MF422,170622.0
-2011,Domestic material consumption,TONNES,MF422,194166.0
-2012,Domestic material consumption,TONNES,MF422,178837.0
-2013,Domestic material consumption,TONNES,MF422,139173.0
-2014,Domestic material consumption,TONNES,MF422,129450.0
-2015,Domestic material consumption,TONNES,MF422,162167.0
-2016,Domestic material consumption,TONNES,MF422,161552.0
-2017,Domestic material consumption,TONNES,MF422,160936.0
-2000,Domestic material consumption,TONNES,MF122,215988.0
-2001,Domestic material consumption,TONNES,MF122,64934.0
-2002,Domestic material consumption,TONNES,MF122,10345.0
-2003,Domestic material consumption,TONNES,MF122,11871.0
-2004,Domestic material consumption,TONNES,MF122,15555.0
-2005,Domestic material consumption,TONNES,MF122,121154.0
-2006,Domestic material consumption,TONNES,MF122,372387.0
-2007,Domestic material consumption,TONNES,MF122,762407.0
-2008,Domestic material consumption,TONNES,MF122,639254.0
-2009,Domestic material consumption,TONNES,MF122,651569.0
-2010,Domestic material consumption,TONNES,MF122,926011.0
-2011,Domestic material consumption,TONNES,MF122,863410.0
-2012,Domestic material consumption,TONNES,MF122,741105.0
-2013,Domestic material consumption,TONNES,MF122,746135.0
-2014,Domestic material consumption,TONNES,MF122,742237.0
-2015,Domestic material consumption,TONNES,MF122,809734.0
-2016,Domestic material consumption,TONNES,MF122,877230.0
-2017,Domestic material consumption,TONNES,MF122,944726.0
+2000,Domestic material consumption,TONNES,Crops,3103207.0
+2001,Domestic material consumption,TONNES,Crops,3766985.0
+2002,Domestic material consumption,TONNES,Crops,3545501.0
+2003,Domestic material consumption,TONNES,Crops,2651247.0
+2004,Domestic material consumption,TONNES,Crops,4380356.0
+2005,Domestic material consumption,TONNES,Crops,4275217.0
+2006,Domestic material consumption,TONNES,Crops,4129845.0
+2007,Domestic material consumption,TONNES,Crops,3751883.0
+2008,Domestic material consumption,TONNES,Crops,4206352.0
+2009,Domestic material consumption,TONNES,Crops,4103035.0
+2010,Domestic material consumption,TONNES,Crops,3801647.0
+2011,Domestic material consumption,TONNES,Crops,3783657.0
+2012,Domestic material consumption,TONNES,Crops,3328491.0
+2013,Domestic material consumption,TONNES,Crops,3981078.0
+2014,Domestic material consumption,TONNES,Crops,3614715.0
+2015,Domestic material consumption,TONNES,Crops,3915431.0
+2016,Domestic material consumption,TONNES,Crops,4572122.0
+2017,Domestic material consumption,TONNES,Crops,3832357.0
+2018,Domestic material consumption,TONNES,Crops,4699776.0
+2019,Domestic material consumption,TONNES,Crops,4665016.0
+2000,Domestic material consumption,TONNES,Ferrous ores,363000.0
+2001,Domestic material consumption,TONNES,Ferrous ores,264000.0
+2002,Domestic material consumption,TONNES,Ferrous ores,212000.0
+2003,Domestic material consumption,TONNES,Ferrous ores,301990.685
+2004,Domestic material consumption,TONNES,Ferrous ores,463762.725
+2005,Domestic material consumption,TONNES,Ferrous ores,1854267.319
+2006,Domestic material consumption,TONNES,Ferrous ores,1888832.749
+2007,Domestic material consumption,TONNES,Ferrous ores,1682919.093
+2008,Domestic material consumption,TONNES,Ferrous ores,2164834.974
+2009,Domestic material consumption,TONNES,Ferrous ores,2362268.019
+2010,Domestic material consumption,TONNES,Ferrous ores,994277.769
+2011,Domestic material consumption,TONNES,Ferrous ores,1311531.065
+2012,Domestic material consumption,TONNES,Ferrous ores,1114633.816
+2013,Domestic material consumption,TONNES,Ferrous ores,1403967.752
+2014,Domestic material consumption,TONNES,Ferrous ores,1439487.214
+2015,Domestic material consumption,TONNES,Ferrous ores,1867686.021
+2016,Domestic material consumption,TONNES,Ferrous ores,1495259.165
+2017,Domestic material consumption,TONNES,Ferrous ores,1560833.317
+2018,Domestic material consumption,TONNES,Ferrous ores,1374644.249
+2019,Domestic material consumption,TONNES,Ferrous ores,1311842.314
+2000,Domestic material consumption,TONNES,Fossil fuels,8689624.03
+2001,Domestic material consumption,TONNES,Fossil fuels,8725084.62
+2002,Domestic material consumption,TONNES,Fossil fuels,8962284.35
+2003,Domestic material consumption,TONNES,Fossil fuels,9652172.027
+2004,Domestic material consumption,TONNES,Fossil fuels,10268090.01
+2005,Domestic material consumption,TONNES,Fossil fuels,10917390.478
+2006,Domestic material consumption,TONNES,Fossil fuels,11856751.471
+2007,Domestic material consumption,TONNES,Fossil fuels,11796572.264
+2008,Domestic material consumption,TONNES,Fossil fuels,13496873.059
+2009,Domestic material consumption,TONNES,Fossil fuels,14009025.483
+2010,Domestic material consumption,TONNES,Fossil fuels,13838736.173
+2011,Domestic material consumption,TONNES,Fossil fuels,15541943.837
+2012,Domestic material consumption,TONNES,Fossil fuels,14597251.231
+2013,Domestic material consumption,TONNES,Fossil fuels,14295902.187
+2014,Domestic material consumption,TONNES,Fossil fuels,14287519.346
+2015,Domestic material consumption,TONNES,Fossil fuels,15040894.846
+2016,Domestic material consumption,TONNES,Fossil fuels,16816744.55
+2017,Domestic material consumption,TONNES,Fossil fuels,17276153.067
+2018,Domestic material consumption,TONNES,Fossil fuels,17755542.999
+2019,Domestic material consumption,TONNES,Fossil fuels,18768993.174
+2000,Domestic material consumption,TONNES,Natural gas,163624.03
+2001,Domestic material consumption,TONNES,Natural gas,107084.62
+2002,Domestic material consumption,TONNES,Natural gas,101284.35
+2003,Domestic material consumption,TONNES,Natural gas,132418.93
+2004,Domestic material consumption,TONNES,Natural gas,208686.31
+2005,Domestic material consumption,TONNES,Natural gas,247842.54
+2006,Domestic material consumption,TONNES,Natural gas,260747.7
+2007,Domestic material consumption,TONNES,Natural gas,275592.16
+2008,Domestic material consumption,TONNES,Natural gas,273494.19
+2009,Domestic material consumption,TONNES,Natural gas,156007.87
+2010,Domestic material consumption,TONNES,Natural gas,163659.29
+2011,Domestic material consumption,TONNES,Natural gas,186243.32
+2012,Domestic material consumption,TONNES,Natural gas,171539.9
+2013,Domestic material consumption,TONNES,Natural gas,133494.36
+2014,Domestic material consumption,TONNES,Natural gas,124168.09
+2015,Domestic material consumption,TONNES,Natural gas,145518.02
+2016,Domestic material consumption,TONNES,Natural gas,151476.96
+2017,Domestic material consumption,TONNES,Natural gas,163817.96
+2018,Domestic material consumption,TONNES,Natural gas,163271.43
+2019,Domestic material consumption,TONNES,Natural gas,164373.52
+2000,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2647896.0
+2001,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2557755.0
+2002,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2416315.0
+2003,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2588541.0
+2004,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2729916.3
+2005,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2765825.0
+2006,Domestic material consumption,TONNES,Grazed biomass and fodder crops,3072248.5
+2007,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2872008.4
+2008,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2820554.2
+2009,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2821867.3
+2010,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2825932.0
+2011,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2778683.0
+2012,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2717100.9
+2013,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2736624.1
+2014,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2726709.0
+2015,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2770131.8
+2016,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2768684.3
+2017,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2717984.2
+2018,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2681291.4
+2019,Domestic material consumption,TONNES,Grazed biomass and fodder crops,2670032.7
 2000,Domestic material consumption,TONNES,MF2,617700.0
 2001,Domestic material consumption,TONNES,MF2,354000.0
 2002,Domestic material consumption,TONNES,MF2,283300.0
