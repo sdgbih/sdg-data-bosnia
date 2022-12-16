@@ -759,42 +759,46 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,Potrošnja domaćih materijala,Tone,Biomasa,11555637.511
 2018,Potrošnja domaćih materijala,Tone,Biomasa,13393241.234
 2019,Potrošnja domaćih materijala,Tone,Biomasa,13396634.577
-2000,Potrošnja domaćih materijala,Tone,MF41,7378000.0
-2001,Potrošnja domaćih materijala,Tone,MF41,7495000.0
-2002,Potrošnja domaćih materijala,Tone,MF41,7774000.0
-2003,Potrošnja domaćih materijala,Tone,MF41,8429000.0
-2004,Potrošnja domaćih materijala,Tone,MF41,8536000.0
-2005,Potrošnja domaćih materijala,Tone,MF41,8979000.0
-2006,Potrošnja domaćih materijala,Tone,MF41,9817000.0
-2007,Potrošnja domaćih materijala,Tone,MF41,9607000.0
-2008,Potrošnja domaćih materijala,Tone,MF41,11075000.0
-2009,Potrošnja domaćih materijala,Tone,MF41,11728000.0
-2010,Potrošnja domaćih materijala,Tone,MF41,11368000.0
-2011,Potrošnja domaćih materijala,Tone,MF41,13132000.0
-2012,Potrošnja domaćih materijala,Tone,MF41,12561000.0
-2013,Potrošnja domaćih materijala,Tone,MF41,12315000.0
-2014,Potrošnja domaćih materijala,Tone,MF41,12303000.0
-2015,Potrošnja domaćih materijala,Tone,MF41,13704000.0
-2016,Potrošnja domaćih materijala,Tone,MF41,14134591.0
-2017,Potrošnja domaćih materijala,Tone,MF41,14565182.0
-2000,Potrošnja domaćih materijala,Tone,MF121,1274913.0
-2001,Potrošnja domaćih materijala,Tone,MF121,1631232.0
-2002,Potrošnja domaćih materijala,Tone,MF121,1869727.0
-2003,Potrošnja domaćih materijala,Tone,MF121,1150939.0
-2004,Potrošnja domaćih materijala,Tone,MF121,2055582.0
-2005,Potrošnja domaćih materijala,Tone,MF121,1967457.0
-2006,Potrošnja domaćih materijala,Tone,MF121,1946952.0
-2007,Potrošnja domaćih materijala,Tone,MF121,1441252.0
-2008,Potrošnja domaćih materijala,Tone,MF121,1982034.0
-2009,Potrošnja domaćih materijala,Tone,MF121,1983541.0
-2010,Potrošnja domaćih materijala,Tone,MF121,1617069.0
-2011,Potrošnja domaćih materijala,Tone,MF121,1613679.0
-2012,Potrošnja domaćih materijala,Tone,MF121,1276287.0
-2013,Potrošnja domaćih materijala,Tone,MF121,1734085.0
-2014,Potrošnja domaćih materijala,Tone,MF121,1558809.0
-2015,Potrošnja domaćih materijala,Tone,MF121,1559670.0
-2016,Potrošnja domaćih materijala,Tone,MF121,1560531.0
-2017,Potrošnja domaćih materijala,Tone,MF121,1561392.0
+2000,Potrošnja domaćih materijala,Tone,Ugalj,7378000.0
+2001,Potrošnja domaćih materijala,Tone,Ugalj,7495000.0
+2002,Potrošnja domaćih materijala,Tone,Ugalj,7774000.0
+2003,Potrošnja domaćih materijala,Tone,Ugalj,8429000.0
+2004,Potrošnja domaćih materijala,Tone,Ugalj,8746000.0
+2005,Potrošnja domaćih materijala,Tone,Ugalj,9412000.0
+2006,Potrošnja domaćih materijala,Tone,Ugalj,10277000.0
+2007,Potrošnja domaćih materijala,Tone,Ugalj,10098000.0
+2008,Potrošnja domaćih materijala,Tone,Ugalj,11593000.0
+2009,Potrošnja domaćih materijala,Tone,Ugalj,12117000.0
+2010,Potrošnja domaćih materijala,Tone,Ugalj,11884000.0
+2011,Potrošnja domaćih materijala,Tone,Ugalj,13556000.0
+2012,Potrošnja domaćih materijala,Tone,Ugalj,12760000.0
+2013,Potrošnja domaćih materijala,Tone,Ugalj,12573000.0
+2014,Potrošnja domaćih materijala,Tone,Ugalj,12648000.0
+2015,Potrošnja domaćih materijala,Tone,Ugalj,13194000.0
+2016,Potrošnja domaćih materijala,Tone,Ugalj,14733686.0
+2017,Potrošnja domaćih materijala,Tone,Ugalj,15257371.0
+2018,Potrošnja domaćih materijala,Tone,Ugalj,15820940.0
+2019,Potrošnja domaćih materijala,Tone,Ugalj,16688642.0
+2000,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1275207.075
+2001,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1631454.48
+2002,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1869866.45
+2003,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1151001.255
+2004,Potrošnja domaćih materijala,Tone,Ostaci usjeva,2055581.99
+2005,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1967456.6
+2006,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1946951.585
+2007,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1441262.45
+2008,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1982033.71
+2009,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1983585.5
+2010,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1617620.61
+2011,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1614508.95
+2012,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1277044.31
+2013,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1734137.285
+2014,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1558919.485
+2015,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1631793.385
+2016,Potrošnja domaćih materijala,Tone,Ostaci usjeva,2366341.615
+2017,Potrošnja domaćih materijala,Tone,Ostaci usjeva,1643118.85
+2018,Potrošnja domaćih materijala,Tone,Ostaci usjeva,2498779.44
+2019,Potrošnja domaćih materijala,Tone,Ostaci usjeva,2506116.555
 2000,Potrošnja domaćih materijala,Tone,MF11,2947535.0
 2001,Potrošnja domaćih materijala,Tone,MF11,3621751.0
 2002,Potrošnja domaćih materijala,Tone,MF11,3436185.0
