@@ -1,13 +1,13 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,7,4
+_T,_T,_T,_T,_T,6,3
 AGG_AGR,Agriculture products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 AGG_ARMS,Arms,Oružje,Оружје,Oružje,3,2
 AGG_CLTH,Clothing,Odjeća,Одјећа,Odjeća,3,2
 AGG_IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
-ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,2,1
-BIM,Biomass,Biomasa,Биомаса,Biomasa,2,1
+ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,3,1
+BIM,Biomass,Biomasa,Биомаса,Biomasa,3,1
 COL,Coal,Ugalj,Угаљ,Ugljen,2,1
 CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,2,1
 CRO,Crops,Usjevi,Усјеви,Usjevi,2,1
@@ -16,7 +16,7 @@ FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,2,1
 GAS,Natural gas,Prirodni gas,Природни гас,Prirodni plin,2,1
 GBO,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,GBO,Stočna hrana i krmno bilje,2,1
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,2,1
-MF1,MF1,MF1,MF1,MF1,4,2
+MF1,MF1,MF1,MF1,MF1,3,1
 MF11,MF11,MF11,MF11,MF11,4,2
 MF121,MF121,MF121,MF121,MF121,4,2
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,4,2
