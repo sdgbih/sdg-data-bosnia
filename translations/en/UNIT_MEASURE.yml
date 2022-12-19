@@ -32,7 +32,7 @@ UNIT_MEASURE: Unit of measure
 USD: USD
 USD/m3: USD/m3
 CUR_NAC_1000: in thousands of BAM
-CUR_NAC: in BAM
+CUR_LCU: in BAM
 NUMBER: Number
 GWh: GWh
 M_M3_PER_YR: Million of cubic metres per annum
