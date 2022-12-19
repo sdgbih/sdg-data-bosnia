@@ -20,15 +20,15 @@ MF1,MF1,MF1,MF1,MF1,3,1
 MF11,MF11,MF11,MF11,MF11,3,1
 MF121,MF121,MF121,MF121,MF121,3,1
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,3,1
-MF13,MF13,MF13,MF13,MF13,4,2
-MF14,MF14,MF14,MF14,MF14,4,2
+MF13,MF13,MF13,MF13,MF13,3,1
+MF14,MF14,MF14,MF14,MF14,3,1
 MF2,MF2,MF2,MF2,MF2,4,2
 MF21,MF21,MF21,MF21,MF21,3,1
 MF22,MF22,MF22,MF22,MF22,3,1
 MF3,MF3,MF3,MF3,MF3,3,1
 MF4,MF4,MF4,MF4,MF4,3,1
 MF41,MF41,MF41,MF41,MF41,3,1
-MF421,MF421,MF421,MF421,MF421,4,2
+MF421,MF421,MF421,MF421,MF421,3,1
 MF422,MF422,MF422,MF422,MF422,3,1
 MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,3,1
 MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,3,1
@@ -37,6 +37,6 @@ NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minera
 NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,3,1
 NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,3,1
 ONT,Oil shale and tar sands,Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,3,1
-PET,Petroleum,Nafta,Нафта,Nafta,2,1
-WCH,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,2,1
-WOD,Wood,Drvo,Дрво,Drvo,2,1
+PET,Petroleum,Nafta,Нафта,Nafta,3,1
+WCH,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,3,1
+WOD,Wood,Drvo,Дрво,Drvo,3,1
