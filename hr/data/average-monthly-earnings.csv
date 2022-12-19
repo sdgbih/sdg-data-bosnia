@@ -1,53 +1,53 @@
 Year,UNIT_MEASURE,Tip,Value
-a)Siječanj 2019,u KM,Prosječna mjesečna bruto plaća,1408
-b)Veljača 2019,u KM,Prosječna mjesečna bruto plaća,1378
-c)Ožujak 2019,u KM,Prosječna mjesečna bruto plaća,1397
-d)Travanj 2019,u KM,Prosječna mjesečna bruto plaća,1413
-e)Svibanj 2019,u KM,Prosječna mjesečna bruto plaća,1430
-f)Lipanj 2019,u KM,Prosječna mjesečna bruto plaća,1404
-g)Srpanj 2019,u KM,Prosječna mjesečna bruto plaća,1439
-h)Kolovoz 2019,u KM,Prosječna mjesečna bruto plaća,1429
-i)Rujan 2019,u KM,Prosječna mjesečna bruto plaća,1415
-j)Listopad 2019,u KM,Prosječna mjesečna bruto plaća,1440
-k)Studeni 2019,u KM,Prosječna mjesečna bruto plaća,1433
-l)Prosinac 2019,u KM,Prosječna mjesečna bruto plaća,1470
-m)Siječanj 2020,u KM,Prosječna mjesečna bruto plaća,1460
-n)Veljača 2020,u KM,Prosječna mjesečna bruto plaća,1452
-o)Ožujak 2020,u KM,Prosječna mjesečna bruto plaća,1466
-p)Travanj 2020,u KM,Prosječna mjesečna bruto plaća,1454
-q)Svibanj 2020,u KM,Prosječna mjesečna bruto plaća,1450
-r)Lipanj 2020,u KM,Prosječna mjesečna bruto plaća,1475
-s)Srpanj 2020,u KM,Prosječna mjesečna bruto plaća,1492
-t)Kolovoz 2020,u KM,Prosječna mjesečna bruto plaća,1472
-u)Rujan 2020,u KM,Prosječna mjesečna bruto plaća,1485
-v)Listopad 2020,u KM,Prosječna mjesečna bruto plaća,1485
-w)Studeni 2020,u KM,Prosječna mjesečna bruto plaća,1493
-x)Prosinac 2020,u KM,Prosječna mjesečna bruto plaća,1526
-y)Siječanj 2021,u KM,Prosječna mjesečna bruto plaća,1504
-z)Veljača 2021,u KM,Prosječna mjesečna bruto plaća,1490
-a)Siječanj 2019,u KM,Prosječna mjesečna isplaćena neto plaća,913
-b)Veljača 2019,u KM,Prosječna mjesečna isplaćena neto plaća,895
-c)Ožujak 2019,u KM,Prosječna mjesečna isplaćena neto plaća,907
-d)Travanj 2019,u KM,Prosječna mjesečna isplaćena neto plaća,916
-e)Svibanj 2019,u KM,Prosječna mjesečna isplaćena neto plaća,926
-f)Lipanj 2019,u KM,Prosječna mjesečna isplaćena neto plaća,910
-g)Srpanj 2019,u KM,Prosječna mjesečna isplaćena neto plaća,932
-h)Kolovoz 2019,u KM,Prosječna mjesečna isplaćena neto plaća,925
-i)Rujan 2019,u KM,Prosječna mjesečna isplaćena neto plaća,916
-j)Listopad 2019,u KM,Prosječna mjesečna isplaćena neto plaća,932
-k)Studeni 2019,u KM,Prosječna mjesečna isplaćena neto plaća,928
-l)Prosinac 2019,u KM,Prosječna mjesečna isplaćena neto plaća,951
-m)Siječanj 2020,u KM,Prosječna mjesečna isplaćena neto plaća,945
-n)Veljača 2020,u KM,Prosječna mjesečna isplaćena neto plaća,941
-o)Ožujak 2020,u KM,Prosječna mjesečna isplaćena neto plaća,950
-p)Travanj 2020,u KM,Prosječna mjesečna isplaćena neto plaća,942
-q)Svibanj 2020,u KM,Prosječna mjesečna isplaćena neto plaća,940
-r)Lipanj 2020,u KM,Prosječna mjesečna isplaćena neto plaća,955
-s)Srpanj 2020,u KM,Prosječna mjesečna isplaćena neto plaća,965
-t)Kolovoz 2020,u KM,Prosječna mjesečna isplaćena neto plaća,953
-u)Rujan 2020,u KM,Prosječna mjesečna isplaćena neto plaća,962
-v)Listopad 2020,u KM,Prosječna mjesečna isplaćena neto plaća,961
-w)Studeni 2020,u KM,Prosječna mjesečna isplaćena neto plaća,966
-x)Prosinac 2020,u KM,Prosječna mjesečna isplaćena neto plaća,988
-y)Siječanj 2021,u KM,Prosječna mjesečna isplaćena neto plaća,969
-z)Veljača 2021,u KM,Prosječna mjesečna isplaćena neto plaća,961
+a)Siječanj 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1408
+b)Veljača 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1378
+c)Ožujak 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1397
+d)Travanj 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1413
+e)Svibanj 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1430
+f)Lipanj 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1404
+g)Srpanj 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1439
+h)Kolovoz 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1429
+i)Rujan 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1415
+j)Listopad 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1440
+k)Studeni 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1433
+l)Prosinac 2019,CUR_NAC,Prosječna mjesečna bruto plaća,1470
+m)Siječanj 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1460
+n)Veljača 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1452
+o)Ožujak 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1466
+p)Travanj 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1454
+q)Svibanj 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1450
+r)Lipanj 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1475
+s)Srpanj 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1492
+t)Kolovoz 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1472
+u)Rujan 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1485
+v)Listopad 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1485
+w)Studeni 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1493
+x)Prosinac 2020,CUR_NAC,Prosječna mjesečna bruto plaća,1526
+y)Siječanj 2021,CUR_NAC,Prosječna mjesečna bruto plaća,1504
+z)Veljača 2021,CUR_NAC,Prosječna mjesečna bruto plaća,1490
+a)Siječanj 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,913
+b)Veljača 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,895
+c)Ožujak 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,907
+d)Travanj 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,916
+e)Svibanj 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,926
+f)Lipanj 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,910
+g)Srpanj 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,932
+h)Kolovoz 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,925
+i)Rujan 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,916
+j)Listopad 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,932
+k)Studeni 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,928
+l)Prosinac 2019,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,951
+m)Siječanj 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,945
+n)Veljača 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,941
+o)Ožujak 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,950
+p)Travanj 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,942
+q)Svibanj 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,940
+r)Lipanj 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,955
+s)Srpanj 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,965
+t)Kolovoz 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,953
+u)Rujan 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,962
+v)Listopad 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,961
+w)Studeni 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,966
+x)Prosinac 2020,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,988
+y)Siječanj 2021,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,969
+z)Veljača 2021,CUR_NAC,Prosječna mjesečna isplaćena neto plaća,961
