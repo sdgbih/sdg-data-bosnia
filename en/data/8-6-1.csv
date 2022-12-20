@@ -13,6 +13,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2017,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,24.5
 2018,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,22.1
 2019,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,21.2
+2020,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,21.8
 2006,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,35.3
 2007,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,31.5
 2008,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,27.9
@@ -27,6 +28,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2017,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,24.3
 2018,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,21.7
 2019,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,21.7
+2020,"Proportion of youth not in education, employment or training",Percent,Female,Y15T25,23.3
 2006,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,34.0
 2007,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,31.1
 2008,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,25.0
@@ -41,3 +43,4 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2017,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,24.7
 2018,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,22.6
 2019,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,20.8
+2020,"Proportion of youth not in education, employment or training",Percent,Male,Y15T26,20.4
