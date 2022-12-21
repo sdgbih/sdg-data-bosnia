@@ -1,7 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total (national average) or no breakdown,Ukupno (nacionalni prosjek) ili bez podjele,Укупно (национални просјек) или без подјеле,Ukupno (nacionalni prosjek) ili bez podjele,75,3
+_T,Total (national average) or no breakdown,Ukupno (nacionalni prosjek) ili bez podjele,Укупно (национални просјек) или без подјеле,Ukupno (nacionalni prosjek) ili bez podjele,79,3
+B40,Bottom 40%,Najsiromašniji 40%,Најсиромашнији 40%,Najsiromašniji 40%,1,1
 Q1,Quintile 1 (poorest),Kvantil 1 (najsiromašniji),Квантил 1 (најсиромашнији),Kvantil 1 (najsiromašniji),45,2
 Q2,Quintile 2,Kvantil 2,Квантил 2,Kvantil 2,45,2
 Q3,Quintile 3,Kvantil 3,Квантил 3,Kvantil 3,44,2
 Q4,Quintile 4,Kvantil 4,Квантил 4,Kvantil 4,45,2
 Q5,Quintile 5 (richest),Kvantil 5 (najbogatiji),Квантил 5 (најбогатији),Kvantil 5 (najbogatiji),45,2
+R60,Richest 60%,Najbogatijih 60%,Најбогатијих 60%,Najbogatijih 60%,1,1
