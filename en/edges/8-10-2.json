@@ -1,1 +1,1 @@
-{"From":["Sex"],"To":["Age"]}
+{"From":["Sex","Age","Education level"],"To":["Age","Education level","Income or wealth quantile"]}

@@ -1,13 +1,13 @@
-Year,SERIES,UNIT_MEASURE,Sex,Age,Value
-2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,56.21
-2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,52.69
-2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,58.84
-2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,79.34
-2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,47.72
-2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,47.06
-2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,54.74
-2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,70.37
-2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,67.23
-2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,58.82
-2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,63.18
-2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,88.71
+Year,SERIES,UNIT_MEASURE,Sex,Age,Education level,Income or wealth quantile,Value
+2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,56.21
+2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,52.69
+2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,58.84
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Both sexes or no breakdown by sex,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,79.34
+2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,47.72
+2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,47.06
+2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,54.74
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Female,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,70.37
+2011,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,67.23
+2014,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,58.82
+2017,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,63.18
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider,Percent,Male,15 years old and over,Total or not breakdown,Total (national average) or no breakdown,88.71

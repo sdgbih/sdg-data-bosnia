@@ -1,13 +1,13 @@
-Year,SERIES,UNIT_MEASURE,Spol,Godine,Value
-2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,56.21
-2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,52.69
-2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,58.84
-2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,79.34
-2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,47.72
-2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,47.06
-2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,54.74
-2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,70.37
-2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,67.23
-2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,58.82
-2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,63.18
-2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,88.71
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Value
+2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,56.21
+2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,52.69
+2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,58.84
+2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,79.34
+2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,47.72
+2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,47.06
+2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,54.74
+2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Žene,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,70.37
+2011,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,67.23
+2014,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,58.82
+2017,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,63.18
+2021,Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga,Procenat,Muškarci,15 godina i više,Ukupno,Ukupno (nacionalni prosjek) ili bez podjele,88.71
