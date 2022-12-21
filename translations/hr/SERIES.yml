@@ -93,6 +93,8 @@ ER_WAT_PART: Zemlje sa korisnicima/zajednicama koje sudjeluju u programima plani
 ER_WAT_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisnika usluga/zajednica u programu planiranja u planiranju i upravljanju vodnim resursima, prema razini definicije u postupcima (10 = Jasno definirano; 5 = Nije jasno definirano; 0 = NA) 
 FB_ATM_TOTL: Broj automatiziranih bankomata (ATM) na 100.000 odraslih stanovnika
 FB_BNK_ACCSS: Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj financijskoj instituciji ili kod providera mobilnih novčanih usluga
+FB_BNK_ACCSS_ILF: Udio odraslih (15 godina i starijih) aktivnih u radnoj snazi s računom u financijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih u dobi od 15 godina i starijih)
+FB_BNK_ACCSS_OLF: Udio odraslih (15 godina i starijih) izvan radne snage s računom u financijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih u dobi od 15 godina i starijih)
 FB_CBK_BRCH: Broj filijala komercijalnih banaka na 100 000 odraslih
 FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
 FI_FSI_FSANL: Krediti u ukupnim bruto kreditima koji se ne izvode (%) 
