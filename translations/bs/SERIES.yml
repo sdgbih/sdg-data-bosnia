@@ -94,7 +94,7 @@ ER_WAT_PRDU: Zemlje sa zakonskim procedurama ili politikama za učešće korisni
 FB_ATM_TOTL: Broj automatizovanih bankomata (ATM) na 100.000 odraslih stanovnika
 FB_BNK_ACCSS: Udio odraslih (15 i više godina) koji imaju račun u banci ili drugoj finansijskoj instituciji ili kod provajdera mobilnih novčanih usluga
 FB_BNK_ACCSS_ILF: Udio odraslih (15 godina i starijih) aktivnih u radnoj snazi s računom u finansijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih od 15 godina i više)
-FB_BNK_ACCSS_OLF: Udio odraslih (15 godina i stariji) u radnoj snazi koji imaju račun u finansijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih osoba starijih od 15 godina)
+FB_BNK_ACCSS_OLF: Udio odraslih (15 godina i stariji) van radne snage koji imaju račun u finansijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih osoba starijih od 15 godina)
 FB_CBK_BRCH: Broj filijala komercijalnih banaka na 100 000 odraslih
 FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
 FI_FSI_FSANL: Krediti u ukupnim bruto kreditima koji se ne izvode (%) 
