@@ -33,8 +33,8 @@ EG_TBA_H2CO: Udio prekograničnih slivova (riječni i jezerski bazeni i vodonosn
 EG_TBA_H2COAQ: Udio prekograničnih vodonosnika s operativnim aranžmanom za vodnu suradnju
 EG_TBA_H2CORL: Udio prekograničnih slivova rijeka i jezera s operativnim aranžmanom za vodnu suradnju
 EN_ATM_CO2: Emisije ugljen-dioksida izgaranjem goriva
-EN_ATM_CO2GDP: Emisije ugljen-dioksida po jedinici BDP-a
-EN_ATM_CO2MVA: Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti
+EN_ATM_CO2GDP: Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstantnom američkom dolaru iz 2017.)
+EN_ATM_CO2MVA: Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstantnom američkom dolaru iz 2015.)
 EN_ATM_PM25: Srednja godišnja razina finih čestica u gradovima, urbano stanovništvo
 EN_EWT_GENPCAP: Proizvedeni elektronički otpad, po stanovniku (Kg)
 EN_EWT_GENV: Proizvedeni elektronički otpad (tone)
