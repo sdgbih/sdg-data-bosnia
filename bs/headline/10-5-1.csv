@@ -1,25 +1,25 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,54.0494,Procenat,Likvidna sredstva u kratkoročne obaveze
-2001,65.07871,Procenat,Likvidna sredstva u kratkoročne obaveze
-2002,51.51903,Procenat,Likvidna sredstva u kratkoročne obaveze
-2003,58.73752,Procenat,Likvidna sredstva u kratkoročne obaveze
-2004,59.52544,Procenat,Likvidna sredstva u kratkoročne obaveze
-2005,61.91274,Procenat,Likvidna sredstva u kratkoročne obaveze
-2006,60.77306,Procenat,Likvidna sredstva u kratkoročne obaveze
-2007,61.28471,Procenat,Likvidna sredstva u kratkoročne obaveze
-2008,78.89405,Procenat,Likvidna sredstva u kratkoročne obaveze
-2009,81.60722,Procenat,Likvidna sredstva u kratkoročne obaveze
-2010,71.74154,Procenat,Likvidna sredstva u kratkoročne obaveze
-2011,67.32943,Procenat,Likvidna sredstva u kratkoročne obaveze
-2012,65.28876,Procenat,Likvidna sredstva u kratkoročne obaveze
-2013,65.89659,Procenat,Likvidna sredstva u kratkoročne obaveze
-2014,65.61993,Procenat,Likvidna sredstva u kratkoročne obaveze
-2015,61.92074,Procenat,Likvidna sredstva u kratkoročne obaveze
-2016,61.61892,Procenat,Likvidna sredstva u kratkoročne obaveze
-2017,59.85051,Procenat,Likvidna sredstva u kratkoročne obaveze
-2018,60.43847,Procenat,Likvidna sredstva u kratkoročne obaveze
-2019,61.03062,Procenat,Likvidna sredstva u kratkoročne obaveze
-2020,51.34221,Procenat,Likvidna sredstva u kratkoročne obaveze
+2000,54.0494,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2001,65.07871,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2002,51.51903,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2003,58.73752,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2004,59.52544,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2005,61.91274,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2006,60.77306,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2007,61.28471,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2008,78.89405,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2009,81.60722,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2010,71.74154,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2011,67.32943,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2012,65.28876,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2013,65.89659,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2014,65.61993,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2015,61.92074,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2016,61.61892,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2017,59.85051,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2018,60.43847,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2019,61.03062,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
+2020,51.34221,Procenat,Likvidna sredstva u kratkoročne obaveze (%)
 2000,0.0,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
 2001,0.0,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
 2002,0.0,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
@@ -41,27 +41,27 @@ Year,Value,UNIT_MEASURE,SERIES
 2018,2.10767,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
 2019,3.42322,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
 2020,4.17421,Procenat,Neto otvorena pozicija u devizama prema kapitalu (%)
-2000,30.30251,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2001,33.46471,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2002,24.41932,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2003,19.77382,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2004,15.53339,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2005,15.65278,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2006,11.76116,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2007,9.53645,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2008,10.27404,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2009,19.64209,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2010,32.8362,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2011,20.59918,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2012,24.78804,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2013,26.44458,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2014,24.63512,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2015,24.8954,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2016,17.55071,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2017,13.51627,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2018,11.42326,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2019,9.61235,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
-2020,7.3803,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
+2000,30.30251,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2001,33.46471,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2002,24.41932,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2003,19.77382,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2004,15.53339,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2005,15.65278,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2006,11.76116,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2007,9.53645,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2008,10.27404,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2009,19.64209,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2010,32.8362,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2011,20.59918,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2012,24.78804,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2013,26.44458,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2014,24.63512,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2015,24.8954,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2016,17.55071,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2017,13.51627,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2018,11.42326,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2019,9.61235,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+2020,7.3803,Procenat,Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
 2000,21.21596,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
 2001,17.9071,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
 2002,11.01722,Procenat,Nenaplativi krediti prema ukupnim bruto kreditima (%)
