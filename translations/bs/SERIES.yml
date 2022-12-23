@@ -100,9 +100,9 @@ FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
 FI_FSI_FSANL: Nenaplativi krediti prema ukupnim bruto kreditima (%) 
 FI_FSI_FSERA: Povrat na imovinu (ROA) (%)
 FI_FSI_FSKA: Regulatorni kapital prema imovini (%) 
-FI_FSI_FSKNL: Nenaplativi krediti prema ukupnim bruto kreditima (%) 
+FI_FSI_FSKNL: Nenaplativi krediti umanjeni za rezervisanja za kapital (%) 
 FI_FSI_FSKRTC: Regulatorni kapital prvog reda prema rizičnoj aktivi (%)
-FI_FSI_FSLS: Likvidna sredstva u kratkoročne obaveze
+FI_FSI_FSLS: Likvidna sredstva u kratkoročne obaveze (%)
 FI_FSI_FSSNO: Neto otvorena pozicija u devizama prema kapitalu (%)
 GB_POP_SCIERD: Istraživači (u ekvivalentu punog radnog vremena) na milion stanovnika
 GB_XPD_RSDV: Rashodi za istraživanje i razvoj kao udio u BDP-u
