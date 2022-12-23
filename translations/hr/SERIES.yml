@@ -97,13 +97,13 @@ FB_BNK_ACCSS_ILF: Udio odraslih (15 godina i starijih) aktivnih u radnoj snazi s
 FB_BNK_ACCSS_OLF: Udio odraslih (15 godina i starijih) izvan radne snage s računom u financijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih u dobi od 15 godina i starijih)
 FB_CBK_BRCH: Broj filijala komercijalnih banaka na 100 000 odraslih
 FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
-FI_FSI_FSANL: Krediti u ukupnim bruto kreditima koji se ne izvode (%) 
-FI_FSI_FSERA: Povrat imovine (%)
-FI_FSI_FSKA: Regulatorni kapital za imovinu (%) 
-FI_FSI_FSKNL: Neto krediti određeni za kapital koji se ne izvode (%) 
-FI_FSI_FSKRTC: Regulatorni 1 razina kapitala za imovinu ponderiranu rizikom (%)
-FI_FSI_FSLS: Likvidna imovina na kratkoročnim obvezama (%)
-FI_FSI_FSSNO: Neto otvorena pozicija u devizama do kapitala (%)
+FI_FSI_FSANL: Nenaplativi krediti prema ukupnim bruto kreditima (%) 
+FI_FSI_FSERA: Povrat na imovinu (ROA) (%)
+FI_FSI_FSKA: Regulatorni kapital prema imovini (%)
+FI_FSI_FSKNL: Nenaplativi krediti umanjeni za rezervisanja za kapital (%)
+FI_FSI_FSKRTC: Regulatorni kapital prvog reda prema rizičnoj aktivi (%)
+FI_FSI_FSLS: Likvidna sredstva u kratkoročne obaveze (%)
+FI_FSI_FSSNO: Neto otvorena pozicija u devizama prema kapitalu (%)
 GB_POP_SCIERD: Istraživači (u ekvivalentu punog radnog vremena) na milijun stanovnika
 GB_XPD_RSDV: Rashodi za istraživanje i razvoj kao udio u BDP-u
 GC_GOB_TAXD: Udio domaćeg proračuna koji se financira iz domaćih poreza
