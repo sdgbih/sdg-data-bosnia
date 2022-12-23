@@ -273,7 +273,7 @@ SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlen
 SL_TLF_NEET: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom
 SL_TLF_UEM: Stopa nezaposlenosti
 SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tokom migracije
-SM_POP_REFG_OR: Udio stanovništva izbjeglica, prema zemlji porijekla
+SM_POP_REFG_OR: Udio stanovništva koje su izbjeglice, prema zemlji porijekla (%)
 SN_ITK_DEFC: Rasprostranjenost pothranjenosti
 SN_ITK_DEFCN: Broj pothranjenih ljudi
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
