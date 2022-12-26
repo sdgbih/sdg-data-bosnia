@@ -59,11 +59,11 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Urban,0.0
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,0.99243
-2000,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.97704
-2006,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99838
-2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.98434
-2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Female,,,0.98805
-2012,SE_ALP_CPLRRO,,Lower secondary education,Total (national average) or no breakdown,Male,,,0.98121
+2000,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.97704
+2006,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.99838
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,,,0.98434
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",,Lower secondary education,Total (national average) or no breakdown,Female,,,0.98805
+2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",,Lower secondary education,Total (national average) or no breakdown,Male,,,0.98121
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Both sexes or no breakdown by sex,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Female,,,0.0
 2012,"Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),Male,,,0.0
