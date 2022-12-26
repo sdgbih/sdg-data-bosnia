@@ -1,5 +1,6 @@
 BOOL: Logička ili binarna mjera
 CON_USD: konstantni američki dolari
+CU_USD_M: Milioni tekućih američkih dolara
 CUR_LCU_M: Lokalna valuta (milioni)
 GPERM3: Mikrogrami po kubnom metru
 HA_TH: Hiljade hektara
