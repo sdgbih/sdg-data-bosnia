@@ -59,11 +59,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 3,,,Urbano,0.0
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 4,,,Urbano,0.0
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 5 (najbogatiji),,,Urbano,0.99243
-2000,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.97704
-2006,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.99838
-2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.98434
-2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.98805
-2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.98121
+2000,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.97704
+2006,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.99838
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.98434
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.98805
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.98121
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Oba spola ili bez podjele po spolu,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Niže srednje obrazovanje,Kvantil 1 (najsiromašniji),Muškarci,,,0.0
@@ -99,11 +99,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,COM
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Oba spola ili bez podjele po spolu,,,1.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Žene,,,1.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Osnovno obrazovanje,Kvantil 5 (najbogatiji),Muškarci,,,1.0
-2000,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60731
-2006,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60786
-2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.9377
-2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.94017
-2012,SE_ALP_CPLRRO,,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.93559
+2000,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60731
+2006,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.60786
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Oba spola ili bez podjele po spolu,,,0.9377
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Žene,,,0.94017
+2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Ukupno (nacionalni prosjek) ili bez podjele,Muškarci,,,0.93559
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Oba spola ili bez podjele po spolu,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Žene,,,0.0
 2012,"Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 1 (najsiromašniji),Muškarci,,,0.0
