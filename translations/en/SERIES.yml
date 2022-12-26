@@ -351,4 +351,5 @@ SG_DMK_PARLYN_UC: Number of youth in parliament (age 45 or below), Upper Chamber
 SG_DMK_PARLYP_LC: Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral 
 SG_DMK_PARLYP_UC: Proportion of youth in parliament (age 45 or below), Upper Chamber
 SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral 
-SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber 
+SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber
+SP_TRN_PUBL: Proportion of population that has convenient access to public transport (%) 
