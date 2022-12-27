@@ -35,7 +35,7 @@ EG_TBA_H2CORL: Proportion of transboundary river and lake basins with an operati
 EN_ATM_CO2: Carbon dioxide emissions from fuel combustion
 EN_ATM_CO2GDP: Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars)
 EN_ATM_CO2MVA: Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
-EN_ATM_PM25: Annual mean levels of fine particulate matter in cities, urban population
+EN_ATM_PM25: Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)
 EN_EWT_GENPCAP: Electronic waste generated, per capita (Kg)
 EN_EWT_GENV: Electronic waste generated (Tonnes)
 EN_EWT_RCYPCAP: Electronic waste recycling, per capita (Kg)
