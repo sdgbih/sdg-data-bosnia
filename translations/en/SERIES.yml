@@ -109,6 +109,7 @@ GB_XPD_RSDV: Research and development expenditure as a proportion of GDP
 GB_XPD_CULNAT_PB: Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)
 GB_XPD_CULNAT_PV: Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)
 GB_XPD_CULNAT_PBPV: Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)
+GB_XPD_CUL_PBPV: Total expenditure per capita spent on cultural heritage, public and private (PPP, constant 2017 United States dollars)
 GB_XPD_NAT_PBPV: Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)
 GC_GOB_TAXD: Proportion of domestic budget funded by domestic taxes
 GF_FRN_FDI: Foreign direct investment (FDI) inflows
