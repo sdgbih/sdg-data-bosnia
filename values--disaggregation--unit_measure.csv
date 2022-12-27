@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
-CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,7,6
+CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,12,7
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,1,1
 CUR_LCU,in BAM,u KM,у KM,u KM,32,1
 CUR_LCU_M,CUR_LCU_M,Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
