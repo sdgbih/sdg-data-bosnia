@@ -1,11 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
-2019,44.6044,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)"
-2019,40.2078,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)"
-2019,0.7874,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)"
-2020,2.6096,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)"
-2019,45.3918,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)"
-2020,42.8174,CON_PPP_USD,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)"
-2019,42.6643,CON_PPP_USD,GB_XPD_CUL_PBPV
-2020,39.8409,CON_PPP_USD,GB_XPD_CUL_PBPV
-2019,2.7275,CON_PPP_USD,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)"
-2019,2.9765,CON_PPP_USD,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)"
+2019,44.6044,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)"
+2019,40.2078,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)"
+2019,0.7874,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)"
+2020,2.6096,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)"
+2019,45.3918,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)"
+2020,42.8174,Constant USD,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)"
+2019,42.6643,Constant USD,GB_XPD_CUL_PBPV
+2020,39.8409,Constant USD,GB_XPD_CUL_PBPV
+2019,2.7275,Constant USD,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)"
+2019,2.9765,Constant USD,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)"
