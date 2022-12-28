@@ -139,60 +139,66 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2017,"Domestic material consumption per capita, by type of raw material",TONNES,Fossil fuels,4.85336
 2018,"Domestic material consumption per capita, by type of raw material",TONNES,Fossil fuels,5.01431
 2019,"Domestic material consumption per capita, by type of raw material",TONNES,Fossil fuels,5.32783
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04529
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.0296
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.02797
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.03653
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.05754
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.06833
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.07193
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.07613
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.07576
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04341
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04584
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.05264
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04902
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.03861
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.0363
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04586
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04594
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF422,0.04589
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.05734
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.01722
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.00274
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.00314
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.00411
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.03204
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.09853
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.20202
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.16985
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.17391
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.24879
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.23406
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.20314
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.20697
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.20814
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.229
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.24944
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF122,0.26938
-2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.16399
-2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.09387
-2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.07503
-2003,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.23986
-2004,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.27573
-2005,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.76364
-2006,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.73469
-2007,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.6991
-2008,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.87801
-2009,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.74851
-2010,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.46251
-2011,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.52544
-2012,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.50998
-2013,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.60932
-2014,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.60614
-2015,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.651
-2016,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.69447
-2017,"Domestic material consumption per capita, by type of raw material",TONNES,MF2,0.73645
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04362
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.0285
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.02694
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.0352
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.05544
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.06582
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.06925
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.07324
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.07285
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04176
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04417
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.05087
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04758
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.03768
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.03566
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04243
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04473
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04888
+2018,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.04912
+2019,"Domestic material consumption per capita, by type of raw material",TONNES,Natural gas,0.0498
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.70588
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.68107
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.64274
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.68804
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.72523
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.73455
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.81591
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.76327
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.75129
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.75533
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.76264
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.75896
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.75371
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.77249
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.78306
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.80777
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.81762
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.81097
+2018,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.80666
+2019,"Domestic material consumption per capita, by type of raw material",TONNES,Grazed biomass and fodder crops,0.80886
+2000,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.1681
+2001,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.09772
+2002,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.08991
+2003,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.25214
+2004,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.29717
+2005,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.73427
+2006,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.6931
+2007,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.59598
+2008,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.77925
+2009,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.73648
+2010,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.54023
+2011,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.52544
+2012,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.50591
+2013,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.58568
+2014,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.59533
+2015,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.78207
+2016,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.65656
+2017,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.6808
+2018,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.66773
+2019,"Domestic material consumption per capita, by type of raw material",TONNES,Metal ores,0.65267
 2000,"Domestic material consumption per capita, by type of raw material",TONNES,MF22,0.06762
 2001,"Domestic material consumption per capita, by type of raw material",TONNES,MF22,0.02386
 2002,"Domestic material consumption per capita, by type of raw material",TONNES,MF22,0.01888
