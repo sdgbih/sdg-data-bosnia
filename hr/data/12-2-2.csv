@@ -539,24 +539,26 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Stočna hrana i krmno bilje,0.15754
 2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Stočna hrana i krmno bilje,0.14981
 2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Stočna hrana i krmno bilje,0.14529
-2000,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.05125
-2001,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.0286
-2002,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.02179
-2003,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.0671
-2004,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.0726
-2005,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.19352
-2006,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.17653
-2007,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.15846
-2008,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.18824
-2009,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.16468
-2010,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.10023
-2011,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.11178
-2012,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.10819
-2013,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.1248
-2014,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.12141
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.12544
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.12903
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF2,0.13244
+2000,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.05924
+2001,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.03357
+2002,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.02944
+2003,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.07951
+2004,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.0882
+2005,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.2098
+2006,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.18787
+2007,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.1525
+2008,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.18867
+2009,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.18295
+2010,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.10029
+2011,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.12914
+2012,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.12007
+2013,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13346
+2014,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13182
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.16544
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13295
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13225
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.12401
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.11724
 2000,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF22,0.02113
 2001,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF22,0.00727
 2002,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,MF22,0.00548
