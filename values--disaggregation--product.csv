@@ -1,14 +1,14 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,_T,_T,_T,4,2
+_T,_T,_T,_T,_T,3,2
 AGG_AGR,Agriculture products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 AGG_ARMS,Arms,Oružje,Оружје,Oružje,3,2
 AGG_CLTH,Clothing,Odjeća,Одјећа,Odjeća,3,2
 AGG_IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
-ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,5,3
-BIM,Biomass,Biomasa,Биомаса,Biomasa,4,2
-COL,Coal,Ugalj,Угаљ,Ugljen,4,2
+ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,6,3
+BIM,Biomass,Biomasa,Биомаса,Biomasa,5,2
+COL,Coal,Ugalj,Угаљ,Ugljen,5,2
 CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,4,2
 CRO,Crops,Usjevi,Усјеви,Usjevi,4,2
 FEO,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,4,2
@@ -16,7 +16,7 @@ FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,4,2
 GAS,Natural gas,Prirodni gas,Природни гас,Prirodni plin,4,2
 GBO,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,GBO,Stočna hrana i krmno bilje,4,2
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,4,2
-MF1,MF1,MF1,MF1,MF1,2,1
+MF1,MF1,MF1,MF1,MF1,1,1
 MF11,MF11,MF11,MF11,MF11,2,1
 MF121,MF121,MF121,MF121,MF121,2,1
 MF122,MF122,MF122,Сточна храна и крмно биље,MF122,2,1
@@ -27,7 +27,7 @@ MF21,MF21,MF21,MF21,MF21,2,1
 MF22,MF22,MF22,MF22,MF22,2,1
 MF3,MF3,MF3,MF3,MF3,2,1
 MF4,MF4,MF4,MF4,MF4,2,1
-MF41,MF41,MF41,MF41,MF41,2,1
+MF41,MF41,MF41,MF41,MF41,1,1
 MF421,MF421,MF421,MF421,MF421,2,1
 MF422,MF422,MF422,MF422,MF422,2,1
 MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,2,1
