@@ -499,42 +499,46 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.94283
 2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.93124
 2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.95701
-2000,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01415
-2001,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00902
-2002,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00812
-2003,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01022
-2004,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01515
-2005,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01732
-2006,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01728
-2007,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01726
-2008,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.01624
-2009,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00955
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00993
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.0112
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.0104
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00791
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00727
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00884
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00854
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF422,0.00825
-2000,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.01792
-2001,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.00525
-2002,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.0008
-2003,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.00088
-2004,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.00108
-2005,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.00812
-2006,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.02367
-2007,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04579
-2008,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.03642
-2009,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.03826
-2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.05391
-2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04979
-2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04309
-2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04239
-2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04169
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04412
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04635
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF122,0.04844
+2000,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01537
+2001,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0098
+2002,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00882
+2003,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0111
+2004,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01645
+2005,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01881
+2006,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01877
+2007,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01874
+2008,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01764
+2009,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01037
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01079
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01216
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.01129
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00859
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0079
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00898
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00906
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.0095
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00912
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Natural gas,0.00894
+2000,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.24875
+2001,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.23399
+2002,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.21044
+2003,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.21698
+2004,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.21524
+2005,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.20988
+2006,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.22116
+2007,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.19531
+2008,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.18191
+2009,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.18763
+2010,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.18629
+2011,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.18143
+2012,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.17888
+2013,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.17603
+2014,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.17339
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.17087
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.16557
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.15754
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.14981
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Grazed biomass and fodder crops,0.14529
 2000,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF2,0.05125
 2001,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF2,0.0286
 2002,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,MF2,0.02179
