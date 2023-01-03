@@ -65,7 +65,7 @@ EN_LND_SLUM,Proportion of urban population living in slums,Udio gradskog stanovn
 EN_MAR_BEALITSQ,Beach litter per square kilometer,Dužina plaže po kvadratnom kilometru,Дужина плаже по квадратном километру,Dužina plaže po kvadratnom kilometru,1,1
 EN_MAT_DOMCMPC,"Domestic material consumption per capita, by type of raw material","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine","Потрошња домаћих материјала по становнику, према врсти сировине","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",36,2
 EN_MAT_DOMCMPG,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)","Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara)","Потрошња домаћих материјала, по јединици БДП-а, према врсти сировине (килограми по константи 2015 америчких долара)","Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",36,2
-EN_MAT_DOMCMPT,Domestic material consumption,Potrošnja domaćih materijala,Потрошња домаћих материјала,Potrošnja domaćih materijala,36,2
+EN_MAT_DOMCMPT,Domestic material consumption,Potrošnja domaćih materijala,Потрошња домаћих материјала,Potrošnja domaćih materijala,37,2
 EN_MWT_COLLV,Municipal waste generated,Prikupljeni komunalni otpad,Прикупљени комунални отпад,Prikupljeni komunalni otpad,1,1
 EN_MWT_GENV,Municipal waste generated,Stvoreni komunalni otpad,Stvoreni komunalni otpad,Stvoreni komunalni otpad,1,1
 EN_MWT_TREATR,"Municipal waste treated, by type of treatment",Obrađeni komunalni otpad prema vrsti obrade,Обрађени комунални отпад према врсти обраде,Obrađeni komunalni otpad prema vrsti obrade,1,1

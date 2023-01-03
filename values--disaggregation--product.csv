@@ -19,15 +19,12 @@ MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,6,2
 MF13,MF13,MF13,MF13,MF13,1,1
 MF14,MF14,MF14,MF14,MF14,1,1
 MF2,MF2,MF2,MF2,MF2,1,1
-MF3,MF3,MF3,MF3,MF3,1,1
 MF421,MF421,MF421,MF421,MF421,1,1
-MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,MF_AGG3A,1,1
-MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,MF_AGG3B,1,1
 NFO,Non-ferrous ores,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,6,2
-NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,5,2
-NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,5,2
-NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,5,2
-ONT,Oil shale and tar sands,Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,5,2
+NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,6,2
+NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,6,2
+NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
+ONT,Oil shale and tar sands,Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,6,2
 PET,Petroleum,Nafta,Нафта,Nafta,5,2
 WCH,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,5,2
 WOD,Wood,Drvo,Дрво,Drvo,5,2
