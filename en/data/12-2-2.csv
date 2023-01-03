@@ -1018,57 +1018,63 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2017,Domestic material consumption,TONNES,Oil shale and tar sands,0.0
 2018,Domestic material consumption,TONNES,Oil shale and tar sands,0.0
 2009,Domestic material consumption,TONNES,Oil shale and tar sands,0.0
-2000,Domestic material consumption,TONNES,MF421,1148000.0
-2001,Domestic material consumption,TONNES,MF421,1123000.0
-2002,Domestic material consumption,TONNES,MF421,1087000.0
-2003,Domestic material consumption,TONNES,MF421,1011000.0
-2004,Domestic material consumption,TONNES,MF421,1187000.0
-2005,Domestic material consumption,TONNES,MF421,1120000.0
-2006,Domestic material consumption,TONNES,MF421,1201000.0
-2007,Domestic material consumption,TONNES,MF421,1278000.0
-2008,Domestic material consumption,TONNES,MF421,1471000.0
-2009,Domestic material consumption,TONNES,MF421,1637000.0
-2010,Domestic material consumption,TONNES,MF421,1670000.0
-2011,Domestic material consumption,TONNES,MF421,1714000.0
-2012,Domestic material consumption,TONNES,MF421,1533000.0
-2013,Domestic material consumption,TONNES,MF421,1489000.0
-2014,Domestic material consumption,TONNES,MF421,1385000.0
-2015,Domestic material consumption,TONNES,MF421,1426607.0
-2016,Domestic material consumption,TONNES,MF421,1468214.0
-2017,Domestic material consumption,TONNES,MF421,1509821.0
-2000,Domestic material consumption,TONNES,MF14,8465.0
-2001,Domestic material consumption,TONNES,MF14,8679.0
-2002,Domestic material consumption,TONNES,MF14,11182.0
-2003,Domestic material consumption,TONNES,MF14,11748.0
-2004,Domestic material consumption,TONNES,MF14,13649.0
-2005,Domestic material consumption,TONNES,MF14,15432.0
-2006,Domestic material consumption,TONNES,MF14,11180.0
-2007,Domestic material consumption,TONNES,MF14,11029.0
-2008,Domestic material consumption,TONNES,MF14,10938.0
-2009,Domestic material consumption,TONNES,MF14,10162.0
-2010,Domestic material consumption,TONNES,MF14,9106.0
-2011,Domestic material consumption,TONNES,MF14,8310.0
-2012,Domestic material consumption,TONNES,MF14,8391.0
-2013,Domestic material consumption,TONNES,MF14,8855.0
-2014,Domestic material consumption,TONNES,MF14,8855.0
-2015,Domestic material consumption,TONNES,MF14,8682.0
-2016,Domestic material consumption,TONNES,MF14,8510.0
-2017,Domestic material consumption,TONNES,MF14,8337.0
-2000,Domestic material consumption,TONNES,MF13,2478757.0
-2001,Domestic material consumption,TONNES,MF13,2185477.0
-2002,Domestic material consumption,TONNES,MF13,2454677.0
-2003,Domestic material consumption,TONNES,MF13,2390059.0
-2004,Domestic material consumption,TONNES,MF13,1830655.0
-2005,Domestic material consumption,TONNES,MF13,1925044.0
-2006,Domestic material consumption,TONNES,MF13,2120334.0
-2007,Domestic material consumption,TONNES,MF13,1853219.0
-2008,Domestic material consumption,TONNES,MF13,2035444.0
-2009,Domestic material consumption,TONNES,MF13,1716285.0
-2010,Domestic material consumption,TONNES,MF13,1926305.0
-2011,Domestic material consumption,TONNES,MF13,2013618.0
-2012,Domestic material consumption,TONNES,MF13,2088522.0
-2013,Domestic material consumption,TONNES,MF13,2221379.0
-2014,Domestic material consumption,TONNES,MF13,2132902.0
-2015,Domestic material consumption,TONNES,MF13,1994345.0
-2016,Domestic material consumption,TONNES,MF13,1982417.0
-2017,Domestic material consumption,TONNES,MF13,1970489.0
+2000,Domestic material consumption,TONNES,Petroleum,532000.0
+2001,Domestic material consumption,TONNES,Petroleum,265000.0
+2002,Domestic material consumption,TONNES,Petroleum,246000.0
+2003,Domestic material consumption,TONNES,Petroleum,81000.0
+2004,Domestic material consumption,TONNES,Petroleum,184000.0
+2005,Domestic material consumption,TONNES,Petroleum,146000.0
+2006,Domestic material consumption,TONNES,Petroleum,18000.0
+2007,Domestic material consumption,TONNES,Petroleum,13000.0
+2008,Domestic material consumption,TONNES,Petroleum,106000.0
+2009,Domestic material consumption,TONNES,Petroleum,932000.0
+2010,Domestic material consumption,TONNES,Petroleum,1107000.0
+2011,Domestic material consumption,TONNES,Petroleum,1161000.0
+2012,Domestic material consumption,TONNES,Petroleum,1006000.0
+2013,Domestic material consumption,TONNES,Petroleum,1017000.0
+2014,Domestic material consumption,TONNES,Petroleum,934000.0
+2015,Domestic material consumption,TONNES,Petroleum,916000.0
+2016,Domestic material consumption,TONNES,Petroleum,911000.0
+2017,Domestic material consumption,TONNES,Petroleum,845000.0
+2018,Domestic material consumption,TONNES,Petroleum,683000.0
+2019,Domestic material consumption,TONNES,Petroleum,734156.0
+2000,Domestic material consumption,TONNES,Wild catch and harvest,10264.0
+2001,Domestic material consumption,TONNES,Wild catch and harvest,7413.0
+2002,Domestic material consumption,TONNES,Wild catch and harvest,12124.0
+2003,Domestic material consumption,TONNES,Wild catch and harvest,12635.0
+2004,Domestic material consumption,TONNES,Wild catch and harvest,13770.0
+2005,Domestic material consumption,TONNES,Wild catch and harvest,15351.0
+2006,Domestic material consumption,TONNES,Wild catch and harvest,9566.0
+2007,Domestic material consumption,TONNES,Wild catch and harvest,6800.0
+2008,Domestic material consumption,TONNES,Wild catch and harvest,9993.0
+2009,Domestic material consumption,TONNES,Wild catch and harvest,8646.0
+2010,Domestic material consumption,TONNES,Wild catch and harvest,7342.0
+2011,Domestic material consumption,TONNES,Wild catch and harvest,7010.0
+2012,Domestic material consumption,TONNES,Wild catch and harvest,6735.0
+2013,Domestic material consumption,TONNES,Wild catch and harvest,7849.0
+2014,Domestic material consumption,TONNES,Wild catch and harvest,7090.0
+2015,Domestic material consumption,TONNES,Wild catch and harvest,7829.0
+2016,Domestic material consumption,TONNES,Wild catch and harvest,8256.0
+2017,Domestic material consumption,TONNES,Wild catch and harvest,7561.0
+2018,Domestic material consumption,TONNES,Wild catch and harvest,7559.0
+2019,Domestic material consumption,TONNES,Wild catch and harvest,7860.0
+2000,Domestic material consumption,TONNES,Wood,2463271.2
+2001,Domestic material consumption,TONNES,Wood,2169991.2
+2002,Domestic material consumption,TONNES,Wood,2439191.2
+2003,Domestic material consumption,TONNES,Wood,2300461.28
+2004,Domestic material consumption,TONNES,Wood,1507846.8
+2005,Domestic material consumption,TONNES,Wood,1574817.92
+2006,Domestic material consumption,TONNES,Wood,1770107.12
+2007,Domestic material consumption,TONNES,Wood,1409230.92
+2008,Domestic material consumption,TONNES,Wood,1505113.4
+2009,Domestic material consumption,TONNES,Wood,1170378.6
+2010,Domestic material consumption,TONNES,Wood,1348766.4
+2011,Domestic material consumption,TONNES,Wood,1332286.8
+2012,Domestic material consumption,TONNES,Wood,1189907.0
+2013,Domestic material consumption,TONNES,Wood,1108462.6
+2014,Domestic material consumption,TONNES,Wood,974343.24
+2015,Domestic material consumption,TONNES,Wood,1246433.32
+2016,Domestic material consumption,TONNES,Wood,1337833.2
+2017,Domestic material consumption,TONNES,Wood,1125192.2
+2018,Domestic material consumption,TONNES,Wood,1412270.64
+2019,Domestic material consumption,TONNES,Wood,1764390.24
