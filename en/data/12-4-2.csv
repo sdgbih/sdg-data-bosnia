@@ -27,7 +27,7 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2019,Municipal waste generated,TONNES,,,1228309.0
 2020,Municipal waste generated,TONNES,,,1206147.0
 2021,Municipal waste generated,TONNES,,,1228916.0
-2017,"Municipal waste treated, by type of treatment",TONNES,Landfilling,,76.59919
+2017,"Municipal waste treated, by type of treatment",Percent,Landfilling,,76.59919
 2008,"Total waste generation, by activity",TONNES,,Mining and quarrying,87148.00263
 2009,"Total waste generation, by activity",TONNES,,Mining and quarrying,83616.99677
 2010,"Total waste generation, by activity",TONNES,,Mining and quarrying,104000.0
