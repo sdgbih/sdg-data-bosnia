@@ -1,46 +1,12 @@
 Year,Value,UNIT_MEASURE,SERIES
-2001,568.88599,Tone,Izvoz opasnog otpada
-2002,1830.0,Tone,Izvoz opasnog otpada
-2003,6295.0,Tone,Izvoz opasnog otpada
-2004,7094.29981,Tone,Izvoz opasnog otpada
-2005,709.42999,Tone,Izvoz opasnog otpada
-2006,656.0,Tone,Izvoz opasnog otpada
-2007,666.0,Tone,Izvoz opasnog otpada
-2008,444.73599,Tone,Izvoz opasnog otpada
-2009,497.05621,Tone,Izvoz opasnog otpada
-2010,253.14,Tone,Izvoz opasnog otpada
-2011,87.0,Tone,Izvoz opasnog otpada
-2012,426.194,Tone,Izvoz opasnog otpada
-2013,554.39203,Tone,Izvoz opasnog otpada
-2014,506.28299,Tone,Izvoz opasnog otpada
-2008,10588.0,Tone,Proizvedeni opasni otpad (tone)
-2009,9632.0,Tone,Proizvedeni opasni otpad (tone)
-2010,10320.0,Tone,Proizvedeni opasni otpad (tone)
-2012,4432.0,Tone,Proizvedeni opasni otpad (tone)
-2014,8408.0,Tone,Proizvedeni opasni otpad (tone)
-2008,2.82026,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2009,2.5782,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2010,2.78507,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2012,1.22941,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2014,2.41463,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
-2008,0.00068,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2010,0.00064,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2012,0.00029,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2014,0.00053,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2000,0.0,Tone,Uvoz opasnog otpada
-2001,0.0,Tone,Uvoz opasnog otpada
-2002,0.0,Tone,Uvoz opasnog otpada
-2003,0.0,Tone,Uvoz opasnog otpada
-2004,0.0,Tone,Uvoz opasnog otpada
-2005,0.0,Tone,Uvoz opasnog otpada
-2006,0.0,Tone,Uvoz opasnog otpada
-2007,0.0,Tone,Uvoz opasnog otpada
-2008,0.0,Tone,Uvoz opasnog otpada
-2009,0.0,Tone,Uvoz opasnog otpada
-2010,0.0,Tone,Uvoz opasnog otpada
-2011,0.0,Tone,Uvoz opasnog otpada
-2012,0.0,Tone,Uvoz opasnog otpada
-2013,0.0,Tone,Uvoz opasnog otpada
+2014,0.0,Tone,Izvoz opasnog otpada
+2016,13292.0,Tone,Proizvedeni opasni otpad (tone)
+2018,14157.0,Tone,Proizvedeni opasni otpad (tone)
+2020,9942.0,Tone,Proizvedeni opasni otpad (tone)
+2016,3.9,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2018,3.8,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2020,2.9,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2016,0.0008,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
 2014,0.0,Tone,Uvoz opasnog otpada
 2008,1367089.96582,Tone,Prikupljeni komunalni otpad
 2009,1260060.05859,Tone,Prikupljeni komunalni otpad

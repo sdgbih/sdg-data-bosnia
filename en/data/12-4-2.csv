@@ -1,58 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
-2001,Hazardous waste exported,TONNES,,,568.88599
-2002,Hazardous waste exported,TONNES,,,1830.0
-2003,Hazardous waste exported,TONNES,,,6295.0
-2004,Hazardous waste exported,TONNES,,,7094.29981
-2005,Hazardous waste exported,TONNES,,,709.42999
-2006,Hazardous waste exported,TONNES,,,656.0
-2007,Hazardous waste exported,TONNES,,,666.0
-2008,Hazardous waste exported,TONNES,,,444.73599
-2009,Hazardous waste exported,TONNES,,,497.05621
-2010,Hazardous waste exported,TONNES,,,253.14
-2011,Hazardous waste exported,TONNES,,,87.0
-2012,Hazardous waste exported,TONNES,,,426.194
-2013,Hazardous waste exported,TONNES,,,554.39203
-2014,Hazardous waste exported,TONNES,,,506.28299
-2008,Hazardous waste generated (Tonnes),TONNES,,,10588.0
-2009,Hazardous waste generated (Tonnes),TONNES,,,9632.0
-2010,Hazardous waste generated (Tonnes),TONNES,,,10320.0
-2012,Hazardous waste generated (Tonnes),TONNES,,,4432.0
-2014,Hazardous waste generated (Tonnes),TONNES,,,8408.0
-2008,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.82026
-2009,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.5782
-2010,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.78507
-2012,"Hazardous waste generated, per capita (Kg)",Kilograms,,,1.22941
-2014,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.41463
-2008,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.00068
-2010,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.00064
-2012,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.00029
-2014,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.00053
-2000,Hazardous waste imported,TONNES,,,0.0
-2001,Hazardous waste imported,TONNES,,,0.0
-2002,Hazardous waste imported,TONNES,,,0.0
-2003,Hazardous waste imported,TONNES,,,0.0
-2004,Hazardous waste imported,TONNES,,,0.0
-2005,Hazardous waste imported,TONNES,,,0.0
-2006,Hazardous waste imported,TONNES,,,0.0
-2007,Hazardous waste imported,TONNES,,,0.0
-2008,Hazardous waste imported,TONNES,,,0.0
-2009,Hazardous waste imported,TONNES,,,0.0
-2010,Hazardous waste imported,TONNES,,,0.0
-2011,Hazardous waste imported,TONNES,,,0.0
-2012,Hazardous waste imported,TONNES,,,0.0
-2013,Hazardous waste imported,TONNES,,,0.0
+2014,Hazardous waste exported,TONNES,,,0.0
+2016,Hazardous waste generated (Tonnes),TONNES,,,13292.0
+2018,Hazardous waste generated (Tonnes),TONNES,,,14157.0
+2020,Hazardous waste generated (Tonnes),TONNES,,,9942.0
+2016,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.9
+2018,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.8
+2020,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.9
+2016,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.0008
 2014,Hazardous waste imported,TONNES,,,0.0
-2001,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2002,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2003,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2004,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2005,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2006,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2007,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2008,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2009,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2010,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2011,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
 2012,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
 2008,Municipal waste generated,TONNES,,,1367089.96582
 2009,Municipal waste generated,TONNES,,,1260060.05859

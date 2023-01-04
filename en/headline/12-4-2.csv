@@ -1,46 +1,12 @@
 Year,Value,UNIT_MEASURE,SERIES
-2001,568.88599,TONNES,Hazardous waste exported
-2002,1830.0,TONNES,Hazardous waste exported
-2003,6295.0,TONNES,Hazardous waste exported
-2004,7094.29981,TONNES,Hazardous waste exported
-2005,709.42999,TONNES,Hazardous waste exported
-2006,656.0,TONNES,Hazardous waste exported
-2007,666.0,TONNES,Hazardous waste exported
-2008,444.73599,TONNES,Hazardous waste exported
-2009,497.05621,TONNES,Hazardous waste exported
-2010,253.14,TONNES,Hazardous waste exported
-2011,87.0,TONNES,Hazardous waste exported
-2012,426.194,TONNES,Hazardous waste exported
-2013,554.39203,TONNES,Hazardous waste exported
-2014,506.28299,TONNES,Hazardous waste exported
-2008,10588.0,TONNES,Hazardous waste generated (Tonnes)
-2009,9632.0,TONNES,Hazardous waste generated (Tonnes)
-2010,10320.0,TONNES,Hazardous waste generated (Tonnes)
-2012,4432.0,TONNES,Hazardous waste generated (Tonnes)
-2014,8408.0,TONNES,Hazardous waste generated (Tonnes)
-2008,2.82026,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2009,2.5782,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2010,2.78507,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2012,1.22941,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2014,2.41463,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2008,0.00068,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2010,0.00064,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2012,0.00029,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2014,0.00053,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
-2000,0.0,TONNES,Hazardous waste imported
-2001,0.0,TONNES,Hazardous waste imported
-2002,0.0,TONNES,Hazardous waste imported
-2003,0.0,TONNES,Hazardous waste imported
-2004,0.0,TONNES,Hazardous waste imported
-2005,0.0,TONNES,Hazardous waste imported
-2006,0.0,TONNES,Hazardous waste imported
-2007,0.0,TONNES,Hazardous waste imported
-2008,0.0,TONNES,Hazardous waste imported
-2009,0.0,TONNES,Hazardous waste imported
-2010,0.0,TONNES,Hazardous waste imported
-2011,0.0,TONNES,Hazardous waste imported
-2012,0.0,TONNES,Hazardous waste imported
-2013,0.0,TONNES,Hazardous waste imported
+2014,0.0,TONNES,Hazardous waste exported
+2016,13292.0,TONNES,Hazardous waste generated (Tonnes)
+2018,14157.0,TONNES,Hazardous waste generated (Tonnes)
+2020,9942.0,TONNES,Hazardous waste generated (Tonnes)
+2016,3.9,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2018,3.8,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2020,2.9,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2016,0.0008,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP"
 2014,0.0,TONNES,Hazardous waste imported
 2008,1367089.96582,TONNES,Municipal waste generated
 2009,1260060.05859,TONNES,Municipal waste generated
