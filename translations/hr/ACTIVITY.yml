@@ -8,6 +8,7 @@ ISIC4_D: Proizvodnja i opskrba električnom energijom, plinom, parom i klimatiza
 ISIC4_F: Građevinarstvo
 ISIC4_A01_A0210_A0322: Poljoprivreda (ISIC4 A01 A0210 A0322)
 ISIC4_GTT: Usluge (G do T)
+ISIC4_T: Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe
 PRIV_HH: Privatna domaćinstva 
 SERV_HH: Usluge i aktivnosti domaćinstava 
 SERVICES: Usluge
