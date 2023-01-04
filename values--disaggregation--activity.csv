@@ -9,7 +9,7 @@ ISIC4_C10T32X19,Manufacturing excl. coke and refined petroleum products and repa
 ISIC4_D,"Electricity, gas, steam and air conditioning supply","Proizvodnja i snadbijevanje električnom energijom, plinom, parom i klimatizacija","Производња и снадбијевање електричном енергијом, плином, паром и климатизација","Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1,1
 ISIC4_F,Construction,Građevinarstvo,Грађевинарство,Građevinarstvo,1,1
 ISIC4_GTT,Services (G to T),Usluge (G do T),Услуге (Г до Т),Usluge (G do T),2,2
-ISIC4_T,ISIC4_T,ISIC4_T,ISIC4_T,ISIC4_T,1,1
+ISIC4_T,ISIC4_T,Aktivnosti domaćinstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga domaćinstava za vlastite potrebe,ISIC4_T,ISIC4_T,1,1
 NONAGR,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,3,1
 PRIV_HH,Private households,Privatna domaćinstva,Приватна домаћинства,Privatna domaćinstva,1,1
 SERV_HH,"Services, and activities by households",Usluge i aktivnosti domaćinstava,Услуге и активности домаћинстава,Usluge i aktivnosti domaćinstava,1,1
