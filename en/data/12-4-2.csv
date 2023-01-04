@@ -47,9 +47,9 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2016,"Total waste generation, by activity",TONNES,,Construction,156918.0
 2018,"Total waste generation, by activity",TONNES,,Construction,122916.0
 2020,"Total waste generation, by activity",TONNES,,Construction,85972.0
-2016,"Total waste generation, by activity",TONNES,,ISIC4_T,
-2018,"Total waste generation, by activity",TONNES,,ISIC4_T,
-2020,"Total waste generation, by activity",TONNES,,ISIC4_T,
+2016,"Total waste generation, by activity",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,
+2018,"Total waste generation, by activity",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,
+2020,"Total waste generation, by activity",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,
 2016,"Total waste generation, by activity",TONNES,,No breakdown,4857710.0
 2018,"Total waste generation, by activity",TONNES,,No breakdown,5287576.0
 2020,"Total waste generation, by activity",TONNES,,No breakdown,5822866.0
