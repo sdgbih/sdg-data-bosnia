@@ -2,6 +2,6 @@ Year,SERIES,UNIT_MEASURE,Food Waste Sector,Value
 2019,Food waste (Tonnes),TONNES,Households,273269.2359
 2019,Food waste (Tonnes),TONNES,Out-of-home consumption,91266.29414
 2019,Food waste (Tonnes),TONNES,Retail,51628.39459
-2019,Food waste per capita (KG),TONNES,Households,82.78377
-2019,Food waste per capita (KG),TONNES,Out-of-home consumption,27.64808
-2019,Food waste per capita (KG),TONNES,Retail,15.64023
+2019,Food waste per capita (KG),Kilograms,Households,82.7838
+2019,Food waste per capita (KG),Kilograms,Out-of-home consumption,27.6481
+2019,Food waste per capita (KG),Kilograms,Retail,15.6402
