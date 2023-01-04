@@ -27,51 +27,29 @@ Year,SERIES,UNIT_MEASURE,Vrsta tretmana otpada,Privredna aktivnost,Value
 2019,Stvoreni komunalni otpad,Tone,,,1228309.0
 2020,Stvoreni komunalni otpad,Tone,,,1206147.0
 2021,Stvoreni komunalni otpad,Tone,,,1228916.0
-2017,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,76.59919
-2008,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,87148.00263
-2009,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,83616.99677
-2010,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,104000.0
-2012,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,72363.99841
-2014,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,85000.0
-2008,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,3563000.0
-2009,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,3077568.115
-2010,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1325000.0
-2012,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1213474.976
-2014,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1305000.0
-2008,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1059000.0
-2009,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1563614.014
-2010,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1583119.995
-2012,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3170717.041
-2014,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",2656462.891
-2000,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,837669.4336
-2001,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,863226.7456
-2002,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,892008.3618
-2003,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,915165.2832
-2004,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,894664.4287
-2005,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,948811.8896
-2006,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,1002959.412
-2007,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,1057106.934
-2008,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,1065105.225
-2009,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,996164.978
-2010,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,839164.978
-2011,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,836145.0195
-2012,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,773823.9746
-2013,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,705317.0166
-2014,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,761536.9873
-2015,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,715000.0
-2000,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,837669.4336
-2001,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,863226.7456
-2002,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,892008.3618
-2003,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,915165.2832
-2004,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,894664.4287
-2005,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,948811.8896
-2006,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,1002959.412
-2007,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,1057106.934
-2008,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,5774253.418
-2009,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,5720964.355
-2010,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,3851284.912
-2011,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,836145.0195
-2012,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,5230379.883
-2013,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,705317.0166
-2014,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,4808000.0
-2015,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,715000.0
+2017,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,99.47
+2018,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,98.91
+2019,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,95.93
+2020,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,98.91
+2021,Obrađeni komunalni otpad prema vrsti obrade,Postotak,Odlaganje na deponije,,99.32
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,216356.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,23701.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Vađenja ruda i kamena,765270.0
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1422448.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1893270.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Proizvodnja,1842260.0
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3061988.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3247689.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3129364.0
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Građevinarstvo,156918.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Građevinarstvo,122916.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Građevinarstvo,85972.0
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,ISIC4_T,
+2016,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,4857710.0
+2018,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,5287576.0
+2020,"Ukupno stvaranje otpada, prema djelatnostima",Tone,,Bez podjele,5822866.0
