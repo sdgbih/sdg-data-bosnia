@@ -9,15 +9,24 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2016,"Hazardous waste generated, per unit of GDP",Kilograms per constant USD,,,0.0008
 2014,Hazardous waste imported,TONNES,,,0.0
 2012,"Hazardous waste treated, by type of treatment",TONNES,Incineration,,0.0
-2008,Municipal waste generated,TONNES,,,1367089.96582
-2009,Municipal waste generated,TONNES,,,1260060.05859
-2010,Municipal waste generated,TONNES,,,1057767.94434
-2011,Municipal waste generated,TONNES,,,1027005.98145
-2012,Municipal waste generated,TONNES,,,964120.97168
-2013,Municipal waste generated,TONNES,,,882049.01123
-2014,Municipal waste generated,TONNES,,,989546.02051
-2015,Municipal waste generated,TONNES,,,924051.02539
-2017,Municipal waste generated,TONNES,Incineration,,0.0
+2008,Municipal waste generated,TONNES,,,1367090.0
+2009,Municipal waste generated,TONNES,,,1260060.0
+2010,Municipal waste generated,TONNES,,,1057768.0
+2011,Municipal waste generated,TONNES,,,1027006.0
+2012,Municipal waste generated,TONNES,,,964121.0
+2013,Municipal waste generated,TONNES,,,882049.0
+2014,Municipal waste generated,TONNES,,,989546.0
+2015,Municipal waste generated,TONNES,,,924051.0
+2016,Municipal waste generated,TONNES,,,920478.0
+2017,Municipal waste generated,TONNES,,,914232.0
+2018,Municipal waste generated,TONNES,,,920540.0
+2019,Municipal waste generated,TONNES,,,933455.0
+2020,Municipal waste generated,TONNES,,,922844.0
+2021,Municipal waste generated,TONNES,,,940405.0
+2016,Municipal waste generated,TONNES,,,1243889.0
+2019,Municipal waste generated,TONNES,,,1228309.0
+2020,Municipal waste generated,TONNES,,,1206147.0
+2021,Municipal waste generated,TONNES,,,1228916.0
 2017,"Municipal waste treated, by type of treatment",TONNES,Landfilling,,76.59919
 2008,"Total waste generation, by activity",TONNES,,Mining and quarrying,87148.00263
 2009,"Total waste generation, by activity",TONNES,,Mining and quarrying,83616.99677
