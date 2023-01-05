@@ -3,7 +3,7 @@ BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или 
 CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,12,7
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,1,1
 CUR_LCU,in BAM,u KM,у KM,u KM,32,1
-CUR_LCU_M,CUR_LCU_M,Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
+CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
 GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,5,1
 HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
 IX,Index,Index,Индеx,Index,10,7
