@@ -2,6 +2,8 @@ BOOL: Boolean or binary measure
 CON_USD: Constant USD
 CU_USD_M: Millions of current United States dollars
 CUR_LCU_M: CUR_LCU_M
+CU_USD_B: (billions of nominal United States dollars)
+CU_USD: (nominal United States dollars)
 GPERM3: Micrograms per cubic meter
 HA_TH: HA_TH
 IX: Index
