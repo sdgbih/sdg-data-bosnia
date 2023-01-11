@@ -307,6 +307,16 @@ VC_IHR_PSRCN: Number of victims of intentional homicide
 VC_PRS_UNSNT: Unsentenced detainees as a proportion of overall prison population
 VC_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%) 
 VC_VAW_PHYPYV: Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month
+VC_DSR_MMHN: Number of deaths and missing persons attributed to disasters (number)
+VC_DSR_MTMP: Number of deaths and missing persons attributed to disasters per 100,000 population (number)
+VC_DSR_MORT: Broj umrlih usljed katastrofe (broj)
+VC_DSR_DAFF: Number of directly affected persons attributed to disasters per 100,000 population (number)
+VC_DSR_IJILN: Number of injured or ill people attributed to disasters (number)
+VC_DSR_MISS: Number of missing persons due to disaster (number)
+VC_DSR_AFFCT: Number of people affected by disaster (number)
+VC_DSR_PDAN: Number of people whose damaged dwellings were attributed to disasters (number)
+VC_DSR_PDYN: Number of people whose destroyed dwellings were attributed to disasters (number)
+VC_DSR_PDLN: Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)
 ER_H2O_IWRMP: Proportion of countries by IWRM implementation category (%) 
 EN_WBE_HMWTL: Extent of human made wetlands (square kilometres) 
 EN_WBE_INWTL: Extent of inland wetlands (square kilometres) 
