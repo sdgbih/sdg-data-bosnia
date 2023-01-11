@@ -306,7 +306,17 @@ VC_IHR_PSRC: Broj žrtava ubojstava s namjerom na 100 000 stanovnika
 VC_IHR_PSRCN: Broj žrtava ubojstava s predomišljajem
 VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
 VC_VAW_MARR: Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)  
-VC_VAW_PHYPYV: Udio djece starosti 1 - 14 godina koja su tijekom proteklog mjeseca doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane skrbnika, u proteklih mjesec dana 
+VC_VAW_PHYPYV: Udio djece starosti 1 - 14 godina koja su tijekom proteklog mjeseca doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane skrbnika, u proteklih mjesec dana
+VC_DSR_MMHN: Broj umrlih i nestalih osoba pripisanih katastrofama (broj)
+VC_DSR_MTMP: Broj umrlih i nestalih osoba pripisanih katastrofama na 100.000 stanovnika (broj)
+VC_DSR_MORT: Broj umrlih usljed katastrofe (broj)
+VC_DSR_DAFF: Broj direktno pogođenih osoba pripisanih katastrofama na 100.000 stanovnika (broj)
+VC_DSR_IJILN: Broj ozlijeđenih ili oboljelih osoba koje se pripisuju katastrofama (broj)
+VC_DSR_MISS: Broj nestalih osoba zbog katastrofe (broj)
+VC_DSR_AFFCT: Broj ljudi pogođenih katastrofom (broj)
+VC_DSR_PDAN: Broj ljudi čiji su oštećeni stanovi pripisani katastrofama (broj)
+VC_DSR_PDYN: Broj ljudi čiji su uništeni stanovi pripisani katastrofama (broj)
+VC_DSR_PDLN: Broj ljudi čiji je egzistencija poremećena ili uništena, pripisana katastrofama (broj)
 ER_H2O_IWRMP: Udio zemalja prema IWRM kategoriji implementacije (%) 
 EN_WBE_HMWTL: Opseg vlažnih močvara (kvadratnih kilometara) 
 EN_WBE_INWTL: Opseg močvara u unutrašnjosti (kvadratnih kilometara) 
