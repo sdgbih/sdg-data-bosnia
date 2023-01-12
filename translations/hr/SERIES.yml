@@ -364,6 +364,9 @@ EN_MAR_BEALITSQ: Dužina plaže po kvadratnom kilometru
 ER_RSK_LSTI: Indeks crvene liste 
 ER_IAS_NATBUD: Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE) 
 ER_IAS_GLOFUN: Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)
+ER_MRN_MPA: Prosječni udio ključnih morskih područja biološke raznolikosti (KBA) pokrivenih zaštićenim područjima (%)
+ER_MRN_MARIN: Pokrivenost zaštićenih područja u odnosu na morska područja (isključive gospodarske zone) (%)
+ER_MRN_MARINT: Zaštićeno morsko područje (isključive gospodarske zone) (kvadratni kilometri)
 SG_DMK_PARLCC_JC: Broj predsjedavajućih stalnih odbora, prema starosnoj dobi i fokusu odbora, zajednički odbori
 SG_DMK_PARLYN_LC: Broj mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom
 SG_DMK_PARLYN_UC: Broj mladih u parlamentu (sstarosti 45 ili manje godin), Gornji dom
