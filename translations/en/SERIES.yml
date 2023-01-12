@@ -364,6 +364,9 @@ EN_MAR_BEALITSQ: Beach litter per square kilometer
 ER_RSK_LSTI: Red List Index 
 ER_IAS_NATBUD: Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) 
 ER_IAS_GLOFUN: Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO)
+ER_MRN_MPA: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)
+ER_MRN_MARIN: Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)
+ER_MRN_MARINT: Protected marine area (Exclusive Economic Zones) (square kilometres)
 SG_DMK_PARLCC_JC: Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees
 SG_DMK_PARLYN_LC: Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral
 SG_DMK_PARLYN_UC: Number of youth in parliament (age 45 or below), Upper Chamber
