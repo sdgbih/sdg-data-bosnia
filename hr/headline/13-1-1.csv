@@ -1,3 +1,11 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2017,0.0,Broj,Broj umrlih i nestalih osoba pripisanih katastrofama (broj)
+2017,0.0,Broj,Broj umrlih i nestalih osoba pripisanih katastrofama na 100.000 stanovnika (broj)
+2017,0.0,Broj,Broj umrlih usljed katastrofe (broj)
+2017,0.0,Broj,Broj direktno pogođenih osoba pripisanih katastrofama na 100.000 stanovnika (broj)
+2017,0.0,Broj,Broj ozlijeđenih ili oboljelih osoba koje se pripisuju katastrofama (broj)
+2017,,Broj,Broj nestalih osoba zbog katastrofe (broj)
+2017,,Broj,Broj ljudi pogođenih katastrofom (broj)
+2017,0.0,Broj,Broj ljudi čiji su oštećeni stanovi pripisani katastrofama (broj)
+2017,0.0,Broj,Broj ljudi čiji su uništeni stanovi pripisani katastrofama (broj)
+2017,0.0,Broj,"Broj ljudi čiji je egzistencija poremećena ili uništena, pripisana katastrofama (broj)"
