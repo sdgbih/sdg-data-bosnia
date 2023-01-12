@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2021,Prosječan udio ključnih morskih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%),Procenat,
+2021,Pokrivenost zaštićenih područja u odnosu na morska područja (isključive ekonomske zone) (%),Procenat,4.5048
+2021,Zaštićeno morsko područje (ekskluzivne ekonomske zone) (kvadratni kilometri),Kvadratnih kilometara,0.575
