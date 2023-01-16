@@ -1,4 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Value
-2005,Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji,Postotak,18.0
-2015,Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji,Postotak,12.9
-2018,Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji,Postotak,20.9
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2010, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,17.9
+2011, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,14.58
+2012, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,12.09
+2013, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,11.66
+2014, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,12.14
+2015, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,15.05
+2016, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,15.36
+2017, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,15.43
+2018, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,28.08
+2019, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,31.82
+2020, VC_PRS_UNSNT,Postotak,Oba spola ili bez podjele po spolu,27.05
+2019, VC_PRS_UNSNT,Postotak,Žene,50.46
+2019, VC_PRS_UNSNT,Postotak,Muškarci,31.35
