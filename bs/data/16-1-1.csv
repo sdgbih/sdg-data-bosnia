@@ -1,30 +1,70 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2000,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.04736
-2001,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.51733
-2002,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.30689
-2009,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.789
-2010,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.53024
-2011,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.85845
-2012,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.30739
-2013,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.77581
-2014,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.61995
-2015,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.02974
-2016,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.86879
-2017,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.58505
-2018,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.47182
-2000,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,4.28972
-2001,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.87378
-2002,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,3.52028
-2009,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,3.0521
-2010,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.52812
-2011,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.9473
-2012,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.20433
-2013,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.84115
-2014,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.28369
-2015,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.31957
-2016,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.80753
-2017,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.94852
-2018,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.90374
+2000,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,2.64
+2001,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,2.18
+2002,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,2.39
+2004,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.81
+2007,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.75
+2008,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.76
+2009,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.9
+2010,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.51
+2011,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.39
+2012,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.75
+2013,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.6
+2014,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.44
+2015,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.66
+2016,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.33
+2017,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.25
+2018,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.17
+2019,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.27
+2020,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,1.31
+2000,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.05
+2001,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.52
+2002,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.31
+2009,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.79
+2010,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.53
+2011,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.86
+2012,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.31
+2013,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.78
+2014,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.62
+2015,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,1.03
+2016,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.87
+2017,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.59
+2018,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.47
+2019,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.59
+2020,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Žene,0.3
+2000,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,4.29
+2001,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.87
+2002,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,3.52
+2009,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,3.05
+2010,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.53
+2011,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.95
+2012,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.2
+2013,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.84
+2014,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.28
+2015,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.32
+2016,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.81
+2017,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.95
+2018,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.9
+2019,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,1.98
+2020,Broj žrtava ubistava s namjerom na 100 000 stanovnika,Na 100 000 stanovnika,Muškarci,2.37
+2000,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,99.0
+2001,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,82.0
+2002,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,90.0
+2004,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,68.0
+2007,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,66.0
+2009,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,66.0
+2009,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,71.0
+2010,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,56.0
+2011,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,51.0
+2012,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,63.0
+2013,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,46.0
+2014,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,50.0
+2015,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,57.0
+2016,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,45.0
+2017,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,42.0
+2018,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,39.0
+2019,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,42.0
+2020,Broj žrtava ubistava s predomišljajem,Broj,Oba spola ili bez podjele po spolu,43.0
 2000,Broj žrtava ubistava s predomišljajem,Broj,Žene,20.0
 2001,Broj žrtava ubistava s predomišljajem,Broj,Žene,29.0
 2002,Broj žrtava ubistava s predomišljajem,Broj,Žene,25.0
@@ -38,6 +78,8 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2016,Broj žrtava ubistava s predomišljajem,Broj,Žene,15.0
 2017,Broj žrtava ubistava s predomišljajem,Broj,Žene,10.0
 2018,Broj žrtava ubistava s predomišljajem,Broj,Žene,8.0
+2019,Broj žrtava ubistava s predomišljajem,Broj,Žene,10.0
+2020,Broj žrtava ubistava s predomišljajem,Broj,Žene,5.0
 2000,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,79.0
 2001,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,53.0
 2002,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,65.0
@@ -51,3 +93,5 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2016,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,30.0
 2017,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,32.0
 2018,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,31.0
+2019,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,32.0
+2018,Broj žrtava ubistava s predomišljajem,Broj,Muškarci,38.0
