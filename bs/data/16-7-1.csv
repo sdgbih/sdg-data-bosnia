@@ -1,6 +1,6 @@
-Year,SERIES,UNIT_MEASURE,Spol,Godine,OCCUPATION,Value
-2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,ADMINPRO,0.99
-2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,ASSOCPRO,0.91
-2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,GENERAL,1.19
-2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,OTHERMAN,0.8
-2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,SENIORMAN,0.29
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Zanimanje,Value
+2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,Administrativni stručnjaci,0.99
+2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,Stručnjaci za poslovne i administrativne poslove,0.91
+2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,Opšti službenici i sekretarice,1.19
+2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,Ostali menadžeri generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,0.8
+2020,Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos),Odnos,Žene,,Viši menadžeri viši državni službenici,0.29
