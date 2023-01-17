@@ -8,7 +8,7 @@ FOOD_WS,Food Waste Sector,Sektor prehrambenog otpada,Сектор прехрам
 INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,Kvantil dohotka ili bogatstva,3,8
 LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zahtjeva,1,2
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
-OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,2,15
+OCCUPATION,Occupation,OCCUPATION,Занимање,Zanimanje,2,15
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,26
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,168,339
 SEX,Sex,Spol,Пол,Spol,39,5
