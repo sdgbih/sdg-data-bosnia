@@ -1,16 +1,16 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-isco08-0,isco08-0,isco08-0,Занимања оружаних снага,Zanimanja oružanih snaga,3,1
-isco08-1,isco08-1,isco08-1,Менаџери,Menadžeri,3,1
-isco08-2,isco08-2,isco08-2,Професионалци,Profesionalci,3,1
-isco08-3,isco08-3,isco08-3,Техничари и придружени професионалци,Tehničari i pridruženi profesionalci,3,1
-isco08-4,isco08-4,isco08-4,Службеници хитне помоћи,Službenici hitne pomoći,3,1
-isco08-5,isco08-5,isco08-5,Услужни и продајни радници,Uslužni i prodajni radnici,2,1
-isco08-6,isco08-6,isco08-6,"КВ квалифицирани радници у пољопривреди, шумарству и рибарству","KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",3,1
-isco08-7,isco08-7,isco08-7,Занатски и сродни радници,Zanatski i srodni radnici,3,1
-isco08-8,isco08-8,isco08-8,"Оператери постројења и стројева, те монтери","Operateri postrojenja i strojeva, te monteri",3,1
-isco08-9,isco08-9,isco08-9,Основна занимања,Osnovna zanimanja,3,1
-isco08,isco08,isco08,Сва занимања,Sva zanimanja,3,1
-ISCO08_221,ISCO08_221,ISCO08_221,Доктори медицине,Doktori medicine,3,1
-ISCO08_222_322,ISCO08_222_322,ISCO08_222_322,Медицинско особље и бабице,Medicinsko osoblje i babice,3,1
-ISCO08_2261,ISCO08_2261,ISCO08_2261,Зубари,Zubari,1,1
-ISCO08_2262,ISCO08_2262,ISCO08_2262,Фармацеути,Farmaceuti,1,1
+isco08-0,isco08-0,isco08-0,Занимања оружаних снага,isco08-0,3,1
+isco08-1,isco08-1,isco08-1,Менаџери,isco08-1,3,1
+isco08-2,isco08-2,isco08-2,Професионалци,isco08-2,3,1
+isco08-3,isco08-3,isco08-3,Техничари и придружени професионалци,isco08-3,3,1
+isco08-4,isco08-4,isco08-4,Службеници хитне помоћи,isco08-4,3,1
+isco08-5,isco08-5,isco08-5,Услужни и продајни радници,isco08-5,2,1
+isco08-6,isco08-6,isco08-6,"КВ квалифицирани радници у пољопривреди, шумарству и рибарству",isco08-6,3,1
+isco08-7,isco08-7,isco08-7,Занатски и сродни радници,isco08-7,3,1
+isco08-8,isco08-8,isco08-8,"Оператери постројења и стројева, те монтери",isco08-8,3,1
+isco08-9,isco08-9,isco08-9,Основна занимања,isco08-9,3,1
+isco08,isco08,isco08,Сва занимања,isco08,3,1
+ISCO08_221,ISCO08_221,ISCO08_221,Доктори медицине,ISCO08_221,3,1
+ISCO08_222_322,ISCO08_222_322,ISCO08_222_322,Медицинско особље и бабице,ISCO08_222_322,3,1
+ISCO08_2261,ISCO08_2261,ISCO08_2261,Зубари,ISCO08_2261,1,1
+ISCO08_2262,ISCO08_2262,ISCO08_2262,Фармацеути,ISCO08_2262,1,1
