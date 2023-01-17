@@ -1,1 +1,1 @@
-{"From":["AGE","SEX"],"To":["SEX","COMPOSITE_BREAKDOWN"]}
+{"From":["SEX","AGE"],"To":["AGE","OCCUPATION"]}
