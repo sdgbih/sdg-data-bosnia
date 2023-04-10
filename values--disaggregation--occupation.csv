@@ -1,21 +1,21 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-ADMINPRO,ADMINPRO,Administrativni stručnjaci,ADMINPRO,Administrativni stručnjaci,1,1
-ASSOCPRO,ASSOCPRO,Stručnjaci za poslovne i administrativne poslove,ASSOCPRO,Poslovni i administrativni suradnici,1,1
-GENERAL,GENERAL,Opšti službenici i sekretarice,GENERAL,Opći službenici i sekretarice,1,1
-isco08-0,isco08-0,Zanimanja oružanih snaga,isco08-0,Zanimanja oružanih snaga,3,1
-isco08-1,isco08-1,Menadžeri,isco08-1,Menadžeri,3,1
-isco08-2,isco08-2,Profesionalci,isco08-2,Profesionalci,3,1
-isco08-3,isco08-3,Tehničari i pridruženi profesionalci,isco08-3,Tehničari i pridruženi profesionalci,3,1
-isco08-4,isco08-4,Službenici hitne pomoći,isco08-4,Službenici hitne pomoći,3,1
-isco08-5,isco08-5,Uslužni i prodajni radnici,isco08-5,Uslužni i prodajni radnici,2,1
-isco08-6,isco08-6,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",isco08-6,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",3,1
-isco08-7,isco08-7,Zanatski i srodni radnici,isco08-7,Zanatski i srodni radnici,3,1
-isco08-8,isco08-8,"Operateri postrojenja i strojeva, te monteri",isco08-8,"Operateri postrojenja i strojeva, te monteri",3,1
-isco08-9,isco08-9,Osnovna zanimanja,isco08-9,Osnovna zanimanja,3,1
-isco08,isco08,Sva zanimanja,isco08,Sva zanimanja,3,1
-ISCO08_221,ISCO08_221,Doktori medicine,ISCO08_221,Doktori medicine,3,1
-ISCO08_222_322,ISCO08_222_322,Medicinsko osoblje i babice,ISCO08_222_322,Medicinsko osoblje i babice,3,1
-ISCO08_2261,ISCO08_2261,Zubari,ISCO08_2261,Zubari,1,1
-ISCO08_2262,ISCO08_2262,Farmaceuti,ISCO08_2262,Farmaceuti,1,1
-OTHERMAN,OTHERMAN,Ostali menadžeri generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,OTHERMAN,Ostali menadžeri: generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,1,1
-SENIORMAN,SENIORMAN,Viši menadžeri viši državni službenici,SENIORMAN,Viši menadžeri: viši državni službenici,1,1
+ADMINPRO,Administration Professionals,Administrativni stručnjaci,Административни стручњаци,Administrativni stručnjaci,1,1
+ASSOCPRO,Business and Administration Associate Professionals,Stručnjaci za poslovne i administrativne poslove,Стручњаци за пословне и административне послове,Poslovni i administrativni suradnici,1,1
+GENERAL,General and Keyboard Clerks,Opšti službenici i sekretarice,Општи службеници и секретарице,Opći službenici i sekretarice,1,1
+isco08-0,Armed forces occupations,Zanimanja oružanih snaga,Занимања оружаних снага,Zanimanja oružanih snaga,3,1
+isco08-1,Managers,Menadžeri,Менаџери,Menadžeri,3,1
+isco08-2,Professionals,Profesionalci,Професионалци,Profesionalci,3,1
+isco08-3,Technicians and associate professionals,Tehničari i pridruženi profesionalci,Техничари и придружени професионалци,Tehničari i pridruženi profesionalci,3,1
+isco08-4,Clerical support workers,Službenici hitne pomoći,Службеници хитне помоћи,Službenici hitne pomoći,3,1
+isco08-5,Service and sales workers,Uslužni i prodajni radnici,Услужни и продајни радници,Uslužni i prodajni radnici,2,1
+isco08-6,"Skilled agricultural, forestry and fishery workers","KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu","КВ квалифицирани радници у пољопривреди, шумарству и рибарству","KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",3,1
+isco08-7,Craft and related trades workers,Zanatski i srodni radnici,Занатски и сродни радници,Zanatski i srodni radnici,3,1
+isco08-8,"Plant and machine operators, and assemblers","Operateri postrojenja i strojeva, te monteri","Оператери постројења и стројева, те монтери","Operateri postrojenja i strojeva, te monteri",3,1
+isco08-9,Elementary occupations,Osnovna zanimanja,Основна занимања,Osnovna zanimanja,3,1
+isco08,All occupations,Sva zanimanja,Сва занимања,Sva zanimanja,3,1
+ISCO08_221,Medical doctors,Doktori medicine,Доктори медицине,Doktori medicine,3,1
+ISCO08_222_322,Nursing and midwifery personnel,Medicinsko osoblje i babice,Медицинско особље и бабице,Medicinsko osoblje i babice,3,1
+ISCO08_2261,Dentists,Zubari,Зубари,Zubari,1,1
+ISCO08_2262,Pharmacists,Farmaceuti,Фармацеути,Farmaceuti,1,1
+OTHERMAN,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,Ostali menadžeri generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,Остали менаџери: генерални директори и извршни директори и менаџери за пословне услуге и администрацију,Ostali menadžeri: generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,1,1
+SENIORMAN,Senior Managers: Senior Government Officials,Viši menadžeri viši državni službenici,Виши руководиоци: виши државни службеници,Viši menadžeri: viši državni službenici,1,1
