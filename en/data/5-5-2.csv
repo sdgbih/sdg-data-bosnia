@@ -14,11 +14,12 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2018,Proportion of women in managerial positions,Percent,Female,25.92
 2019,Proportion of women in managerial positions,Percent,Female,24.32
 2020,Proportion of women in managerial positions,Percent,Female,25.12
+2021,Proportion of women in managerial positions,Percent,Female,24.2
 2006,Proportion of women in senior and middle management positions,Percent,Female,23.7
 2007,Proportion of women in senior and middle management positions,Percent,Female,20.3
 2008,Proportion of women in senior and middle management positions,Percent,Female,33.4
 2009,Proportion of women in senior and middle management positions,Percent,Female,27.7
-2010,Proportion of women in senior and middle management positions,Percent,Female,23.8
+2010,Proportion of women in senior and middle management positions,Percent,Female,30.16
 2011,Proportion of women in senior and middle management positions,Percent,Female,22.6
 2012,Proportion of women in senior and middle management positions,Percent,Female,23.0
 2013,Proportion of women in senior and middle management positions,Percent,Female,21.4
@@ -28,4 +29,5 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2017,Proportion of women in senior and middle management positions,Percent,Female,18.8
 2018,Proportion of women in senior and middle management positions,Percent,Female,26.1
 2019,Proportion of women in senior and middle management positions,Percent,Female,25.4
-2019,Proportion of women in senior and middle management positions,Percent,Female,24.9
+2020,Proportion of women in senior and middle management positions,Percent,Female,24.9
+2021,Proportion of women in senior and middle management positions,Percent,Female,20.2
