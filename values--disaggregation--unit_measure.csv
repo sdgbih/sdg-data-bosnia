@@ -4,7 +4,7 @@ CON_USD,Constant USD,konstantni američki dolari,константни амери
 CU_USD,(nominal United States dollars),(nominalni američki dolari),(номинални амерички долари),(nominalni američki dolari),1,1
 CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),(милијарде номиналних америчких долара),(milijarde nominalnih američkih dolara),1,1
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,1,1
-CUR_LCU,in BAM,u KM,у KM,u KM,32,1
+CUR_LCU,in BAM,u KM,у KM,u KM,33,1
 CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
 GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,5,1
 HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
