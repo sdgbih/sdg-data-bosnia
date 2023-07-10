@@ -15,7 +15,7 @@ BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of
 DC_FTA_TOTAL: Total official development assistance (gross disbursement) for technical cooperation
 DC_ODA_BDVL: Total official development assistance for biodiversity, by recipient countries (millions of constant 2020 United States dollars)
 DC_ODA_POVLG: Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)
-DC_TOF_AGRL: Total official flows (disbursements) for agriculture, by recipient countries
+DC_TOF_AGRL: Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2021 United States dollars)
 DC_TOF_HLTHL: Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2020 United States dollars) 
 DC_TOF_HLTHNT: Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2020 United States dollars)
 DC_TOF_INFRAL: Total official flows for infrastructure, by recipient countries (millions of constant 2020 United States dollars)
