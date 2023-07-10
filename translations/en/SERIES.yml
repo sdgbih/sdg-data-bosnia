@@ -8,7 +8,7 @@ AG_LND_FRSTN: Forest area (hectares)
 AG_LND_TOTL: Land area (hectares)
 AG_PRD_AGVAS: Agriculture value added share of GDP 
 AG_PRD_FIESMS: Prevalence of moderate or severe food insecurity in the population
-AG_PRD_FIESMSN: Population in moderate or severe food insecurity (number)
+AG_PRD_FIESMSN: Number of moderately or severely food insecure people (thousands of people)
 AG_PRD_FIESS: Prevalence of severe food insecurity in the population
 AG_PRD_FIESSN: Population in severe food insecurity (number)
 BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of total GDP
