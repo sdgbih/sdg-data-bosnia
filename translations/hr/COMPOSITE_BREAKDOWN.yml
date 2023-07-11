@@ -37,11 +37,15 @@ PC_HUM_RIGH: Ljudska prava
 SKILL_ICTEMAIL: Slanje e-pošte s priloženim datotekama
 SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
 SKILL_ICTCOPA: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
-SKILL_ICTCPR: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
+SKILL_ICTPCPR: Pisanje računarskog programa pomoću specijaliziranog programskog jezika
 SKILL_ICTEPRS: Izrada elektroničkih prezentacija pomoću softvera za prezentacije
 SKILL_ICTSOFT: Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera
 SKILL_ICTARSP: Korištenje osnovne aritmetičke formule u proračunskoj tablici
 SKILL_ICTTRAF: Prijenos datoteka između računara i drugih uređaja
+SKILL_INST: Povezivanje i instalacija novih uređaja
+SKILL_PRVCY: Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)
+SKILL_SCRTY: Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa
+SKILL_VRFY: Provjera pouzdanosti informacija pronađenih na internetu
 SKILL_MATH: Matematika
 SKILL_READ: Čitanje
 SPAR_01: Zakonodavstvo i financiranje
