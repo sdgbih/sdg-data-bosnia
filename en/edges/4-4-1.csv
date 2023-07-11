@@ -1,2 +1,4 @@
 From,To
 Sex,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,Age
+Age,Degree of urbanisation

@@ -1,2 +1,4 @@
 From,To
 Пол,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,Године
+Године,Степен урбанизације
