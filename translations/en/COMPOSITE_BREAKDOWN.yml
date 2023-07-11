@@ -42,6 +42,10 @@ SKILL_ICTEPRS: Creating electronic presentations with presentation software
 SKILL_ICTSOFT: Finding, downloading, installing and configuring software
 SKILL_ICTARSP: Using basic arithmetic formula in a spreadsheet
 SKILL_ICTTRAF: Transferring files between a computer and other devices
+SKILL_INST: Connecting and installing new devices
+SKILL_PRVCY: Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)
+SKILL_SCRTY: Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts
+SKILL_VRFY: Verifying the reliability of information found online 
 SKILL_MATH: Mathematics
 SKILL_READ: Reading
 SPAR_01: Legislation and Financing
