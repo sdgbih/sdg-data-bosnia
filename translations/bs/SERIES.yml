@@ -19,7 +19,7 @@ DC_TOF_AGRL: Ukupni zvanični tokovi (isplate) za poljoprivredu, prema zemljama 
 DC_TOF_HLTHL: Ukupna zvanična razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, bruto isplata, prema zemljama primaocima (milioni američkih dolara konstanta 2021.) 
 DC_TOF_HLTHNT: Ukupna službena razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima, neto isplata, po zemljama primaocima (milioni američkih dolara konstanta 2021.) 
 DC_TOF_INFRAL: Ukupni zvanični tokovi za infrastrukturu, prema zemljama primaocima (milioni američkih dolara konstanta 2020.)
-DC_TOF_SCHIPSL: Ukupni zvanični tokovi stipendija, prema zemljama primaocima
+DC_TOF_SCHIPSL: Ukupni zvanični tokovi stipendija, prema zemljama primaocima (milioni američkih dolara konstanta 2021.)
 DC_TOF_TRDCML: Ukupni zvanični tokovi (obaveze) za pomoć trgovini, prema zemljama primaocima (milioni američkih dolara konstanta 2020.) 
 DC_TOF_TRDDBML: Ukupni zvanični tokovi (isplate) za pomoć trgovini, prema zemljama primaocima (milioni američkih dolara konstanta 2020.)
 DC_TOF_WASHL: Ukupna zvanična razvojna pomoć (bruto izdaci) za vodosnabdijevanje i kanalizaciju, prema zemljama primaocima (milioni američkih dolara konstanta 2020.)
