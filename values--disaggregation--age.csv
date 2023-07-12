@@ -1,29 +1,16 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-13.21634,13.21634,13.21634,13.21634,13.21634,1,1
-14.45337,14.45337,14.45337,14.45337,14.45337,1,1
-24.96542,24.96542,24.96542,24.96542,24.96542,1,1
-26.12354,26.12354,26.12354,26.12354,26.12354,1,1
-30.68018,30.68018,30.68018,30.68018,30.68018,1,1
-3.27579,3.27579,3.27579,3.27579,3.27579,1,1
-3.46017,3.46017,3.46017,3.46017,3.46017,1,1
-34.66806,34.66806,34.66806,34.66806,34.66806,1,1
-46.02169,46.02169,46.02169,46.02169,46.02169,1,1
-51.43541,51.43541,51.43541,51.43541,51.43541,1,1
-61.51488,61.51488,61.51488,61.51488,61.51488,1,1
-63.43982,63.43982,63.43982,63.43982,63.43982,1,1
-8.9678,8.9678,8.9678,8.9678,8.9678,1,1
-9.01728,9.01728,9.01728,9.01728,9.01728,1,1
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,17,3
 M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,Mlađi od 1 mjeseca,2,1
 Y0,under 1 year old,Mlađi od 1 godine,Млађи од 1 године,Mlađi od 1 godine,6,1
 Y0T17,under 18 years old,Ispod 18 godina,Испод 18 година,Ispod 18 godina,8,1
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,13,5
 Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,15 do 19 godina,1,1
-Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,33,6
+Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,44,6
 Y15T25,Y15T25,15 do 25 godina,15 до 25 година,15 do 25 godina,1,1
 Y15T26,Y15T26,15 do 26 godina,15 до 26 година,15 do 26 godina,1,1
 Y15T49,15 to 49 years old,15 do 49 godina,15 до 49 година,15 do 49 godina,8,4
 Y20T24,20 to 24 years old,20 do 24 godine,Y20T24,20 do 24 godine,2,1
+Y25T74,Y25T74,25 do 74 godine,Y25T74,Y25T74,11,1
 Y2T14,2 to 14 years old,2 do 14 godina,2 до 14 година,2 do 14 godina,1,1
 Y30T70,30 to exact 70 years old,30 do tačno 70 godina,30 до тачно 70 година,30 do točno 70 godina,3,1
 Y_GE15,15 years old and over,15 godina i više,15 година и више,15 godina i više,35,9
