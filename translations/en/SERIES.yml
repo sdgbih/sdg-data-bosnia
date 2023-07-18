@@ -68,8 +68,11 @@ ER_CBD_NAGOYA: Countries that are parties to the Nagoya Protocol (1 = YES; 0 = N
 ER_CBD_ORSPGRFA: Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)
 ER_CBD_PTYPGRFA: Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)
 ER_CBD_SMTA: Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country
+ER_GRF_ANIMKPT: Number of local breeds kept in the country
 ER_GRF_ANIMRCNTN: Number of local breeds for which sufficient genetic resources are stored for reconstitution
 ER_GRF_PLNTSTOR: Plant genetic resources accessions stored ex situ (number)
+ER_GRF_ANIMRCNTN_TRB: Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution
+ER_GRF_ANIMKPT_TRB: Number of transboundary breeds (including extinct ones)
 ER_FFS_CMPT_GDP: Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)
 ER_FFS_CMPT_CD: Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars)
 ER_FFS_CMPT_PC_CD: Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars)
