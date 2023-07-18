@@ -94,7 +94,8 @@ ER_PTD_FRHWTR: Average proportion of Freshwater Key Biodiversity Areas (KBAs) co
 ER_PTD_MTN: Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
 ER_PTD_TERR: Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas
 ER_UNK_LBREDN: Number of local breeds with unknown risk status (number) 
-ER_RSK_LBREDS: Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%) 
+ER_RSK_LBREDS: Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)
+ER_NOEX_LBREDN: Number of local breeds (not extinct) (number)
 ER_RSK_LST: Red List Index
 ER_WAT_PART: Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)
 ER_WAT_PRDU: Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)
