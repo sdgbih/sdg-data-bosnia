@@ -10,7 +10,7 @@ AG_PRD_AGVAS: Udio dodane vrijednosti poljoprivrede u BDP-u
 AG_PRD_FIESMS: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije 
 AG_PRD_FIESMSN: Ukupan broj ljudi u umjerenoj ili ozbiljnoj nesigurnosti hrane (hiljada ljudi)
 AG_PRD_FIESS: Rasprostranjenost ozbiljne nesigurnosti hranom kod populacije 
-AG_PRD_FIESSN: Broj ljudi koji su ozbiljno nesigurni u pogledu hrane (hiljade ljudi)
+AG_PRD_FIESSN: Broj ljudi koji su ozbiljno nesigurni u pogledu hrane (na hiljade ljudi)
 BX_TRF_PWKR: Količina doznaka (u američkim dolarima) kao udio u ukupnom iznosu BDP-a
 DC_FTA_TOTAL: Ukupna zvanična razvojna pomoć (bruto isplata) za tehničku saradnju
 DC_ODA_BDVL: Ukupna zvanična razvojna pomoć za biodiverzitet, po zemljama primaocima (milioni američkih dolara konstanta 2020.)
