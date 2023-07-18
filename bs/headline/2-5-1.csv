@@ -1,8 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,328,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
-2005,331,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
-2010,483,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
-2012,725,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
+2014,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2016,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2017,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2018,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2019,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2020,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2021,22,Broj,Broj lokalnih pasmina koje se drže u zemlji
 2014,734,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2016,880,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2017,881,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
@@ -10,3 +13,11 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,965,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2020,971,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2021,971,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
+2014,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2015,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2016,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2017,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2018,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2019,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2020,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2021,5,Broj,Broj prekograničnih pasmina (uključujući izumrle)

@@ -1,8 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Plant genetic resources accessions stored ex situ (number),Number,328
-2005,Plant genetic resources accessions stored ex situ (number),Number,331
-2010,Plant genetic resources accessions stored ex situ (number),Number,483
-2012,Plant genetic resources accessions stored ex situ (number),Number,725
+2014,Number of local breeds kept in the country,Number,22
+2016,Number of local breeds kept in the country,Number,22
+2017,Number of local breeds kept in the country,Number,22
+2018,Number of local breeds kept in the country,Number,22
+2019,Number of local breeds kept in the country,Number,22
+2020,Number of local breeds kept in the country,Number,22
+2021,Number of local breeds kept in the country,Number,22
 2014,Plant genetic resources accessions stored ex situ (number),Number,734
 2016,Plant genetic resources accessions stored ex situ (number),Number,880
 2017,Plant genetic resources accessions stored ex situ (number),Number,881
@@ -10,3 +13,11 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Plant genetic resources accessions stored ex situ (number),Number,965
 2020,Plant genetic resources accessions stored ex situ (number),Number,971
 2021,Plant genetic resources accessions stored ex situ (number),Number,971
+2014,Number of transboundary breeds (including extinct ones),Number,5
+2015,Number of transboundary breeds (including extinct ones),Number,5
+2016,Number of transboundary breeds (including extinct ones),Number,5
+2017,Number of transboundary breeds (including extinct ones),Number,5
+2018,Number of transboundary breeds (including extinct ones),Number,5
+2019,Number of transboundary breeds (including extinct ones),Number,5
+2020,Number of transboundary breeds (including extinct ones),Number,5
+2021,Number of transboundary breeds (including extinct ones),Number,5
