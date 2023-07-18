@@ -68,8 +68,11 @@ ER_CBD_NAGOYA: Zemlje potpisnice Nagojskog protokola (1 = DA; 0 = NE)
 ER_CBD_ORSPGRFA: Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sistema izvještavanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)
 ER_CBD_PTYPGRFA: Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)
 ER_CBD_SMTA: Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju
-ER_GRF_ANIMRCNTN: Broj lokalnih pasmina za koje se čuva dovoljno genetskih resursa za rekonstituciju
-ER_GRF_PLNTSTOR: Pristup uskladištenim biljnim genetičkim resursima (broj)
+ER_GRF_ANIMKPT: Broj lokalnih pasmina koje se drže u zemlji
+ER_GRF_ANIMRCNTN: Broj lokalnih pasmina za koje su pohranjeni dovoljni genetski resursi za obnavljanje (rekonstituciju)
+ER_GRF_PLNTSTOR: Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
+ER_GRF_ANIMRCNTN_TRB: Broj prekograničnih pasmina za koje su pohranjeni dovoljni genetski resursi za obnavljanje (rekonstituciju)
+ER_GRF_ANIMKPT_TRB: Broj prekograničnih pasmina (uključujući izumrle)
 ER_FFS_CMPT_GDP: Subvencije za fosilna goriva (potrošnja i proizvodnja) kao udio ukupnog BDP-a (%)
 ER_FFS_CMPT_CD: Subvencije za fosilna goriva (potrošnja i proizvodnja) (milijarde nominalnih američkih dolara)
 ER_FFS_CMPT_PC_CD: Subvencije za fosilna goriva (potrošnja i proizvodnja) po glavi stanovnika (nominalni američki dolari)
