@@ -1,57 +1,29 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,85
-2001,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,91
-2002,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,80
-2003,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,87
-2004,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,84
-2005,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,93
-2006,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,87
-2007,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,95
-2008,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,91
-2009,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,90
-2010,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,89
-2011,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,88
-2012,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,92
-2013,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,89
-2014,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,86
-2015,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,82
-2016,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,78
-2017,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,75
-2018,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73
-2019,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73
-2020,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73
-2021,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73
-2000,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,74
-2001,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,86
-2002,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,90
-2003,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,85
-2004,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,88
-2005,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,90
-2006,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,93
-2007,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,95
-2008,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,92
-2009,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,88
-2010,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,91
-2011,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,88
-2012,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,94
-2013,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,93
-2014,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,92
-2015,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,88
-2016,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,78
-2017,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,80
-2018,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76
-2019,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76
-2020,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76
-2021,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76
-2008,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2009,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2010,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2011,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2012,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2013,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2014,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2015,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2016,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2017,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2018,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
-2019,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,0
+2014,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,86.0
+2015,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,82.0
+2016,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,78.0
+2017,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,75.0
+2018,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73.0
+2019,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73.0
+2020,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73.0
+2021,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),Percent,73.0
+2014,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,92.0
+2015,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,88.0
+2016,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,78.0
+2017,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,80.0
+2018,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76.0
+2019,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76.0
+2020,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76.0
+2021,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),Percent,76.0
+2008,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2009,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2010,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2011,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2012,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2013,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2014,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2015,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2016,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2017,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2018,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
+2019,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%),Percent,
