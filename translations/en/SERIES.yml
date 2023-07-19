@@ -294,7 +294,7 @@ SN_STA_OVWGT: Proportion of children moderately or severely overweight
 SN_STA_OVWGTN: Children moderately or severely overweight (number)
 SP_ACS_BSRVH2O: Proportion of population using basic drinking water services
 SP_ACS_BSRVSAN: Proportion of population using basic sanitation services
-SP_DYN_ADKL: Adolescent birth rate (per 1,000 women aged 15-19 years)
+SP_DYN_ADKL: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)
 SP_DYN_MRBF15: Proportion of women aged 20-24 years who were married or in a union before age 15
 SP_DYN_MRBF18: Proportion of women aged 20-24 years who were married or in a union before age 18
 ST_EEV_ACCSEEA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
