@@ -235,7 +235,7 @@ SH_HAP_HBSAG: Rasprostranjenost površinskog antigena hepatitisa B (HBsAg)
 SH_HAP_MORT: Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka domaćinstava
 SH_HIV_INCD: Broj novih HIV infekcija na 1 000 neinficiranih stanovnika
 SH_HLF_EMED: Udio zdravstvenih ustanova koje imaju osnovni set relevantnih esencijalnih lijekova koji su dostupni i koji se mogu priuštiti na održivoj osnovi (%) 
-SH_IHR_CAPS: Kapaciteti za Međunarodne zdravstvene propise (IHR) i pripravnost za hitne medicinske usluge
+SH_IHR_CAPS: Kapacitet Međunarodnih zdravstvenih propisa (IHR), prema vrsti IHR kapaciteta (%)
 SH_MED_DEN: Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika)
 SH_MED_HWRKDIS: Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja
 SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne upotrebe duhana među osobama starosti 15 godina i više
