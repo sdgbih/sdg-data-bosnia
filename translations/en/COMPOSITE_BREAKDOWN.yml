@@ -25,10 +25,10 @@ MOT_RAI: Rail
 MOT_ROA: Road
 MOT_SEA: Maritime
 MOT_AIR: Aire
-NCD_CARDIO: Cardiovascular disease
-NCD_CNCR: Cancer
-NCD_CRESPD: Chronic respiratory disease
-NCD_DIABTS: Diabetes
+CAR: Cardiovascular disease
+CAN: Cancer
+RES: Chronic respiratory disease
+DIA: Diabetes
 PC_DEFENCE: Defence
 PC_FINANCE: Finance
 PC_FOR_AFF: Foreign Affairs
