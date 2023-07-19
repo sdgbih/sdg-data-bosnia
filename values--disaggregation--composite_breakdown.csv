@@ -2,9 +2,9 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 _T,No breakdown,Bez podjele,_T,Bez podjele,2,1
 C01,Banja Luka,Banja Luka,Бања Лука,Banja Luka,1,1
 C02,Sarajevo,Sarajevo,Сарајево,Sarajevo,1,1
-CAN,Cancer,Rak,CAN,Rak,3,1
-CAR,Cardiovascular disease,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
-DIA,Diabetes,Dijabetes,DIA,Dijabetes,3,1
+CAN,Cancer,Rak,Рак,Rak,3,1
+CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
+DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
 IHR_03,Surveillance,Nadzor,Надзор,Nadzor,1,1
@@ -30,7 +30,7 @@ MOT_AIR,Aire,Zračni,Зрачни,Zračni,2,1
 MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
-RES,Chronic respiratory disease,Hronična respiratorna bolest,RES,Kronična respiratorna bolest,3,1
+RES,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,16,2
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,16,2
 SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,16,2
