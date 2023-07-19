@@ -25,10 +25,10 @@ MOT_RAI: Željeznički
 MOT_ROA: Cestovni
 MOT_SEA: Pomorski
 MOT_AIR: Zračni
-NCD_CARDIO: Kardiovaskularne bolesti
-NCD_CNCR: Rak
-NCD_CRESPD: Hronična respiratorna bolest
-NCD_DIABTS: Dijabetes
+CAR: Kardiovaskularne bolesti
+CAN: Rak
+RES: Hronična respiratorna bolest
+DIA: Dijabetes
 PC_DEFENCE: Odbrana
 PC_FINANCE: Finansije
 PC_FOR_AFF: Vanjski poslovi
