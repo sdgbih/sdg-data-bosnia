@@ -1,76 +1,31 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,COMPOSITE_BREAKDOWN,Value
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,22.0
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,21.7
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,20.1
 2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,19.2
 2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,18.7
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,17.0
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,16.2
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,15.2
 2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,14.1
 2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,13.6
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,27.4
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,27.5
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,25.3
 2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.6
 2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,5888.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,7304.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,8032.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,8056.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,8407.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,2339.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,2942.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3305.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3270.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3395.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,14670.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,18090.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,19392.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,18648.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,19651.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,7924.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,9964.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10966.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10181.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10665.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,975.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,1941.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,2480.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,2476.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,2582.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,625.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1181.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1509.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1445.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1504.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1140.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1362.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1389.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1249.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1262.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,3549.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4362.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4726.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4785.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,5012.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,6746.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8126.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8426.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8468.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8986.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,350.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,761.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,971.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1031.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1078.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,483.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,554.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,564.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,474.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,477.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,656.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,808.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,824.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,776.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,785.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,CAN,8056.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,CAN,8407.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,CAN,3270.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,CAN,3395.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,CAR,18648.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,CAR,19651.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,CAR,10181.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,CAR,10665.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,DIA,2476.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,DIA,2582.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,DIA,1445.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,DIA,1504.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,RES,1249.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,RES,1262.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,CAN,4785.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,CAN,5012.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,CAR,8468.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,CAR,8986.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,DIA,1031.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,DIA,1078.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,RES,474.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,RES,477.0
+2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,RES,776.0
+2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,RES,785.0
