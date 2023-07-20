@@ -1,7 +1,7 @@
 EDUCATION_LEV: Nivo obrazovanja
-ISCED11_1: Osnovno obrazovanje
-ISCED11_2: Niže srednje obrazovanje
-ISCED11_3: Više srednje obrazovanje
+PRIMAR: Osnovno obrazovanje
+LOWSEC: Niže srednje obrazovanje
+UPPSEC: Više srednje obrazovanje
 _T: Ukupno
 AGG_0_1: Osnovno obrazovanje ili niže
 AGG_GE2: Srednje obrazovanje ili više
