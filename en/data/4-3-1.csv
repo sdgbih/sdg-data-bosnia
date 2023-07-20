@@ -1,26 +1,78 @@
-Year,SERIES,UNIT_MEASURE,Sex,Value
-2006,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.17778
-2007,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.15767
-2008,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.13076
-2009,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,1.90902
-2010,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.11273
-2011,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.18184
-2012,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,2.23761
-2014,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,1.74418
-2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,8.7
-2006,Participation rate in formal and non-formal education and training,Percent,Female,2.02557
-2007,Participation rate in formal and non-formal education and training,Percent,Female,2.03539
-2008,Participation rate in formal and non-formal education and training,Percent,Female,2.15464
-2009,Participation rate in formal and non-formal education and training,Percent,Female,1.86016
-2010,Participation rate in formal and non-formal education and training,Percent,Female,1.978
-2011,Participation rate in formal and non-formal education and training,Percent,Female,2.13504
-2012,Participation rate in formal and non-formal education and training,Percent,Female,2.30169
-2014,Participation rate in formal and non-formal education and training,Percent,Female,1.63634
-2016,Participation rate in formal and non-formal education and training,Percent,Female,8.5
-2006,Participation rate in formal and non-formal education and training,Percent,Male,2.29241
-2007,Participation rate in formal and non-formal education and training,Percent,Male,2.28263
-2008,Participation rate in formal and non-formal education and training,Percent,Male,2.02114
-2010,Participation rate in formal and non-formal education and training,Percent,Male,2.17342
-2011,Participation rate in formal and non-formal education and training,Percent,Male,2.15668
-2012,Participation rate in formal and non-formal education and training,Percent,Male,2.17297
-2016,Participation rate in formal and non-formal education and training,Percent,Male,8.9
+Year,SERIES,UNIT_MEASURE,Sex,Age,Value
+2014,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,62.8
+2015,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,60.5
+2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,59.8
+2017,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,58.3
+2018,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,58.8
+2019,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,55.5
+2020,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,59.3
+2021,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 24 years old,60.7
+2014,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,66.8
+2015,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,66.5
+2016,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,64.7
+2017,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,59.6
+2018,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,66.6
+2019,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,62.6
+2020,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,66.3
+2021,Participation rate in formal and non-formal education and training,Percent,Female,15 to 24 years old,60.7
+2014,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,58.4
+2015,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,55.0
+2016,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,53.9
+2017,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,53.0
+2018,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,52.3
+2019,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,51.8
+2020,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,56.3
+2021,Participation rate in formal and non-formal education and training,Percent,Male,15 to 24 years old,55.5
+2014,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,13.7
+2015,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,13.1
+2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,12.9
+2017,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,12.1
+2018,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,11.8
+2019,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,10.9
+2020,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,12.9
+2021,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,15 to 64 years old,11.9
+2014,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,13.9
+2015,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,13.7
+2016,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,13.7
+2017,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,12.2
+2018,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,13.1
+2019,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,10.7
+2020,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,13.3
+2021,Participation rate in formal and non-formal education and training,Percent,Female,15 to 64 years old,12.6
+2014,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,13.5
+2015,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,12.4
+2016,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,12.1
+2017,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,11.5
+2018,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,11.2
+2019,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,11.1
+2020,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,12.5
+2021,Participation rate in formal and non-formal education and training,Percent,Male,15 to 64 years old,11.1
+2014,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,2.4
+2015,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,2.3
+2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,2.6
+2017,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,1.8
+2018,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,1.9
+2019,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,2.0
+2020,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,3.8
+2021,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,25 to 54 years old,2.2
+2014,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.3
+2015,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.6
+2016,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.9
+2017,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.0
+2018,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.1
+2019,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.2
+2020,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,4.0
+2021,Participation rate in formal and non-formal education and training,Percent,Female,25 to 54 years old,2.3
+2014,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,2.5
+2015,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,2.0
+2016,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,2.2
+2017,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,1.6
+2018,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,1.8
+2019,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,1.9
+2020,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,3.6
+2021,Participation rate in formal and non-formal education and training,Percent,Male,25 to 54 years old,2.1
+2016,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,55 to 64 years old,0.2
+2020,Participation rate in formal and non-formal education and training,Percent,Both sexes or no breakdown by sex,55 to 64 years old,0.1
+2016,Participation rate in formal and non-formal education and training,Percent,Female,55 to 64 years old,0.3
+2020,Participation rate in formal and non-formal education and training,Percent,Female,55 to 64 years old,0.1
+2020,Participation rate in formal and non-formal education and training,Percent,Male,55 to 64 years old,0.2

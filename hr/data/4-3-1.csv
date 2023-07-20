@@ -1,26 +1,78 @@
-Year,SERIES,UNIT_MEASURE,Spol,Value
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.17778
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.15767
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.13076
-2009,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,1.90902
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.11273
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.18184
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,2.23761
-2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,1.74418
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,8.7
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.02557
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.03539
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.15464
-2009,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.86016
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.978
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.13504
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,2.30169
-2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,1.63634
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,8.5
-2006,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.29241
-2007,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.28263
-2008,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.02114
-2010,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.17342
-2011,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.15668
-2012,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,2.17297
-2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,8.9
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Value
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,62.8
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,60.5
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,59.8
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,58.3
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,58.8
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,55.5
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,59.3
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 24 godine,60.7
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,66.8
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,66.5
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,64.7
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,59.6
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,66.6
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,62.6
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,66.3
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 24 godine,60.7
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,58.4
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,55.0
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,53.9
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,53.0
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,52.3
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,51.8
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,56.3
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 24 godine,55.5
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,13.7
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,13.1
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,12.9
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,12.1
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,11.8
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,10.9
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,12.9
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,15 do 64 godine,11.9
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,13.9
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,13.7
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,13.7
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,12.2
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,13.1
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,10.7
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,13.3
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,15 do 64 godine,12.6
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,13.5
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,12.4
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,12.1
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,11.5
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,11.2
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,11.1
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,12.5
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,15 do 64 godine,11.1
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,2.4
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,2.3
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,2.6
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,1.8
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,1.9
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,2.0
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,3.8
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,25 do 54 godine,2.2
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.3
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.6
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.9
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.0
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.1
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.2
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,4.0
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,25 do 54 godine,2.3
+2014,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,2.5
+2015,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,2.0
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,2.2
+2017,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,1.6
+2018,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,1.8
+2019,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,1.9
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,3.6
+2021,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,25 do 54 godine,2.1
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,55 do 64 godine,0.2
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Oba spola ili bez podjele po spolu,55 do 64 godine,0.1
+2016,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,55 do 64 godine,0.3
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Žene,55 do 64 godine,0.1
+2020,Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci,Postotak,Muškarci,55 do 64 godine,0.2
