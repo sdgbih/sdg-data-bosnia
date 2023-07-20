@@ -1,7 +1,7 @@
 EDUCATION_LEV: Education level
-ISCED11_1: Primary education
-ISCED11_2: Lower secondary education
-ISCED11_3: Upper secondary education
+PRIMAR: Primary education
+LOWSEC: Lower secondary education
+UPPSEC: Upper secondary education
 _T: Total or not breakdown
 AGG_0_1: Primary education or less
 AGG_GE2: Secondary education or above
