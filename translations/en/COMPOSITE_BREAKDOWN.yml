@@ -62,6 +62,21 @@ SPAR_11: Points of entry
 SPAR_12: Chemical events
 SPAR_13: Radiation emergencies
 _T: No breakdown
+SPAR2-C01: Policy, Legal and normative Instruments to implement IHR (2021)
+SPAR2-C02: IHR Coordination, National IHR Focal Point functions, and advocacy (2021)
+SPAR2-C03: Financing (2021)
+SPAR2-C04: Laboratory (2021)
+SPAR2-C05: Surveillance (2021)
+SPAR2-C06: Human resources (2021)
+SPAR2-C07: Health emergency management (2021)
+SPAR2-C08: Health services provision (2021)
+SPAR2-C09: Infection prevention and control (IPC) (2021)
+SPAR2-C10: Risk communication and community engagement (RCCE) (2021)
+SPAR2-C11: Points of entry (PoEs) and border health(2021)
+SPAR2-C12: Zoonotic diseases (2021)
+SPAR2-C13: Food safety (2021)
+SPAR2-C14: Chemical events (2021)
+SPAR2-C15: Radiation emergencies (2021)
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
 name_of_international_institution: Name of international institution
