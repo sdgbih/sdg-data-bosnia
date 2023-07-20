@@ -1,4 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+0.28540,0.28540,0.28540,0.28540,0.28540,1,1
 _T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,116,4
 M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,Mlađi od 1 mjeseca,2,1
 Y0,under 1 year old,Mlađi od 1 godine,Млађи од 1 године,Mlađi od 1 godine,6,1
@@ -6,17 +7,17 @@ Y0T17,under 18 years old,Ispod 18 godina,Испод 18 година,Ispod 18 god
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,13,5
 Y10T14,10 to 14 years old,10 do 14 godina,10 до 14 година,10 do 14 godina,1,1
 Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,15 do 19 godina,1,1
-Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,47,7
+Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,48,8
 Y15T25,15 to 25 years old,15 do 25 godina,15 до 25 година,15 do 25 godina,1,1
 Y15T26,15 to 26 years old,15 do 26 godina,15 до 26 година,15 do 26 godina,1,1
 Y15T49,15 to 49 years old,15 do 49 godina,15 до 49 година,15 do 49 godina,8,4
-Y15T64,15 to 64 years old,15 do 64 godine,15 do 64 godine,15 do 64 godine,3,1
+Y15T64,15 to 64 years old,15 do 64 godine,15 do 64 godine,15 do 64 godine,4,2
 Y20T24,20 to 24 years old,20 do 24 godine,Y20T24,20 do 24 godine,2,1
-Y25T54,25 to 54 years old,25 do 54 godine,25 do 54 godine,25 do 54 godine,3,1
+Y25T54,25 to 54 years old,25 do 54 godine,25 do 54 godine,25 do 54 godine,4,2
 Y25T74,25 to 74 years old,25 do 74 godine,25 до 74 година,25 do 74 godina,33,1
 Y2T14,2 to 14 years old,2 do 14 godina,2 до 14 година,2 do 14 godina,1,1
 Y30T70,30 to exact 70 years old,30 do tačno 70 godina,30 до тачно 70 година,30 do točno 70 godina,3,1
-Y55T64,55 to 64 years old,55 do 64 godine,55 do 64 godine,55 do 64 godine,3,1
+Y55T64,55 to 64 years old,55 do 64 godine,55 do 64 godine,55 do 64 godine,4,2
 Y_GE15,15 years old and over,15 godina i više,15 година и више,15 godina i više,35,9
 Y_GE18,18 years old and over,18 godina i više,18 година и више,18 godina i više,8,1
 Y_GE25,25 years old and over,25 godina i više,25 година и више,25 godina i više,7,3

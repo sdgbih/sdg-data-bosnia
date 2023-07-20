@@ -1,9 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total (national average) or no breakdown,Ukupno (nacionalni prosjek) ili bez podjele,Укупно (национални просјек) или без подјеле,Ukupno (nacionalni prosjek) ili bez podjele,63,3
+_T,Total (national average) or no breakdown,Ukupno (nacionalni prosjek) ili bez podjele,Укупно (национални просјек) или без подјеле,Ukupno (nacionalni prosjek) ili bez podjele,27,3
 B40,Bottom 40%,Najsiromašniji 40%,Најсиромашнији 40%,Najsiromašniji 40%,1,1
-Q1,Quintile 1 (poorest),Kvantil 1 (najsiromašniji),Квантил 1 (најсиромашнији),Kvantil 1 (najsiromašniji),18,1
-Q2,Quintile 2,Kvantil 2,Квантил 2,Kvantil 2,18,1
-Q3,Quintile 3,Kvantil 3,Квантил 3,Kvantil 3,17,1
-Q4,Quintile 4,Kvantil 4,Квантил 4,Kvantil 4,18,1
-Q5,Quintile 5 (richest),Kvantil 5 (najbogatiji),Квантил 5 (најбогатији),Kvantil 5 (najbogatiji),18,1
+Q1,Quintile 1 (poorest),Kvantil 1 (najsiromašniji),Квантил 1 (најсиромашнији),Kvantil 1 (najsiromašniji),9,1
+Q2,Quintile 2,Kvantil 2,Квантил 2,Kvantil 2,9,1
+Q3,Quintile 3,Kvantil 3,Квантил 3,Kvantil 3,9,1
+Q4,Quintile 4,Kvantil 4,Квантил 4,Kvantil 4,9,1
+Q5,Quintile 5 (richest),Kvantil 5 (najbogatiji),Квантил 5 (најбогатији),Kvantil 5 (najbogatiji),9,1
 R60,Richest 60%,Najbogatijih 60%,Најбогатијих 60%,Najbogatijih 60%,1,1
