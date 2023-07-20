@@ -62,6 +62,21 @@ SPAR_11: Tačke ulaska
 SPAR_12: Hemijski događaji
 SPAR_13: Vanredne situacije u vezi sa zračenjem
 _T: Bez podjele
+SPAR2-C01: Politički, pravni i normativni instrumenti za implementaciju IHR-a (2021)
+SPAR2-C02: Koordinacija IHR-a, funkcije nacionalne kontakt tačke za IHR i zastupanje (2021)
+SPAR2-C03: Finansiranje (2021)
+SPAR2-C04: Laboratorija (2021)
+SPAR2-C05: Nadzor (2021)
+SPAR2-C06: Ljudski resursi (2021)
+SPAR2-C07: Upravljanje hitnim zdravstvenim situacijama (2021)
+SPAR2-C08: Pružanje zdravstvenih usluga (2021)
+SPAR2-C09: Prevencija i kontrola infekcija (IPC) (2021)
+SPAR2-C10: Komunikacija o riziku i angažman zajednice (RCCE) (2021)
+SPAR2-C11: Ulazne tačke (PoE) i zdravlje granica (2021)
+SPAR2-C12: Zoonotske bolesti (2021)
+SPAR2-C13: Sigurnost hrane (2021)
+SPAR2-C14: Hemijski događaji (2021)
+SPAR2-C15: Hitni slučajevi radijacije (2021)
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
 mode_of_transportation: Način transporta
 name_of_international_institution: Naziv međunarodne institucije
