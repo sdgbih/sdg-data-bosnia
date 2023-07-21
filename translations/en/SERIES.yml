@@ -125,8 +125,10 @@ GF_XPD_GBPC: Primary government expenditures as a proportion of original approve
 GR_G14_GDP: Total government revenue as a proportion of GDP
 GR_G14_XDC: Total government revenue, in local currency
 IC_FRM_BRIB: Bribery incidence (% of firms experiencing at least one bribe payment request)
-IC_GEN_MGTL: Proportion of women in managerial positions
-IC_GEN_MGTN: Proportion of women in senior and middle management positions
+IC_GEN_MGTL: Proportion of women in managerial positions - 13th ICLS (%)
+IC_GEN_MGTN: Proportion of women in senior and middle management positions - 13th ICLS (%)
+IC_GEN_MGTL_19ICLS: Proportion of women in managerial positions - 19th ICLS (%)
+IC_GEN_MGTN_19ICLS: Proportion of women in senior and middle management positions - 19th ICLS (%)
 IS_RDP_FRGVOL: Freight volume (tonne kilometres)
 IS_RDP_PFVOL: Passenger volume (passenger kilometres)
 IT_MOB_2GNTWK: Proportion of population covered by at least a 2G mobile network
