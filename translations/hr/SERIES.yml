@@ -242,7 +242,7 @@ SH_IHR_CAPS: Kapaciteti za Međunarodne zdravstvene propise (IHR) i pripravnost 
 SH_MED_DEN: Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika) 
 SH_MED_HWRKDIS: Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja
 SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više
-SH_SAN_DEFECT: Udio stanovništva koje prakticira otvorenu defekaciju
+SH_SAN_DEFECT: Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)
 SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
 SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja
 SH_STA_AIRP: Stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka
