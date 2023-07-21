@@ -2,6 +2,7 @@ EDUCATION_LEV: Education level
 PRIMAR: Primary education
 LOWSEC: Lower secondary education
 UPPSEC: Upper secondary education
+SECOND: Secondary education level
 _T: Total or not breakdown
 AGG_0_1: Primary education or less
 AGG_GE2: Secondary education or above
