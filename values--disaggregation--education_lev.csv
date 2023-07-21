@@ -5,5 +5,6 @@ AGG_GE2,Secondary education or above,Srednje obrazovanje ili više,Средње 
 ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,3,1
 ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,4,1
 LOWSEC,Lower secondary education,Niže srednje obrazovanje,Ниже средње образовање,Niže srednje obrazovanje,27,2
-PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,25,2
+PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,26,3
+SECOND,Secondary education level,Nivo srednjeg obrazovanja,Ниво средњег образовања,Razina srednjeg obrazovanja,2,1
 UPPSEC,Upper secondary education,Više srednje obrazovanje,Више средње образовање,Više srednje obrazovanje,21,2
