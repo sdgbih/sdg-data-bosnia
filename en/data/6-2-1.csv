@@ -1,63 +1,63 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2000,Proportion of population practicing open defecation,Percent,Total,1
-2001,Proportion of population practicing open defecation,Percent,Total,1
-2002,Proportion of population practicing open defecation,Percent,Total,1
-2003,Proportion of population practicing open defecation,Percent,Total,0
-2004,Proportion of population practicing open defecation,Percent,Total,0
-2005,Proportion of population practicing open defecation,Percent,Total,0
-2006,Proportion of population practicing open defecation,Percent,Total,0
-2007,Proportion of population practicing open defecation,Percent,Total,0
-2008,Proportion of population practicing open defecation,Percent,Total,0
-2009,Proportion of population practicing open defecation,Percent,Total,0
-2010,Proportion of population practicing open defecation,Percent,Total,0
-2011,Proportion of population practicing open defecation,Percent,Total,0
-2012,Proportion of population practicing open defecation,Percent,Total,0
-2013,Proportion of population practicing open defecation,Percent,Total,0
-2014,Proportion of population practicing open defecation,Percent,Total,0
-2015,Proportion of population practicing open defecation,Percent,Total,0
-2016,Proportion of population practicing open defecation,Percent,Total,0
-2017,Proportion of population practicing open defecation,Percent,Total,0
-2018,Proportion of population practicing open defecation,Percent,Total,0
-2000,Proportion of population practicing open defecation,Percent,Rural,1
-2001,Proportion of population practicing open defecation,Percent,Rural,1
-2002,Proportion of population practicing open defecation,Percent,Rural,1
-2003,Proportion of population practicing open defecation,Percent,Rural,1
-2004,Proportion of population practicing open defecation,Percent,Rural,1
-2005,Proportion of population practicing open defecation,Percent,Rural,0
-2006,Proportion of population practicing open defecation,Percent,Rural,0
-2007,Proportion of population practicing open defecation,Percent,Rural,0
-2008,Proportion of population practicing open defecation,Percent,Rural,0
-2009,Proportion of population practicing open defecation,Percent,Rural,0
-2010,Proportion of population practicing open defecation,Percent,Rural,0
-2011,Proportion of population practicing open defecation,Percent,Rural,0
-2012,Proportion of population practicing open defecation,Percent,Rural,0
-2013,Proportion of population practicing open defecation,Percent,Rural,0
-2014,Proportion of population practicing open defecation,Percent,Rural,0
-2015,Proportion of population practicing open defecation,Percent,Rural,0
-2016,Proportion of population practicing open defecation,Percent,Rural,0
-2017,Proportion of population practicing open defecation,Percent,Rural,0
-2018,Proportion of population practicing open defecation,Percent,Rural,0
-2000,Proportion of population practicing open defecation,Percent,Urban,0
-2001,Proportion of population practicing open defecation,Percent,Urban,0
-2002,Proportion of population practicing open defecation,Percent,Urban,0
-2003,Proportion of population practicing open defecation,Percent,Urban,0
-2004,Proportion of population practicing open defecation,Percent,Urban,0
-2005,Proportion of population practicing open defecation,Percent,Urban,0
-2006,Proportion of population practicing open defecation,Percent,Urban,0
-2007,Proportion of population practicing open defecation,Percent,Urban,0
-2008,Proportion of population practicing open defecation,Percent,Urban,0
-2009,Proportion of population practicing open defecation,Percent,Urban,0
-2010,Proportion of population practicing open defecation,Percent,Urban,0
-2011,Proportion of population practicing open defecation,Percent,Urban,0
-2012,Proportion of population practicing open defecation,Percent,Urban,0
-2013,Proportion of population practicing open defecation,Percent,Urban,0
-2014,Proportion of population practicing open defecation,Percent,Urban,0
-2015,Proportion of population practicing open defecation,Percent,Urban,0
-2016,Proportion of population practicing open defecation,Percent,Urban,0
-2017,Proportion of population practicing open defecation,Percent,Urban,0
-2018,Proportion of population practicing open defecation,Percent,Urban,0
-2019,Proportion of population practicing open defecation,Percent,Urban,0
-2020,Proportion of population practicing open defecation,Percent,Urban,0
+2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,1
+2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,1
+2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,1
+2003,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2004,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2005,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2006,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2007,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2008,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2009,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2010,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2011,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2012,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2013,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2014,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2015,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2016,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2017,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2018,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0
+2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,1
+2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,1
+2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,1
+2003,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,1
+2004,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,1
+2005,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2006,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2007,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2008,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2009,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2010,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2011,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2012,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2013,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2014,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2015,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2016,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2017,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2018,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0
+2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2003,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2004,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2005,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2006,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2007,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2008,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2009,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2010,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2011,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2012,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2013,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2014,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2015,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2016,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2017,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2018,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2019,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
+2020,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0
 2000,Proportion of population using safely managed sanitation services,Percent,Total,17
 2001,Proportion of population using safely managed sanitation services,Percent,Total,18
 2002,Proportion of population using safely managed sanitation services,Percent,Total,18
