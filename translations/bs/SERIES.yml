@@ -125,8 +125,10 @@ GF_XPD_GBPC: Primarni državni rashodi kao udio u prvobitno odobrenom budžetu
 GR_G14_GDP: Ukupni prihodi države kao udio u BDP-u
 GR_G14_XDC: Ukupni državni prihodi, u lokalnoj valuti
 IC_FRM_BRIB: Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita)
-IC_GEN_MGTL: Udio žena na rukovodećim pozicijama
-IC_GEN_MGTN: Udio žena na višim i srednjim rukovodećim pozicijama
+IC_GEN_MGTL: Udio žena na rukovodećim pozicijama - 13. ICLS (%)
+IC_GEN_MGTN: Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%)
+IC_GEN_MGTL_19ICLS: Udio žena na rukovodećim pozicijama - 19. ICLS (%)
+IC_GEN_MGTN: Udio žena na višim i srednjim rukovodećim pozicijama - 19. ICLS (%)
 IS_RDP_FRGVOL: Obim tereta (tonski kilometri)
 IS_RDP_PFVOL: Obim putnika (putnički kilometri)
 IT_MOB_2GNTWK: Udio stanovništva pokriven najmanje 2G mobilnom mrežom
