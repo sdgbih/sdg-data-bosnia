@@ -19,6 +19,7 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2017,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.994
 2018,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.229
 2019,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.122
+2020,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.29
 2000,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,13.72
 2001,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,13.5
 2002,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,14.22
@@ -33,12 +34,13 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2011,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,23.4
 2012,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,21.65
 2013,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,21.51
-2014,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,19.17
-2015,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,19.31
-2016,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.02
-2017,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.33
-2018,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.22
-2019,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,20.69
+2014,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,19.19
+2015,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,19.32
+2016,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.04
+2017,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.35
+2018,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,22.24
+2019,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,20.76
+2020,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,20.52
 2000,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.514
 2001,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.485
 2002,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.485
@@ -56,26 +58,28 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2014,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.456
 2015,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.446
 2016,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.493
-2017,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.484
+2017,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.485
 2018,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.465
-2019,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.421
-2000,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.705
-2001,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.42
+2019,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.422
+2020,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.431
+2000,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.7
+2001,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.416
 2002,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.464
-2003,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.371
-2004,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.737
-2005,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.89
-2006,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.826
-2007,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.798
-2008,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.79
-2009,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.893
-2010,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.979
-2011,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.088
-2012,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.11
+2003,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.372
+2004,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.738
+2005,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.891
+2006,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.823
+2007,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.797
+2008,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.792
+2009,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.89
+2010,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.977
+2011,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.087
+2012,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.109
 2013,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.238
-2014,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.076
+2014,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.074
 2015,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.057
 2016,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.953
-2017,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.923
-2018,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.014
-2019,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.965
+2017,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.926
+2018,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.015
+2019,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.991
+2020,Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.613
