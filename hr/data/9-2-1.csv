@@ -19,7 +19,9 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2017,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,12.52
 2018,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,12.28
 2019,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,11.95
-2020,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,11.95
+2020,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,11.81
+2021,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,12.56
+2022,Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio u BDP-u (%),Postotak,Proizvodnja,12.72
 2000,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,9.3
 2001,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,9.41
 2002,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,9.31
@@ -40,25 +42,28 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2017,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,13.12
 2018,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,13.23
 2019,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,12.94
-2020,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,12.94
-2000,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,235.19
-2001,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,250.13
-2002,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,270.75
-2003,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,278.73
-2004,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,291.51
-2005,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,318.8
-2006,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,364.45
-2007,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,403.5
-2008,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,430.34
-2009,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,408.83
-2010,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,441.92
-2011,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,447.08
-2012,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,450.41
-2013,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,481.29
-2014,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,510.69
-2015,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,551.69
-2016,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,588.81
-2017,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,644.34
-2018,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,661.15
-2019,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,666.33
-2020,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,621.85
+2020,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,13.11
+2021,Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%),Postotak,Proizvodnja,14.44
+2000,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,211.1
+2001,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,223.93
+2002,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,242.43
+2003,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,250.64
+2004,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,264.86
+2005,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,293.19
+2006,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,338.17
+2007,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,378.83
+2008,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,409.7
+2009,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,393.88
+2010,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,429.67
+2011,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,437.29
+2012,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,441.9
+2013,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,471.32
+2014,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,497.97
+2015,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,536.83
+2016,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,572.79
+2017,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,627.77
+2018,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,646.34
+2019,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,654.49
+2020,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,634.5
+2021,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,736.53
+2022,Dodana vrijednost proizvodnje po glavi stanovnika (konstantno u američkim dolarima iz 2015.),konstantni američki dolari,Proizvodnja,782.89
