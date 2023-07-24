@@ -292,7 +292,8 @@ SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlen
 SL_TLF_MANF_19ICLS: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti - 19. ICLS (%)
 SL_TLF_NEET: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom - 13. ICLS (%)
 SL_TLF_NEET_19ICLS: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom - 19. ICLS (%)
-SL_TLF_UEM: Stopa nezaposlenosti
+SL_TLF_UEM: Stopa nezaposlenosti, prema spolu i dobi - 13. ICLS (%)
+SL_TLF_UEM_19ICLS: Stopa nezaposlenosti, prema spolu i dobi - 19. ICLS (%)
 SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tijekom migracije
 SM_POP_REFG_OR: Udio stanovništva izbjeglica, prema zemlji podrijetla
 SN_ITK_DEFC: Rasprostranjenost pothranjenosti
