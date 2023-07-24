@@ -285,7 +285,8 @@ SI_RMT_COST: Prosječni troškovi doznake za slanje 200 USD u zemlju primatelja 
 SL_CPA_YEMP: Postojanje razvijene i operacionalizirane nacionalne strategije za zapošljavanje mladih, kao posebne strategije ili kao dio nacionalne strategije zapošljavanja 
 SL_EMP_GTOTL: Udio radne snage u BDP-u
 SL_EMP_PCAP: Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-SL_ISV_IFEM: Udio neformalne zaposlenosti u ukupnoj zaposlenosti, prema sektorima i spolu (Usklađene procjene ILO-a)
+SL_ISV_IFEM: Udio neformalne zaposlenosti, prema sektoru i spolu (usklađene procjene ILO-a) - 13. ICLS (%)
+SL_ISV_IFEM_19ICLS: Udio neformalne zaposlenosti, prema sektoru i spolu (usklađene procjene ILO-a) - 19. ICLS (%)
 SL_LBR_NTLCPL: Razina nacionalne usklađenosti radnih prava (sloboda udruživanja i kolektivnog pregovaranja) na temelju tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva 
 SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti - 13. ICLS (%)
 SL_TLF_MANF_19ICLS: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti - 19. ICLS (%)
