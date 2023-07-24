@@ -13,6 +13,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,76.0
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,72.7
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,79.4
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,64.5
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,78.4
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,24.6
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,23.8
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,21.2
@@ -27,6 +29,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,12.9
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,12.7
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,10.8
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,7.5
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Both sexes or no breakdown by sex,8.4
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,38.0
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,37.1
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,35.6
@@ -41,6 +45,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,24.8
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,22.1
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,23.1
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,14.3
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Both sexes or no breakdown by sex,20.68
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,95.6
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,97.3
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,96.1
@@ -55,6 +61,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,88.9
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,84.2
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,88.4
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,79.4
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Female,90.0
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,18.9
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,16.9
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,15.7
@@ -69,6 +77,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,10.6
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,10.5
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,7.8
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,6.6
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Female,6.9
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,35.8
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,34.0
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,33.6
@@ -83,6 +93,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,26.3
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,22.3
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,24.3
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,16.8
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Female,25.7
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,85.9
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,87.1
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,88.2
@@ -97,6 +109,8 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,65.5
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,65.7
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,72.4
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,52.5
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,"Agriculture, forestry and fishing",Male,66.4
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,27.6
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,27.3
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,24.1
@@ -110,7 +124,9 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2016,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,20.2
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,14.3
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,14.0
-2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,612.6
+2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,12.6
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,7.95
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,Non-agriculture,Male,9.3
 2006,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,39.2
 2007,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,38.6
 2008,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,36.7
@@ -125,3 +141,14 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Sex,Value
 2017,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,24.0
 2018,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,22.0
 2019,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,22.4
+2020,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,12.7
+2021,"Proportion of informal employment, by sector and sex (ILO harmonized estimates)",Percent,No breakdown,Male,17.4
+2021,SL_ISV_IFEM_19ICLS,Percent,"Agriculture, forestry and fishing",Both sexes or no breakdown by sex,56.2
+2021,SL_ISV_IFEM_19ICLS,Percent,"Agriculture, forestry and fishing",Female,72.98
+2021,SL_ISV_IFEM_19ICLS,Percent,"Agriculture, forestry and fishing",Male,45.75
+2021,SL_ISV_IFEM_19ICLS,Percent,Non-agriculture,Both sexes or no breakdown by sex,8.44
+2021,SL_ISV_IFEM_19ICLS,Percent,Non-agriculture,Female,6.94
+2021,SL_ISV_IFEM_19ICLS,Percent,Non-agriculture,Male,9.32
+2021,SL_ISV_IFEM_19ICLS,Percent,No breakdown,Both sexes or no breakdown by sex,12.95
+2021,SL_ISV_IFEM_19ICLS,Percent,No breakdown,Female,13.39
+2021,SL_ISV_IFEM_19ICLS,Percent,No breakdown,Male,12.69

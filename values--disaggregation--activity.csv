@@ -1,7 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,Без пођеле,Bez podjele,10,6
+_T,No breakdown,Bez podjele,Без пођеле,Bez podjele,13,6
 INDUSTRIES,Industries,Industrije,Индустрије,Industrije,5,3
-ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",5,3
+ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",8,3
 ISIC4_A01_A0210_A0322,Agriculture (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),Пољопривреда (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),2,2
 ISIC4_B,Mining and quarrying,Vađenja ruda i kamena,Вађења руда и камена,Vađenja ruda i kamena,1,1
 ISIC4_C,Manufacturing,Proizvodnja,Производња,Proizvodnja,8,5
@@ -10,7 +10,7 @@ ISIC4_D,"Electricity, gas, steam and air conditioning supply","Proizvodnja i sna
 ISIC4_F,Construction,Građevinarstvo,Грађевинарство,Građevinarstvo,1,1
 ISIC4_GTT,Services (G to T),Usluge (G do T),Услуге (Г до Т),Usluge (G do T),2,2
 ISIC4_T,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Aktivnosti domaćinstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga domaćinstava za vlastite potrebe,Активности домаћинстава као послодаваца; недиференциране дjелатности домаћинстава за производњу добара и услуга за сопствене потребе,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,1,1
-NONAGR,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,3,1
+NONAGR,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,6,1
 PRIV_HH,Private households,Privatna domaćinstva,Приватна домаћинства,Privatna domaćinstva,1,1
 SERV_HH,"Services, and activities by households",Usluge i aktivnosti domaćinstava,Услуге и активности домаћинстава,Usluge i aktivnosti domaćinstava,1,1
 SERVICES,Services,Usluge,Услуге,Usluge,1,1
