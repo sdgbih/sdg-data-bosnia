@@ -288,7 +288,8 @@ SL_EMP_GTOTL: Udio radne snage u BDP-u
 SL_EMP_PCAP: Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
 SL_ISV_IFEM: Udio neformalne zaposlenosti u ukupnoj zaposlenosti, prema sektorima i spolu (Usklađene procjene ILO-a)
 SL_LBR_NTLCPL: Nivo nacionalne usklađenosti radnih prava (sloboda udruživanja i kolektivnog pregovaranja) na osnovu tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva 
-SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti
+SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti- 13th ICLS(%)
+SL_TLF_MANF_19ICLS: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenost- 19th ICLS(%)
 SL_TLF_NEET: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom
 SL_TLF_UEM: Stopa nezaposlenosti
 SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tokom migracije
