@@ -285,7 +285,8 @@ SI_RMT_COST: Average remittance costs of sending $200 to a receiving country as 
 SL_CPA_YEMP: Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy
 SL_EMP_GTOTL: Labour share of GDP
 SL_EMP_PCAP: Annual growth rate of real GDP per employed person
-SL_ISV_IFEM: Proportion of informal employment, by sector and sex (ILO harmonized estimates)
+SL_ISV_IFEM: Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 13th ICLS (%)
+SL_ISV_IFEM_19ICLS: Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 19th ICLS (%)
 SL_LBR_NTLCPL: Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation
 SL_TLF_MANF: Manufacturing employment as a proportion of total employment - 13th ICLS(%)
 SL_TLF_MANF_19ICLS: Manufacturing employment as a proportion of total employment - 19th ICLS(%)
