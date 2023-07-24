@@ -290,7 +290,8 @@ SL_ISV_IFEM: Udio neformalne zaposlenosti u ukupnoj zaposlenosti, prema sektorim
 SL_LBR_NTLCPL: Nivo nacionalne usklađenosti radnih prava (sloboda udruživanja i kolektivnog pregovaranja) na osnovu tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva 
 SL_TLF_MANF: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenosti- 13th ICLS(%)
 SL_TLF_MANF_19ICLS: Zaposlenost u  prerađivačkoj industriji  kao udio ukupne zaposlenost- 19th ICLS(%)
-SL_TLF_NEET: Udio mladih koji nisu u obuhvaćeni obrazovanjem, zaposlenošću, ili obukom
+SL_TLF_NEET: Udio mladih koji nisu u obrazovanju, zapošljavanju ili obuci, prema spolu i starosti - 13. ICLS (%)
+SL_TLF_NEET_19ICLS: Udio mladih koji nisu u obrazovanju, zapošljavanju ili obuci, prema spolu i starosti - 19. ICLS (%)
 SL_TLF_UEM: Stopa nezaposlenosti
 SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tokom migracije
 SM_POP_REFG_OR: Udio stanovništva koje su izbjeglice, prema zemlji porijekla (%)
