@@ -15,35 +15,38 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2019,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,21.2
 2020,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,21.8
 2021,"Proportion of youth not in education, employment or training",Percent,Both sexes or no breakdown by sex,15 to 24 years old,19.3
-2006,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,35.3
-2007,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,31.5
-2008,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,27.9
-2009,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,25.8
-2010,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,28.2
-2011,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.4
-2012,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.4
-2013,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,24.4
-2014,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,24.4
-2015,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.4
-2016,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,25.2
-2017,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,24.3
-2018,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,21.7
-2019,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,21.7
-2020,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,23.3
-2021,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,19.9
-2006,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,34.0
-2007,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,31.1
-2008,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,25.0
-2009,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,25.3
-2010,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,28.4
-2011,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,29.0
-2012,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,30.6
-2013,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,27.6
-2014,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,27.9
-2015,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,29.7
-2016,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,28.5
-2017,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,24.7
-2018,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,22.6
-2019,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,20.8
-2020,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,20.4
-2021,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,18.8
+2006,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,36.27
+2007,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,32.48
+2008,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,28.73
+2009,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.4
+2010,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,28.6
+2011,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.69
+2012,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.63
+2013,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,24.87
+2014,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,24.92
+2015,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,26.54
+2016,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,25.38
+2017,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,25.08
+2018,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,22.15
+2019,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,22.72
+2020,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,23.27
+2021,"Proportion of youth not in education, employment or training",Percent,Female,15 to 24 years old,19.87
+2006,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,34.74
+2007,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,32.24
+2008,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,26.16
+2009,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,26.84
+2010,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,28.85
+2011,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,29.79
+2012,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,31.19
+2013,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,28.23
+2014,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,29.05
+2015,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,29.94
+2016,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,28.6
+2017,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,25.86
+2018,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,23.1
+2019,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,22.5
+2020,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,20.41
+2021,"Proportion of youth not in education, employment or training",Percent,Male,15 to 24 years old,18.77
+2021,SL_TLF_NEET_19ICLS,Percent,Both sexes or no breakdown by sex,15 to 24 years old,20.16
+2021,SL_TLF_NEET_19ICLS,Percent,Female,15 to 24 years old,20.63
+2021,SL_TLF_NEET_19ICLS,Percent,Male,15 to 24 years old,19.72
