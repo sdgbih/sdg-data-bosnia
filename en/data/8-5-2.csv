@@ -143,3 +143,10 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2019,Unemployment rate,Percent,Male,25 years old and over,11.46
 2020,Unemployment rate,Percent,Male,25 years old and over,12.1
 2021,Unemployment rate,Percent,Male,25 years old and over,10.7
+2021,SL_TLF_UEM_19ICLS,Percent,Both sexes or no breakdown by sex,15 years old and over,17.39
+2021,SL_TLF_UEM_19ICLS,Percent,Female,15 years old and over,22.0
+2021,SL_TLF_UEM_19ICLS,Percent,Male,15 years old and over,14.4
+2021,SL_TLF_UEM_19ICLS,Percent,Both sexes or no breakdown by sex,15 to 24 years old,38.26
+2021,SL_TLF_UEM_19ICLS,Percent,Female,15 to 24 years old,44.49
+2021,SL_TLF_UEM_19ICLS,Percent,Male,15 to 24 years old,34.53
+2021,SL_TLF_UEM_19ICLS,Percent,Both sexes or no breakdown by sex,25 years old and over,38.26
