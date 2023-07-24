@@ -288,6 +288,7 @@ SL_EMP_PCAP: Annual growth rate of real GDP per employed person
 SL_ISV_IFEM: Proportion of informal employment, by sector and sex (ILO harmonized estimates)
 SL_LBR_NTLCPL: Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation
 SL_TLF_MANF: Manufacturing employment as a proportion of total employment
+SL_TLF_MANF_19ICLS: Manufacturing employment as a proportion of total employment - 19th ICLS(%)
 SL_TLF_NEET: Proportion of youth not in education, employment or training
 SL_TLF_UEM: Unemployment rate
 SM_DTH_MIGR: Total deaths and disappearances recorded during migration
