@@ -29,6 +29,7 @@ EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji
 EG_EGY_CLEAN: Udio stanovništva koji se prvenstveno oslanja na čista goriva i tehnologiju
 EG_EGY_PRIM: Energetski intenzitet primarne energije (megadžuli po konstantnom BDP-u pariteta kupovne moći za 2017.)
 EG_FEC_RNEW: Udio obnovljive energije u ukupnoj finalnoj potrošnji energije
+EG_IFF_RANDN: Međunarodni finansijski tokovi prema zemljama u razvoju kao podrška istraživanju i razvoju čiste energije i proizvodnji obnovljive energije, uključujući hibridne sisteme (milioni konstantnih američkih dolara 2020.)
 EG_TBA_H2CO: Udio prekograničnih slivova (riječni i jezerski bazeni i vodonosnici) sa operativnim aranžmanom za vodnu saradnju
 EG_TBA_H2COAQ: Udio prekograničnih vodonosnika s operativnim aranžmanom za vodnu saradnju
 EG_TBA_H2CORL: Udio prekograničnih slivova rijeka i jezera s operativnim aranžmanom za vodnu saradnju
