@@ -1,7 +1,7 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,8,15
 AGE,Age,Godine,Године,Godine,27,19
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,73
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,11,81
 DEVIATION_LEVEL,Deviation Level,Stepen odstupanja,Степен одступања,Stupanj odstupanja,1,4
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,5,9
 FOOD_WS,Food Waste Sector,Sektor prehrambenog otpada,Сектор прехрамбеног отпада,Sektor prehrambenog otpada,1,3
@@ -12,6 +12,6 @@ OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,20
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,25
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,170,339
 SEX,Sex,Spol,Пол,Spol,38,3
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,170,37
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,170,38
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2

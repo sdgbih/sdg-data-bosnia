@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
 CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,12,7
+ CON_USD_M, CON_USD_M, CON_USD_M, CON_USD_M, CON_USD_M,8,1
 CU_USD,(nominal United States dollars),(nominalni američki dolari),(номинални амерички долари),(nominalni američki dolari),1,1
 CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),(милијарде номиналних америчких долара),(milijarde nominalnih američkih dolara),1,1
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,1,1
@@ -17,7 +18,7 @@ M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,М�
 MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,1,1
 MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant PPP GDP,Megadžula po konstantni američkog dolara PPP BDP,Мегаџула по константни америчког долара ППП БДП,Megadžula po konstantni američkog dolara PPP BDP,1,1
 MT_CO2E,Million tons of CO2 equivalent,Milion tona ekvivalenta CO2,Милион тона еквивалента CO2,Milijuna tona ekvivalenta CO2,1,1
-NUMBER,Number,Broj,Број,Broj,115,31
+NUMBER,Number,Broj,Број,Broj,114,30
 P_KM,Passenger kilometres,Putnički kilometri,Путнички километри,Putnički kilometri,3,1
 PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,Na milijun stanovnika,1,1
 PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,Na 100 000 živorođenih,1,1
