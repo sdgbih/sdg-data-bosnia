@@ -1,5 +1,6 @@
 BOOL: Logička ili binarna mjera
 CON_USD: konstantni američki dolari
+CON_USD_M: Milioni konstantni američki dolari
 CU_USD_M: Milijuni tekućih američkih dolara
 CUR_LCU_M: Lokalna valuta (milioni)
 CU_USD_B: (milijarde nominalnih američkih dolara)
