@@ -8,20 +8,19 @@ AGG_OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
 AGG_TXT,Textiles,Tekstil,Текстил,Tekstil,3,2
 ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,7,3
 BIM,Biomass,Biomasa,Биомаса,Biomasa,6,2
-COL,Coal,Ugalj,Угаљ,Ugljen,6,2
-CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,6,2
-CRO,Crops,Usjevi,Усјеви,Usjevi,6,2
-FEO,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,6,2
+COL,Coal,Ugalj,Угаљ,Ugljen,3,1
+CPR,Crop residues,Ostaci usjeva,Остаци усјева,Ostaci usjeva,3,1
+CRO,Crops,Usjevi,Усјеви,Usjevi,3,1
+FEO,Ferrous ores,Rude željeza,Руде жељеза,Rude željeza,3,1
 FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
-GAS,Natural gas,Prirodni gas,Природни гас,Prirodni plin,6,2
-GBO,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,GBO,Stočna hrana i krmno bilje,6,2
+GAS,Natural gas,Prirodni gas,Природни гас,Prirodni plin,3,1
+GBO,Grazed biomass and fodder crops,Stočna hrana i krmno bilje,GBO,Stočna hrana i krmno bilje,3,1
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,6,2
-MF2,MF2,MF2,MF2,MF2,1,1
-NFO,Non-ferrous ores,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,6,2
-NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,6,2
-NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,6,2
+NFO,Non-ferrous ores,Rude obojenih metala,Руде обојених метала,Rude obojenih metala,3,1
+NMA,Non-metallic minerals - industrial or agricultural dominant,Nemetalni minerali - dominantni u industriji ili poljoprivredi,Неметални минерали - доминантни у индустрији или пољопривреди,Nemetalni minerali - dominantni u industriji ili poljoprivredi,3,1
+NMC,Non-metallic minerals - construction dominant,Nemetalni minerali - dominantna gradnja,Неметални минерали - доминантна градња,Nemetalni minerali - dominantna gradnja,3,1
 NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
-ONT,Oil shale and tar sands,Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,6,2
-PET,Petroleum,Nafta,Нафта,Nafta,6,2
-WCH,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,6,2
-WOD,Wood,Drvo,Дрво,Drvo,6,2
+ONT,Oil shale and tar sands,Uljni škriljci i katranski pijesak,Уљни шкриљци и катрански пиjесак,Uljni škriljci i katranski pijesak,3,1
+PET,Petroleum,Nafta,Нафта,Nafta,3,1
+WCH,Wild catch and harvest,Divlji ulov i žetva,Дивљи улов и жетва,Divlji ulov i žetva,3,1
+WOD,Wood,Drvo,Дрво,Drvo,3,1
