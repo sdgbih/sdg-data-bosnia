@@ -29,6 +29,7 @@ EG_ACS_ELEC: Proportion of population with access to electricity
 EG_EGY_CLEAN: Proportion of population with primary reliance on clean fuels and technology
 EG_EGY_PRIM: Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)
 EG_FEC_RNEW: Renewable energy share in the total final energy consumption
+EG_IFF_RANDN: International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2020 United States dollars)
 EG_TBA_H2CO: Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation
 EG_TBA_H2COAQ: Proportion of transboundary aquifers with an operational arrangement for water cooperation
 EG_TBA_H2CORL: Proportion of transboundary river and lake basins with an operational arrangement for water cooperation
