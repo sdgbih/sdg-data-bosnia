@@ -1,14 +1,14 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,No breakdown,Bez podjele,_T,Bez podjele,2,1
-ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,1,1
-BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,1,1
+ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,2,2
+BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,2,2
 C01,Banja Luka,Banja Luka,Бања Лука,Banja Luka,1,1
 C02,Sarajevo,Sarajevo,Сарајево,Sarajevo,1,1
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
-GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,1,1
-HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,1,1
+GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,2,2
+HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,2,2
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
 IHR_03,Surveillance,Nadzor,Надзор,Nadzor,1,1
@@ -30,12 +30,12 @@ IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,Савјет безбјед�
 IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
 IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
 IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbit/s ili više,2,1
-MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,1,1
+MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,2,2
 MOT_AIR,Aire,Zračni,Зрачни,Zračni,2,1
 MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
-MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
+MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,2,2
 RES,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,16,2
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,16,2
@@ -50,7 +50,7 @@ SKILL_MATH,Mathematics,Matematika,Математика,Matematika,9,2
 SKILL_PRVCY,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)","Промjена подешавања приватности на вашем уређају, налогу или апликацији да бисте ограничили дијељење личних података и информација (нпр. име, контакт информације, фотографије)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",16,2
 SKILL_READ,Reading,Čitanje,Читање,Čitanje,8,2
 SKILL_SCRTY,"Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts","Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa","Подешавање ефикасних безбиједносних мјера (нпр. јаке лозинке, обавјештење о покушају пријављивања) за заштиту уређаја и онлајн налога","Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa",16,2
-SOLAR,Solar energy,Sunčeva energija,Сунчева енергија,Sunčeva energija,1,1
+SOLAR,Solar energy,Sunčeva energija,Сунчева енергија,Sunčeva energija,2,2
 SPAR2-C01,"Policy, Legal and normative Instruments to implement IHR (2021)","Politički, pravni i normativni instrumenti za implementaciju IHR-a (2021)","Политички, правни и нормативни инструменти за имплементацију ИХР-а (2021)","Politika, pravni i normativni instrumenti za provedbu IHR-a (2021)",1,1
 SPAR2-C02,"IHR Coordination, National IHR Focal Point functions, and advocacy (2021)","Koordinacija IHR-a, funkcije nacionalne kontakt tačke za IHR i zastupanje (2021)","Координација ИХР-а, функције Националне контакт тачке за ИХР и заступање (2021)","Koordinacija IHR-a, funkcije nacionalne kontaktne točke IHR-a i zastupanje (2021)",1,1
 SPAR2-C03,Financing (2021),Finansiranje (2021),Финансирање (2021),Financiranje (2021),1,1
@@ -79,4 +79,4 @@ SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о р�
 SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,Točke ulaska,1,1
 SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,Kemijski događaji,1,1
 SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,Izvanredne situacije u vezi sa zračenjem,1,1
-WIND,Wind energy,Energija vjetra,Енергија вјетра,Energija vjetra,1,1
+WIND,Wind energy,Energija vjetra,Енергија вјетра,Energija vjetra,2,2
