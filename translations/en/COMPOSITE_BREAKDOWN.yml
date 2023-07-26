@@ -77,6 +77,15 @@ SPAR2-C12: Zoonotic diseases (2021)
 SPAR2-C13: Food safety (2021)
 SPAR2-C14: Chemical events (2021)
 SPAR2-C15: Radiation emergencies (2021)
+ALL: All renewables
+BIOENERGY: Bioenergy
+GEOTHERMAL: Geothermal energy
+HYDROPOWER: Hydropower
+MARINE: Marine energy
+MULTIPLE: Multiple renewables
+SOLAR: Solar energy
+WIND: Wind energy
+Type_of_renewable_technology: Type of renewable technology
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
 name_of_international_institution: Name of international institution
