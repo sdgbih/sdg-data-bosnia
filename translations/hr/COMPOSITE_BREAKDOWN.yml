@@ -77,6 +77,15 @@ SPAR2-C12: Zoonotske bolesti (2021)
 SPAR2-C13: Sigurnost hrane (2021)
 SPAR2-C14: Kemijski događaji (2021)
 SPAR2-C15: Hitni slučajevi radijacije (2021)
+ALL: Svi obnovljivi izvori energije
+BIOENERGY: Bioenergija
+GEOTHERMAL: Geotermalna energija
+HYDROPOWER: Hidroenergija
+MARINE: Morska energija
+MULTIPLE: Više obnovljivih izvora
+SOLAR: Sunčeva energija
+WIND: Energija vjetra
+Type_of_renewable_technology: Vrsta obnovljive tehnologije
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
 mode_of_transportation: Način transporta
 name_of_international_institution: Naziv međunarodne institucije
