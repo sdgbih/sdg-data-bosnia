@@ -146,7 +146,7 @@ NV_IND_TECH: Udio dodate vrijednosti srednje i visokotehnološke industrije u od
 NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
 PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta u 2011. međunarodnim USD) 
 PD_AGR_SSFP: Produktivnost malih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta iz 2011. u međunarodnim USD) 
-SD_CPA_UPRDP: "Broj zemalja koje imaju nacionalne urbane politike ili planove regionalnog razvitka koji (a) odgovaraju na dinamiku stanovništva; (b) osiguravaju uravnotežen teritorijalni razvoj; i (c) povećava lokalni fiskalni prostor (1 = DA; 0 = NE)"
+SD_CPA_UPRDP: "Zemlje koje imaju nacionalne urbane politike ili regionalne razvojne planove koji odgovaraju dinamici stanovništva; osigurati ravnomjeran teritorijalni razvoj; i povećati lokalni fiskalni prostor (1 = DA; 0 = NE)"
 SERIES: SDG Varijable
 SE_ACS_CMPTR: Udio škola s pristupom računalima u pedagoške svrhe, prema razini obrazovanja (%)
 SE_ACS_INTNT: Udio škola s pristupom internetu u pedagoške svrhe, prema razini obrazovanja (%)
