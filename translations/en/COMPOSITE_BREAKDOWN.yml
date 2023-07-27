@@ -85,6 +85,14 @@ MARINE: Marine energy
 MULTIPLE: Multiple renewables
 SOLAR: Solar energy
 WIND: Wind energy
+ALLDOMAINS: Total
+Domain_1: Rights of migrants
+Domain_2: Comprehensive/evidence-based policies
+Domain_3: Cooperation and partnership
+Domain_4: Socioeconomic well-being
+Domain_5: Dimensions of crisis mobility
+Domain_6: Safe, orderly and regular migration
+Policy_Domains: Policy Domains
 Type_of_renewable_technology: Type of renewable technology
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
