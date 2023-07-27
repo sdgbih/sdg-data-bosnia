@@ -1,7 +1,8 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,Policy_Domains,Value
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",ALLDOMAINS,2
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN1,3
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN2,2
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN3,2
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN4,2
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN5,2
+2021,"Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)",DOMAIN6,4
