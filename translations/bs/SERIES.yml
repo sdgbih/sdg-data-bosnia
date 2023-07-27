@@ -148,6 +148,7 @@ PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodn
 PD_AGR_SSFP: Produktivnost malih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta iz 2011. u međunarodnim USD) 
 SD_CPA_UPRDP: "Zemlje koje imaju nacionalne urbane politike ili regionalne razvojne planove koji odgovaraju na dinamiku stanovništva; osigurati uravnotežen teritorijalni razvoj; i povećanje lokalnog fiskalng prostora (1 = DA; 0 = NE)"
 SERIES: SDG Varijable
+SG_CPA_MIGRS: Zemlje sa migracijskom politikom za olakšavanje uredne, bezbjedne, redovne i odgovorne migracije i mobilnosti ljudi, po domenu politike (1 = Zahtijeva dalji napredak; 2 = Djelimično ispunjava; 3 = Ispunjava; 4 = U potpunosti ispunjava)
 SE_ACS_CMPTR: Udio škola koje imaju pristup računarima u pedagoške svrhe, prema nivou obrazovanja (%)
 SE_ACS_INTNT: Udio škola s pristupom internetu u pedagoške svrhe, prema nivou obrazovanja (%)
 SE_ADT_ACTS: Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT)
