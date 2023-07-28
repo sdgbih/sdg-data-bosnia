@@ -37,8 +37,26 @@ EN_ATM_CO2: Emisije ugljen-dioksida izgaranjem goriva
 EN_ATM_CO2GDP: Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.)
 EN_ATM_CO2MVA: Emisije ugljen-dioksida po jedinici proizvoda dodane vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.)
 EN_ATM_PM25: Godišnji srednji nivoi finih čestica (ponderisani po populaciji), prema lokaciji (mikrogrami po kubnom metru)
-EN_EWT_GENPCAP: Proizvedeni elektronski otpad, po stanovniku (Kg)
-EN_EWT_GENV: Proizvedeni elektronski otpad (tone)
+EN_EWT_GENV: Generisani elektronski otpad (tone)
+EN_EWT_GENPCAP: Generisani elektronski otpad, po stanovniku (Kg)
+EN_HAZ_GENV: Generisani opasni otpad (tone)
+EN_HAZ_PCAP: Generisani opasni otpad, po stanovniku (Kg)
+EN_HAZ_GENGDP: Generisani opasni otpad, po jedinici BDP-a (kilogrami po konstantnom američkom dolaru iz 2015.)
+EN_HAZ_TREATV: Obrađen opasni otpad, prema vrsti obrade (tone)
+EN_HAZ_TRTDISR: Udio obrađenog ili odloženog opasnog otpada (%)
+EN_HAZ_TRTDISV: Obrađen ili odložen opasni otpad (tone)
+EN_MWT_COLLV: Prikupljeni komunalni otpad (tone)
+EN_MWT_TREATR: Udio obrađenog komunalnog otpada prema vrsti obrade (%)
+EN_MWT_GENV: Generisani komunalni otpad (tone)
+EN_EWT_COLLV: Prikupljeni elektronski otpad (tone)
+EN_EWT_COLLPCAP: Prikupljeni elektronski otpad po glavi stanovnika (KG)
+EN_EWT_COLLR: Udio prikupljenog elektronskog otpada (%)
+EN_TWT_GENV: Ukupno generisani otpad, po djelatnosti (tone)
+EN_HAZ_EXP: Izvoz opasnog otpada (tone)
+EN_HAZ_IMP: Uvoz opasnog otpada (tone)
+EN_MWT_TREATV: Komunalni otpad tretiran prema vrsti tretmana (tone)
+EN_MWT_IMP: Uvezeni komunalni otpad (tone)
+EN_MWT_EXP: Izvezeni komunalni otpad (tone)
 EN_EWT_RCYPCAP: Reciklaža elektronskog otpada, po stanovniku (Kg)
 EN_EWT_RCYR: Reciklaža elektronskog otpada, stopa (%)
 EN_EWT_RCYV: Reciklaža elektronskog otpada (tone)
@@ -47,8 +65,6 @@ EN_H2O_OPAMBQ: Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vo
 EN_H2O_RVAMBQ: Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode
 EN_H2O_WBAMBQ: Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode 
 EN_HAZ_GENGDP: Proizvedeni opasni otpad, po jedinici BDP-a
-EN_HAZ_GENV: Proizvedeni opasni otpad (tone)
-EN_HAZ_PCAP: Proizvedeni opasni otpad, po stanovniku (Kg)
 EN_LND_SLUM: Udio gradskog stanovništva koje živi u siromašnim četvrtima
 EN_LND_CNSPOP: Odnos stope potrošnje zemljišta i stope rasta stanovništva
 EN_MAT_DOMCMPC: Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine
@@ -366,15 +382,6 @@ SL_EMP_EARN: Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacio
 NV_IND_MANF_CD: Dodana vrijednost u proizvodnji (tekući američki dolari) kao udio u BDP-u (%)
 AG_FOOD_WST: Otpad od hrane (tone) 
 AG_FOOD_WST_PC: Otpad od hrane po stanovniku (KG) 
-EN_EWT_COLLV: Prikupljeni elektronski otpad
-EN_EWT_COLLPCAP: Prikupljeni elektronski otpad po glavi stanovnika 
-EN_EWT_COLLR: Electronic waste collection rate
-EN_HAZ_EXP: Izvoz opasnog otpada
-EN_HAZ_IMP: Uvoz opasnog otpada
-EN_MWT_COLLV: Prikupljeni komunalni otpad
-EN_MWT_GENV: Stvoreni komunalni otpad
-EN_MWT_TREATR: Obrađeni komunalni otpad prema vrsti obrade
-EN_TWT_GENV: Ukupno stvaranje otpada, prema djelatnostima
 EN_SCP_FRMN: Broj kompanija koje objavljuju izvještaje o održivosti s objavom po dimenzijama, prema nivou zahtjeva
 EN_HAZ_TREATV: Opasni otpad tretiran, prema vrsti tretmana 
 EN_ATM_GHGT_NAIP: Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂)
