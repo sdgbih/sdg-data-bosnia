@@ -50,6 +50,7 @@ EN_HAZ_GENGDP: Proizvedeni opasni otpad, po jedinici BDP-a
 EN_HAZ_GENV: Proizvedeni opasni otpad (tone)
 EN_HAZ_PCAP: Proizvedeni opasni otpad, po stanovniku (Kg)
 EN_LND_SLUM: Udio gradskog stanovništva koje živi u siromašnim četvrtima
+EN_LND_CNSPOP: Odnos stope potrošnje zemljišta i stope rasta stanovništva
 EN_MAT_DOMCMPC: Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine
 EN_MAT_DOMCMPG: Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara) 
 EN_MAT_DOMCMPT: Potrošnja domaćih materijala
