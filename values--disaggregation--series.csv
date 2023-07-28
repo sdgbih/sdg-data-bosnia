@@ -48,11 +48,11 @@ EN_H2O_GRAMBQ,Proportion of groundwater bodies with good ambient water quality,U
 EN_H2O_OPAMBQ,Proportion of open water bodies with good ambient water quality,Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode,Удио отворених водних тијела са добрим квалитетом амбијенталне воде,Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode,1,1
 EN_H2O_RVAMBQ,Proportion of river water bodies with good ambient water quality,Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode,Удио ријечних водних тијела са добрим квалитетом амбијенталне воде,Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode,1,1
 EN_H2O_WBAMBQ,Proportion of bodies of water with good ambient water quality,Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode,Удио водних тијела са добрим квалитетом амбијенталне воде,Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode,1,1
-EN_HAZ_EXP,Hazardous waste exported,Izvoz opasnog otpada,Извоз опасног отпада,Izvoz opasnog otpada,1,1
+EN_HAZ_EXP,Hazardous waste exported,Izvoz opasnog otpada (tone),Извоз опасног отпада,Izvoz opasnog otpada,1,1
 EN_HAZ_GENGDP,"Hazardous waste generated, per unit of GDP","Proizvedeni opasni otpad, po jedinici BDP-a","Произведени опасни отпад, по јединици БДП-а","Proizvedeni opasni otpad, po jedinici BDP-a",1,1
-EN_HAZ_GENV,Hazardous waste generated (Tonnes),Proizvedeni opasni otpad (tone),Произведени опасни отпад (тоне),Proizvedeni opasni otpad (tone),1,1
-EN_HAZ_IMP,Hazardous waste imported,Uvoz opasnog otpada,Увоз опасног отпада,Uvoz opasnog otpada,1,1
-EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)","Proizvedeni opasni otpad, po stanovniku (Kg)","Произведени опасни отпад, по становнику (Kg)","Proizvedeni opasni otpad, po stanovniku (Kg)",1,1
+EN_HAZ_GENV,Hazardous waste generated (Tonnes),Generisani opasni otpad (tone),Произведени опасни отпад (тоне),Proizvedeni opasni otpad (tone),1,1
+EN_HAZ_IMP,Hazardous waste imported,Uvoz opasnog otpada (tone),Увоз опасног отпада,Uvoz opasnog otpada,1,1
+EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)","Generisani opasni otpad, po stanovniku (Kg)","Произведени опасни отпад, по становнику (Kg)","Proizvedeni opasni otpad, po stanovniku (Kg)",1,1
 EN_HAZ_TREATV,"Hazardous waste treated, by type of treatment","Opasni otpad tretiran, prema vrsti tretmana","Опасни отпад третиран, према врсти третмана","Opasni otpad tretiran, prema vrsti tretmana",1,1
 EN_LKRV_PWAC,Lakes and rivers permanent water area change (%),"Jezera i rijeke, trajne vodne promjene površine (%)","Језера и ријеке, трајне водне промјене површине (%)","Jezera i rijeke, trajne vodne promjene površine (%)",1,1
 EN_LKRV_PWAN,Lakes and rivers permanent water area (square kilometres),"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)","Језера и ријеке, трајно водно подручје (квадратних километара)","Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",1,1
@@ -68,9 +68,9 @@ EN_MAR_BEALITSQ,Beach litter per square kilometer,Dužina plaže po kvadratnom k
 EN_MAT_DOMCMPC,"Domestic material consumption per capita, by type of raw material","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine","Потрошња домаћих материјала по становнику, према врсти сировине","Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",23,2
 EN_MAT_DOMCMPG,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)","Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara)","Потрошња домаћих материјала, по јединици БДП-а, према врсти сировине (килограми по константи 2015 америчких долара)","Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",23,2
 EN_MAT_DOMCMPT,Domestic material consumption,Potrošnja domaćih materijala,Потрошња домаћих материјала,Potrošnja domaćih materijala,23,2
-EN_MWT_COLLV,Municipal waste generated,Prikupljeni komunalni otpad,Прикупљени комунални отпад,Prikupljeni komunalni otpad,1,1
-EN_MWT_GENV,Municipal waste generated,Stvoreni komunalni otpad,Stvoreni komunalni otpad,Stvoreni komunalni otpad,1,1
-EN_MWT_TREATR,"Municipal waste treated, by type of treatment",Obrađeni komunalni otpad prema vrsti obrade,Обрађени комунални отпад према врсти обраде,Obrađeni komunalni otpad prema vrsti obrade,1,1
+EN_MWT_COLLV,Municipal waste generated,Prikupljeni komunalni otpad (tone),Прикупљени комунални отпад,Prikupljeni komunalni otpad,1,1
+EN_MWT_GENV,Municipal waste generated,Generisani komunalni otpad (tone),Stvoreni komunalni otpad,Stvoreni komunalni otpad,1,1
+EN_MWT_TREATR,"Municipal waste treated, by type of treatment",Udio obrađenog komunalnog otpada prema vrsti obrade (%),Обрађени комунални отпад према врсти обраде,Obrađeni komunalni otpad prema vrsti obrade,1,1
 EN_REF_WASCOL,"Municipal Solid Waste collection coverage, by cities (%)","Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)","Покривеност прикупљеног комуналног чврстог отпада, по градовима (%)","Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)",1,1
 EN_RSRV_MNWAN,Reservoir minimum water area (square kilometres),Minimalna vodena površina rezervoara (kvadratni kilometri),Минимална водена површина резервоара (квадратни километри),Minimalna vodena površina rezervoara (kvadratni kilometri),1,1
 EN_RSRV_MNWAP,Reservoir minimum water area (% of total land area),Minimalna površina akumulacije (% ukupne površine kopna),Минимална површина акумулације (% укупне површине копна),Minimalna površina akumulacije (% ukupne površine kopna),1,1
@@ -78,7 +78,7 @@ EN_RSRV_MXWAN,Reservoir maximum water area (square kilometres),Maksimalna površ
 EN_RSRV_MXWAP,Reservoir maximum water area (% of total land area),Maksimalna površina akumulacije (% ukupne površine kopna),Максимална површина акумулације (% укупне површине копна),Maksimalna površina akumulacije (% ukupne površine kopna),1,1
 EN_SCP_FRMN,"Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement","Broj kompanija koje objavljuju izvještaje o održivosti s objavom po dimenzijama, prema nivou zahtjeva","Број компанија које објављују извјештаје о одрживости с објавом по димензијама, према нивоу захтјева","Broj tvrtki koje objavljuju izvješća o održivosti s objavom po dimenzijama, prema razini zahtjeva",2,1
 EN_SCP_FSHGDP,Sustainable fisheries as a proportion of GDP,Održivi ribolov kao udio u BDP-u,Одрживи риболов као удио у БДП-у,Održivi ribolov kao udio u BDP-u,1,1
-EN_TWT_GENV,"Total waste generation, by activity","Ukupno stvaranje otpada, prema djelatnostima","Укупно стварање отпада, према ђелатностима","Ukupno stvaranje otpada, prema djelatnostima",7,1
+EN_TWT_GENV,"Total waste generation, by activity","Ukupno generisani otpad, po djelatnosti (tone)","Укупно стварање отпада, према ђелатностима","Ukupno stvaranje otpada, prema djelatnostima",7,1
 EN_WBE_WTLN,Wetlands area (square kilometres),Močvarno područje (kvadratnih kilometara),Мочварно подручје (квадратни километри),Močvarno područje (kvadratnih kilometara),1,1
 EN_WBE_WTLP,Wetlands area (% of total land area),Močvarno područje (% od ukupne površine kopna),Мочварно подручје (% од укупне површине копна),Močvarno područje (% od ukupne površine kopna),1,1
 EN_WWT_GEN,Total wastewater generated (million m3/year),Ukupna generisana otpadna voda (milion m3/godišnje),купна генерисана отпадна вода (милион m3/годишње),Ukupna generisana otpadna voda (milion m3/godišnje),7,1
