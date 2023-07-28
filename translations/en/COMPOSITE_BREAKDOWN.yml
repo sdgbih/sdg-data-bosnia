@@ -102,5 +102,7 @@ parliamentary_committees: Parliamentary committees
 type_of_skill: Type of skill
 type_of_speed: Type of speed
 name_of_the_city: the name of the city
-C01: Banja Luka
-C02: Sarajevo
+BA_BANJA_LUKA: Banja Luka
+BA_SARAJEVO: Sarajevo
+BA_TUZLA: Tuzla
+BA_ZENICA: Zenica
