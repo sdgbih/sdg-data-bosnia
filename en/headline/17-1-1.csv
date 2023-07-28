@@ -16,7 +16,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,42.9602,Percent,Total government revenue as a proportion of GDP
 2018,43.0637,Percent,Total government revenue as a proportion of GDP
 2019,42.5493,Percent,Total government revenue as a proportion of GDP
-2020,43.4322,Percent,Total government revenue as a proportion of GDP
+2020,42.1273,Percent,Total government revenue as a proportion of GDP
+2021,43.301,Percent,Total government revenue as a proportion of GDP
 2003,3519.0779,Local currency (millions),"Total government revenue, in local currency"
 2004,3654.7027,Local currency (millions),"Total government revenue, in local currency"
 2005,7122.063,Local currency (millions),"Total government revenue, in local currency"
@@ -35,3 +36,4 @@ Year,Value,UNIT_MEASURE,SERIES
 2018,14402.2588,Local currency (millions),"Total government revenue, in local currency"
 2019,15018.0991,Local currency (millions),"Total government revenue, in local currency"
 2020,14430.7042,Local currency (millions),"Total government revenue, in local currency"
+2021,16052.7532,Local currency (millions),"Total government revenue, in local currency"
