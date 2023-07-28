@@ -37,8 +37,26 @@ EN_ATM_CO2: Carbon dioxide emissions from fuel combustion
 EN_ATM_CO2GDP: Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars)
 EN_ATM_CO2MVA: Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)
 EN_ATM_PM25: Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)
-EN_EWT_GENPCAP: Electronic waste generated, per capita (Kg)
 EN_EWT_GENV: Electronic waste generated (Tonnes)
+EN_EWT_GENPCAP: Electronic waste generated, per capita (Kg)
+EN_HAZ_GENV: Hazardous waste generated (Tonnes)
+EN_HAZ_PCAP: Hazardous waste generated, per capita (Kg)
+EN_HAZ_GENGDP: Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)
+EN_HAZ_TREATV: Hazardous waste treated, by type of treatment (Tonnes)
+EN_HAZ_TRTDISR: Proportion of hazardous waste treated or disposed (%)
+EN_HAZ_TRTDISV: Hazardous waste treated or disposed (Tonnes)
+EN_MWT_COLLV: Municipal waste collected (Tonnes)
+EN_MWT_TREATR: Proportion of municipal waste treated, by type of treatment (%)
+EN_MWT_GENV: Municipal waste generated (Tonnes)
+EN_EWT_COLLV: Electronic waste collected (Tonnes)
+EN_EWT_COLLPCAP: Electronic waste collected, per capita (KG)
+EN_EWT_COLLR: Proportion of electronic waste collected (%)
+EN_TWT_GENV: Total waste generation, by activity (Tonnes)
+EN_HAZ_EXP: Hazardous waste exported, (Tonnes)
+EN_HAZ_IMP: Hazardous waste imported, (Tonnes)
+EN_MWT_TREATV: Municipal waste treated by type of treatment (Tonnes)
+EN_MWT_IMP: Municipal waste imported (Tonnes)
+EN_MWT_EXP: Municipal waste exported (Tonnes)
 EN_EWT_RCYPCAP: Electronic waste recycling, per capita (Kg)
 EN_EWT_RCYR: Electronic waste recycling, rate (%)
 EN_EWT_RCYV: Electronic waste recycling (Tonnes)
@@ -46,9 +64,6 @@ EN_H2O_GRAMBQ: Proportion of groundwater bodies with good ambient water quality
 EN_H2O_OPAMBQ: Proportion of open water bodies with good ambient water quality
 EN_H2O_RVAMBQ: Proportion of river water bodies with good ambient water quality
 EN_H2O_WBAMBQ: Proportion of bodies of water with good ambient water quality
-EN_HAZ_GENGDP: Hazardous waste generated, per unit of GDP
-EN_HAZ_GENV: Hazardous waste generated (Tonnes)
-EN_HAZ_PCAP: Hazardous waste generated, per capita (Kg)
 EN_LND_SLUM: Proportion of urban population living in slums
 EN_LND_CNSPOP: Ratio of land consumption rate to population growth rate
 EN_MAT_DOMCMPC: Domestic material consumption per capita, by type of raw material
@@ -364,18 +379,8 @@ EN_WBE_WTLN: Wetlands area (square kilometres)
 SL_EMP_EARN: Average hourly earnings of employees by sex and occupation (local currency) 
 NV_IND_MANF_CD: Manufacturing value added (current United States dollars) as a proportion of GDP (%) 
 AG_FOOD_WST: Food waste (Tonnes) 
-AG_FOOD_WST_PC: Food waste per capita (KG) 
-EN_EWT_COLLV: Electronic waste collected
-EN_EWT_COLLPCAP: Electronic waste collected, per capita 
-EN_EWT_COLLR: Electronic waste collection rate
-EN_HAZ_EXP: Hazardous waste exported
-EN_HAZ_IMP: Hazardous waste imported
-EN_MWT_COLLV: Municipal waste generated
-EN_MWT_GENV: Municipal waste generated
-EN_MWT_TREATR: Municipal waste treated, by type of treatment 
-EN_TWT_GENV: Total waste generation, by activity
+AG_FOOD_WST_PC: Food waste per capita (KG)
 EN_SCP_FRMN: Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement
-EN_HAZ_TREATV: Hazardous waste treated, by type of treatment
 EN_ATM_GHGT_NAIP: Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent) 
 EN_MAR_BEALITSQ: Beach litter per square kilometer
 ER_RSK_LSTI: Red List Index 
