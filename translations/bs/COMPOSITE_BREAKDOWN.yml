@@ -85,13 +85,13 @@ MARINE: Morska energija
 MULTIPLE: Višestruki obnovljivi izvori energije
 SOLAR: Sunčeva energija
 WIND: Energija vjetra
-ALLDOMAINS: Ukupno
-DOMAIN1: Prava migranata
-DOMAIN2: Sveobuhvatne politike, politike zasnovane na dokazima
-DOMAIN3: Saradnja i partnerstva
-DOMAIN4: Socioekonomsko blagostanje
-DOMAIN5: Dimenzije krizne mobilnosti
-DOMAIN6: Sigurna, uredna i redovna migracija
+ALLDOMAINS: "Ukupno"
+DOMAIN1: "Prava migranata"
+DOMAIN2: "Sveobuhvatne politike, politike zasnovane na dokazima"
+DOMAIN3: "Saradnja i partnerstva"
+DOMAIN4: "Socioekonomsko blagostanje"
+DOMAIN5: "Dimenzije krizne mobilnosti"
+DOMAIN6: "Sigurna, uredna i redovna migracija"
 Policy_Domains: Domenske politike
 Type_of_renewable_technology: Vrsta obnovljive tehnologije
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
