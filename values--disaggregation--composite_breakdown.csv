@@ -2,8 +2,8 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 _T,_T,Bez podjele,_T,Bez podjele,2,1
 ALL,ALL,Svi obnovljivi izvori energije,ALL,Svi obnovljivi izvori energije,1,1
 BIOENERGY,BIOENERGY,Bioenergija,BIOENERGY,Bioenergija,1,1
-C01,C01,Banja Luka,C01,Banja Luka,1,1
-C02,C02,Sarajevo,C02,Sarajevo,1,1
+C01,C01,C01,C01,Banja Luka,1,1
+C02,C02,C02,C02,Sarajevo,1,1
 CAN,CAN,Rak,CAN,Rak,3,1
 CAR,CAR,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
 DIA,DIA,Dijabetes,DIA,Dijabetes,3,1
