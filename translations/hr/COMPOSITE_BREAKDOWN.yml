@@ -102,5 +102,8 @@ parliamentary_committees: Parlamentarni odbori
 type_of_skill: Vrsta vještine
 type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
-C01: Banja Luka
-C02: Sarajevo
+BA_BANJA_LUKA: Banja Luka
+BA_SARAJEVO: Sarajevo
+BA_TUZLA: Tuzla
+BA_ZENICA: Zenica
+
