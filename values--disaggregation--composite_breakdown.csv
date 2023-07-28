@@ -1,10 +1,10 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,_T,Bez podjele,_T,Bez podjele,2,1
 ALL,ALL,Svi obnovljivi izvori energije,ALL,Svi obnovljivi izvori energije,1,1
-BA_BANJA_LUKA,BA_BANJA_LUKA,Banja Luka,BA_BANJA_LUKA,Banja Luka,1,1
-BA_SARAJEVO,BA_SARAJEVO,Sarajevo,BA_SARAJEVO,Sarajevo,1,1
-BA_TUZLA,BA_TUZLA,Tuzla,BA_TUZLA,Tuzla,1,1
-BA_ZENICA,BA_ZENICA,Zenica,BA_ZENICA,Zenica,1,1
+BA_BANJA_LUKA,BA_BANJA_LUKA,Banja Luka,BA_BANJA_LUKA,Banja Luka,2,2
+BA_SARAJEVO,BA_SARAJEVO,Sarajevo,BA_SARAJEVO,Sarajevo,2,2
+BA_TUZLA,BA_TUZLA,Tuzla,BA_TUZLA,Tuzla,2,2
+BA_ZENICA,BA_ZENICA,Zenica,BA_ZENICA,Zenica,2,2
 BIOENERGY,BIOENERGY,Bioenergija,BIOENERGY,Bioenergija,1,1
 CAN,CAN,Rak,CAN,Rak,3,1
 CAR,CAR,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
