@@ -92,6 +92,10 @@ DOMAIN3: "Suradnja i partnerstvo"
 DOMAIN4: "Socioekonomsko blagostanje"
 DOMAIN5: "Dimenzije krizne mobilnosti"
 DOMAIN6: "Sigurna, uredna i redovita migracija"
+BA_BANJA_LUKA: Banja Luka
+BA_SARAJEVO: Sarajevo
+BA_TUZLA: Tuzla
+BA_ZENICA: Zenica
 Policy_Domains: Domenske politike
 Type_of_renewable_technology: Vrsta obnovljive tehnologije
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
@@ -102,8 +106,3 @@ parliamentary_committees: Parlamentarni odbori
 type_of_skill: Vrsta vještine
 type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
-BA_BANJA_LUKA: Banja Luka
-BA_SARAJEVO: Sarajevo
-BA_TUZLA: Tuzla
-BA_ZENICA: Zenica
-
