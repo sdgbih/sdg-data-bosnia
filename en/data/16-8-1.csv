@@ -1,59 +1,59 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2016,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5319
-2017,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2018,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2019,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2020,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2021,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2022,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IBRD,0.5291
-2016,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5435
-2017,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5435
-2018,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5435
-2019,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5435
-2020,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5405
-2021,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5405
-2021,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IFC,0.5376
-2016,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5319
-2017,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5291
-2018,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5291
-2019,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5291
-2020,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5291
-2021,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5263
-2022,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_IMF,0.5263
-2016,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2017,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2018,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2019,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2020,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2021,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2022,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2010,"Proportion of members of developing countries in international organizations, by organization",Percent,IO_UNSC,
-2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.05
-2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.057
-2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.0637
-2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.063
-2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.0621
-2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.0632
-2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IBRD,0.0634
-2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.053
-2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.053
-2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.053
-2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.0525
-2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.0528
-2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.0568
-2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IFC,0.0607
-2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.063
-2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0818
-2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0818
-2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0818
-2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0818
-2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0816
-2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_IMF,0.0822
-2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNGA,0.5181
-2010,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,IO_UNSC,
+2016,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5319
+2017,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2018,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2019,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2020,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2021,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2022,"Proportion of members of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.5291
+2016,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5435
+2017,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5435
+2018,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5435
+2019,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5435
+2020,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5405
+2021,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5405
+2021,"Proportion of members of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.5376
+2016,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5319
+2017,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5291
+2018,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5291
+2019,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5291
+2020,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5291
+2021,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5263
+2022,"Proportion of members of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.5263
+2016,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2017,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2018,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2019,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2020,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2021,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2022,"Proportion of members of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2010,"Proportion of members of developing countries in international organizations, by organization",Percent,UN Security Council,
+2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.05
+2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.057
+2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.0637
+2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.063
+2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.0621
+2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.0632
+2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Bank for Reconstruction and Development,0.0634
+2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.053
+2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.053
+2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.053
+2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.0525
+2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.0528
+2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.0568
+2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Finance Corporation,0.0607
+2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.063
+2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0818
+2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0818
+2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0818
+2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0818
+2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0816
+2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,International Monetary Fund,0.0822
+2016,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2017,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2018,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2019,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2020,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2021,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2022,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN General Assembly,0.5181
+2010,"Proportion of voting rights of developing countries in international organizations, by organization",Percent,UN Security Council,

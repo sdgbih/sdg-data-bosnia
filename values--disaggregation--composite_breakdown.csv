@@ -1,84 +1,84 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,_T,Bez podjele,_T,Bez podjele,2,1
-ALL,ALL,Svi obnovljivi izvori energije,ALL,Svi obnovljivi izvori energije,1,1
-BA_BANJA_LUKA,BA_BANJA_LUKA,Banja Luka,BA_BANJA_LUKA,Banja Luka,2,2
-BA_SARAJEVO,BA_SARAJEVO,Sarajevo,BA_SARAJEVO,Sarajevo,2,2
-BA_TUZLA,BA_TUZLA,Tuzla,BA_TUZLA,Tuzla,2,2
-BA_ZENICA,BA_ZENICA,Zenica,BA_ZENICA,Zenica,2,2
-BIOENERGY,BIOENERGY,Bioenergija,BIOENERGY,Bioenergija,1,1
-CAN,CAN,Rak,CAN,Rak,3,1
-CAR,CAR,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
-DIA,DIA,Dijabetes,DIA,Dijabetes,3,1
-GEOTHERMAL,GEOTHERMAL,Geotermalna energija,GEOTHERMAL,Geotermalna energija,1,1
-HYDROPOWER,HYDROPOWER,Hidroenergija,HYDROPOWER,Hidroenergija,1,1
-IHR_01,IHR_01,"Nacionalno zakonodavstvo, politika i finansiranje",IHR_01,"Nacionalno zakonodavstvo, politika i financiranje",1,1
-IHR_02,IHR_02,Koordinacija i nacionalna kontakt tačka za komunikaciju,IHR_02,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
-IHR_03,IHR_03,Nadzor,IHR_03,Nadzor,1,1
-IHR_04,IHR_04,Odgovor,IHR_04,Odgovor,1,1
-IHR_05,IHR_05,Spremnost,IHR_05,Spremnost,1,1
-IHR_06,IHR_06,Komunikacija o riziku,IHR_06,Komunikacija o riziku,1,1
-IHR_07,IHR_07,Ljudski resursi,IHR_07,Ljudski resursi,1,1
-IHR_08,IHR_08,Laboratorija,IHR_08,Laboratorija,1,1
-IHR_09,IHR_09,Tačke ulaska,IHR_09,Točke ulaska,1,1
-IHR_10,IHR_10,Zoonotski događaji,IHR_10,Zoonotski događaji,1,1
-IHR_11,IHR_11,Sigurnost hrane,IHR_11,Sigurnost hrane,1,1
-IHR_12,IHR_12,Hemijski događaji,IHR_12,Kemijski događaji,1,1
-IHR_13,IHR_13,Vanredne situacije u vezi sa zračenjem,IHR_13,Izvanredne situacije u vezi sa zračenjem,1,1
-IO_IBRD,IO_IBRD,Međunarodna banka za obnovu i razvoj,IO_IBRD,Međunarodna banka za obnovu i razvitak,4,2
-IO_IFC,IO_IFC,Međunarodna finansijska korporacija,IO_IFC,Međunarodna financijska korporacija,4,2
-IO_IMF,IO_IMF,Međunarodni monetarni fond,IO_IMF,Međunarodni monetarni fond,4,2
-IO_UNGA,IO_UNGA,Generalna skupština UN-a,IO_UNGA,Generalna skupština UN-a,4,2
-IO_UNSC,IO_UNSC,Vijeće sigurnosti UN-a,IO_UNSC,Vijeće sigurnosti UN-a,4,2
-IS_256KT2M,IS_256KT2M,256 kbit/s do manje od 2 Mbit/s,IS_256KT2M,256 kbit/s do manje od 2 Mbit/s,2,1
-IS_2MT10M,IS_2MT10M,2 Mbit/s do manje od 10 Mbit/s,IS_2MT10M,2 Mbit/s do manje od 10 Mbit/s,2,1
-IS_GE10M,IS_GE10M,10 Mbit/s ili više,IS_GE10M,10 Mbit/s ili više,2,1
-MARINE,MARINE,Morska energija,MARINE,Morska energija,1,1
-MOT_AIR,MOT_AIR,Zračni,MOT_AIR,Zračni,2,1
-MOT_IWW,MOT_IWW,Unutrašnji plovni put,MOT_IWW,Unutarnji plovni put,1,1
-MOT_RAI,MOT_RAI,Željeznički,MOT_RAI,Željeznički,2,1
-MOT_ROA,MOT_ROA,Cestovni,MOT_ROA,Cestovni,2,1
-MULTIPLE,MULTIPLE,Višestruki obnovljivi izvori energije,MULTIPLE,Više obnovljivih izvora,1,1
-RES,RES,Hronična respiratorna bolest,RES,Kronična respiratorna bolest,3,1
-SKILL_ICTARSP,SKILL_ICTARSP,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,SKILL_ICTARSP,Korištenje osnovne aritmetičke formule u proračunskoj tablici,16,2
-SKILL_ICTCMFL,SKILL_ICTCMFL,Kopiranje ili premještanje datoteke ili mape,SKILL_ICTCMFL,Kopiranje ili premještanje datoteke ili mape,16,2
-SKILL_ICTCOPA,SKILL_ICTCOPA,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,SKILL_ICTCOPA,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,16,2
-SKILL_ICTEMAIL,SKILL_ICTEMAIL,Slanje e-pošte s priloženim datotekama,SKILL_ICTEMAIL,Slanje e-pošte s priloženim datotekama,16,2
-SKILL_ICTEPRS,SKILL_ICTEPRS,Izrada elektronskih prezentacija pomoću softvera za prezentacije,SKILL_ICTEPRS,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,16,2
-SKILL_ICTPCPR,SKILL_ICTPCPR,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,SKILL_ICTPCPR,Pisanje računarskog programa pomoću specijaliziranog programskog jezika,16,2
-SKILL_ICTSOFT,SKILL_ICTSOFT,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",SKILL_ICTSOFT,"Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",16,2
-SKILL_ICTTRAF,SKILL_ICTTRAF,Prijenos datoteka između računara i drugih uređaja,SKILL_ICTTRAF,Prijenos datoteka između računara i drugih uređaja,16,2
-SKILL_INST,SKILL_INST,Povezivanje i instalacija novih uređaja,SKILL_INST,Povezivanje i instalacija novih uređaja,16,2
-SKILL_MATH,SKILL_MATH,Matematika,SKILL_MATH,Matematika,9,2
-SKILL_PRVCY,SKILL_PRVCY,"Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",SKILL_PRVCY,"Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",16,2
-SKILL_READ,SKILL_READ,Čitanje,SKILL_READ,Čitanje,8,2
-SKILL_SCRTY,SKILL_SCRTY,"Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa",SKILL_SCRTY,"Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa",16,2
-SOLAR,SOLAR,Sunčeva energija,SOLAR,Sunčeva energija,1,1
-SPAR2-C01,SPAR2-C01,"Politički, pravni i normativni instrumenti za implementaciju IHR-a (2021)",SPAR2-C01,"Politika, pravni i normativni instrumenti za provedbu IHR-a (2021)",1,1
-SPAR2-C02,SPAR2-C02,"Koordinacija IHR-a, funkcije nacionalne kontakt tačke za IHR i zastupanje (2021)",SPAR2-C02,"Koordinacija IHR-a, funkcije nacionalne kontaktne točke IHR-a i zastupanje (2021)",1,1
-SPAR2-C03,SPAR2-C03,Finansiranje (2021),SPAR2-C03,Financiranje (2021),1,1
-SPAR2-C04,SPAR2-C04,Laboratorija (2021),SPAR2-C04,Laboratorija (2021),1,1
-SPAR2-C05,SPAR2-C05,Nadzor (2021),SPAR2-C05,Nadzor (2021),1,1
-SPAR2-C06,SPAR2-C06,Ljudski resursi (2021),SPAR2-C06,Ljudski resursi (2021),1,1
-SPAR2-C07,SPAR2-C07,Upravljanje hitnim zdravstvenim situacijama (2021),SPAR2-C07,Upravljanje hitnim zdravstvenim slučajevima (2021),1,1
-SPAR2-C08,SPAR2-C08,Pružanje zdravstvenih usluga (2021),SPAR2-C08,Pružanje zdravstvenih usluga (2021),1,1
-SPAR2-C09,SPAR2-C09,Prevencija i kontrola infekcija (IPC) (2021),SPAR2-C09,Prevencija i kontrola infekcija (IPC) (2021),1,1
-SPAR2-C10,SPAR2-C10,Komunikacija o riziku i angažman zajednice (RCCE) (2021),SPAR2-C10,Komunikacija o riziku i angažman zajednice (RCCE) (2021),1,1
-SPAR2-C11,SPAR2-C11,Ulazne tačke (PoE) i zdravlje granica (2021),SPAR2-C11,Ulazne točke (PoE) i zdravlje granica (2021),1,1
-SPAR2-C12,SPAR2-C12,Zoonotske bolesti (2021),SPAR2-C12,Zoonotske bolesti (2021),1,1
-SPAR2-C13,SPAR2-C13,Sigurnost hrane (2021),SPAR2-C13,Sigurnost hrane (2021),1,1
-SPAR2-C14,SPAR2-C14,Hemijski događaji (2021),SPAR2-C14,Kemijski događaji (2021),1,1
-SPAR2-C15,SPAR2-C15,Hitni slučajevi radijacije (2021),SPAR2-C15,Hitni slučajevi radijacije (2021),1,1
-SPAR_01,SPAR_01,Zakonodavstvo i finansiranje,SPAR_01,Zakonodavstvo i financiranje,1,1
-SPAR_02,SPAR_02,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,SPAR_02,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,1,1
-SPAR_03,SPAR_03,Zoonotski događaji i sučelje čovjeka i životinje,SPAR_03,Zoonotski događaji i sučelje čovjeka i životinje,1,1
-SPAR_04,SPAR_04,Sigurnost hrane,SPAR_04,Sigurnost hrane,1,1
-SPAR_05,SPAR_05,Laboratorija,SPAR_05,Laboratorija,1,1
-SPAR_06,SPAR_06,Nadzor,SPAR_06,Nadzor,1,1
-SPAR_07,SPAR_07,Ljudski resursi,SPAR_07,Ljudski resursi,1,1
-SPAR_08,SPAR_08,Nacionalni okvir za hitnu medicinsku pomoć,SPAR_08,Nacionalni okvir za hitnu medicinsku pomoć,1,1
-SPAR_09,SPAR_09,Pružanje zdravstvene usluge,SPAR_09,Pružanje zdravstvene usluge,1,1
-SPAR_10,SPAR_10,Komunikacija o riziku,SPAR_10,Komunikacija o riziku,1,1
-SPAR_11,SPAR_11,Tačke ulaska,SPAR_11,Točke ulaska,1,1
-SPAR_12,SPAR_12,Hemijski događaji,SPAR_12,Kemijski događaji,1,1
-SPAR_13,SPAR_13,Vanredne situacije u vezi sa zračenjem,SPAR_13,Izvanredne situacije u vezi sa zračenjem,1,1
-WIND,WIND,Energija vjetra,WIND,Energija vjetra,1,1
+_T,No breakdown,Bez podjele,_T,Bez podjele,2,1
+ALL,All renewables,Svi obnovljivi izvori energije,ALL,Svi obnovljivi izvori energije,1,1
+BA_BANJA_LUKA,Banja Luka,Banja Luka,BA_BANJA_LUKA,Banja Luka,2,2
+BA_SARAJEVO,Sarajevo,Sarajevo,BA_SARAJEVO,Sarajevo,2,2
+BA_TUZLA,Tuzla,Tuzla,BA_TUZLA,Tuzla,2,2
+BA_ZENICA,Zenica,Zenica,BA_ZENICA,Zenica,2,2
+BIOENERGY,Bioenergy,Bioenergija,BIOENERGY,Bioenergija,1,1
+CAN,Cancer,Rak,CAN,Rak,3,1
+CAR,Cardiovascular disease,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
+DIA,Diabetes,Dijabetes,DIA,Dijabetes,3,1
+GEOTHERMAL,Geothermal energy,Geotermalna energija,GEOTHERMAL,Geotermalna energija,1,1
+HYDROPOWER,Hydropower,Hidroenergija,HYDROPOWER,Hidroenergija,1,1
+IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje",IHR_01,"Nacionalno zakonodavstvo, politika i financiranje",1,1
+IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,IHR_02,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
+IHR_03,Surveillance,Nadzor,IHR_03,Nadzor,1,1
+IHR_04,Response,Odgovor,IHR_04,Odgovor,1,1
+IHR_05,Preparedness,Spremnost,IHR_05,Spremnost,1,1
+IHR_06,Risk communication,Komunikacija o riziku,IHR_06,Komunikacija o riziku,1,1
+IHR_07,Human resources,Ljudski resursi,IHR_07,Ljudski resursi,1,1
+IHR_08,Laboratory,Laboratorija,IHR_08,Laboratorija,1,1
+IHR_09,Points of entry,Tačke ulaska,IHR_09,Točke ulaska,1,1
+IHR_10,Zoonotic events,Zoonotski događaji,IHR_10,Zoonotski događaji,1,1
+IHR_11,Food safety,Sigurnost hrane,IHR_11,Sigurnost hrane,1,1
+IHR_12,Chemical events,Hemijski događaji,IHR_12,Kemijski događaji,1,1
+IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,IHR_13,Izvanredne situacije u vezi sa zračenjem,1,1
+IO_IBRD,International Bank for Reconstruction and Development,Međunarodna banka za obnovu i razvoj,IO_IBRD,Međunarodna banka za obnovu i razvitak,4,2
+IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,IO_IFC,Međunarodna financijska korporacija,4,2
+IO_IMF,International Monetary Fund,Međunarodni monetarni fond,IO_IMF,Međunarodni monetarni fond,4,2
+IO_UNGA,UN General Assembly,Generalna skupština UN-a,IO_UNGA,Generalna skupština UN-a,4,2
+IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,IO_UNSC,Vijeće sigurnosti UN-a,4,2
+IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,IS_256KT2M,256 kbit/s do manje od 2 Mbit/s,2,1
+IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,IS_2MT10M,2 Mbit/s do manje od 10 Mbit/s,2,1
+IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,IS_GE10M,10 Mbit/s ili više,2,1
+MARINE,Marine energy,Morska energija,MARINE,Morska energija,1,1
+MOT_AIR,Aire,Zračni,MOT_AIR,Zračni,2,1
+MOT_IWW,Inland waterway transport,Unutrašnji plovni put,MOT_IWW,Unutarnji plovni put,1,1
+MOT_RAI,Rail,Željeznički,MOT_RAI,Željeznički,2,1
+MOT_ROA,Road,Cestovni,MOT_ROA,Cestovni,2,1
+MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,MULTIPLE,Više obnovljivih izvora,1,1
+RES,Chronic respiratory disease,Hronična respiratorna bolest,RES,Kronična respiratorna bolest,3,1
+SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,SKILL_ICTARSP,Korištenje osnovne aritmetičke formule u proračunskoj tablici,16,2
+SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,SKILL_ICTCMFL,Kopiranje ili premještanje datoteke ili mape,16,2
+SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,SKILL_ICTCOPA,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,16,2
+SKILL_ICTEMAIL,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,SKILL_ICTEMAIL,Slanje e-pošte s priloženim datotekama,16,2
+SKILL_ICTEPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,SKILL_ICTEPRS,Izrada elektroničkih prezentacija pomoću softvera za prezentacije,16,2
+SKILL_ICTPCPR,Writing a computer program using a specialized programming language,Pisanje računarskog programa pomoću specijalizovanog programskog jezika,SKILL_ICTPCPR,Pisanje računarskog programa pomoću specijaliziranog programskog jezika,16,2
+SKILL_ICTSOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",SKILL_ICTSOFT,"Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",16,2
+SKILL_ICTTRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,SKILL_ICTTRAF,Prijenos datoteka između računara i drugih uređaja,16,2
+SKILL_INST,Connecting and installing new devices,Povezivanje i instalacija novih uređaja,SKILL_INST,Povezivanje i instalacija novih uređaja,16,2
+SKILL_MATH,Mathematics,Matematika,SKILL_MATH,Matematika,9,2
+SKILL_PRVCY,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",SKILL_PRVCY,"Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",16,2
+SKILL_READ,Reading,Čitanje,SKILL_READ,Čitanje,8,2
+SKILL_SCRTY,"Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts","Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa",SKILL_SCRTY,"Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i mrežnih računa",16,2
+SOLAR,Solar energy,Sunčeva energija,SOLAR,Sunčeva energija,1,1
+SPAR2-C01,"Policy, Legal and normative Instruments to implement IHR (2021)","Politički, pravni i normativni instrumenti za implementaciju IHR-a (2021)",SPAR2-C01,"Politika, pravni i normativni instrumenti za provedbu IHR-a (2021)",1,1
+SPAR2-C02,"IHR Coordination, National IHR Focal Point functions, and advocacy (2021)","Koordinacija IHR-a, funkcije nacionalne kontakt tačke za IHR i zastupanje (2021)",SPAR2-C02,"Koordinacija IHR-a, funkcije nacionalne kontaktne točke IHR-a i zastupanje (2021)",1,1
+SPAR2-C03,Financing (2021),Finansiranje (2021),SPAR2-C03,Financiranje (2021),1,1
+SPAR2-C04,Laboratory (2021),Laboratorija (2021),SPAR2-C04,Laboratorija (2021),1,1
+SPAR2-C05,Surveillance (2021),Nadzor (2021),SPAR2-C05,Nadzor (2021),1,1
+SPAR2-C06,Human resources (2021),Ljudski resursi (2021),SPAR2-C06,Ljudski resursi (2021),1,1
+SPAR2-C07,Health emergency management (2021),Upravljanje hitnim zdravstvenim situacijama (2021),SPAR2-C07,Upravljanje hitnim zdravstvenim slučajevima (2021),1,1
+SPAR2-C08,Health services provision (2021),Pružanje zdravstvenih usluga (2021),SPAR2-C08,Pružanje zdravstvenih usluga (2021),1,1
+SPAR2-C09,Infection prevention and control (IPC) (2021),Prevencija i kontrola infekcija (IPC) (2021),SPAR2-C09,Prevencija i kontrola infekcija (IPC) (2021),1,1
+SPAR2-C10,Risk communication and community engagement (RCCE) (2021),Komunikacija o riziku i angažman zajednice (RCCE) (2021),SPAR2-C10,Komunikacija o riziku i angažman zajednice (RCCE) (2021),1,1
+SPAR2-C11,Points of entry (PoEs) and border health(2021),Ulazne tačke (PoE) i zdravlje granica (2021),SPAR2-C11,Ulazne točke (PoE) i zdravlje granica (2021),1,1
+SPAR2-C12,Zoonotic diseases (2021),Zoonotske bolesti (2021),SPAR2-C12,Zoonotske bolesti (2021),1,1
+SPAR2-C13,Food safety (2021),Sigurnost hrane (2021),SPAR2-C13,Sigurnost hrane (2021),1,1
+SPAR2-C14,Chemical events (2021),Hemijski događaji (2021),SPAR2-C14,Kemijski događaji (2021),1,1
+SPAR2-C15,Radiation emergencies (2021),Hitni slučajevi radijacije (2021),SPAR2-C15,Hitni slučajevi radijacije (2021),1,1
+SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,SPAR_01,Zakonodavstvo i financiranje,1,1
+SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,SPAR_02,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,1,1
+SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,SPAR_03,Zoonotski događaji i sučelje čovjeka i životinje,1,1
+SPAR_04,Food safety,Sigurnost hrane,SPAR_04,Sigurnost hrane,1,1
+SPAR_05,Laboratory,Laboratorija,SPAR_05,Laboratorija,1,1
+SPAR_06,Surveillance,Nadzor,SPAR_06,Nadzor,1,1
+SPAR_07,Human resources,Ljudski resursi,SPAR_07,Ljudski resursi,1,1
+SPAR_08,National Health Emergency Framework,Nacionalni okvir za hitnu medicinsku pomoć,SPAR_08,Nacionalni okvir za hitnu medicinsku pomoć,1,1
+SPAR_09,Health Service Provision,Pružanje zdravstvene usluge,SPAR_09,Pružanje zdravstvene usluge,1,1
+SPAR_10,Risk Communication,Komunikacija o riziku,SPAR_10,Komunikacija o riziku,1,1
+SPAR_11,Points of entry,Tačke ulaska,SPAR_11,Točke ulaska,1,1
+SPAR_12,Chemical events,Hemijski događaji,SPAR_12,Kemijski događaji,1,1
+SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,SPAR_13,Izvanredne situacije u vezi sa zračenjem,1,1
+WIND,Wind energy,Energija vjetra,WIND,Energija vjetra,1,1
