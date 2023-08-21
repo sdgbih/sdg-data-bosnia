@@ -92,6 +92,10 @@ DOMAIN3: "Сарадња и партнерства"
 DOMAIN4: "Социоекономско благостање"	
 DOMAIN5: "Димензије кризнe мобилности" 
 DOMAIN6: "Безбjедна, уређена и регуларна миграција"
+BA_BANJA_LUKA: Бања Лука
+BA_SARAJEVO: Сарајевo
+BA_TUZLA: Тузла
+BA_ZENICA: Зеница
 Policy_Domains: Доменске политике
 Type_of_renewable_technology: Врста обновљиве технологије
 ihr_capacity: Капацитет Међународних здравствених прописа (IHR)
@@ -102,7 +106,3 @@ parliamentary_committees: Парламентарни одбори
 type_of_skill: Врста вјештине
 type_of_speed: Врста брзине
 name_of_the_city: Име града
-BA_BANJA_LUKA: Бања Лука
-BA_SARAJEVO: Сарајевo
-BA_TUZLA: Тузла
-BA_ZENICA: Зеница
