@@ -96,7 +96,7 @@ BA_BANJA_LUKA: Banja Luka
 BA_SARAJEVO: Sarajevo
 BA_TUZLA: Tuzla
 BA_ZENICA: Zenica
-Policy_Domains: Domenske politike
+policy_domains: Domenske politike
 Type_of_renewable_technology: Vrsta obnovljive tehnologije
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
 mode_of_transportation: Način transporta
