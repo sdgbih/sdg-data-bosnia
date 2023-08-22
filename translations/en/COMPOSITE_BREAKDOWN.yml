@@ -96,7 +96,7 @@ BA_BANJA_LUKA: Banja Luka
 BA_SARAJEVO: Sarajevo
 BA_TUZLA: Tuzla
 BA_ZENICA: Zenica
-Policy_Domains: Policy domains
+policy_domains: Policy domains
 Type_of_renewable_technology: Type of renewable technology
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
