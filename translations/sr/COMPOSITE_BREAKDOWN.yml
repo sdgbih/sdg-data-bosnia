@@ -96,7 +96,7 @@ BA_BANJA_LUKA: Бања Лука
 BA_SARAJEVO: Сарајевo
 BA_TUZLA: Тузла
 BA_ZENICA: Зеница
-Policy_Domains: Доменске политике
+policy_domains: Доменске политике
 Type_of_renewable_technology: Врста обновљиве технологије
 ihr_capacity: Капацитет Међународних здравствених прописа (IHR)
 mode_of_transportation: Начин транспорта
