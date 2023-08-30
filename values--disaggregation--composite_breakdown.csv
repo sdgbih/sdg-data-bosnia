@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,No breakdown,Bez podjele,_T,Bez podjele,2,1
 ALL,All renewables,Svi obnovljivi izvori energije,ALL,Svi obnovljivi izvori energije,1,1
+ALLDOMAINS,Total,Ukupno,ALLDOMAINS,Ukupno,1,1
 BA_BANJA_LUKA,Banja Luka,Banja Luka,BA_BANJA_LUKA,Banja Luka,2,2
 BA_SARAJEVO,Sarajevo,Sarajevo,BA_SARAJEVO,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,BA_TUZLA,Tuzla,2,2
@@ -9,6 +10,12 @@ BIOENERGY,Bioenergy,Bioenergija,BIOENERGY,Bioenergija,1,1
 CAN,Cancer,Rak,CAN,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,CAR,Kardiovaskularne bolesti,3,1
 DIA,Diabetes,Dijabetes,DIA,Dijabetes,3,1
+DOMAIN1,Rights of migrants,Prava migranata,DOMAIN1,Prava migranata,1,1
+DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima",DOMAIN2,"Sveobuhvatne politike, politike utemeljene na dokazima",1,1
+DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,DOMAIN3,Suradnja i partnerstvo,1,1
+DOMAIN4,Socioeconomic well - being,Socioekonomsko blagostanje,DOMAIN4,Socioekonomsko blagostanje,1,1
+DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,DOMAIN5,Dimenzije krizne mobilnosti,1,1
+DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija",DOMAIN6,"Sigurna, uredna i redovita migracija",1,1
 GEOTHERMAL,Geothermal energy,Geotermalna energija,GEOTHERMAL,Geotermalna energija,1,1
 HYDROPOWER,Hydropower,Hidroenergija,HYDROPOWER,Hidroenergija,1,1
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje",IHR_01,"Nacionalno zakonodavstvo, politika i financiranje",1,1
