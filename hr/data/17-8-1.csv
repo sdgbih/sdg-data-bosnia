@@ -1,21 +1,30 @@
-Year,SERIES,UNIT_MEASURE,Value
-2000,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,1.083
-2001,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,1.201
-2002,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,2.648
-2003,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,3.965
-2004,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,15.469
-2005,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,21.327
-2006,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,25.122
-2007,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,27.92
-2008,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,34.66
-2009,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,37.74
-2010,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,42.75
-2011,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,43.888
-2012,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,45.065
-2013,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,48.521
-2014,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,49.918
-2015,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,52.6
-2016,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,60.257
-2017,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,64.892
-2018,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,70.12
-2019,Korisnici interneta na 100 stanovnika,Na 100 stanovnika,69.946
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2005,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,21.33
+2006,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,25.12
+2007,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,27.92
+2008,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,34.66
+2009,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,37.74
+2010,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,42.75
+2011,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,43.89
+2012,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,45.06
+2013,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,48.52
+2014,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,49.92
+2015,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,52.6
+2016,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,60.26
+2016,Korisnici interneta na 100 stanovnika,Postotak,Žene,57.31
+2016,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,63.59
+2017,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,64.89
+2017,Korisnici interneta na 100 stanovnika,Postotak,Žene,62.49
+2017,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,67.58
+2018,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,70.12
+2018,Korisnici interneta na 100 stanovnika,Postotak,Žene,68.34
+2018,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,72.4
+2019,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,69.95
+2019,Korisnici interneta na 100 stanovnika,Postotak,Žene,67.45
+2019,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,72.82
+2020,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,73.21
+2020,Korisnici interneta na 100 stanovnika,Postotak,Žene,69.31
+2020,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,77.82
+2021,Korisnici interneta na 100 stanovnika,Postotak,Oba spola ili bez podjele po spolu,75.68
+2021,Korisnici interneta na 100 stanovnika,Postotak,Žene,72.66
+2021,Korisnici interneta na 100 stanovnika,Postotak,Muškarci,79.18

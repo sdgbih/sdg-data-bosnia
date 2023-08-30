@@ -1,21 +1,30 @@
-Year,SERIES,UNIT_MEASURE,Value
-2000,Internet users per 100 inhabitants,Per 100 population,1.083
-2001,Internet users per 100 inhabitants,Per 100 population,1.201
-2002,Internet users per 100 inhabitants,Per 100 population,2.648
-2003,Internet users per 100 inhabitants,Per 100 population,3.965
-2004,Internet users per 100 inhabitants,Per 100 population,15.469
-2005,Internet users per 100 inhabitants,Per 100 population,21.327
-2006,Internet users per 100 inhabitants,Per 100 population,25.122
-2007,Internet users per 100 inhabitants,Per 100 population,27.92
-2008,Internet users per 100 inhabitants,Per 100 population,34.66
-2009,Internet users per 100 inhabitants,Per 100 population,37.74
-2010,Internet users per 100 inhabitants,Per 100 population,42.75
-2011,Internet users per 100 inhabitants,Per 100 population,43.888
-2012,Internet users per 100 inhabitants,Per 100 population,45.065
-2013,Internet users per 100 inhabitants,Per 100 population,48.521
-2014,Internet users per 100 inhabitants,Per 100 population,49.918
-2015,Internet users per 100 inhabitants,Per 100 population,52.6
-2016,Internet users per 100 inhabitants,Per 100 population,60.257
-2017,Internet users per 100 inhabitants,Per 100 population,64.892
-2018,Internet users per 100 inhabitants,Per 100 population,70.12
-2019,Internet users per 100 inhabitants,Per 100 population,69.946
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2005,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,21.33
+2006,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,25.12
+2007,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,27.92
+2008,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,34.66
+2009,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,37.74
+2010,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,42.75
+2011,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,43.89
+2012,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,45.06
+2013,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,48.52
+2014,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,49.92
+2015,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,52.6
+2016,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,60.26
+2016,Internet users per 100 inhabitants,Percent,Female,57.31
+2016,Internet users per 100 inhabitants,Percent,Male,63.59
+2017,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,64.89
+2017,Internet users per 100 inhabitants,Percent,Female,62.49
+2017,Internet users per 100 inhabitants,Percent,Male,67.58
+2018,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,70.12
+2018,Internet users per 100 inhabitants,Percent,Female,68.34
+2018,Internet users per 100 inhabitants,Percent,Male,72.4
+2019,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,69.95
+2019,Internet users per 100 inhabitants,Percent,Female,67.45
+2019,Internet users per 100 inhabitants,Percent,Male,72.82
+2020,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,73.21
+2020,Internet users per 100 inhabitants,Percent,Female,69.31
+2020,Internet users per 100 inhabitants,Percent,Male,77.82
+2021,Internet users per 100 inhabitants,Percent,Both sexes or no breakdown by sex,75.68
+2021,Internet users per 100 inhabitants,Percent,Female,72.66
+2021,Internet users per 100 inhabitants,Percent,Male,79.18
