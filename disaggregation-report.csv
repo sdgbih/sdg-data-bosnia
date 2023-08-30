@@ -11,8 +11,8 @@ M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узви�
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,20
 Policy_Domains,Policy_Domains,Policy_Domains,Policy_Domains,Policy_Domains,1,7
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,4,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,174,342
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,173,342
 SEX,Sex,Spol,Пол,Spol,38,3
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,173,38
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,172,38
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2
