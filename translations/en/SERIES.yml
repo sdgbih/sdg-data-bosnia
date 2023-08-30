@@ -153,7 +153,7 @@ IT_MOB_3GNTWK: Proportion of population covered by at least a 3G mobile network
 IT_MOB_4GNTWK: Proportion of population covered by at least a 4G mobile network
 IT_NET_BBND: Fixed broadband subscriptions per 100 inhabitants
 IT_NET_BBNDN: Fixed broadband subscriptions (number)
-IT_USE_II99: Internet users per 100 inhabitants
+IT_USE_II99: Proportion of individuals using the Internet (%)
 IU_COR_BRIB: Prevalence rate of bribery
 NV_IND_MANF: Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)
 NV_IND_MANFPC: Manufacturing value added per capita (constant 2015 United States dollars)
