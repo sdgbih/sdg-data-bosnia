@@ -1,3 +1,13 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2015,0.0,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2016,0.0,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2017,0.0,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2018,0.0,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2019,59.95,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2020,78.78,Millions of current United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+2015,0.0,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+2016,0.0,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+2017,0.0,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+2018,0.0,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+2019,59.95,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+2020,78.78,Millions of constant United States dollars,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
