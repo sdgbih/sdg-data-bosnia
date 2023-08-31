@@ -140,6 +140,8 @@ GB_XPD_NAT_PBPV: Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslij
 GC_GOB_TAXD: Udio domaćeg budžeta koji se finansira iz domaćih poreza
 GF_FRN_FDI: Prilivi stranih direktnih investicija (SDI)
 GF_XPD_GBPC: Primarni državni rashodi kao udio u prvobitno odobrenom budžetu
+GF_COM_PPPI: Iznos američkih dolara namjenjenih javno-privatnim partnerstvima za infrastrukturu, nominalno u milionima USD
+GF_COM_PPPI_KD: Iznos američkih dolara namjenjenih javno-privatnim partnerstvima za infrastrukturu, milion USD realno
 GR_G14_GDP: Ukupni prihodi države kao udio u BDP-u
 GR_G14_XDC: Ukupni državni prihodi, u lokalnoj valuti
 IC_FRM_BRIB: Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita)
