@@ -331,8 +331,8 @@ SP_DYN_MRBF18: Proportion of women aged 20-24 years who were married or in a uni
 ST_EEV_ACCSEEA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
 ST_EEV_ACCTSA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
 ST_EEV_STDACCT: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables)
-TM_TAX_WMFN: Worldwide weighted tariff-average, most-favoured-nation status
-TM_TAX_WMPS: Worldwide weighted tariff-average, preferential status
+TM_TAX_WMFN: Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)
+TM_TAX_WMPS: Worldwide weighted tariff-average, preferential status, by type of product (%)
 TM_TRF_ZERO: Proportion of tariff lines applied to imports with zero-tariff
 VC_DSR_OBDN: Number of disruptions to other basic services attributed to disasters
 VC_HTF_DETV: Detected victims of human trafficking (number)
