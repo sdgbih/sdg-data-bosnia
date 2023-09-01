@@ -337,6 +337,10 @@ ST_EEV_STDACCT: Primena standardnih računovodstvenih alata za praćenje ekonoms
 TM_TAX_WMFN: Svjetski ponderirani carinski prosjek, status najpovlaštenije države, prema vrsti proizvoda (%)
 TM_TAX_WMPS: Svjetski ponderirani carinski prosjek, povlašteni status, prema vrsti proizvoda (%)
 TM_TRF_ZERO: Udio carinskih stavki primijenjenih na uvoz s nultom carinom
+TX_EXP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu robe (%)
+TX_EXP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu usluga (%)
+TX_IMP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom robnom uvozu (%)
+TX_IMP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom uvozu usluga (%)
 VC_DSR_OBDN: Broj smetnji u radu ostalih osnovnih usluga uzrokovan katastrofama
 VC_HTF_DETV: Detektovane žrtve trgovine ljudima (broj)
 VC_HTF_DETVFL: Detektovane žrtve trgovine ljudima za prisilni rad, služnost i ropstvo (broj)
