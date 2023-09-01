@@ -2,7 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
 CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,12,7
 CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,Милиони константни амерички долари,Milioni konstantni američki dolari,9,2
-CU_USD,(nominal United States dollars),(tekući američki dolari),(текући амерички долари),(nominalni američki dolari),2,2
+CU_USD,(nominal United States dollars),(tekući američki dolari),(текући амерички долари),(nominalni američki dolari),5,3
 CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),(милијарде номиналних америчких долара),(milijarde nominalnih američkih dolara),1,1
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,2,2
 CUR_LCU,in BAM,u KM,у KM,u KM,33,1
