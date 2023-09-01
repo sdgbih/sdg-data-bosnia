@@ -334,6 +334,10 @@ ST_EEV_STDACCT: Implementation of standard accounting tools to monitor the econo
 TM_TAX_WMFN: Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)
 TM_TAX_WMPS: Worldwide weighted tariff-average, preferential status, by type of product (%)
 TM_TRF_ZERO: Proportion of tariff lines applied to imports with zero-tariff
+TX_EXP_GBMRCH: Developing countries’ and least developed countries’ share of global merchandise exports (%)
+TX_EXP_GBSVR: Developing countries’ and least developed countries’ share of global services exports (%)
+TX_IMP_GBMRCH: Developing countries’ and least developed countries’ share of global merchandise imports (%)
+TX_IMP_GBSVR: Developing countries’ and least developed countries’ share of global services imports (%)
 VC_DSR_OBDN: Number of disruptions to other basic services attributed to disasters
 VC_HTF_DETV: Detected victims of human trafficking (number)
 VC_HTF_DETVFL: Detected victims of human trafficking for forced labour, servitude and slavery (number)
