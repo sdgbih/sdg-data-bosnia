@@ -12,6 +12,9 @@ AG_PRD_FIESMSN: Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (
 AG_PRD_FIESS: Rasprostranjenost od ozbiljne nesigurnosti hranom u odrasloj populaciji (%)
 AG_PRD_FIESSN: Ukupna populacija u ozbiljnoj nesigurnosti u pogledu hrane (na hiljadu ljudi)
 BX_TRF_PWKR: Količina doznaka (u američkim dolarima) kao udio u ukupnom iznosu BDP-a
+DC_ENVTECH_TT: Ukupna trgovina praćena ekološkim prihvatljivim tehnologijama (tekući američki dolari)
+DC_ENVTECH_EXP: Količina praćenih izvezenih tehnologija prihvatljivih za okoliš (tekući američki dolari)
+DC_ENVTECH_IMP: Količina praćenih uvezenih tehnologija prihvatljivih za okoliš (tekućii američki dolari)
 DC_FTA_TOTAL: Ukupna zvanična razvojna pomoć (bruto isplata) za tehničku saradnju
 DC_ODA_BDVL: Ukupna zvanična razvojna pomoć za biodiverzitet, po zemljama primaocima (milioni američkih dolara konstanta 2020.)
 DC_ODA_POVLG: Zvanični grantovi za razvojnu pomoć za smanjenje siromaštva po zemljama primaocima (procenat BND-a) 
