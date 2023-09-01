@@ -15,7 +15,7 @@ BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of
 DC_ENVTECH_TT: Total trade of tracked Environmentally Sound Technologies (current United States dollars)
 DC_ENVTECH_EXP: Amount of tracked exported Environmentally Sound Technologies (current United States dollars)
 DC_ENVTECH_IMP: Amount of tracked imported Environmentally Sound Technologies (current United States dollars)
-DC_FTA_TOTAL: Total official development assistance (gross disbursement) for technical cooperation
+DC_FTA_TOTAL: Total official development assistance (gross disbursement) for technical cooperation (millions of 2021 United States dollars)
 DC_ODA_BDVL: Total official development assistance for biodiversity, by recipient countries (millions of constant 2020 United States dollars)
 DC_ODA_POVLG: Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)
 DC_TOF_AGRL: Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2021 United States dollars)
