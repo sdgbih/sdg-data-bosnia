@@ -333,8 +333,8 @@ SP_DYN_MRBF18: Udio žena starosti 20-24 godine koje su bile u braku ili u vanbr
 ST_EEV_ACCSEEA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (SEEA tablice)
 ST_EEV_ACCTSA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (tabele satelitskih računa turizma)
 ST_EEV_STDACCT: Primena standardnih računovodstvenih alata za praćenje ekonomskih i ekoloških aspekata turizma (broj tabela)
-TM_TAX_DMFN: Prosječna tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)
-TM_TAX_DPRF: Prosječna tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)
+TM_TAX_DMFN: Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)
+TM_TAX_DPRF: Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)
 TM_TAX_WMFN: Svjetski ponderisani tarifni prosjek, status najpovlašćenije države, prema vrsti proizvoda (%)
 TM_TAX_WMPS: Svjetski ponderisani tarifni prosjek, preferencijalni status, prema vrsti proizvoda (%)
 TM_TRF_ZERO: Udio tarifnih stavki kojе se primjenjujу na uvoz sa nultom tarifom
