@@ -408,3 +408,22 @@ SG_DMK_PARLYP_UC: Proportion of youth in parliament (age 45 or below), Upper Cha
 SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral 
 SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber
 SP_TRN_PUBL: Proportion of population that has convenient access to public transport (%) 
+FB_BNK_CAPA_ZS: Bank capital to assets ratio (%)
+FM_LBL_BMNY_ZG: Annual broad money growth (%)
+FM_LBL_BMNY_IR_ZS: Broad money to total reserves ratio
+GC_BAL_CASH_GD_ZS: Cash surplus/deficit as a proportion of GDP (%)
+BN_CAB_XOKA_GD_ZS: Current account balance as a proportion of GDP (%)
+PA_NUS_ATLS: DEC alternative conversion factor (in local currency unit per United States dollar)
+NE_EXP_GNFS_KD_ZG: Annual growth of exports of goods and services (%)
+DT_DOD_DECT_GN_ZS: External debt stocks as a proportion of GNI (%)
+BX_KLT_DINV_WD_GD_ZS: Foreign direct investment, net inflows, as a proportion of GDP (%)
+NY_GDP_MKTP_KD_ZG: Annual GDP growth (%)
+NE_CON_GOVT_KD_ZG: Annual growth of the general government final consumption expenditure (%)
+NE_GDI_TOTL_KD_ZG: Annual growth of the gross capital formation (%)
+NE_CON_PRVT_KD_ZG: Annual growth of households and NPISHs final consumption expenditure (%)
+NE_IMP_GNFS_KD_ZG: Annual growth of imports of goods and services (%)
+FP_CPI_TOTL_ZG: Annual inflation, consumer prices (%)
+TG_VAL_TOTL_GD_ZS: Merchandise trade as a proportion of GDP (%)
+BN_KLT_PTXL_CD: Portfolio investment, net (Balance of Payments, current United States dollars)
+GC_TAX_TOTL_GD_ZS: Tax revenue as a proportion of GDP (%)
+FI_RES_TOTL_MO: Total reserves in months of imports (ratio)
