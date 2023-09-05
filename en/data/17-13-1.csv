@@ -29,7 +29,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,"Portfolio investment, net (Balance of Payments, current United States dollars)",(nominal United States dollars),44071127.11991
 2000,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,2.62376
 2005,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,5.55837
-2010, BX_KLT_DINV_WD_GD_ZS,Percent,2.58395
+2010,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,2.58395
 2011,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,2.52946
 2012,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,2.27538
 2013,"Foreign direct investment, net inflows, as a proportion of GDP (%)",Percent,1.72344
