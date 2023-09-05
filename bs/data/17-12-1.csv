@@ -1,7 +1,197 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,7.58327
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.75971
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.66338
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.6789
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.58165
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.59409
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.5962
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.57186
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.66464
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.4999
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.50998
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.78051
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.80186
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,3.7802
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,2.58553
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.71702
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.40029
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.43398
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.59527
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.44312
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.60359
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.42527
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.46392
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.61584
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.47558
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.44463
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.44555
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Bez podjele,1.44555
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,1.80511
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.31856
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.31812
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.31825
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.316
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.316
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.316
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.316
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Oružje,0.7555
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,12.35432
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.19231
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.26443
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.26605
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.26036
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.27398
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.27606
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.10163
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.10583
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,7.95361
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.11439
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.11669
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.11662
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Odjeća,8.11662
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,1.91509
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,1.20067
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.8532
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.88748
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,1.05698
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.9001
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,1.06389
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.89603
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.92757
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,1.05308
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.90838
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.89864
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.89923
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Industrijski proizvodi,0.8991
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.24362
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.1243
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,7.09295
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.50945
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.55547
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.59108
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.07189
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.16589
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.09556
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.0097
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.07233
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.011
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.04916
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.08577
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.05247
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)",Procenat,Tekstil,5.0532
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,8.32327
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.31583
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.30725
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.29839
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.22189
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.25902
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.2616
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.25815
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.26362
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.03696
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.07876
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.35939
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.36044
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Poljoprivredni proizvodi,5.358
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,3.31452
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,3.13294
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.75689
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.74796
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.9245
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.7716
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.93213
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.83208
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.82001
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.92848
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.85201
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.79936
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.79424
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Bez podjele,2.7958
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.89483
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.88883
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.93747
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92516
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92125
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92125
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92169
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.9217
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92246
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.91978
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92163
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92163
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92163
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Oružje,1.92163
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,13.09122
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.00739
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.07104
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.02332
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.01758
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.02856
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,12.02713
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.94963
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.94564
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.79269
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.95809
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.96038
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.94887
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Odjeća,11.9603
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.61536
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.46985
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.05345
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.04646
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.23445
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.07578
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.23988
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.14283
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.13123
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.22498
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.14806
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.12195
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.11845
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Industrijski proizvodi,2.1194
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.24362
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.1243
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Nafta ili ulje,0.0
+2000,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,7.77645
+2005,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,7.44452
+2010,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,7.45629
+2011,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,7.43306
+2012,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.90249
+2013,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.99648
+2014,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.92713
+2015,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.8678
+2016,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.87484
+2017,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.80223
+2018,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.81609
+2019,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.85479
+2020,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.79889
+2021,"Prosječna carinska tarifa koju primjenjuju razvijene zemlje, status najpovlašćenije nacije, prema vrsti proizvoda (%)",Procenat,Tekstil,6.8003
