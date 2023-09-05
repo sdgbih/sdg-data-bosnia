@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-7.10726
+2005,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-16.43416
+2010,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-6.0003
+2011,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-9.47895
+2012,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-8.62589
+2013,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-5.32604
+2014,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-7.35101
+2015.BN_CAB_XOKA_GD_ZS,PT, -5.09529,
+2016,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-4.75523
+2017,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-4.84387
+2018,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-3.27874
+2019,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-2.63293
+2020,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-3.30118
+2021,Saldo tekućeg računa kao udio BDP-a (%),Postotak,-2.38767

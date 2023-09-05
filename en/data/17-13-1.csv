@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2000,Current account balance as a proportion of GDP (%),Percent,-7.10726
+2005,Current account balance as a proportion of GDP (%),Percent,-16.43416
+2010,Current account balance as a proportion of GDP (%),Percent,-6.0003
+2011,Current account balance as a proportion of GDP (%),Percent,-9.47895
+2012,Current account balance as a proportion of GDP (%),Percent,-8.62589
+2013,Current account balance as a proportion of GDP (%),Percent,-5.32604
+2014,Current account balance as a proportion of GDP (%),Percent,-7.35101
+2015.BN_CAB_XOKA_GD_ZS,PT, -5.09529,
+2016,Current account balance as a proportion of GDP (%),Percent,-4.75523
+2017,Current account balance as a proportion of GDP (%),Percent,-4.84387
+2018,Current account balance as a proportion of GDP (%),Percent,-3.27874
+2019,Current account balance as a proportion of GDP (%),Percent,-2.63293
+2020,Current account balance as a proportion of GDP (%),Percent,-3.30118
+2021,Current account balance as a proportion of GDP (%),Percent,-2.38767
