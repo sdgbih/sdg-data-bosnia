@@ -411,3 +411,22 @@ SG_DMK_PARLYP_UC: Udio mladih u parlamentu (starosti 45 ili manje godina), Gornj
 SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Donji dom ili jednodomnom
 SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Gornji dom
 SP_TRN_PUBL: Udio stanovništva koji ima povoljan pristup javnom prijevozu (%)
+FB_BNK_CAPA_ZS: Omjer kapitala banke i imovine (%)
+FM_LBL_BMNY_ZG: Godišnji rast općeg novca (%)
+FM_LBL_BMNY_IR_ZS: Omjer ukupnog novca i ukupnih pričuva
+GC_BAL_CASH_GD_ZS: Višak/manjak gotovine kao udio BDP-a (%)
+BN_CAB_XOKA_GD_ZS: Saldo tekućeg računa kao udio BDP-a (%)
+PA_NUS_ATLS: DEC alternativni faktor konverzije (u jedinici lokalne valute po američkom dolaru)
+NE_EXP_GNFS_KD_ZG: Godišnji rast izvoza roba i usluga (%)
+DT_DOD_DECT_GN_ZS: Stanje vanjskog duga kao udio BND-a (%)
+BX_KLT_DINV_WD_GD_ZS: Izravna strana ulaganja, neto priljevi, kao udio u BDP-u (%)
+NY_GDP_MKTP_KD_ZG: Godišnji rast BDP-a (%)
+NE_CON_GOVT_KD_ZG: Godišnji rast izdataka za konačnu potrošnju opće države (%)
+NE_GDI_TOTL_KD_ZG: Godišnji rast bruto investicije (%)
+NE_CON_PRVT_KD_ZG: Godišnji rast izdataka za konačnu potrošnju kućanstava i NPISH (%)
+NE_IMP_GNFS_KD_ZG: Godišnji rast uvoza roba i usluga (%)
+FP_CPI_TOTL_ZG: Godišnja inflacija, potrošačke cijene (%)
+TG_VAL_TOTL_GD_ZS: Robna razmjena kao udio u BDP-u (%)
+BN_KLT_PTXL_CD: Portfeljna ulaganja, neto (platna bilanca, trenutni američki dolari)
+GC_TAX_TOTL_GD_ZS: Porezni prihod kao udio BDP-a (%)
+FI_RES_TOTL_MO: Ukupne rezerve u mjesecima uvoza (omjer)
