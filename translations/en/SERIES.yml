@@ -27,6 +27,11 @@ DC_TOF_TRDCML: Total official flows (commitments) for Aid for Trade, by recipien
 DC_TOF_TRDDBML: Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2020 United States dollars)
 DC_TOF_WASHL: Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2020 United States dollars)
 DC_TRF_TOTL: Total assistance for development, by recipient countries
+DC_OSSD_GRT: Gross receipts by developing countries of official sustainable development grants (millions of United States dollars)
+DC_OSSD_OFFCL: Gross receipts by developing countries of official concessional sustainable development loans (millions of United States dollars)
+DC_OSSD_OFFNL: Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars)
+DC_OSSD_MPF: Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars)
+DC_OSSD_PRVGRT: Gross receipts by developing countries of private grants (millions of United States dollars)
 DT_TDS_DECT: Debt service as a proportion of exports of goods and services
 EG_ACS_ELEC: Proportion of population with access to electricity
 EG_EGY_CLEAN: Proportion of population with primary reliance on clean fuels and technology
