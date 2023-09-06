@@ -1,1 +1,1 @@
-{"From":["SEX"],"To":["OCCUPATION"]}
+{"From":["SEX","OCCUPATION"],"To":["OCCUPATION","AGE"]}
