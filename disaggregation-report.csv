@@ -10,7 +10,7 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,20
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,178,364
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,178,366
 SEX,Sex,Spol,Пол,Spol,39,3
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,177,38
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5
