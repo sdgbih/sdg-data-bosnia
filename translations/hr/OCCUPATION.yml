@@ -30,3 +30,6 @@ ASSOCPRO: Poslovni i administrativni suradnici
 GENERAL:  Opći službenici i sekretarice
 OTHERMAN: "Ostali menadžeri: generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju"
 SENIORMAN: "Viši menadžeri: viši državni službenici"
+TOTAL_PSP: "Ukupno osoblje javne službe na nacionalnoj razini (uključujući policiju, obrazovanje, zdravstvo, administrativno osoblje na recepciji i sve ostalo osoblje javne službe)"
+SUCI: "Sudije"
+MAJARNICI: "Registrari uključeni u 2619 - Pravni stručnjaci koji nisu drugdje klasificirani"
