@@ -1,7 +1,8 @@
-Year,SERIES,UNIT_MEASURE,Sex,Age,Occupation,Value
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Administration Professionals,0.99
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Business and Administration Associate Professionals,0.91
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,General and Keyboard Clerks,1.19
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,0.8
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Senior Managers: Senior Government Officials,0.29
-2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Both sexes or no breakdown by sex,<35Y,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",0.44
+Year,SERIES,Age,Parliamentary_committees,Sex,Occupation,UNIT_MEASURE,Value
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Administration Professionals,Ratio,0.99
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Business and Administration Associate Professionals,Ratio,0.91
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,General and Keyboard Clerks,Ratio,1.19
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,Ratio,0.8
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Senior Managers: Senior Government Officials,Ratio,0.29
+2020,Proportions of positions in the public service compared to national distributions (ratio),<35Y,,Both sexes or no breakdown by sex,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,0.44
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,1.11
