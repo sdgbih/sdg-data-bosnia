@@ -6,11 +6,11 @@ Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Senior Managers: Senior Government Officials,Ratio,0.29
 2020,Proportions of positions in the public service compared to national distributions (ratio),under 35 years old,,Both sexes or no breakdown by sex,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,0.44
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,1.11
-2021,SG_DMK_JDC,under 45 years olds,,Both sexes or no breakdown by sex,Judges,Ratio,0.49
-2021,SG_DMK_JDC,All age ranges or no breakdown by age,,Female,Judges,Ratio,1.27
-2021,SG_DMK_JDC_CNS,All age ranges or no breakdown by age,,Female,Judges,Ratio,1.17
-2021,SG_DMK_JDC_HGR,All age ranges or no breakdown by age,,Female,Judges,Ratio,1.38
-2021,SG_DMK_JDC_LWR,All age ranges or no breakdown by age,,Female,Judges,Ratio,1.26
+2021,Proportions of positions in the judiciary compared to national distributions (ratio),under 45 years olds,,Both sexes or no breakdown by sex,Judges,Ratio,0.49
+2021,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Judges,Ratio,1.27
+2021,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.17
+2021,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.38
+2021,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.26
 2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,Number,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,Number,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Foreign Affairs,Male,,Number,1.0
