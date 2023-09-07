@@ -29,11 +29,16 @@ CAR: Cardiovascular disease
 CAN: Cancer
 RES: Chronic respiratory disease
 DIA: Diabetes
-PC_DEFENCE: Defence
-PC_FINANCE: Finance
-PC_FOR_AFF: Foreign Affairs
-PC_GEN_EQU: Gender Equality
-PC_HUM_RIGH: Human Rights
+PDEFENCE: Defence
+FAFF_DEF: Foreign Affairs and Defence
+FAFF_DEF_FIN: Foreign Affairs, Defence and Finance
+FAFF_DEF_HR: Foreign Affairs, Defence and Human Rights
+FAFF_HR: Foreign Affairs and Human Rights
+FINANCE: Finance
+FOR_AFF: Foreign Affairs
+GEN_EQU: Gender Equality
+HR_GEQU: Human Rights and Gender Equality
+HUM_RIGH: Human Rights
 SKILL_ICTEMAIL: Sending e-mails with attached files
 SKILL_ICTCMFL: Copying or moving a file or folder
 SKILL_ICTCOPA: Using copy and paste tools to duplicate or move information within a document
