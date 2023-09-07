@@ -200,13 +200,24 @@ SE_TOT_GPI_FS: Adjusted gender parity index for achieving a minimum proficiency 
 SE_TOT_PRFL: Proportion of children and young people achieving a minimum proficiency level in reading and mathematics
 SE_TOT_RUPI: Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
 SE_TOT_SESPI: Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
-SE_TRA_GRDL: Proportion of teachers with the minimum required qualifications, by education level and sex (%) 
+SE_TRA_GRDL: Proportion of teachers with the minimum required qualifications, by education level and sex (%)
+SG_DMK_PARLCC_JC: Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees
 SG_DMK_PARLCC_LC: Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral
 SG_DMK_PARLCC_UC: Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber
 SG_DMK_PARLMP_LC: "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
 SG_DMK_PARLMP_UC: "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber"
 SG_DMK_PARLSP_LC: Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral
 SG_DMK_PARLSP_UC: Number of speakers in parliament, by age and sex, Upper Chamber
+SG_DMK_JDC: Proportions of positions in the judiciary compared to national distributions (ratio)
+SG_DMK_JDC_CNS: Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)
+SG_DMK_JDC_HGR: Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)
+SG_DMK_JDC_LWR: Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)
+SG_DMK_PARLYN_LC: Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)
+SG_DMK_PARLYN_UC: Number of youth in parliament (age 45 or below), Upper Chamber (Number)
+SG_DMK_PARLYP_LC: Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)
+SG_DMK_PARLYP_UC: Proportion of youth in parliament (age 45 or below), Upper Chamber (%)
+SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral
+SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber
 SG_DMK_PSRVC: Proportions of positions in the public service compared to national distributions (ratio)
 SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in line with the Sendai Framework
 SG_DSR_SFDRR: Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework
