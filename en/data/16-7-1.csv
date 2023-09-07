@@ -20,3 +20,11 @@ Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,Number,0.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Gender Equality,Not available,,Number,0.0
 2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.50835
+2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.38819
+2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Female,,Number,1.0
+2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,1.0
+2021,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
+2021,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral",under 45 years olds,,,,Number,8.0
+2021,"Number of youth in parliament (age 45 or below), Upper Chamber",under 45 years olds,,,,Number,1.0
+2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral",under 45 years olds,,,,Percent,19.05
+2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber",under 45 years olds,,,,Percent,6.67

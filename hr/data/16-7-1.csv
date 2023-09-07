@@ -20,3 +20,11 @@ Year,SERIES,Godine,COMPOSITE_BREAKDOWN,Spol,Zanimanje,UNIT_MEASURE,Value
 2021,"Broj predsjedatelja stalnih odbora, prema starosti i spolu, gornji dom",Nije dostupno,Vanjski poslovi,Nije dostupno,,Broj,0.0
 2021,"Broj predsjedatelja stalnih odbora, prema starosti i spolu, gornji dom",Nije dostupno,Ravnopravnost spolova,Nije dostupno,,Broj,0.0
 2021,"Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu",,,,,Odnos,0.50835
+2021,"Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu",,,,,Odnos,0.38819
+2021,"Broj govornika u parlamentu, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu",46 godina i više,,Žene,,Broj,1.0
+2021,"Broj govornika u parlamentu, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu",46 godina i više,,Muškarci,,Broj,1.0
+2021,"Broj govornika u parlamentu, prema starosti i spolu, u gornjem domu",46 godina i više,,Muškarci,,Broj,3.0
+2021,"Broj mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom",mlađi od 45 godina,,,,Broj,8.0
+2021,"Broj mladih u parlamentu (sstarosti 45 ili manje godin), Gornji dom",mlađi od 45 godina,,,,Broj,1.0
+2021,"Udio mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom",mlađi od 45 godina,,,,Postotak,19.05
+2021,"Udio mladih u parlamentu (starosti 45 ili manje godina), Gornji dom",mlađi od 45 godina,,,,Postotak,6.67
