@@ -9,6 +9,7 @@ BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
 BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,1,1
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
+DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,1,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
 DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima","Свеобухватне политике, политике засноване на доказима","Sveobuhvatne politike, politike utemeljene na dokazima",1,1
@@ -16,9 +17,9 @@ DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,Сарадња и п�
 DOMAIN4,Socioeconomic well - being,Socioekonomsko blagostanje,Социоекономско благостање,Socioekonomsko blagostanje,1,1
 DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,Димензије кризне мобилности,Dimenzije krizne mobilnosti,1,1
 DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija","Сигурна, уредна и редовна миграција","Sigurna, uredna i redovita migracija",1,1
-FINANCE,Finance,Finansije,Финансије,Financije,1,1
-FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,1,1
-GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,1,1
+FINANCE,Finance,Finansije,Финансије,Financije,2,1
+FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,2,1
+GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,2,1
 GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,1,1
 HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,1,1
 HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,1,1
