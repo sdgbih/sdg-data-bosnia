@@ -1,4 +1,4 @@
-Year,SERIES,Age,Parliamentary_committees,Sex,Occupation,UNIT_MEASURE,Value
+Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Administration Professionals,Ratio,0.99
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Business and Administration Associate Professionals,Ratio,0.91
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,General and Keyboard Clerks,Ratio,1.19
