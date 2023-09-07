@@ -29,11 +29,16 @@ CAR: Kardiovaskularne bolesti
 CAN: Rak
 RES: Kronična respiratorna bolest
 DIA: Dijabetes
-PC_DEFENCE: Obrana
-PC_FINANCE: Financije
-PC_FOR_AFF: Vanjski poslovi
-PC_GEN_EQU: Ravnopravnost spolova
-PC_HUM_RIGH: Ljudska prava
+DEFENCE: Obrana
+FAFF_DEF: Vanjski poslovi i odbrana
+FAFF_DEF_FIN: Vanjski poslovi, odbrana i finansije
+FAFF_DEF_HR: Vanjski poslovi, odbrana i ljudska prava
+FAFF_HR: Vanjski poslovi i ljudska prava
+FINANCE: Financije
+FOR_AFF: Vanjski poslovi
+GEN_EQU: Ravnopravnost spolova
+HR_GEQU: Ljudska prava i rodna ravnopravnost
+HUM_RIGH: Ljudska prava
 SKILL_ICTEMAIL: Slanje e-pošte s priloženim datotekama
 SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
 SKILL_ICTCOPA: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
