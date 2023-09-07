@@ -203,13 +203,24 @@ SE_TOT_GPI_FS: Prilagođeni indeks rodnog pariteta za postizanje minimalnog step
 SE_TOT_PRFL: Udio djece i mladih koja postižu najmanju minimalnu razinu dostignuća u čitanju i  matematici 
 SE_TOT_RUPI: Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog stepena čitanja i računanja (omjer) 
 SE_TOT_SESPI: Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer)
-SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%) 
+SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%)
+SG_DMK_PARLCC_JC: Broj predsjedatelja stalnih komiteta, prema spolu i starosti i fokusu odbora, Zajednički odbori
 SG_DMK_PARLCC_LC: Broj predsjedatelja stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
 SG_DMK_PARLCC_UC: Broj predsjedatelja stalnih odbora, prema starosti i spolu, gornji dom 
 SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
 SG_DMK_PARLMP_UC: "Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
 SG_DMK_PARLSP_LC: Broj govornika u parlamentu, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu
 SG_DMK_PARLSP_UC: Broj govornika u parlamentu, prema starosti i spolu, u gornjem domu
+SG_DMK_JDC: Omjeri položaja u pravosuđu u odnosu na nacionalnu distribuciju (omjer)
+SG_DMK_JDC_CNS: Omjeri pozicija u pravosuđu u odnosu na nacionalnu raspodjelu, Ustavni sud (omjer)
+SG_DMK_JDC_HGR: Omjeri položaja u pravosuđu u usporedbi s nacionalnom raspodjelom, Visoki sudovi (omjer)
+SG_DMK_JDC_LWR: Omjeri položaja u pravosuđu u usporedbi s nacionalnom distribucijom, niži sudovi (omjer)
+SG_DMK_PARLYN_LC: Broj mladih ljudi u parlamentu (45 godina ili manje), donjem domu ili jednodomnom parlamentu (broj)
+SG_DMK_PARLYN_UC: Broj mladih u parlamentu (45 ili mlađi), gornji dom (broj)
+SG_DMK_PARLYP_LC: Udio mladih u parlamentu (45 godina ili mlađi), donjem ili jednodomnom domu (%)
+SG_DMK_PARLYP_UC: Udio mladih u parlamentu (45 godina ili mlađi), Gornji dom (%)
+SG_DMK_PARLYR_LC: Omjer mladih članova parlamenta (Omjer udjela mladih članova parlamenta (45 godina ili manje) prema udjelu nacionalnog stanovništva (45 godina ili manje) s dobi kao donjom granicom), Donji dom ili jednodomni
+SG_DMK_PARLYR_UC: Udio mladih članova parlamenta (Omjer udjela mladih članova parlamenta (45 godina ili manje) u odnosu na udio nacionalnog stanovništva (45 godina ili manje) s dobi kao donjom granicom), Gornji dom
 SG_DMK_PSRVC: Omjeri pozicija u javnoj službi u usporedbi s nacionalnom distribucijom (omjer)
 SG_DSR_LGRGSR: Ocjena usvajanja i provedbe nacionalnih strategija za smanjenje rizika od katastrofa sukladno sa Sendai okvirom
 SG_DSR_SFDRR: Broj zemalja koje su izvijestile da imaju Nacionalnu strategiju za smanjenje rizika od katastrofa koja je usklađena sa Sendai okvirom
