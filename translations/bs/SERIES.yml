@@ -203,7 +203,7 @@ SE_TOT_RUPI: Prilagođen indeks pariteta ruralnog i urbanog za postizanje minima
 SE_TOT_SESPI: Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer) 
 SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%) 
 SERIES: SDG Serije
-SG_DMK_PARLCC_JC: Broj predsjednika stalnih komiteta, prema spolu starosti i fokusu odbora, Zajednički odbori
+SG_DMK_PARLCC_JC: Broj predsjednika stalnih odbora, prema spolu starosti i fokusu odbora, Zajednički odbori
 SG_DMK_PARLCC_LC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
 SG_DMK_PARLCC_UC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, gornji dom 
 SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
@@ -218,8 +218,8 @@ SG_DMK_PARLYN_LC: Broj mladih u parlamentu (45 godina ili manje), donjem domu il
 SG_DMK_PARLYN_UC: Broj mladih u parlamentu (45 godina ili manje), Gornji dom (broj)
 SG_DMK_PARLYP_LC: Udio mladih u parlamentu (45 godina ili manje), donjem domu ili jednodomnom domu (%)
 SG_DMK_PARLYP_UC: Udio mladih u parlamentu (45 godina ili manje), Gornjem domu (%)
-SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (Omjer udjela mladih poslanika u parlamentu (45 godina ili manje) u udjelu nacionalnog stanovništva (45 godina ili manje) s godinama starosti kao donjom granicom), Donji dom ili jednodomni
-SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (Omjer udjela mladih članova u parlamentu (45 godina ili manje) u udjelu nacionalnog stanovništva (45 godina ili manje) s godinama starosti kao donjom granicom), Gornji dom
+SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (Omjer udjela mladih poslanika u parlamentu (45 godina ili manje) u odnosu na nacionalnog stanovništvo (45 godina ili manje) s godinama starosti kao donjom granicom), Donji dom ili jednodomni
+SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (Omjer udjela mladih članova u parlamentu (45 godina ili manje) u odnosu na nacionalno stanovništvo (45 godina ili manje) s godinama starosti kao donjom granicom), Gornji dom
 SG_DMK_PSRVC: Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos)
 SG_DSR_LGRGSR: Ocjena usvajanja i provedbe nacionalnih strategija za smanjenje rizika od katastrofa u skladu sa Sendai okvirom
 SG_DSR_SFDRR: Broj zemalja koje su prijavile da imaju Nacionalnu strategiju za smanjenje rizika od katastrofa koja je usklađena sa Sendai okvirom
@@ -419,13 +419,6 @@ ER_IAS_GLOFUN: Zemlje primateljice globalnog finansiranja sa pristupom bilo kakv
 ER_MRN_MPA: Prosječan udio ključnih morskih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%)
 ER_MRN_MARIN: Pokrivenost zaštićenih područja u odnosu na morska područja (isključive ekonomske zone) (%)
 ER_MRN_MARINT: Zaštićeno morsko područje (ekskluzivne ekonomske zone) (kvadratni kilometri)
-SG_DMK_PARLCC_JC: Broj predsjedavajućih stalnih odbora, prema starosnoj dobi i fokusu odbora, zajednički odbori
-SG_DMK_PARLYN_LC: Broj mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom
-SG_DMK_PARLYN_UC: Broj mladih u parlamentu (sstarosti 45 ili manje godin), Gornji dom
-SG_DMK_PARLYP_LC: Udio mladih u parlamentu (starosti 45 ili manje godina), Donji dom ili jednodomnom
-SG_DMK_PARLYP_UC: Udio mladih u parlamentu (starosti 45 ili manje godina), Gornji dom
-SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Donji dom ili jednodomnom
-SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (omjer udjela mladih članova u parlamentu (starosti 45 ili manje godina) u odnosu na nacionalno stanovništvo (starosti 45 ili manje godina) sa starosnom podobnosti kao donjom granicom), Gornji dom
 SP_TRN_PUBL: Udio stanovništva koji ima povoljan pristup javnom prijevozu (%)
 FB_BNK_CAPA_ZS: Omjer kapitala banke i aktive (%)
 FM_LBL_BMNY_ZG: Godišnji rast novca (%)
