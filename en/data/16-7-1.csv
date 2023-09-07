@@ -28,3 +28,5 @@ Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2021,"Number of youth in parliament (age 45 or below), Upper Chamber",under 45 years olds,,,,Number,1.0
 2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral",under 45 years olds,,,,Percent,19.05
 2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber",under 45 years olds,,,,Percent,6.67
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years olds,,,,Ratio,0.43121
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years olds,,,,Ratio,0.15098
