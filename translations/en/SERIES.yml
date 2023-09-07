@@ -416,13 +416,6 @@ ER_IAS_GLOFUN: Recipient countries of global funding with access to any funding 
 ER_MRN_MPA: Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)
 ER_MRN_MARIN: Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)
 ER_MRN_MARINT: Protected marine area (Exclusive Economic Zones) (square kilometres)
-SG_DMK_PARLCC_JC: Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees
-SG_DMK_PARLYN_LC: Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral
-SG_DMK_PARLYN_UC: Number of youth in parliament (age 45 or below), Upper Chamber
-SG_DMK_PARLYP_LC: Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral 
-SG_DMK_PARLYP_UC: Proportion of youth in parliament (age 45 or below), Upper Chamber
-SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral 
-SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber
 SP_TRN_PUBL: Proportion of population that has convenient access to public transport (%) 
 FB_BNK_CAPA_ZS: Bank capital to assets ratio (%)
 FM_LBL_BMNY_ZG: Annual broad money growth (%)
