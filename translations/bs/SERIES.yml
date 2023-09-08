@@ -203,7 +203,7 @@ SE_TOT_RUPI: Prilagođen indeks pariteta ruralnog i urbanog za postizanje minima
 SE_TOT_SESPI: Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer) 
 SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%) 
 SERIES: SDG Serije
-SG_DMK_PARLCC_JC: Broj predsjednika stalnih odbora, prema spolu starosti i fokusu odbora, Zajednički odbori
+SG_DMK_PARLCC_JC: Broj predsjedavajućih stalnih odbora, prema spolu starosti i fokusu odbora, Zajednički odbori
 SG_DMK_PARLCC_LC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
 SG_DMK_PARLCC_UC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, gornji dom 
 SG_DMK_PARLMP_LC: "Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
