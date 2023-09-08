@@ -360,11 +360,15 @@ TX_EXP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom i
 TX_IMP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom robnom uvozu (%)
 TX_IMP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom uvozu usluga (%)
 VC_DSR_OBDN: Broj smetnji u radu ostalih osnovnih usluga uzrokovan katastrofama
-VC_HTF_DETV: Detektovane žrtve trgovine ljudima (broj)
+VC_HTF_DETV: Detektovane žrtve trgovine ljudima prema starosti i spolu (broj)
 VC_HTF_DETVFL: Detektovane žrtve trgovine ljudima za prisilni rad, služnost i ropstvo (broj)
-VC_HTF_DETVOG: Detektovane žrtve trgovine ljudima za uklanjanje organa (broj)
+VC_HTF_DETVOG: Detektovane žrtve trgovine ljudima radi vađenja organa, po godinama i spolu (broj)
 VC_HTF_DETVOP: Detektovane žrtve trgovine ljudima za druge svrhe (broj)
-VC_HTF_DETVSX: Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje (broj)
+VC_HTF_DETVSX: Detektovane žrtve trgovine ljudima u druge svrhe, po godinama i spolu (broj)
+VC_HTF_DETVFLR: Detektovane žrtve trgovine ljudima radi prisilnog rada, ropstva i ropstva, prema starosti i spolu (na 100.000 stanovnika)
+VC_HTF_DETVOPR: Detektovane žrtve trgovine ljudima u druge svrhe, prema starosti i spolu (na 100.000 stanovnika)
+VC_HTF_DETVSXR: Detektovane žrtve trgovine ljudima radi seksualne eksploatacije, prema starosti i spolu (na 100.000 stanovnika)
+VC_HTF_DETVR: Detektovane žrtve trgovine ljudima, prema starosti i spolu (na 100.000 stanovnika)
 VC_IHR_PSRC: Broj žrtava ubojstava s namjerom na 100 000 stanovnika
 VC_IHR_PSRCN: Broj žrtava ubojstava s predomišljajem
 VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
