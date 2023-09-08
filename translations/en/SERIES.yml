@@ -362,6 +362,10 @@ VC_HTF_DETVFL: Detected victims of human trafficking for forced labour, servitud
 VC_HTF_DETVOG: Detected victims of human trafficking for removal of organ (number)
 VC_HTF_DETVOP: Detected victims of human trafficking for other purposes (number)
 VC_HTF_DETVSX: Detected victims of human trafficking for sexual exploitaton (number)
+VC_HTF_DETVFLR: Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)
+VC_HTF_DETVOPR: Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)
+VC_HTF_DETVSXR: Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)
+VC_HTF_DETVR: Detected victims of human trafficking, by age and sex (per 100,000 population)
 VC_IHR_PSRC: Number of victims of intentional homicide per 100,000 population
 VC_IHR_PSRCN: Number of victims of intentional homicide
 VC_PRS_UNSNT: Unsentenced detainees as a proportion of overall prison population
