@@ -22,7 +22,7 @@ sources: Izvori
 geographical_area: Geografsko područje
 unit_of_measurement: Mjerna jedinica
 footnote: Fusnota
-units_type: Tip jedinice
+units_type: Jedinica mjere
 series: Serije
 dataset_size_warning: Previše je skupova podataka za prikaz na grafikonu. Neće biti prikazane sve dok ne uklonite neke odabire.
 view_indicator_list: Pogledajte listu indikatora ovog cilja
