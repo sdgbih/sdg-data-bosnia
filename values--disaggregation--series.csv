@@ -385,13 +385,13 @@ VC_DSR_PDLN,"Number of people whose livelihoods were disrupted or destroyed, att
 VC_DSR_PDYN,Number of people whose destroyed dwellings were attributed to disasters (number),Broj ljudi čiji su uništeni stanovi pripisani katastrofama (broj),Број људи чији су уништени станови приписани катастрофама (број),Broj ljudi čiji su uništeni stanovi pripisani katastrofama (broj),1,1
 VC_HTF_DETV,Detected victims of human trafficking (number),Detektovane žrtve trgovine ljudima (broj),Детектоване жртве трговине људима (број),Detektovane žrtve trgovine ljudima (broj),9,1
 VC_HTF_DETVFL,"Detected victims of human trafficking for forced labour, servitude and slavery (number)","Detektovane žrtve trgovine ljudima za prisilni rad, služnost i ropstvo (broj)","Детектоване жртве трговине људима за присилни рад, служност и ропство (број)","Detektovane žrtve trgovine ljudima za prisilni rad, služnost i ropstvo (broj)",7,1
-VC_HTF_DETVFLR,VC_HTF_DETVFLR,VC_HTF_DETVFLR,VC_HTF_DETVFLR,VC_HTF_DETVFLR,1,1
+VC_HTF_DETVFLR,VC_HTF_DETVFLR,"Detektovane žrtve trgovine ljudima radi prisilnog rada, ropstva i ropstva, prema starosti i polu (na 100.000 stanovnika)",VC_HTF_DETVFLR,VC_HTF_DETVFLR,1,1
 VC_HTF_DETVOG,Detected victims of human trafficking for removal of organ (number),Detektovane žrtve trgovine ljudima za uklanjanje organa (broj),Детектоване жртве трговине људима за уклањање органа (број),Detektovane žrtve trgovine ljudima za uklanjanje organa (broj),6,1
 VC_HTF_DETVOP,Detected victims of human trafficking for other purposes (number),Detektovane žrtve trgovine ljudima za druge svrhe (broj),Детектоване жртве трговине људима за друге сврхе (број),Detektovane žrtve trgovine ljudima za druge svrhe (broj),5,1
-VC_HTF_DETVOPR,VC_HTF_DETVOPR,VC_HTF_DETVOPR,VC_HTF_DETVOPR,VC_HTF_DETVOPR,5,1
-VC_HTF_DETVR,VC_HTF_DETVR,VC_HTF_DETVR,VC_HTF_DETVR,VC_HTF_DETVR,9,1
+VC_HTF_DETVOPR,VC_HTF_DETVOPR,"Detektovane žrtve trgovine ljudima u druge svrhe, prema starosti i polu (na 100.000 stanovnika)",VC_HTF_DETVOPR,VC_HTF_DETVOPR,5,1
+VC_HTF_DETVR,VC_HTF_DETVR,"Detektovane žrtve trgovine ljudima, prema starosti i polu (na 100.000 stanovnika",VC_HTF_DETVR,VC_HTF_DETVR,9,1
 VC_HTF_DETVSX,Detected victims of human trafficking for sexual exploitaton (number),Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje (broj),Детектоване жртве трговине људима за сексуално искоришћавање (број),Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje (broj),7,1
-VC_HTF_DETVSXR,VC_HTF_DETVSXR,VC_HTF_DETVSXR,VC_HTF_DETVSXR,VC_HTF_DETVSXR,3,1
+VC_HTF_DETVSXR,VC_HTF_DETVSXR,"Detektovane žrtve trgovine ljudima radi seksualne eksploatacije, prema starosti i polu (na 100.000 stanovnika)",VC_HTF_DETVSXR,VC_HTF_DETVSXR,3,1
 VC_IHR_PSRC,"Number of victims of intentional homicide per 100,000 population",Broj žrtava ubistava s namjerom na 100 000 stanovnika,Број жртава убистава с намјером на 100.000 становника,Broj žrtava ubojstava s namjerom na 100 000 stanovnika,3,1
 VC_IHR_PSRCN,Number of victims of intentional homicide,Broj žrtava ubistava s predomišljajem,Број жртава убистава с предомишљајем,Broj žrtava ubojstava s predomišljajem,3,1
 VC_PRS_UNSNT,Unsentenced detainees as a proportion of overall prison population,Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji,Неосуђени притвореници као удио у укупној затворској популацији,Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji,3,1
