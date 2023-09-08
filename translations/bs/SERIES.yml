@@ -364,6 +364,10 @@ VC_HTF_DETVFL: Detektovane žrtve trgovine ljudima za prisilni rad, služnost i 
 VC_HTF_DETVOG: Detektovane žrtve trgovine ljudima za uklanjanje organa (broj)
 VC_HTF_DETVOP: Detektovane žrtve trgovine ljudima za druge svrhe (broj)
 VC_HTF_DETVSX: Detektovane žrtve trgovine ljudima za  seksualno iskorištavanje (broj)
+VC_HTF_DETVFLR: Detektovane žrtve trgovine ljudima radi prisilnog rada, ropstva i ropstva, prema starosti i polu (na 100.000 stanovnika)
+VC_HTF_DETVOPR: Detektovane žrtve trgovine ljudima u druge svrhe, prema starosti i polu (na 100.000 stanovnika)
+VC_HTF_DETVSXR: Detektovane žrtve trgovine ljudima radi seksualne eksploatacije, prema starosti i polu (na 100.000 stanovnika)
+VC_HTF_DETVR: Detektovane žrtve trgovine ljudima, prema starosti i polu (na 100.000 stanovnika
 VC_IHR_PSRC: Broj žrtava ubistava s namjerom na 100 000 stanovnika
 VC_IHR_PSRCN: Broj žrtava ubistava s predomišljajem
 VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
