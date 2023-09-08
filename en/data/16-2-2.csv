@@ -136,14 +136,72 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,Detected victims of human trafficking for sexual exploitaton (number),Number,Male,All age ranges or no breakdown by age,
 2015,Detected victims of human trafficking for sexual exploitaton (number),Number,Male,All age ranges or no breakdown by age,
 2016,Detected victims of human trafficking for sexual exploitaton (number),Number,Male,All age ranges or no breakdown by age,
-2005,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,65.0
-2010,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,8.0
-2011,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,18.0
+2005,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,65.0
+2010,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,8.0
+2011,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,18.0
+2012,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,20.0
+2014,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,10.0
+2015,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,6.0
+2016,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,7.0
+2017,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,10.0
+2018,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,9.0
+2019,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,15.0
+2020,Detected victims of human trafficking for sexual exploitaton (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,17.0
+2010,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,25.0
+2011,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,35.0
 2012,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,20.0
-2014,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,10.0
-2015,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,6.0
-2016,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,7.0
-2017,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,10.0
-2018,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,9.0
-2019,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,15.0
-2020,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,17.0
+2014,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,39.0
+2015,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,35.0
+2016,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,48.0
+2017,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,83.0
+2018,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,36.0
+2019,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,61.0
+2020,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,70.0
+2011,Detected victims of human trafficking (number),Number,Female,All age ranges or no breakdown by age,7.0
+2014,Detected victims of human trafficking (number),Number,Female,All age ranges or no breakdown by age,14.0
+2015,Detected victims of human trafficking (number),Number,Female,All age ranges or no breakdown by age,8.0
+2017,Detected victims of human trafficking (number),Number,Female,All age ranges or no breakdown by age,58.0
+2020,Detected victims of human trafficking (number),Number,Female,All age ranges or no breakdown by age,43.0
+2010,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,21.0
+2011,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,28.0
+2012,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,39.0
+2014,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,35.0
+2015,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,27.0
+2017,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,25.0
+2020,Detected victims of human trafficking (number),Number,Male,All age ranges or no breakdown by age,27.0
+2010,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,20.0
+2011,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,19.0
+2012,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,19.0
+2014,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,37.0
+2015,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,17.0
+2016,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,10.0
+2017,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,47.0
+2018,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,24.0
+2019,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,36.0
+2020,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,under 18 years old,35.0
+2011,Detected victims of human trafficking (number),Number,Female,under 18 years old,7.0
+2014,Detected victims of human trafficking (number),Number,Female,under 18 years old,13.0
+2010,Detected victims of human trafficking (number),Number,Male,under 18 years old,18.0
+2011,Detected victims of human trafficking (number),Number,Male,under 18 years old,12.0
+2012,Detected victims of human trafficking (number),Number,Male,under 18 years old,19.0
+2014,Detected victims of human trafficking (number),Number,Male,under 18 years old,24.0
+2015,Detected victims of human trafficking (number),Number,Male,under 18 years old,14.0
+2010,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,5.0
+2011,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,16.0
+2012,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,20.0
+2014,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,12.0
+2015,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,18.0
+2016,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,38.0
+2017,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,36.0
+2018,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,12.0
+2019,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,25.0
+2020,Detected victims of human trafficking (number),Number,Both sexes or no breakdown by sex,18 years old and over,35.0
+2015,Detected victims of human trafficking (number),Number,Female,18 years old and over,5.0
+2017,Detected victims of human trafficking (number),Number,Female,18 years old and over,11.0
+2020,Detected victims of human trafficking (number),Number,Female,18 years old and over,8.0
+2011,Detected victims of human trafficking (number),Number,Male,18 years old and over,16.0
+2012,Detected victims of human trafficking (number),Number,Male,18 years old and over,20.0
+2014,Detected victims of human trafficking (number),Number,Male,18 years old and over,11.0
+2015,Detected victims of human trafficking (number),Number,Male,18 years old and over,13.0
+2017,Detected victims of human trafficking (number),Number,Male,18 years old and over,25.0
+2017,Detected victims of human trafficking (number),Number,Male,18 years old and over,27.0
