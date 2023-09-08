@@ -204,4 +204,20 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,Detected victims of human trafficking (number),Number,Male,18 years old and over,11.0
 2015,Detected victims of human trafficking (number),Number,Male,18 years old and over,13.0
 2017,Detected victims of human trafficking (number),Number,Male,18 years old and over,25.0
-2017,Detected victims of human trafficking (number),Number,Male,18 years old and over,27.0
+2020,Detected victims of human trafficking (number),Number,Male,18 years old and over,27.0
+2010,VC_HTF_DETVFLR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.45
+2011,VC_HTF_DETVFLR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.27
+2012,VC_HTF_DETVFLR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.35
+2016,VC_HTF_DETVFLR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.37
+2017,VC_HTF_DETVFLR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.2
+2014,VC_HTF_DETVOPR,"Per 100,000 population",Female,under 18 years old,3.89
+2014,VC_HTF_DETVOPR,"Per 100,000 population",Male,under 18 years old,5.16
+2015,VC_HTF_DETVOPR,"Per 100,000 population",Male,under 18 years old,2.96
+2015,VC_HTF_DETVOPR,"Per 100,000 population",Female,18 years old and over,0.34
+2015,VC_HTF_DETVOPR,"Per 100,000 population",Male,18 years old and over,0.43
+2014,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,1.01
+2015,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.79
+2016,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.66
+2017,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,1.66
+2018,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,0.5
+2019,VC_HTF_DETVOPR,"Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,1.37
