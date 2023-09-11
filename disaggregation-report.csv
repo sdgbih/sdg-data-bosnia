@@ -11,7 +11,7 @@ LAND_ COVER,Land cover,Pokrivenost zemljišta,Покривеност земљи�
 LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zahtjeva,1,2
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,178,400
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,178,402
 SEX,Sex,Spol,Пол,Spol,39,4
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,177,38
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5

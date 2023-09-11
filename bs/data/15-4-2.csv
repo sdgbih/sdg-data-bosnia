@@ -308,3 +308,15 @@ Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
 2010,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
 2015,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
 2018,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
+2015,Udio degradiranog planinskog zemljišta (%),Planinski,,Procenat,0.76
+2018,Udio degradiranog planinskog zemljišta (%),Planinski,,Procenat,0.31
+2015,Udio degradiranog planinskog zemljišta (%),Preostalo planinsko područje,,Procenat,1.14
+2018,Udio degradiranog planinskog zemljišta (%),Preostalo planinsko područje,,Procenat,0.28
+2015,Udio degradiranog planinskog zemljišta (%),Ukupno,,Procenat,0.76
+2018,Udio degradiranog planinskog zemljišta (%),Ukupno,,Procenat,0.31
+2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Planinski,,Kvadratnih kilometara,288.99
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Planinski,,Kvadratnih kilometara,117.31
+2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,0.28
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,0.07
+2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,289.27
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,117.38

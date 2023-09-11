@@ -308,3 +308,15 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2010,Mountain area (square kilometres),Total,,Square kilometers,38054.12
 2015,Mountain area (square kilometres),Total,,Square kilometers,38054.12
 2018,Mountain area (square kilometres),Total,,Square kilometers,38054.12
+2015,ER_MTN_DGRDP,Montane,,Percent,0.76
+2018,ER_MTN_DGRDP,Montane,,Percent,0.31
+2015,ER_MTN_DGRDP,Remaining mountain area,,Percent,1.14
+2018,ER_MTN_DGRDP,Remaining mountain area,,Percent,0.28
+2015,ER_MTN_DGRDP,Total,,Percent,0.76
+2018,ER_MTN_DGRDP,Total,,Percent,0.31
+2015,ER_MTN_DGRDA,Montane,,Square kilometers,288.99
+2018,ER_MTN_DGRDA,Montane,,Square kilometers,117.31
+2015,ER_MTN_DGRDA,Remaining mountain area,,Square kilometers,0.28
+2018,ER_MTN_DGRDA,Remaining mountain area,,Square kilometers,0.07
+2015,ER_MTN_DGRDA,Total,,Square kilometers,289.27
+2018,ER_MTN_DGRDA,Total,,Square kilometers,117.38
