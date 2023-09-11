@@ -1,17 +1,56 @@
-Year,SERIES,UNIT_MEASURE,Planinsko uzvišenje,Value
-2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.83
-2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.68
-2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.66
-2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1500–2500 metara i nagib > 2,98.66
-2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.89
-2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.87
-2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.87
-2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 1000–1500 metara i nagib > 5 li lokalni raspon nadmorske visine (polumjer LER 7 kilometara) > 300 metara,99.87
-2000,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,99.09
-2010,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.95
-2015,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.86
-2018,Indeks planinskog zelenog pokrivača,Postotak,Nadmorska visina 300–1000 metara i lokalni raspon nadmorske visine (radijus od 7 kilometara)> 300 metara,98.84
-2000,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.32
-2010,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.21
-2015,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.15
-2018,Indeks planinskog zelenog pokrivača,Postotak,Sve visine,99.14
+Year,SERIES,Bioklimatski pojas,Zemljišni pokrov,UNIT_MEASURE,Value
+2000,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.33
+2005,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.38
+2010,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.43
+2015,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.5
+2018,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.5
+2000,Indeks planinskog zelenog pokrivača,Planinski,Usjevi,Postotak,18.81
+2005,Indeks planinskog zelenog pokrivača,Planinski,Usjevi,Postotak,18.28
+2010,Indeks planinskog zelenog pokrivača,Planinski,Usjevi,Postotak,17.12
+2015,Indeks planinskog zelenog pokrivača,Planinski,Usjevi,Postotak,16.92
+2018,Indeks planinskog zelenog pokrivača,Planinski,Usjevi,Postotak,17.08
+2000,Indeks planinskog zelenog pokrivača,Planinski,Trajni snijeg i ledenjaci,Postotak,0.0
+2005,Indeks planinskog zelenog pokrivača,Planinski,Trajni snijeg i ledenjaci,Postotak,0.0
+2010,Indeks planinskog zelenog pokrivača,Planinski,Trajni snijeg i ledenjaci,Postotak,0.0
+2015,Indeks planinskog zelenog pokrivača,Planinski,Trajni snijeg i ledenjaci,Postotak,0.0
+2018,Indeks planinskog zelenog pokrivača,Planinski,Trajni snijeg i ledenjaci,Postotak,0.0
+2000,Indeks planinskog zelenog pokrivača,Planinski,Travnjak,Postotak,13.14
+2005,Indeks planinskog zelenog pokrivača,Planinski,Travnjak,Postotak,13.18
+2010,Indeks planinskog zelenog pokrivača,Planinski,Travnjak,Postotak,13.12
+2015,Indeks planinskog zelenog pokrivača,Planinski,Travnjak,Postotak,13.02
+2018,Indeks planinskog zelenog pokrivača,Planinski,Travnjak,Postotak,13.07
+2000,Indeks planinskog zelenog pokrivača,Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2005,Indeks planinskog zelenog pokrivača,Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2010,Indeks planinskog zelenog pokrivača,Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2015,Indeks planinskog zelenog pokrivača,Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2018,Indeks planinskog zelenog pokrivača,Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2000,Indeks planinskog zelenog pokrivača,Planinski,Kopnena vodna tijela,Postotak,0.34
+2005,Indeks planinskog zelenog pokrivača,Planinski,Kopnena vodna tijela,Postotak,0.34
+2010,Indeks planinskog zelenog pokrivača,Planinski,Kopnena vodna tijela,Postotak,0.33
+2015,Indeks planinskog zelenog pokrivača,Planinski,Kopnena vodna tijela,Postotak,0.33
+2018,Indeks planinskog zelenog pokrivača,Planinski,Kopnena vodna tijela,Postotak,0.33
+2000,Indeks planinskog zelenog pokrivača,Planinski,Indeks zelenog pokrova planina (MGCI),Postotak,99.23
+2005,Indeks planinskog zelenog pokrivača,Planinski,Indeks zelenog pokrova planina (MGCI),Postotak,99.18
+2010,Indeks planinskog zelenog pokrivača,Planinski,Indeks zelenog pokrova planina (MGCI),Postotak,99.13
+2015,Indeks planinskog zelenog pokrivača,Planinski,Indeks zelenog pokrova planina (MGCI),Postotak,99.06
+2018,Indeks planinskog zelenog pokrivača,Planinski,Indeks zelenog pokrova planina (MGCI),Postotak,99.05
+2000,Indeks planinskog zelenog pokrivača,Planinski,Površine obrasle grmljem,Postotak,1.09
+2005,Indeks planinskog zelenog pokrivača,Planinski,Površine obrasle grmljem,Postotak,1.08
+2010,Indeks planinskog zelenog pokrivača,Planinski,Površine obrasle grmljem,Postotak,1.08
+2015,Indeks planinskog zelenog pokrivača,Planinski,Površine obrasle grmljem,Postotak,1.08
+2018,Indeks planinskog zelenog pokrivača,Planinski,Površine obrasle grmljem,Postotak,1.09
+2000,Indeks planinskog zelenog pokrivača,Planinski,Oskudno prirodna vegetacija,Postotak,0.07
+2005,Indeks planinskog zelenog pokrivača,Planinski,Oskudno prirodna vegetacija,Postotak,0.07
+2010,Indeks planinskog zelenog pokrivača,Planinski,Oskudno prirodna vegetacija,Postotak,0.08
+2015,Indeks planinskog zelenog pokrivača,Planinski,Oskudno prirodna vegetacija,Postotak,0.08
+2018,Indeks planinskog zelenog pokrivača,Planinski,Oskudno prirodna vegetacija,Postotak,0.08
+2000,Indeks planinskog zelenog pokrivača,Planinski,Kopnena neplodna zemlja,Postotak,0.03
+2005,Indeks planinskog zelenog pokrivača,Planinski,Kopnena neplodna zemlja,Postotak,0.03
+2010,Indeks planinskog zelenog pokrivača,Planinski,Kopnena neplodna zemlja,Postotak,0.03
+2015,Indeks planinskog zelenog pokrivača,Planinski,Kopnena neplodna zemlja,Postotak,0.03
+2018,Indeks planinskog zelenog pokrivača,Planinski,Kopnena neplodna zemlja,Postotak,0.03
+2000,Indeks planinskog zelenog pokrivača,Planinski,Područja obrasla drvećem,Postotak,66.11
+2005,Indeks planinskog zelenog pokrivača,Planinski,Područja obrasla drvećem,Postotak,66.56
+2010,Indeks planinskog zelenog pokrivača,Planinski,Područja obrasla drvećem,Postotak,67.72
+2015,Indeks planinskog zelenog pokrivača,Planinski,Područja obrasla drvećem,Postotak,67.97
+2018,Indeks planinskog zelenog pokrivača,Planinski,Područja obrasla drvećem,Postotak,67.73
