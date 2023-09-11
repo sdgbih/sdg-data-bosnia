@@ -1,12 +1,12 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-ARTIFICIAL,Artificial surfaces,Vještačke površine,Вјештачке површине,Umjetne površine,3,1
-CROPLAND,Croplands,Usjevi,Усјеви,Usjevi,3,1
-GLACIERS,Permanent snow and glaciers,Trajni snijeg i glečeri,Трајни снијег и глечери,Trajni snijeg i ledenjaci,3,1
-GRASSLAND,Grassland,Travnate površine,Травнате површине,Travnjak,3,1
-HERB_AQUA_FLOOD,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded","Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja","Грмље и/или зељаста вегетација, водена или редовно плављена подручја","Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",3,1
-INLAND_WATER,Inland water bodies,Unutrašnje vodene površine,Унутрашње водене површине,Kopnena vodna tijela,3,1
-MGCI,Mountain Green Cover Index (MGCI),Indeks zelenog pokrivača planine (MGCI),Индекс зеленог покривача планине(MGCI),Indeks zelenog pokrova planina (MGCI),3,1
-SHRUB_COVERED,Shrub-covered areas,Površine prekrivene žbunjem,Површине прекривене жбуњем,Površine obrasle grmljem,3,1
-SPARSE_NAT_VEG,Sparsely natural vegetated areas,Površine sa rijetkom vegetacijom,Површине са ријетком вегетацијом,Oskudno prirodna vegetacija,3,1
-TERRESTRIAL_BARREN,Terrestrial barren land,Neplodna zemlja,Неплодна земља,Kopnena neplodna zemlja,3,1
-TREE_COVERED,Tree-covered areas,Područja pokrivena drvećem,Подручја покривена дрвећем,Područja obrasla drvećem,3,1
+ARTIFICIAL,Artificial surfaces,Vještačke površine,Вјештачке површине,Umjetne površine,4,1
+CROPLAND,Croplands,Usjevi,Усјеви,Usjevi,4,1
+GLACIERS,Permanent snow and glaciers,Trajni snijeg i glečeri,Трајни снијег и глечери,Trajni snijeg i ledenjaci,4,1
+GRASSLAND,Grassland,Travnate površine,Травнате површине,Travnjak,4,1
+HERB_AQUA_FLOOD,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded","Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja","Грмље и/или зељаста вегетација, водена или редовно плављена подручја","Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",4,1
+INLAND_WATER,Inland water bodies,Unutrašnje vodene površine,Унутрашње водене површине,Kopnena vodna tijela,4,1
+MGCI,Mountain Green Cover Index (MGCI),Indeks zelenog pokrivača planine (MGCI),Индекс зеленог покривача планине(MGCI),Indeks zelenog pokrova planina (MGCI),4,1
+SHRUB_COVERED,Shrub-covered areas,Površine prekrivene žbunjem,Површине прекривене жбуњем,Površine obrasle grmljem,4,1
+SPARSE_NAT_VEG,Sparsely natural vegetated areas,Površine sa rijetkom vegetacijom,Површине са ријетком вегетацијом,Oskudno prirodna vegetacija,4,1
+TERRESTRIAL_BARREN,Terrestrial barren land,Neplodna zemlja,Неплодна земља,Kopnena neplodna zemlja,4,1
+TREE_COVERED,Tree-covered areas,Područja pokrivena drvećem,Подручја покривена дрвећем,Područja obrasla drvećem,4,1
