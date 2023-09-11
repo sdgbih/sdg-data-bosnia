@@ -109,3 +109,58 @@ Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
 2010,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja pokrivena drvećem,Procenat,24.91
 2015,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja pokrivena drvećem,Procenat,28.04
 2018,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja pokrivena drvećem,Procenat,27.75
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Vještačke površine,Procenat,0.33
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Vještačke površine,Procenat,0.38
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Vještačke površine,Procenat,0.43
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Vještačke površine,Procenat,0.5
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Vještačke površine,Procenat,0.5
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Procenat,18.82
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Procenat,18.28
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Procenat,17.13
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Procenat,16.92
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Procenat,17.08
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i glečeri,Procenat,0.0
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i glečeri,Procenat,0.0
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i glečeri,Procenat,0.0
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i glečeri,Procenat,0.0
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i glečeri,Procenat,0.0
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Travnate površine,Procenat,13.14
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Travnate površine,Procenat,13.18
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Travnate površine,Procenat,13.12
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Travnate površine,Procenat,13.01
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Travnate površine,Procenat,13.06
+2000,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Procenat,0.08
+2005,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Procenat,0.08
+2010,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Procenat,0.08
+2015,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Procenat,0.08
+2018,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Procenat,0.08
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Unutrašnje vodene površine,Procenat,0.34
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Unutrašnje vodene površine,Procenat,0.34
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Unutrašnje vodene površine,Procenat,0.33
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Unutrašnje vodene površine,Procenat,0.33
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Unutrašnje vodene površine,Procenat,0.33
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrivača planine (MGCI),Procenat,99.23
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrivača planine (MGCI),Procenat,99.18
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrivača planine (MGCI),Procenat,99.13
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrivača planine (MGCI),Procenat,99.06
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrivača planine (MGCI),Procenat,99.05
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Površine prekrivene žbunjem,Procenat,1.12
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Površine prekrivene žbunjem,Procenat,1.11
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Površine prekrivene žbunjem,Procenat,1.11
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Površine prekrivene žbunjem,Procenat,1.11
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Površine prekrivene žbunjem,Procenat,1.11
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Površine sa rijetkom vegetacijom,Procenat,0.7
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Površine sa rijetkom vegetacijom,Procenat,0.7
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Površine sa rijetkom vegetacijom,Procenat,0.8
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Površine sa rijetkom vegetacijom,Procenat,0.8
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Površine sa rijetkom vegetacijom,Procenat,0.8
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Neplodna zemlja,Procenat,0.03
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Neplodna zemlja,Procenat,0.03
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Neplodna zemlja,Procenat,0.03
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Neplodna zemlja,Procenat,0.03
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Neplodna zemlja,Procenat,0.03
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Područja pokrivena drvećem,Procenat,66.08
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Područja pokrivena drvećem,Procenat,66.53
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Područja pokrivena drvećem,Procenat,67.69
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Područja pokrivena drvećem,Procenat,67.94
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Područja pokrivena drvećem,Procenat,67.71

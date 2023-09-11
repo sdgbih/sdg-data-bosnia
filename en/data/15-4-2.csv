@@ -109,3 +109,58 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2010,Mountain Green Cover Index,Remaining mountain area,Tree-covered areas,Percent,24.91
 2015,Mountain Green Cover Index,Remaining mountain area,Tree-covered areas,Percent,28.04
 2018,Mountain Green Cover Index,Remaining mountain area,Tree-covered areas,Percent,27.75
+2000,Mountain Green Cover Index,Total,Artificial surfaces,Percent,0.33
+2005,Mountain Green Cover Index,Total,Artificial surfaces,Percent,0.38
+2010,Mountain Green Cover Index,Total,Artificial surfaces,Percent,0.43
+2015,Mountain Green Cover Index,Total,Artificial surfaces,Percent,0.5
+2018,Mountain Green Cover Index,Total,Artificial surfaces,Percent,0.5
+2000,Mountain Green Cover Index,Total,Croplands,Percent,18.82
+2005,Mountain Green Cover Index,Total,Croplands,Percent,18.28
+2010,Mountain Green Cover Index,Total,Croplands,Percent,17.13
+2015,Mountain Green Cover Index,Total,Croplands,Percent,16.92
+2018,Mountain Green Cover Index,Total,Croplands,Percent,17.08
+2000,Mountain Green Cover Index,Total,Permanent snow and glaciers,Percent,0.0
+2005,Mountain Green Cover Index,Total,Permanent snow and glaciers,Percent,0.0
+2010,Mountain Green Cover Index,Total,Permanent snow and glaciers,Percent,0.0
+2015,Mountain Green Cover Index,Total,Permanent snow and glaciers,Percent,0.0
+2018,Mountain Green Cover Index,Total,Permanent snow and glaciers,Percent,0.0
+2000,Mountain Green Cover Index,Total,Grassland,Percent,13.14
+2005,Mountain Green Cover Index,Total,Grassland,Percent,13.18
+2010,Mountain Green Cover Index,Total,Grassland,Percent,13.12
+2015,Mountain Green Cover Index,Total,Grassland,Percent,13.01
+2018,Mountain Green Cover Index,Total,Grassland,Percent,13.06
+2000,Mountain Green Cover Index,Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Percent,0.08
+2005,Mountain Green Cover Index,Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Percent,0.08
+2010,Mountain Green Cover Index,Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Percent,0.08
+2015,Mountain Green Cover Index,Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Percent,0.08
+2018,Mountain Green Cover Index,Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Percent,0.08
+2000,Mountain Green Cover Index,Total,Inland water bodies,Percent,0.34
+2005,Mountain Green Cover Index,Total,Inland water bodies,Percent,0.34
+2010,Mountain Green Cover Index,Total,Inland water bodies,Percent,0.33
+2015,Mountain Green Cover Index,Total,Inland water bodies,Percent,0.33
+2018,Mountain Green Cover Index,Total,Inland water bodies,Percent,0.33
+2000,Mountain Green Cover Index,Total,Mountain Green Cover Index (MGCI),Percent,99.23
+2005,Mountain Green Cover Index,Total,Mountain Green Cover Index (MGCI),Percent,99.18
+2010,Mountain Green Cover Index,Total,Mountain Green Cover Index (MGCI),Percent,99.13
+2015,Mountain Green Cover Index,Total,Mountain Green Cover Index (MGCI),Percent,99.06
+2018,Mountain Green Cover Index,Total,Mountain Green Cover Index (MGCI),Percent,99.05
+2000,Mountain Green Cover Index,Total,Shrub-covered areas,Percent,1.12
+2005,Mountain Green Cover Index,Total,Shrub-covered areas,Percent,1.11
+2010,Mountain Green Cover Index,Total,Shrub-covered areas,Percent,1.11
+2015,Mountain Green Cover Index,Total,Shrub-covered areas,Percent,1.11
+2018,Mountain Green Cover Index,Total,Shrub-covered areas,Percent,1.11
+2000,Mountain Green Cover Index,Total,Sparsely natural vegetated areas,Percent,0.7
+2005,Mountain Green Cover Index,Total,Sparsely natural vegetated areas,Percent,0.7
+2010,Mountain Green Cover Index,Total,Sparsely natural vegetated areas,Percent,0.8
+2015,Mountain Green Cover Index,Total,Sparsely natural vegetated areas,Percent,0.8
+2018,Mountain Green Cover Index,Total,Sparsely natural vegetated areas,Percent,0.8
+2000,Mountain Green Cover Index,Total,Terrestrial barren land,Percent,0.03
+2005,Mountain Green Cover Index,Total,Terrestrial barren land,Percent,0.03
+2010,Mountain Green Cover Index,Total,Terrestrial barren land,Percent,0.03
+2015,Mountain Green Cover Index,Total,Terrestrial barren land,Percent,0.03
+2018,Mountain Green Cover Index,Total,Terrestrial barren land,Percent,0.03
+2000,Mountain Green Cover Index,Total,Tree-covered areas,Percent,66.08
+2005,Mountain Green Cover Index,Total,Tree-covered areas,Percent,66.53
+2010,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.69
+2015,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.94
+2018,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.71

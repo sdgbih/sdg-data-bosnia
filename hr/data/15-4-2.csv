@@ -109,3 +109,58 @@ Year,SERIES,Bioklimatski pojas,Zemljišni pokrov,UNIT_MEASURE,Value
 2010,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja obrasla drvećem,Postotak,24.91
 2015,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja obrasla drvećem,Postotak,28.04
 2018,Indeks planinskog zelenog pokrivača,Preostalo planinsko područje,Područja obrasla drvećem,Postotak,27.75
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Umjetne površine,Postotak,0.33
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Umjetne površine,Postotak,0.38
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Umjetne površine,Postotak,0.43
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Umjetne površine,Postotak,0.5
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Umjetne površine,Postotak,0.5
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Postotak,18.82
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Postotak,18.28
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Postotak,17.13
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Postotak,16.92
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Usjevi,Postotak,17.08
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i ledenjaci,Postotak,0.0
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i ledenjaci,Postotak,0.0
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i ledenjaci,Postotak,0.0
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i ledenjaci,Postotak,0.0
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Trajni snijeg i ledenjaci,Postotak,0.0
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Travnjak,Postotak,13.14
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Travnjak,Postotak,13.18
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Travnjak,Postotak,13.12
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Travnjak,Postotak,13.01
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Travnjak,Postotak,13.06
+2000,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2005,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2010,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2015,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2018,Indeks planinskog zelenog pokrivača,Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Postotak,0.08
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena vodna tijela,Postotak,0.34
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena vodna tijela,Postotak,0.34
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena vodna tijela,Postotak,0.33
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena vodna tijela,Postotak,0.33
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena vodna tijela,Postotak,0.33
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrova planina (MGCI),Postotak,99.23
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrova planina (MGCI),Postotak,99.18
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrova planina (MGCI),Postotak,99.13
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrova planina (MGCI),Postotak,99.06
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Indeks zelenog pokrova planina (MGCI),Postotak,99.05
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Površine obrasle grmljem,Postotak,1.12
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Površine obrasle grmljem,Postotak,1.11
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Površine obrasle grmljem,Postotak,1.11
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Površine obrasle grmljem,Postotak,1.11
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Površine obrasle grmljem,Postotak,1.11
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Oskudno prirodna vegetacija,Postotak,0.7
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Oskudno prirodna vegetacija,Postotak,0.7
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Oskudno prirodna vegetacija,Postotak,0.8
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Oskudno prirodna vegetacija,Postotak,0.8
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Oskudno prirodna vegetacija,Postotak,0.8
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena neplodna zemlja,Postotak,0.03
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena neplodna zemlja,Postotak,0.03
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena neplodna zemlja,Postotak,0.03
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena neplodna zemlja,Postotak,0.03
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Kopnena neplodna zemlja,Postotak,0.03
+2000,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,66.08
+2005,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,66.53
+2010,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.69
+2015,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.94
+2018,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.71
