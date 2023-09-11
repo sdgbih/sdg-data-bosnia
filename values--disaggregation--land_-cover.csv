@@ -2,7 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 ARTIFICIAL,Artificial surfaces,Vještačke površine,Вјештачке површине,Umjetne površine,6,1
 CROPLAND,Croplands,Usjevi,Усјеви,Usjevi,6,1
 GLACIERS,Permanent snow and glaciers,Trajni snijeg i glečeri,Трајни снијег и глечери,Trajni snijeg i ledenjaci,6,1
-GRASSLAND,Grassland,Travnate površine,Травнате површине,Travnjak,6,1
+GRASSLAND,Grassland,Travnate površine,Травнате површине,Travnjak,7,1
 HERB_AQUA_FLOOD,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded","Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja","Грмље и/или зељаста вегетација, водена или редовно плављена подручја","Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",6,1
 INLAND_WATER,Inland water bodies,Unutrašnje vodene površine,Унутрашње водене површине,Kopnena vodna tijela,6,1
 KM2,KM2,KM2,KM2,KM2,1,1

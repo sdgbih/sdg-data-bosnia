@@ -221,7 +221,7 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
-2010,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
+2010,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,KM2 0.93,
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2005,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
