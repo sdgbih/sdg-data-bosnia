@@ -288,10 +288,10 @@ Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine sa rijetkom vegetacijom,Kvadratnih kilometara,30.41
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine sa rijetkom vegetacijom,Kvadratnih kilometara,30.69
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine sa rijetkom vegetacijom,Kvadratnih kilometara,30.83
-2005, ER_MTN_GRNCOV,Ukupno,Neplodna zemlja,Kvadratnih kilometara,11.82
-2010, ER_MTN_GRNCOV,Ukupno,Neplodna zemlja,Kvadratnih kilometara,11.55
-2015, ER_MTN_GRNCOV,Ukupno,Neplodna zemlja,Kvadratnih kilometara,12.45
-2018, ER_MTN_GRNCOV,Ukupno,Neplodna zemlja,Kvadratnih kilometara,13.05
+2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Neplodna zemlja,Kvadratnih kilometara,11.82
+2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Neplodna zemlja,Kvadratnih kilometara,11.55
+2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Neplodna zemlja,Kvadratnih kilometara,12.45
+2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Neplodna zemlja,Kvadratnih kilometara,13.05
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja pokrivena drvećem,Kvadratnih kilometara,25317.89
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja pokrivena drvećem,Kvadratnih kilometara,25760.18
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja pokrivena drvećem,Kvadratnih kilometara,25855.61
