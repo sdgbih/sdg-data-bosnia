@@ -1,5 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-191.99,191.99,191.99,191.99,191.99,1,1
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
 CON_USD,Constant USD,konstantni američki dolari,константни амерички долари,konstantni američki dolari,11,6
 CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,Милиони константни амерички долари,Milioni konstantni američki dolari,10,3
@@ -13,7 +12,6 @@ HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
 IX,Index,Index,Индеx,Index,10,7
 KG,Kilograms,Kilogrami,Килограми,Kilogrami,5,3
 KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,26,4
-KM2 0.93,KM2 0.93,KM2 0.93,KM2 0.93,KM2 0.93,1,1
 KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,39,3
 LITRES,LITRES,Litri,Литри,Litri,3,1
 M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,Милион кубних метара годишње,Milion kubnih metara godišnje,9,1

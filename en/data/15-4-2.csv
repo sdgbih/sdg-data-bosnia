@@ -221,7 +221,7 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
-2010,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,KM2 0.93,
+2010,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2005,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
@@ -255,7 +255,7 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2005,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,144.0
 2010,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,163.86
 2015,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,188.28
-2018,ER_MTN_GRNCOV TOTAL,ARTIFICIAL,KM2,191.99,
+2018,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,191.99
 2005,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6956.75
 2010,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6518.33
 2015,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6438.86

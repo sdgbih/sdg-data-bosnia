@@ -221,7 +221,7 @@ Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i glečeri,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i glečeri,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnate površine,Kvadratnih kilometara,0.93
-2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnate površine,KM2 0.93,
+2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnate površine,Kvadratnih kilometara,0.93
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnate površine,Kvadratnih kilometara,0.93
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnate površine,Kvadratnih kilometara,0.93
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovno plavljena područja",Kvadratnih kilometara,0.0
@@ -255,7 +255,7 @@ Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Vještačke površine,Kvadratnih kilometara,144.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Vještačke površine,Kvadratnih kilometara,163.86
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Vještačke površine,Kvadratnih kilometara,188.28
-2018,ER_MTN_GRNCOV TOTAL,ARTIFICIAL,KM2,191.99,
+2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Vještačke površine,Kvadratnih kilometara,191.99
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6956.75
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6518.33
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6438.86
