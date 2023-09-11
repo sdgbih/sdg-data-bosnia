@@ -1,32 +1,64 @@
 Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
-2014,"Hazardous waste exported, (Tonnes)",TONNES,,,0.0
+2003,"Hazardous waste exported, (Tonnes)",TONNES,,,7094.29981
+2004,"Hazardous waste exported, (Tonnes)",TONNES,,,709.42999
+2005,"Hazardous waste exported, (Tonnes)",TONNES,,,656.0
+2006,"Hazardous waste exported, (Tonnes)",TONNES,,,666.0
+2007,"Hazardous waste exported, (Tonnes)",TONNES,,,444.73599
+2008,"Hazardous waste exported, (Tonnes)",TONNES,,,497.05621
+2009,"Hazardous waste exported, (Tonnes)",TONNES,,,314.5
+2010,"Hazardous waste exported, (Tonnes)",TONNES,,,87.0
+2011,"Hazardous waste exported, (Tonnes)",TONNES,,,426.194
+2012,"Hazardous waste exported, (Tonnes)",TONNES,,,554.39203
+2013,"Hazardous waste exported, (Tonnes)",TONNES,,,506.28299
+2014,"Hazardous waste exported, (Tonnes)",TONNES,,,568.88599
 2016,Hazardous waste generated (Tonnes),TONNES,,,13292.0
 2018,Hazardous waste generated (Tonnes),TONNES,,,14157.0
 2020,Hazardous waste generated (Tonnes),TONNES,,,9942.0
-2016,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.9
-2018,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.8
-2020,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.9
+2008,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.685
+2009,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.4839
+2010,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.7079
+2012,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.5743
+2014,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.4371
+2016,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.8185
+2018,"Hazardous waste generated, per capita (Kg)",Kilograms,,,4.1651
+2020,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.9963
+2008,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0007
+2009,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
+2010,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0007
+2012,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0623
+2014,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
 2016,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
+2018,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
+2020,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
+2004,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2006,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2008,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2010,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2011,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2012,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2013,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
 2014,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
+2004,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
+2006,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
+2008,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
+2010,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
+2011,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
 2012,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2008,Municipal waste collected (Tonnes),TONNES,,,1367090.0
-2009,Municipal waste collected (Tonnes),TONNES,,,1260060.0
-2010,Municipal waste collected (Tonnes),TONNES,,,1057768.0
-2011,Municipal waste collected (Tonnes),TONNES,,,1027006.0
-2012,Municipal waste collected (Tonnes),TONNES,,,964121.0
-2013,Municipal waste collected (Tonnes),TONNES,,,882049.0
-2014,Municipal waste collected (Tonnes),TONNES,,,989546.0
-2015,Municipal waste collected (Tonnes),TONNES,,,924051.0
-2016,Municipal waste collected (Tonnes),TONNES,,,920478.0
-2017,Municipal waste collected (Tonnes),TONNES,,,914232.0
-2018,Municipal waste collected (Tonnes),TONNES,,,920540.0
-2019,Municipal waste collected (Tonnes),TONNES,,,933455.0
-2020,Municipal waste collected (Tonnes),TONNES,,,922844.0
-2021,Municipal waste collected (Tonnes),TONNES,,,940405.0
-2016,Municipal waste generated (Tonnes),TONNES,,,1243889.0
-2019,Municipal waste generated (Tonnes),TONNES,,,1228309.0
-2020,Municipal waste generated (Tonnes),TONNES,,,1206147.0
-2021,Municipal waste generated (Tonnes),TONNES,,,1228916.0
+2008,Municipal waste collected (Tonnes),TONNES,,,
+2008,Municipal waste generated (Tonnes),TONNES,,,1367000.0
+2009,Municipal waste generated (Tonnes),TONNES,,,1362000.0
+2010,Municipal waste generated (Tonnes),TONNES,,,1276000.0
+2011,Municipal waste generated (Tonnes),TONNES,,,1307000.0
+2012,Municipal waste generated (Tonnes),TONNES,,,1303000.0
+2013,Municipal waste generated (Tonnes),TONNES,,,1192000.0
+2014,Municipal waste generated (Tonnes),TONNES,,,1335000.0
+2015,Municipal waste generated (Tonnes),TONNES,,,1249000.0
+2016,Municipal waste generated (Tonnes),TONNES,,,1244000.0
+2017,Municipal waste generated (Tonnes),TONNES,,,1235000.0
+2018,Municipal waste generated (Tonnes),TONNES,,,1244000.0
+2019,Municipal waste generated (Tonnes),TONNES,,,1228000.0
+2020,Municipal waste generated (Tonnes),TONNES,,,1206000.0
+2021,Municipal waste generated (Tonnes),TONNES,,,1229000.0
 2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,99.47
 2018,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,98.91
 2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,95.93
