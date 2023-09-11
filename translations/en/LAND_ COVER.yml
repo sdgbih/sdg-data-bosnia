@@ -1,0 +1,12 @@
+LAND_ COVER: Land cover
+ARTIFICIAL: Artificial surfaces
+CROPLAND: Croplands
+GLACIERS: Permanent snow and glaciers
+GRASSLAND: Grassland
+HERB_AQUA_FLOOD: Shrubs and/or herbaceous vegetation, aquatic or regularly flooded
+INLAND_WATER: Inland water bodies
+MGCI: Mountain Green Cover Index (MGCI)
+SHRUB_COVERED: Shrub-covered areas
+SPARSE_NAT_VEG: Sparsely natural vegetated areas
+TERRESTRIAL_BARREN: Terrestrial barren land
+TREE_COVERED: Tree-covered areas
