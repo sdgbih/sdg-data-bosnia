@@ -1,4 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-INCINRT,Incineration,Spaljivanje,Спаљивање,Spaljivanje,2,1
-INCINRT_EGY,Incineration to generate energy,Spaljivanje za proizvodnju energije,Спаљивање за производњу енергије,Spaljivanje za proizvodnju energije,1,1
+INCINRT,Incineration,Spaljivanje,Спаљивање,Spaljivanje,3,1
+INCINRT_EGY,Incineration to generate energy,Spaljivanje za proizvodnju energije,Спаљивање за производњу енергије,Spaljivanje za proizvodnju energije,2,1
 LANDFIL,Landfilling,Odlaganje na deponije,Одлагање на депоније,Odlaganje na deponije,1,1
+LANDFILCTL,"Landfilling, controlled","Deponija, kontrolisana","Депонија, контролисана","Deponija, kontrolisana",1,1
+OTHERWM,Other type of waste management,Druga vrsta upravljanja otpadom,Друга врста управљања отпадом,Druga vrsta upravljanja otpadom,1,1
