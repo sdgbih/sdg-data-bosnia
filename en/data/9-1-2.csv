@@ -1,18 +1,18 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2020,Freight volume (tonne kilometres),Tonne kilometres,Aire,0.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,0.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,0.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Rail,1187941000.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Rail,801400000.0
-2020,Freight volume (tonne kilometres),Tonne kilometres,Rail,727000000.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Road,4303121000.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Road,3461400000.0
-2020,Freight volume (tonne kilometres),Tonne kilometres,Road,3340000000.0
+2018,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,
+2019,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,
+2018,Freight volume (tonne kilometres),Tonne kilometres,Rail,
+2019,Freight volume (tonne kilometres),Tonne kilometres,Rail,
+2020,Freight volume (tonne kilometres),Tonne kilometres,Rail,
+2018,Freight volume (tonne kilometres),Tonne kilometres,Road,
+2019,Freight volume (tonne kilometres),Tonne kilometres,Road,
+2020,Freight volume (tonne kilometres),Tonne kilometres,Road,
 2019,Passenger volume (passenger kilometres),Passenger kilometres,Aire,7353050.0
 2020,Passenger volume (passenger kilometres),Passenger kilometres,Aire,1812510.0
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Rail,40000000.0
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Rail,4751600000.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Rail,3256000000.0
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Road,16610000000.0
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Road,16706400000.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Road,12451000000.0
+2018,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
+2019,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
+2020,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
+2018,Passenger volume (passenger kilometres),Passenger kilometres,Road,
+2019,Passenger volume (passenger kilometres),Passenger kilometres,Road,
+2020,Passenger volume (passenger kilometres),Passenger kilometres,Road,
