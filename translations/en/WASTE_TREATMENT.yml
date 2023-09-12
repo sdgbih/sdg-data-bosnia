@@ -4,3 +4,5 @@ INCINRT: Incineration
 LANDFIL: Landfilling
 OTHERWM: Other type of waste management
 RECYCL: Recycling
+INCINRT_EGY: Incineration to generate energy
+LANDFILCTL: Landfilling, controlled
