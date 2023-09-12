@@ -59,29 +59,95 @@ Year,SERIES,UNIT_MEASURE,Vrsta tretmana otpada,Privredna aktivnost,Value
 2019,Generisani komunalni otpad (tone),Tone,,,1228000.0
 2020,Generisani komunalni otpad (tone),Tone,,,1206000.0
 2021,Generisani komunalni otpad (tone),Tone,,,1229000.0
-2017,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,99.47
-2018,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,98.91
-2019,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,95.93
-2020,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,98.91
-2021,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,99.32
+2017,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,
+2018,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,
+2019,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,
+2020,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,
+2021,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Odlaganje na deponije,,
+2008,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2009,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2010,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2011,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2012,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2013,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2014,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2015,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2016,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2017,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2018,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2019,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2020,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,0.0
+2021,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje,,78.60049
+2008,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2009,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2010,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2011,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2012,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2013,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2014,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2015,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2016,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,,0.0
+2017,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Postotak,Spaljivanje za proizvodnju energije,0,
+2012,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
 2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
 2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
 2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Poljoprivreda, šumarstvo i ribolov",0.0
+2008,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,87148.003
+2009,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,83616.997
+2010,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,104000.0
+2012,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,72364.0
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,85279.0
 2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,216356.0
-2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,23701.0
+2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,551584.0
 2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Vađenja ruda i kamena,765270.0
+2008,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,3563000.0
+2009,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,3077568.115
+2010,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1325000.0
+2012,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1213475.0
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1304841.0
 2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1422448.0
 2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1893270.0
 2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Proizvodnja,1842260.0
+2008,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1059000.0
+2009,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1563614.014
+2010,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",1583119.995
+2012,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3170717.0
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",2666984.0
 2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3061988.0
 2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3247689.0
 2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,"Proizvodnja i opskrba električnom energijom, plinom, parom i klimatizacija",3129364.0
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Građevinarstvo,149146.0
 2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Građevinarstvo,156918.0
 2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Građevinarstvo,122916.0
 2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Građevinarstvo,85972.0
-2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,
-2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,
-2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,
-2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,4857710.0
-2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,5287576.0
-2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,5822866.0
+2003,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,915165.283
+2004,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,894664.429
+2005,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,948811.89
+2006,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,1002959.412
+2007,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,1057106.934
+2008,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,1065105.225
+2009,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,996164.978
+2010,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,839164.978
+2011,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,836145.02
+2013,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,705317.017
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,761536.987
+2015,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,715000.0
+2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,920541.0
+2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,902567.0
+2003,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,915165.283
+2004,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,894664.429
+2005,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,948811.89
+2006,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,1002959.412
+2007,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,1057106.934
+2008,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,5774253.418
+2009,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,5720964.355
+2010,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,3851284.912
+2011,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,836145.02
+2012,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,4456556.0
+2013,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,705317.017
+2014,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,5540772.0
+2015,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,715000.0
+2016,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,6127022.0
+2018,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,6747605.0
+2020,"Ukupno generisani otpad, po djelatnosti (tone)",Tone,,Bez podjele,6753458.0
