@@ -267,7 +267,7 @@ SH_ACS_UNHC: Indeks pokrivenosti uslugama univerzalne zdravstvene skrbi
 SH_ALC_CONSPT: Potrošnja alkohola po stanovniku (starosti od 15 godina i više) u kalendarskoj godini
 SH_BLD_ECOLI: Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefalosporin 3. generacije (npr. ESBL-E) među pacijentima koji traže pomoć i kojima se uzet uzorak krvi i koji je testiran 
 SH_BLD_MRSA: Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran 
-SH_DTH_NCD: Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)
+SH_DTH_NCD: Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i spolu (broj)
 SH_DTH_NCOM: Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili kroničnom respiratornom bolešću
 SH_DYN_IMRT: Stopa smrtnosti dojenčadi
 SH_DYN_IMRTN: Umrla dojenčad (broj)
