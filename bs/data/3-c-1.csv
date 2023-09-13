@@ -1,24 +1,50 @@
 Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
+2010,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,17.49
+2011,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,18.38
+2012,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,19.12
+2013,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,19.93
 2014,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,20.8
 2015,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Doktori medicine,21.03
+2010,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,0.97
+2011,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,1.05
+2012,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,1.15
+2013,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,1.19
 2014,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,1.24
 2015,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Farmaceuti,1.26
+2010,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,53.35
+2011,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,54.86
+2012,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,57.81
+2013,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,57.78
 2014,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,59.79
 2015,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,60.13
 2016,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,53.24
 2017,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,54.22
 2018,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Medicinsko osoblje i babice,56.05
+2010,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.09
+2011,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.16
+2012,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.38
+2013,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.24
 2014,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.31
 2015,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.34
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,79.5
 2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.2
 2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.6
 2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.2
 2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,77.7
 2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,77.5
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,20.5
 2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.8
 2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.4
 2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.8
 2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,22.3
 2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,22.5
+2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,88.8
+2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,88.2
+2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,87.9
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,87.7
 2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,87.7
+2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,11.2
+2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,11.8
+2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,12.1
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,12.3
 2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,12.3
