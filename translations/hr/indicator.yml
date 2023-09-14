@@ -27,7 +27,7 @@ series: Serije
 dataset_size_warning: Previše je skupova podataka za prikaz na grafikonu. Neće biti prikazane sve dok ne uklonite neke odabire.
 view_indicator_list: Pogledajte listu indikatora ovog cilja
 sub_categories: Podkategorije
-series_help: Odaberite kategorije iz  padajućeg menija ispod kako biste vidjeli različite podjele podataka. Neki neće biti dostupni dok se ne odabere viši stepen.
+series_help: Odaberite kategorije iz  padajućeg menija ispod kako biste vidjeli različite podjele podataka.
 legend_help: Kliknite na legendu kako biste uklonili pojedine linije s grafikona.
 chart: Grafikon
 table: Tablica
@@ -35,7 +35,7 @@ map: Mapa
 loading: Učitavanje
 loading_map: Učitavanje mape
 national_metadata: Nacionalni metapodaci
-national_metadata_blurb: Ova tablica sadrži metapodatke o stvarnim pokazateljima dostupnim iz %country_name statistike najbliže odgovarajućem globalnom SDG indikatoru. Imajte na umu da čak i kada je globalni SDG indikator dostupan iz %country_adjective statistike, ovu tablicu treba pogledati za informacije o nacionalnoj metodologiji i drugo %country_adjective-specific informacije o metapodacima.
+national_metadata_blurb: 
 global_metadata: Globalni metapodaci
 global_metadata_blurb: Ova tablica pruža informacije o metapodacima za SDG indikatore kako ih je definisala Statistička komisija UN-a. Kompletne globalne metapodatke pruža Odjel za statistiku UN-a.
 edit: Uredi
