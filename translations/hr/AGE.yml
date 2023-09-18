@@ -23,5 +23,7 @@ Y_GE46: 46 godina i više
 _T: Svi dobni rasponi ili nema podjele po godinama
 _U: Nepoznato
 _X: Nije dostupno
+<15Y: mlađi od 15 godina
 <=45Y: mlađi od 45 godina
 <35Y: mlađi od 35 godina
+65+: 65 godina i više
