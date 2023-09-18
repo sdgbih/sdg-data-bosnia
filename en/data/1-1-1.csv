@@ -181,12 +181,12 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Employed population below international poverty line,Percent,25 years old and over,Male,0.07
 2018,Employed population below international poverty line,Percent,25 years old and over,Male,0.07
 2019,Employed population below international poverty line,Percent,25 years old and over,Male,0.06
-2007,Proportion of population below international poverty line,Percent,<15Y,Both sexes or no breakdown by sex,0.04839
-2011,Proportion of population below international poverty line,Percent,<15Y,Both sexes or no breakdown by sex,0.13127
+2007,Proportion of population below international poverty line,Percent,under 15 years old,Both sexes or no breakdown by sex,0.04839
+2011,Proportion of population below international poverty line,Percent,under 15 years old,Both sexes or no breakdown by sex,0.13127
 2007,Proportion of population below international poverty line,Percent,15 to 64 years old,Both sexes or no breakdown by sex,0.06759
 2011,Proportion of population below international poverty line,Percent,15 to 64 years old,Both sexes or no breakdown by sex,0.07291
-2007,Proportion of population below international poverty line,Percent,65+,Both sexes or no breakdown by sex,0.08233
-2011,Proportion of population below international poverty line,Percent,65+,Both sexes or no breakdown by sex,0.02531
+2007,Proportion of population below international poverty line,Percent,65 years old and over,Both sexes or no breakdown by sex,0.08233
+2011,Proportion of population below international poverty line,Percent,65 years old and over,Both sexes or no breakdown by sex,0.02531
 2001,Proportion of population below international poverty line,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.3
 2004,Proportion of population below international poverty line,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.2
 2007,Proportion of population below international poverty line,Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,0.1
