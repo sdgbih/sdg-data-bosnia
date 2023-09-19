@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2022,2022,2022,2022],"SERIES":["SG_LGL_GENEQLFP","SG_LGL_GENEQVAW","SG_LGL_GENEQEMP","SG_LGL_GENEQMAR"],"UNIT_MEASURE":["PT","PT","PT","PT"],"Value":[100.0,77.78,70.0,81.82]},"edges":[]}

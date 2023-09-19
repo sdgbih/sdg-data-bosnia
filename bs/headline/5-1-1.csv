@@ -1,3 +1,5 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2022,100.0,Procenat,"Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 1. sveobuhvatni pravni okviri i javni život"
+2022,77.78,Procenat,"Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 2. nasilje nad ženama"
+2022,70.0,Procenat,"Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 3. zapošljavanje i ekonomske koristi"
+2022,81.82,Procenat,"Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 4. brak i porodica"
