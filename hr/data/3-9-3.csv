@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,0.4
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Žene,0.3
-2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.5
-2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,Na 100 000 stanovnika,Muškarci,0.5
+2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Oba spola ili bez podjele po spolu,0.4
+2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Oba spola ili bez podjele po spolu,0.4
+2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Žene,0.3
+2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Žene,0.3
+2015,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Muškarci,0.5
+2019,Stopa smrtnosti uzrokovana nenamjernim trovanjem,PER_100000_POP,Muškarci,0.5

@@ -1,39 +1,39 @@
 Year,Value,UNIT_MEASURE,SERIES
-2003,23.95627,Postotak,Ukupni prihodi države kao udio u BDP-u
-2004,22.84454,Postotak,Ukupni prihodi države kao udio u BDP-u
-2005,41.41298,Postotak,Ukupni prihodi države kao udio u BDP-u
-2006,44.2008,Postotak,Ukupni prihodi države kao udio u BDP-u
-2007,44.9061,Postotak,Ukupni prihodi države kao udio u BDP-u
-2008,43.6401,Postotak,Ukupni prihodi države kao udio u BDP-u
-2009,41.7375,Postotak,Ukupni prihodi države kao udio u BDP-u
-2010,42.8564,Postotak,Ukupni prihodi države kao udio u BDP-u
-2011,43.3316,Postotak,Ukupni prihodi države kao udio u BDP-u
-2012,43.7502,Postotak,Ukupni prihodi države kao udio u BDP-u
-2013,42.6583,Postotak,Ukupni prihodi države kao udio u BDP-u
-2014,43.8087,Postotak,Ukupni prihodi države kao udio u BDP-u
-2015,43.1511,Postotak,Ukupni prihodi države kao udio u BDP-u
-2016,42.7015,Postotak,Ukupni prihodi države kao udio u BDP-u
-2017,42.9602,Postotak,Ukupni prihodi države kao udio u BDP-u
-2018,43.0637,Postotak,Ukupni prihodi države kao udio u BDP-u
-2019,42.5493,Postotak,Ukupni prihodi države kao udio u BDP-u
-2020,42.1273,Postotak,Ukupni prihodi države kao udio u BDP-u
-2021,43.301,Postotak,Ukupni prihodi države kao udio u BDP-u
-2003,3519.0779,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2004,3654.7027,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2005,7122.063,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2006,8586.4407,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2007,9832.6954,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2008,10903.0922,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2009,10342.5251,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2010,10862.5909,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2011,11357.0551,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2012,11459.5153,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2013,11408.1339,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2014,11961.6905,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2015,12335.0872,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2016,12767.3369,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2017,13479.2972,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2018,14402.2588,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2019,15018.0991,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2020,14430.7042,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
-2021,16052.7532,Lokalna valuta (milioni),"Ukupni državni prihodi, u lokalnoj valuti"
+2003,23.95627,PT,Ukupni prihodi države kao udio u BDP-u
+2004,22.84454,PT,Ukupni prihodi države kao udio u BDP-u
+2005,41.41298,PT,Ukupni prihodi države kao udio u BDP-u
+2006,44.2008,PT,Ukupni prihodi države kao udio u BDP-u
+2007,44.9061,PT,Ukupni prihodi države kao udio u BDP-u
+2008,43.6401,PT,Ukupni prihodi države kao udio u BDP-u
+2009,41.7375,PT,Ukupni prihodi države kao udio u BDP-u
+2010,42.8564,PT,Ukupni prihodi države kao udio u BDP-u
+2011,43.3316,PT,Ukupni prihodi države kao udio u BDP-u
+2012,43.7502,PT,Ukupni prihodi države kao udio u BDP-u
+2013,42.6583,PT,Ukupni prihodi države kao udio u BDP-u
+2014,43.8087,PT,Ukupni prihodi države kao udio u BDP-u
+2015,43.1511,PT,Ukupni prihodi države kao udio u BDP-u
+2016,42.7015,PT,Ukupni prihodi države kao udio u BDP-u
+2017,42.9602,PT,Ukupni prihodi države kao udio u BDP-u
+2018,43.0637,PT,Ukupni prihodi države kao udio u BDP-u
+2019,42.5493,PT,Ukupni prihodi države kao udio u BDP-u
+2020,42.1273,PT,Ukupni prihodi države kao udio u BDP-u
+2021,43.301,PT,Ukupni prihodi države kao udio u BDP-u
+2003,3519.0779,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2004,3654.7027,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2005,7122.063,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2006,8586.4407,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2007,9832.6954,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2008,10903.0922,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2009,10342.5251,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2010,10862.5909,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2011,11357.0551,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2012,11459.5153,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2013,11408.1339,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2014,11961.6905,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2015,12335.0872,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2016,12767.3369,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2017,13479.2972,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2018,14402.2588,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2019,15018.0991,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2020,14430.7042,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"
+2021,16052.7532,CUR_LCU_M,"Ukupni državni prihodi, u lokalnoj valuti"

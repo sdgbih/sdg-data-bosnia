@@ -1,40 +1,40 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-BOOL,BOOL,BOOL,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
-CON_USD,CON_USD,CON_USD,константни амерички долари,konstantni američki dolari,11,6
-CON_USD_M,CON_USD_M,CON_USD_M,Милиони константни амерички долари,Milioni konstantni američki dolari,10,3
-CU_USD,CU_USD,CU_USD,(текући амерички долари),(nominalni američki dolari),6,4
-CU_USD_B,CU_USD_B,CU_USD_B,(милијарде номиналних америчких долара),(milijarde nominalnih američkih dolara),1,1
-CU_USD_M,CU_USD_M,CU_USD_M,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,8,3
-CUR_LCU,CUR_LCU,CUR_LCU,у KM,u KM,33,1
-CUR_LCU_M,CUR_LCU_M,CUR_LCU_M,Локална валута (милиони),Lokalna valuta (milioni),1,1
-GPERM3,GPERM3,GPERM3,Микрограми по кубном метру,Mikrogrami po kubnom metru,5,1
-HA_TH,HA_TH,HA_TH,Хиљаде хектара,Tisuće hektara,4,2
-IX,IX,IX,Индеx,Index,10,7
-KG,KG,KG,Килограми,Kilogrami,5,3
-KG_PER_CON_USD,KG_PER_CON_USD,KG_PER_CON_USD,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,26,4
-KM2,KM2,KM2,Квадратних километара,Kvadratnih kilometara,45,3
-LITRES,LITRES,LITRES,Литри,Litri,3,1
-M_M3_PER_YR,M_M3_PER_YR,M_M3_PER_YR,Милион кубних метара годишње,Milion kubnih metara godišnje,9,1
-MILLIONS,MILLIONS,MILLIONS,Милиони,Milijuni,1,1
-MJ_PER_GDP_CON_PPP_USD,MJ_PER_GDP_CON_PPP_USD,MJ_PER_GDP_CON_PPP_USD,Мегаџула по константни америчког долара ППП БДП,Megadžula po konstantni američkog dolara PPP BDP,1,1
-MT_CO2E,MT_CO2E,MT_CO2E,Милион тона еквивалента CO2,Milijuna tona ekvivalenta CO2,1,1
-NUMBER,NUMBER,NUMBER,Број,Broj,142,32
-P_KM,P_KM,P_KM,Путнички километри,Putnički kilometri,3,1
-PER_1000000_POP,PER_1000000_POP,PER_1000000_POP,На милион становника,Na milijun stanovnika,1,1
-PER_100000_LIVE_BIRTHS,PER_100000_LIVE_BIRTHS,PER_100000_LIVE_BIRTHS,На 100.000 живорођених,Na 100 000 živorođenih,1,1
-PER_100000_POP,PER_100000_POP,PER_100000_POP,На 100.000 становника,Na 100 000 stanovnika,39,9
-PER_10000_POP,PER_10000_POP,PER_10000_POP,На 10 000 становника,Na 10 000 stanovnika,4,1
-PER_1000_LIVE_BIRTHS,PER_1000_LIVE_BIRTHS,PER_1000_LIVE_BIRTHS,На 1.000 живорођених,Na 1 000 živorođenih,7,2
-PER_1000_POP,PER_1000_POP,PER_1000_POP,На 1.000 становника,Na 1 000 stanovnika,2,1
-PER_1000_UNINFECTED_POP,PER_1000_UNINFECTED_POP,PER_1000_UNINFECTED_POP,На 1.000 незараженог становништва,Na 1 000 nezaraženog stanovništva,9,1
-PER_100_POP,PER_100_POP,PER_100_POP,На 100 становника,Na 100 stanovnika,4,1
+BOOL,BOOL,BOOL,Логичка или бинарна мјера,BOOL,4,1
+CON_USD,CON_USD,CON_USD,константни амерички долари,CON_USD,11,6
+CON_USD_M,CON_USD_M,CON_USD_M,Милиони константни амерички долари,CON_USD_M,10,3
+CU_USD,CU_USD,CU_USD,(текући амерички долари),CU_USD,6,4
+CU_USD_B,CU_USD_B,CU_USD_B,(милијарде номиналних америчких долара),CU_USD_B,1,1
+CU_USD_M,CU_USD_M,CU_USD_M,Mилиони текућих америчких долара,CU_USD_M,8,3
+CUR_LCU,CUR_LCU,CUR_LCU,у KM,CUR_LCU,33,1
+CUR_LCU_M,CUR_LCU_M,CUR_LCU_M,Локална валута (милиони),CUR_LCU_M,1,1
+GPERM3,GPERM3,GPERM3,Микрограми по кубном метру,GPERM3,5,1
+HA_TH,HA_TH,HA_TH,Хиљаде хектара,HA_TH,4,2
+IX,IX,IX,Индеx,IX,10,7
+KG,KG,KG,Килограми,KG,5,3
+KG_PER_CON_USD,KG_PER_CON_USD,KG_PER_CON_USD,Килограми по константи америчког долара,KG_PER_CON_USD,26,4
+KM2,KM2,KM2,Квадратних километара,KM2,45,3
+LITRES,LITRES,LITRES,Литри,LITRES,3,1
+M_M3_PER_YR,M_M3_PER_YR,M_M3_PER_YR,Милион кубних метара годишње,M_M3_PER_YR,9,1
+MILLIONS,MILLIONS,MILLIONS,Милиони,MILLIONS,1,1
+MJ_PER_GDP_CON_PPP_USD,MJ_PER_GDP_CON_PPP_USD,MJ_PER_GDP_CON_PPP_USD,Мегаџула по константни америчког долара ППП БДП,MJ_PER_GDP_CON_PPP_USD,1,1
+MT_CO2E,MT_CO2E,MT_CO2E,Милион тона еквивалента CO2,MT_CO2E,1,1
+NUMBER,NUMBER,NUMBER,Број,NUMBER,142,32
+P_KM,P_KM,P_KM,Путнички километри,P_KM,3,1
+PER_1000000_POP,PER_1000000_POP,PER_1000000_POP,На милион становника,PER_1000000_POP,1,1
+PER_100000_LIVE_BIRTHS,PER_100000_LIVE_BIRTHS,PER_100000_LIVE_BIRTHS,На 100.000 живорођених,PER_100000_LIVE_BIRTHS,1,1
+PER_100000_POP,PER_100000_POP,PER_100000_POP,На 100.000 становника,PER_100000_POP,39,9
+PER_10000_POP,PER_10000_POP,PER_10000_POP,На 10 000 становника,PER_10000_POP,4,1
+PER_1000_LIVE_BIRTHS,PER_1000_LIVE_BIRTHS,PER_1000_LIVE_BIRTHS,На 1.000 живорођених,PER_1000_LIVE_BIRTHS,7,2
+PER_1000_POP,PER_1000_POP,PER_1000_POP,На 1.000 становника,PER_1000_POP,2,1
+PER_1000_UNINFECTED_POP,PER_1000_UNINFECTED_POP,PER_1000_UNINFECTED_POP,На 1.000 незараженог становништва,PER_1000_UNINFECTED_POP,9,1
+PER_100_POP,PER_100_POP,PER_100_POP,На 100 становника,PER_100_POP,4,1
 PER_MARW_20T24Y,PER_MARW_20T24Y,PER_MARW_20T24Y,PER_MARW_20T24Y,PER_MARW_20T24Y,2,1
-PT,PT,PT,Проценат,Postotak,611,100
-RO,RO,RO,Однос,Odnos,103,4
-SCORE,SCORE,SCORE,Резултат,Rezultat,4,4
-T_KM,T_KM,T_KM,Тонски километри,Tonski kilometri,4,1
-THOUSANDS,THOUSANDS,THOUSANDS,Хиљаде,Tisuće,8,3
-TONNES,TONNES,TONNES,Тоне,Tone,67,5
-TONNES_M,TONNES_M,TONNES_M,Милиони тона,Milijuni tona,2,1
-USD,USD,USD,Амерички долар,Američki dolar,5,4
+PT,PT,PT,Проценат,PT,611,100
+RO,RO,RO,Однос,RO,103,4
+SCORE,SCORE,SCORE,Резултат,SCORE,4,4
+T_KM,T_KM,T_KM,Тонски километри,T_KM,4,1
+THOUSANDS,THOUSANDS,THOUSANDS,Хиљаде,THOUSANDS,8,3
+TONNES,TONNES,TONNES,Тоне,TONNES,67,5
+TONNES_M,TONNES_M,TONNES_M,Милиони тона,TONNES_M,2,1
+USD,USD,USD,Амерички долар,USD,5,4
 USD/m3,USD/m3,USD/m3,Амерички долар/m3,USD/m3,4,1

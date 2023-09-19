@@ -1,17 +1,17 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2014,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,148.0
-2015,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,145.0
-2016,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,143.0
-2017,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,140.0
-2018,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,136.0
-2019,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,128.0
-2020,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,121.0
-2021,Neonatalni mortalitet (broj),Broj,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,113.0
-2014,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.7
-2015,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.6
-2016,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.6
-2017,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.5
-2018,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.4
-2019,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.3
-2020,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.2
-2021,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.1
+2014,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,148.0
+2015,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,145.0
+2016,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,143.0
+2017,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,140.0
+2018,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,136.0
+2019,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,128.0
+2020,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,121.0
+2021,Neonatalni mortalitet (broj),NUMBER,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,113.0
+2014,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.7
+2015,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.6
+2016,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.6
+2017,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.5
+2018,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.4
+2019,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.3
+2020,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.2
+2021,Stopa neonatalnog mortaliteta,PER_1000_LIVE_BIRTHS,Mlađi od 1 mjeseca,Oba spola ili bez podjele po spolu,4.1

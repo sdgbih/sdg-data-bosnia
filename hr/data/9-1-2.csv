@@ -1,18 +1,18 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Obujam tereta (tonski kilometri),Tonski kilometri,Zračni,0.0
-2018,Obujam tereta (tonski kilometri),Tonski kilometri,Unutarnji plovni put,
-2019,Obujam tereta (tonski kilometri),Tonski kilometri,Unutarnji plovni put,
-2018,Obujam tereta (tonski kilometri),Tonski kilometri,Željeznički,
-2019,Obujam tereta (tonski kilometri),Tonski kilometri,Željeznički,
-2020,Obujam tereta (tonski kilometri),Tonski kilometri,Željeznički,
-2018,Obujam tereta (tonski kilometri),Tonski kilometri,Cestovni,
-2019,Obujam tereta (tonski kilometri),Tonski kilometri,Cestovni,
-2020,Obujam tereta (tonski kilometri),Tonski kilometri,Cestovni,
-2019,Obujam putnika (putnički kilometri),Putnički kilometri,Zračni,7353050.0
-2020,Obujam putnika (putnički kilometri),Putnički kilometri,Zračni,1812510.0
-2018,Obujam putnika (putnički kilometri),Putnički kilometri,Željeznički,
-2019,Obujam putnika (putnički kilometri),Putnički kilometri,Željeznički,
-2020,Obujam putnika (putnički kilometri),Putnički kilometri,Željeznički,
-2018,Obujam putnika (putnički kilometri),Putnički kilometri,Cestovni,
-2019,Obujam putnika (putnički kilometri),Putnički kilometri,Cestovni,
-2020,Obujam putnika (putnički kilometri),Putnički kilometri,Cestovni,
+2020,Obujam tereta (tonski kilometri),T_KM,Zračni,0.0
+2018,Obujam tereta (tonski kilometri),T_KM,Unutarnji plovni put,
+2019,Obujam tereta (tonski kilometri),T_KM,Unutarnji plovni put,
+2018,Obujam tereta (tonski kilometri),T_KM,Željeznički,
+2019,Obujam tereta (tonski kilometri),T_KM,Željeznički,
+2020,Obujam tereta (tonski kilometri),T_KM,Željeznički,
+2018,Obujam tereta (tonski kilometri),T_KM,Cestovni,
+2019,Obujam tereta (tonski kilometri),T_KM,Cestovni,
+2020,Obujam tereta (tonski kilometri),T_KM,Cestovni,
+2019,Obujam putnika (putnički kilometri),P_KM,Zračni,7353050.0
+2020,Obujam putnika (putnički kilometri),P_KM,Zračni,1812510.0
+2018,Obujam putnika (putnički kilometri),P_KM,Željeznički,
+2019,Obujam putnika (putnički kilometri),P_KM,Željeznički,
+2020,Obujam putnika (putnički kilometri),P_KM,Željeznički,
+2018,Obujam putnika (putnički kilometri),P_KM,Cestovni,
+2019,Obujam putnika (putnički kilometri),P_KM,Cestovni,
+2020,Obujam putnika (putnički kilometri),P_KM,Cestovni,
