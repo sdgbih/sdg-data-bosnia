@@ -41,9 +41,9 @@ IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,М
 IO_IMF,International Monetary Fund,Međunarodni monetarni fond,Међународни монетарни фонд,Međunarodni monetarni fond,4,2
 IO_UNGA,UN General Assembly,Generalna skupština UN-a,Генерална скупштина УН-а,Generalna skupština UN-a,4,2
 IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,Савјет безбједности УН-а,Vijeće sigurnosti UN-a,4,2
-IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
-IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
-IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbit/s ili više,2,1
+IS_256KT2M,IS_256KT2M,IS_256KT2M,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
+IS_2MT10M,IS_2MT10M,IS_2MT10M,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
+IS_GE10M,IS_GE10M,IS_GE10M,10 Mbit/s или више,10 Mbit/s ili više,2,1
 MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,1,1
 MOT_AIR,Aire,Zračni,Зрачни,Zračni,2,1
 MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
