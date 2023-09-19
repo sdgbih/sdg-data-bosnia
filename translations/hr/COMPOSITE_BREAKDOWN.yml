@@ -17,9 +17,10 @@ IO_IFC: Međunarodna financijska korporacija
 IO_IMF: Međunarodni monetarni fond
 IO_UNGA: Generalna skupština UN-a
 IO_UNSC: Vijeće sigurnosti UN-a
-IS_256KT2M: 256 kbit/s do manje od 2 Mbit/s
-IS_2MT10M: 2 Mbit/s do manje od 10 Mbit/s
-IS_GE10M: 10 Mbit/s ili više
+256KT2MBPS: 256 kbit/s do manje od 2 Mbit/s
+2MT10MBPS: 2 Mbit/s do manje od 10 Mbit/s
+10MBPS: 10 Mbit/s ili više
+ANYS: Bilo koja brzina
 MOT_IWW: Unutarnji plovni put
 MOT_RAI: Željeznički 
 MOT_ROA: Cestovni
