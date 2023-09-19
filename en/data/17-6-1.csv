@@ -1,14 +1,16 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2010,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,0.13
-2011,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,0.2
-2012,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,0.22
-2013,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,2.03
-2014,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,2.7
-2015,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,3.58
-2016,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,5.78
-2017,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,9.05
-2018,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,9.76
-2019,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_GE10M,12.15
+2010,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,0.13
+2011,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,0.2
+2012,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,0.22
+2013,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,1.99
+2014,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,2.63
+2015,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,3.48
+2016,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,5.62
+2017,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,9.69
+2018,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,9.99
+2019,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,11.93
+2020,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,13.71
+2021,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,10 Mbit/s or above,14.83
 2010,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_256KT2M,7.21
 2011,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_256KT2M,3.59
 2012,Fixed broadband subscriptions per 100 inhabitants,Per 100 population,IS_256KT2M,2.79

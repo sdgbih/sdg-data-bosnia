@@ -1,14 +1,16 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,0.13
-2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,0.2
-2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,0.22
-2013,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,2.03
-2014,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,2.7
-2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,3.58
-2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,5.78
-2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,9.05
-2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,9.76
-2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_GE10M,12.15
+2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,0.13
+2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,0.2
+2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,0.22
+2013,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,1.99
+2014,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,2.63
+2015,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,3.48
+2016,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,5.62
+2017,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,9.69
+2018,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,9.99
+2019,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,11.93
+2020,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,13.71
+2021,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,10 Mbit/s ili više,14.83
 2010,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_256KT2M,7.21
 2011,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_256KT2M,3.59
 2012,Broj pretplatnika fiksnog širokopojasnog pristupa internetu na 100 stanovnika,Na 100 stanovnika,IS_256KT2M,2.79
