@@ -1,11 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
-2017,61,PT,Stupanj primjene integriranog upravljanja vodnim resursima
-2020,53,PT,Stupanj primjene integriranog upravljanja vodnim resursima
-2017,66,PT,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje"
-2020,60,PT,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje"
-2017,62,PT,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje"
-2020,53,PT,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje"
-2017,62,PT,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja"
-2020,56,PT,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja"
-2017,53,PT,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje"
-2020,43,PT,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje"
+2017,61,Postotak,Stupanj primjene integriranog upravljanja vodnim resursima
+2020,53,Postotak,Stupanj primjene integriranog upravljanja vodnim resursima
+2017,66,Postotak,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje"
+2020,60,Postotak,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje"
+2017,62,Postotak,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje"
+2020,53,Postotak,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje"
+2017,62,Postotak,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja"
+2020,56,Postotak,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja"
+2017,53,Postotak,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje"
+2020,43,Postotak,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje"

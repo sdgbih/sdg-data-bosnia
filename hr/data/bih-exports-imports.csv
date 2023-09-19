@@ -1,55 +1,55 @@
 Year,UNIT_MEASURE,Tip,Value
-a)Siječanj,CUR_NAC_1000,Izvoz 2019,856376
-b)Veljača,CUR_NAC_1000,Izvoz 2019,926443
-c)Ožujak,CUR_NAC_1000,Izvoz 2019,989133
-d)Travanj,CUR_NAC_1000,Izvoz 2019,1034867
-e)Svibanj,CUR_NAC_1000,Izvoz 2019,1028163
-f)Lipanj,CUR_NAC_1000,Izvoz 2019,995601
-g)Srpanj,CUR_NAC_1000,Izvoz 2019,1005663
-h)Kolovoz,CUR_NAC_1000,Izvoz 2019,844904
-i)Rujan,CUR_NAC_1000,Izvoz 2019,983719
-j)Listopad,CUR_NAC_1000,Izvoz 2019,1013456
-k)Studeni,CUR_NAC_1000,Izvoz 2019,981349
-l)Prosinac,CUR_NAC_1000,Izvoz 2019,832891
-a)Siječanj,CUR_NAC_1000,Uvoz 2019,1292899
-b)Veljača,CUR_NAC_1000,Uvoz 2019,1549613
-c)Ožujak,CUR_NAC_1000,Uvoz 2019,1772859
-d)Travanj,CUR_NAC_1000,Uvoz 2019,1750450
-e)Svibanj,CUR_NAC_1000,Uvoz 2019,1809099
-f)Lipanj,CUR_NAC_1000,Uvoz 2019,1608480
-g)Srpanj,CUR_NAC_1000,Uvoz 2019,1745495
-h)Kolovoz,CUR_NAC_1000,Uvoz 2019,1526382
-i)Rujan,CUR_NAC_1000,Uvoz 2019,1572606
-j)Listopad,CUR_NAC_1000,Uvoz 2019,1708558
-k)Studeni,CUR_NAC_1000,Uvoz 2019,1609355
-l)Prosinac,CUR_NAC_1000,Uvoz 2019,1552789
-a)Siječanj,CUR_NAC_1000,Izvoz 2020,855977
-b)Veljača,CUR_NAC_1000,Izvoz 2020,923256
-c)Ožujak,CUR_NAC_1000,Izvoz 2020,848386
-d)Travanj,CUR_NAC_1000,Izvoz 2020,696198
-e)Svibanj,CUR_NAC_1000,Izvoz 2020,736613
-f)Lipanj,CUR_NAC_1000,Izvoz 2020,888104
-g)Srpanj,CUR_NAC_1000,Izvoz 2020,874153
-h)Kolovoz,CUR_NAC_1000,Izvoz 2020,775220
-i)Rujan,CUR_NAC_1000,Izvoz 2020,977148
-j)Listopad,CUR_NAC_1000,Izvoz 2020,1019625
-k)Studeni,CUR_NAC_1000,Izvoz 2020,963423
-l)Prosinac,CUR_NAC_1000,Izvoz 2020,955873
-a)Siječanj,CUR_NAC_1000,Uvoz 2020,1235871
-b)Veljača,CUR_NAC_1000,Uvoz 2020,1567515
-c)Ožujak,CUR_NAC_1000,Uvoz 2020,1483047
-d)Travanj,CUR_NAC_1000,Uvoz 2020,1133427
-e)Svibanj,CUR_NAC_1000,Uvoz 2020,1183197
-f)Lipanj,CUR_NAC_1000,Uvoz 2020,1416588
-g)Srpanj,CUR_NAC_1000,Uvoz 2020,1511289
-h)Kolovoz,CUR_NAC_1000,Uvoz 2020,1306882
-i)Rujan,CUR_NAC_1000,Uvoz 2020,1483216
-j)Listopad,CUR_NAC_1000,Uvoz 2020,1600786
-k)Studeni,CUR_NAC_1000,Uvoz 2020,1445602
-l)Prosinac,CUR_NAC_1000,Uvoz 2020,1517666
-a)Siječanj,CUR_NAC_1000,Izvoz 2021,881277
-b)Veljača,CUR_NAC_1000,Izvoz 2021,923011
-c)Ožujak,CUR_NAC_1000,Izvoz 2021,848261
-a)Siječanj,CUR_NAC_1000,Uvoz 2021,1236794
-b)Veljača,CUR_NAC_1000,Uvoz 2021,1567650
-c)Ožujak,CUR_NAC_1000,Uvoz 2021,1483138
+a)Siječanj,u tisućama KM,Izvoz 2019,856376
+b)Veljača,u tisućama KM,Izvoz 2019,926443
+c)Ožujak,u tisućama KM,Izvoz 2019,989133
+d)Travanj,u tisućama KM,Izvoz 2019,1034867
+e)Svibanj,u tisućama KM,Izvoz 2019,1028163
+f)Lipanj,u tisućama KM,Izvoz 2019,995601
+g)Srpanj,u tisućama KM,Izvoz 2019,1005663
+h)Kolovoz,u tisućama KM,Izvoz 2019,844904
+i)Rujan,u tisućama KM,Izvoz 2019,983719
+j)Listopad,u tisućama KM,Izvoz 2019,1013456
+k)Studeni,u tisućama KM,Izvoz 2019,981349
+l)Prosinac,u tisućama KM,Izvoz 2019,832891
+a)Siječanj,u tisućama KM,Uvoz 2019,1292899
+b)Veljača,u tisućama KM,Uvoz 2019,1549613
+c)Ožujak,u tisućama KM,Uvoz 2019,1772859
+d)Travanj,u tisućama KM,Uvoz 2019,1750450
+e)Svibanj,u tisućama KM,Uvoz 2019,1809099
+f)Lipanj,u tisućama KM,Uvoz 2019,1608480
+g)Srpanj,u tisućama KM,Uvoz 2019,1745495
+h)Kolovoz,u tisućama KM,Uvoz 2019,1526382
+i)Rujan,u tisućama KM,Uvoz 2019,1572606
+j)Listopad,u tisućama KM,Uvoz 2019,1708558
+k)Studeni,u tisućama KM,Uvoz 2019,1609355
+l)Prosinac,u tisućama KM,Uvoz 2019,1552789
+a)Siječanj,u tisućama KM,Izvoz 2020,855977
+b)Veljača,u tisućama KM,Izvoz 2020,923256
+c)Ožujak,u tisućama KM,Izvoz 2020,848386
+d)Travanj,u tisućama KM,Izvoz 2020,696198
+e)Svibanj,u tisućama KM,Izvoz 2020,736613
+f)Lipanj,u tisućama KM,Izvoz 2020,888104
+g)Srpanj,u tisućama KM,Izvoz 2020,874153
+h)Kolovoz,u tisućama KM,Izvoz 2020,775220
+i)Rujan,u tisućama KM,Izvoz 2020,977148
+j)Listopad,u tisućama KM,Izvoz 2020,1019625
+k)Studeni,u tisućama KM,Izvoz 2020,963423
+l)Prosinac,u tisućama KM,Izvoz 2020,955873
+a)Siječanj,u tisućama KM,Uvoz 2020,1235871
+b)Veljača,u tisućama KM,Uvoz 2020,1567515
+c)Ožujak,u tisućama KM,Uvoz 2020,1483047
+d)Travanj,u tisućama KM,Uvoz 2020,1133427
+e)Svibanj,u tisućama KM,Uvoz 2020,1183197
+f)Lipanj,u tisućama KM,Uvoz 2020,1416588
+g)Srpanj,u tisućama KM,Uvoz 2020,1511289
+h)Kolovoz,u tisućama KM,Uvoz 2020,1306882
+i)Rujan,u tisućama KM,Uvoz 2020,1483216
+j)Listopad,u tisućama KM,Uvoz 2020,1600786
+k)Studeni,u tisućama KM,Uvoz 2020,1445602
+l)Prosinac,u tisućama KM,Uvoz 2020,1517666
+a)Siječanj,u tisućama KM,Izvoz 2021,881277
+b)Veljača,u tisućama KM,Izvoz 2021,923011
+c)Ožujak,u tisućama KM,Izvoz 2021,848261
+a)Siječanj,u tisućama KM,Uvoz 2021,1236794
+b)Veljača,u tisućama KM,Uvoz 2021,1567650
+c)Ožujak,u tisućama KM,Uvoz 2021,1483138

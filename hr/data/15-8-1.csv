@@ -1,10 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)",BOOL,0
-2020,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)",BOOL,0
-2010,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",BOOL,0
-2016,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",BOOL,1
-2020,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",BOOL,1
-2016,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)",BOOL,1
-2020,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)",BOOL,1
-2016,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)",BOOL,0
-2020,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)",BOOL,0
+2016,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)",Logička ili binarna mjera,0
+2020,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)",Logička ili binarna mjera,0
+2010,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",Logička ili binarna mjera,0
+2016,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",Logička ili binarna mjera,1
+2020,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)",Logička ili binarna mjera,1
+2016,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)",Logička ili binarna mjera,1
+2020,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)",Logička ili binarna mjera,1
+2016,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)",Logička ili binarna mjera,0
+2020,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)",Logička ili binarna mjera,0

@@ -1,17 +1,17 @@
 Year,SERIES,UNIT_MEASURE,Value
-2019,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),NUMBER,1
-2020,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),NUMBER,1
-2021,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),NUMBER,1
-2022,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),NUMBER,1
-2019,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),NUMBER,1
-2020,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),NUMBER,1
-2021,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),NUMBER,1
-2022,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),NUMBER,1
-2019,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),NUMBER,1
-2020,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),NUMBER,1
-2021,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),NUMBER,1
-2022,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),NUMBER,1
-2019,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),NUMBER,1
-2020,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),NUMBER,1
-2021,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),NUMBER,1
-2022,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),NUMBER,1
+2019,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),Broj,1
+2020,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),Broj,1
+2021,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),Broj,1
+2022,Zemlje s nacionalnim statističkim planovima koji su u potpunosti financirani (1= DA; 0 = NE),Broj,1
+2019,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),Broj,1
+2020,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),Broj,1
+2021,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),Broj,1
+2022,Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE),Broj,1
+2019,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),Broj,1
+2020,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),Broj,1
+2021,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),Broj,1
+2022,Zemlje s nacionalnim statističkim planovima koje financira država (1 = DA; 0 = NE),Broj,1
+2019,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),Broj,1
+2020,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),Broj,1
+2021,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),Broj,1
+2022,Zemlje s nacionalnim statističkim planovima koje financiraju donatori (1 = DA; 0 = NE),Broj,1

@@ -1,24 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Šumska površina (hektari),HA_TH,2111.65
-2010,Šumska površina (hektari),HA_TH,2102.66
-2015,Šumska površina (hektari),HA_TH,2160.5
-2016,Šumska površina (hektari),HA_TH,2176.51
-2017,Šumska površina (hektari),HA_TH,2187.91
-2018,Šumska površina (hektari),HA_TH,2187.91
-2019,Šumska površina (hektari),HA_TH,2187.91
-2020,Šumska površina (hektari),HA_TH,2187.91
-2000,Udio šumske površine u ukupnoj površini zemljišta,PT,41.24316
-2010,Udio šumske površine u ukupnoj površini zemljišta,PT,41.06758
-2015,Udio šumske površine u ukupnoj površini zemljišta,PT,42.19727
-2016,Udio šumske površine u ukupnoj površini zemljišta,PT,42.50996
-2017,Udio šumske površine u ukupnoj površini zemljišta,PT,42.73262
-2018,Udio šumske površine u ukupnoj površini zemljišta,PT,42.73262
-2019,Udio šumske površine u ukupnoj površini zemljišta,PT,42.73262
-2020,Udio šumske površine u ukupnoj površini zemljišta,PT,42.73262
-2010,Površina zemljišta (hektari),HA_TH,5120.0
-2015,Površina zemljišta (hektari),HA_TH,5120.0
-2016,Površina zemljišta (hektari),HA_TH,5120.0
-2017,Površina zemljišta (hektari),HA_TH,5120.0
-2018,Površina zemljišta (hektari),HA_TH,5120.0
-2019,Površina zemljišta (hektari),HA_TH,5120.0
-2020,Površina zemljišta (hektari),HA_TH,5120.0
+2000,Šumska površina (hektari),Tisuće hektara,2111.65
+2010,Šumska površina (hektari),Tisuće hektara,2102.66
+2015,Šumska površina (hektari),Tisuće hektara,2160.5
+2016,Šumska površina (hektari),Tisuće hektara,2176.51
+2017,Šumska površina (hektari),Tisuće hektara,2187.91
+2018,Šumska površina (hektari),Tisuće hektara,2187.91
+2019,Šumska površina (hektari),Tisuće hektara,2187.91
+2020,Šumska površina (hektari),Tisuće hektara,2187.91
+2000,Udio šumske površine u ukupnoj površini zemljišta,Postotak,41.24316
+2010,Udio šumske površine u ukupnoj površini zemljišta,Postotak,41.06758
+2015,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.19727
+2016,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.50996
+2017,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.73262
+2018,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.73262
+2019,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.73262
+2020,Udio šumske površine u ukupnoj površini zemljišta,Postotak,42.73262
+2010,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2015,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2016,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2017,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2018,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2019,Površina zemljišta (hektari),Tisuće hektara,5120.0
+2020,Površina zemljišta (hektari),Tisuće hektara,5120.0
