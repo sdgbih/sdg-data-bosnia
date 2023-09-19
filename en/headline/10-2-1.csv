@@ -1,5 +1,5 @@
 Year,Value,UNIT_MEASURE,SERIES
-2001,8,PT,Proportion of people living below 50 percent of median income
-2004,12,PT,Proportion of people living below 50 percent of median income
-2007,12,PT,Proportion of people living below 50 percent of median income
-2011,12,PT,Proportion of people living below 50 percent of median income
+2001,8,Percent,Proportion of people living below 50 percent of median income
+2004,12,Percent,Proportion of people living below 50 percent of median income
+2007,12,Percent,Proportion of people living below 50 percent of median income
+2011,12,Percent,Proportion of people living below 50 percent of median income

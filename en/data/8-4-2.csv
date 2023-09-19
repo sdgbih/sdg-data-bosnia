@@ -24,31 +24,31 @@ Year,SERIES,UNIT_MEASURE,Type of product,Value
 2017,"Domestic material consumption per capita, by type of raw material",TONNES,Non-metallic minerals,2.80636
 2018,"Domestic material consumption per capita, by type of raw material",TONNES,Non-metallic minerals,2.81688
 2019,"Domestic material consumption per capita, by type of raw material",TONNES,Non-metallic minerals,3.05611
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,No breakdown,2.23512
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,No breakdown,2.40158
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,No breakdown,2.16
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,No breakdown,2.18999
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,No breakdown,2.13443
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Biomass,0.54048
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Biomass,0.60429
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Biomass,0.49764
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Biomass,0.57657
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Biomass,0.55907
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Fossil fuels,0.91358
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Fossil fuels,0.98234
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Fossil fuels,0.99199
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Fossil fuels,0.97422
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Fossil fuels,0.89111
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Metal ores,0.18902
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Metal ores,0.15766
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Metal ores,0.14707
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Metal ores,0.1396
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Metal ores,0.16007
-2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Non-metallic minerals,0.61444
-2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Non-metallic minerals,0.69034
-2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Non-metallic minerals,0.55957
-2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Non-metallic minerals,0.53513
-2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,Non-metallic minerals,0.55805
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,No breakdown,2.23512
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,No breakdown,2.40158
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,No breakdown,2.16
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,No breakdown,2.18999
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,No breakdown,2.13443
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.54048
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.60429
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.49764
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.57657
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Biomass,0.55907
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.91358
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.98234
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.99199
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.97422
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Fossil fuels,0.89111
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.18902
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.15766
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.14707
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.1396
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Metal ores,0.16007
+2015,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.61444
+2016,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.69034
+2017,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.55957
+2018,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.53513
+2019,"Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,Non-metallic minerals,0.55805
 2015,Domestic material consumption,TONNES,No breakdown,36234980.14469
 2016,Domestic material consumption,TONNES,No breakdown,40159869.89063
 2017,Domestic material consumption,TONNES,No breakdown,37265513.9453

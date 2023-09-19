@@ -1,28 +1,28 @@
 Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,Degree of urbanisation,Value
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Female,Total,100.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Female,Total,100.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Female,Total,100.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Male,Total,100.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Male,Total,100.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Primary education,Total (national average) or no breakdown,Male,Total,100.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,60.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,61.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,62.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Female,Total,65.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Female,Total,66.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Female,Total,66.0
-2014,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Male,Total,55.0
-2015,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Male,Total,56.0
-2016,"Completion rate, by sex, location, wealth quintile and education level (%)",PT,Upper secondary education,Total (national average) or no breakdown,Male,Total,56.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,98.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Female,Total,98.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Lower secondary education,Total (national average) or no breakdown,Male,Total,98.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,100.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Female,Total,100.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Female,Total,100.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Female,Total,100.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Male,Total,100.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Male,Total,100.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Primary education,Total (national average) or no breakdown,Male,Total,100.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,60.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,61.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Both sexes or no breakdown by sex,Total,62.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Female,Total,65.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Female,Total,66.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Female,Total,66.0
+2014,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Male,Total,55.0
+2015,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Male,Total,56.0
+2016,"Completion rate, by sex, location, wealth quintile and education level (%)",Percent,Upper secondary education,Total (national average) or no breakdown,Male,Total,56.0

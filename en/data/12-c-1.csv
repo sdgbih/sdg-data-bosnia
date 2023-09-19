@@ -1,19 +1,19 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.0402
-2016,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.0473
-2017,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.074
-2018,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.0762
-2019,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.2181
-2020,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),PT,0.0975
-2015,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0065
-2016,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0079
-2017,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0128
-2018,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0173
-2019,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0401
-2020,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),CU_USD_B,0.0154
-2015,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,1.9006
-2016,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,2.3362
-2017,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,3.8076
-2018,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,4.1058
-2019,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,12.1625
-2020,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),CU_USD,4.6957
+2015,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.0402
+2016,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.0473
+2017,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.074
+2018,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.0762
+2019,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.2181
+2020,Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%),Percent,0.0975
+2015,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0065
+2016,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0079
+2017,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0128
+2018,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0173
+2019,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0401
+2020,Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars),(billions of nominal United States dollars),0.0154
+2015,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),1.9006
+2016,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),2.3362
+2017,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),3.8076
+2018,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),4.1058
+2019,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),12.1625
+2020,Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars),(nominal United States dollars),4.6957

@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Value
-2017,Proportion of bodies of water with good ambient water quality,PT,5.79
-2020,Proportion of bodies of water with good ambient water quality,PT,30.58
-2017,Proportion of groundwater bodies with good ambient water quality,PT,16.67
-2020,Proportion of groundwater bodies with good ambient water quality,PT,94.74
-2017,Proportion of open water bodies with good ambient water quality,PT,100.0
-2020,Proportion of open water bodies with good ambient water quality,PT,100.0
-2017,Proportion of river water bodies with good ambient water quality,PT,4.89
-2020,Proportion of river water bodies with good ambient water quality,PT,28.35
+2017,Proportion of bodies of water with good ambient water quality,Percent,5.79
+2020,Proportion of bodies of water with good ambient water quality,Percent,30.58
+2017,Proportion of groundwater bodies with good ambient water quality,Percent,16.67
+2020,Proportion of groundwater bodies with good ambient water quality,Percent,94.74
+2017,Proportion of open water bodies with good ambient water quality,Percent,100.0
+2020,Proportion of open water bodies with good ambient water quality,Percent,100.0
+2017,Proportion of river water bodies with good ambient water quality,Percent,4.89
+2020,Proportion of river water bodies with good ambient water quality,Percent,28.35

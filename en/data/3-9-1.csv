@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Value
-2019,Age-standardized mortality rate attributed to ambient air pollution,PER_100000_POP,55.0
-2019,Age-standardized mortality rate attributed to household air pollution,PER_100000_POP,72.0
-2019,Age-standardized mortality rate attributed to household and ambient air pollution,PER_100000_POP,114.0
-2016,Crude death rate attributed to ambient air pollution,PER_100000_POP,
-2016,Crude death rate attributed to household air pollution,PER_100000_POP,
-2016,Crude death rate attributed to household and ambient air pollution,PER_100000_POP,
+2019,Age-standardized mortality rate attributed to ambient air pollution,"Per 100,000 population",55.0
+2019,Age-standardized mortality rate attributed to household air pollution,"Per 100,000 population",72.0
+2019,Age-standardized mortality rate attributed to household and ambient air pollution,"Per 100,000 population",114.0
+2016,Crude death rate attributed to ambient air pollution,"Per 100,000 population",
+2016,Crude death rate attributed to household air pollution,"Per 100,000 population",
+2016,Crude death rate attributed to household and ambient air pollution,"Per 100,000 population",

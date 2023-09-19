@@ -19,22 +19,22 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2016,Hazardous waste generated (Tonnes),TONNES,,,13292.0
 2018,Hazardous waste generated (Tonnes),TONNES,,,14162.0
 2020,Hazardous waste generated (Tonnes),TONNES,,,9943.0
-2008,"Hazardous waste generated, per capita (Kg)",KG,,,2.685
-2009,"Hazardous waste generated, per capita (Kg)",KG,,,2.4839
-2010,"Hazardous waste generated, per capita (Kg)",KG,,,2.7079
-2012,"Hazardous waste generated, per capita (Kg)",KG,,,2.5743
-2014,"Hazardous waste generated, per capita (Kg)",KG,,,2.4371
-2016,"Hazardous waste generated, per capita (Kg)",KG,,,3.8185
-2018,"Hazardous waste generated, per capita (Kg)",KG,,,4.1651
-2020,"Hazardous waste generated, per capita (Kg)",KG,,,2.9963
-2008,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0007
-2009,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0006
-2010,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0007
-2012,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0623
-2014,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0006
-2016,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0008
-2018,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0008
-2020,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",KG_PER_CON_USD,,,0.0006
+2008,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.685
+2009,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.4839
+2010,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.7079
+2012,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.5743
+2014,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.4371
+2016,"Hazardous waste generated, per capita (Kg)",Kilograms,,,3.8185
+2018,"Hazardous waste generated, per capita (Kg)",Kilograms,,,4.1651
+2020,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.9963
+2008,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0007
+2009,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
+2010,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0007
+2012,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0623
+2014,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
+2016,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
+2018,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
+2020,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
 2004,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
 2006,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
 2008,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
@@ -64,35 +64,35 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2019,Municipal waste generated (Tonnes),TONNES,,,1228000.0
 2020,Municipal waste generated (Tonnes),TONNES,,,1206000.0
 2021,Municipal waste generated (Tonnes),TONNES,,,1229000.0
-2017,"Proportion of municipal waste treated, by type of treatment (%)",PT,Landfilling,,
-2018,"Proportion of municipal waste treated, by type of treatment (%)",PT,Landfilling,,
-2019,"Proportion of municipal waste treated, by type of treatment (%)",PT,Landfilling,,
-2020,"Proportion of municipal waste treated, by type of treatment (%)",PT,Landfilling,,
-2021,"Proportion of municipal waste treated, by type of treatment (%)",PT,Landfilling,,
-2008,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2009,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2010,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2011,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2012,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2013,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2014,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2015,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2016,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2017,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2018,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2019,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2020,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,0.0
-2021,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration,,78.60049
-2008,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2009,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2010,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2011,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2012,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2013,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2014,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2015,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2016,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
-2017,"Proportion of municipal waste treated, by type of treatment (%)",PT,Incineration to generate energy,,0.0
+2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2018,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2020,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2008,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2009,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2010,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2011,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2012,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2013,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2014,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2015,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2016,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2018,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2020,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,78.60049
+2008,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2009,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2010,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2011,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2012,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2013,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2014,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2015,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2016,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
+2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
 2008,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
 2009,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
 2010,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0

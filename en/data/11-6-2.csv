@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Total,31.2315
-2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Total,31.7279
-2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Total,26.025
-2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,City,40.1238
-2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,City,39.3003
-2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,City,32.3591
-2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Rural,28.3665
-2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Rural,29.0204
-2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Rural,23.7731
-2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Town and semi-dense area,33.4398
-2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Town and semi-dense area,34.1962
-2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Town and semi-dense area,28.0478
-2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Urban,35.6002
-2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Urban,35.8449
-2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",GPERM3,Urban,29.4394
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Total,31.2315
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Total,31.7279
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Total,26.025
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,40.1238
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,39.3003
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,32.3591
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,28.3665
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,29.0204
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,23.7731
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,33.4398
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,34.1962
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,28.0478
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,35.6002
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,35.8449
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,29.4394

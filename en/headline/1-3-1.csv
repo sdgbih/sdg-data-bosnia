@@ -1,6 +1,6 @@
 Year,Value,UNIT_MEASURE,SERIES
-2007,2.03118,PT,Proportion of population covered by labour market programs
-2007,20.50947,PT,Proportion of population covered by social assistance programs
-2015,17.4175,PT,Proportion of population covered by social assistance programs
-2007,41.52379,PT,Proportion of population covered by social insurance programs
-2015,40.16296,PT,Proportion of population covered by social insurance programs
+2007,2.03118,Percent,Proportion of population covered by labour market programs
+2007,20.50947,Percent,Proportion of population covered by social assistance programs
+2015,17.4175,Percent,Proportion of population covered by social assistance programs
+2007,41.52379,Percent,Proportion of population covered by social insurance programs
+2015,40.16296,Percent,Proportion of population covered by social insurance programs

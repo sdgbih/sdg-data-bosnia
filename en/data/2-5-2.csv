@@ -1,57 +1,57 @@
 Year,SERIES,UNIT_MEASURE,Value
-2003,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2004,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2005,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2006,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2007,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2008,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2009,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2010,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2011,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2012,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),PT,25
-2000,Number of local breeds with unknown risk status (number),NUMBER,0
-2001,Number of local breeds with unknown risk status (number),NUMBER,1
-2002,Number of local breeds with unknown risk status (number),NUMBER,1
-2003,Number of local breeds with unknown risk status (number),NUMBER,0
-2004,Number of local breeds with unknown risk status (number),NUMBER,0
-2005,Number of local breeds with unknown risk status (number),NUMBER,0
-2006,Number of local breeds with unknown risk status (number),NUMBER,15
-2007,Number of local breeds with unknown risk status (number),NUMBER,15
-2008,Number of local breeds with unknown risk status (number),NUMBER,15
-2009,Number of local breeds with unknown risk status (number),NUMBER,15
-2010,Number of local breeds with unknown risk status (number),NUMBER,15
-2011,Number of local breeds with unknown risk status (number),NUMBER,15
-2012,Number of local breeds with unknown risk status (number),NUMBER,15
-2013,Number of local breeds with unknown risk status (number),NUMBER,19
-2014,Number of local breeds with unknown risk status (number),NUMBER,19
-2015,Number of local breeds with unknown risk status (number),NUMBER,19
-2016,Number of local breeds with unknown risk status (number),NUMBER,19
-2017,Number of local breeds with unknown risk status (number),NUMBER,19
-2018,Number of local breeds with unknown risk status (number),NUMBER,19
-2019,Number of local breeds with unknown risk status (number),NUMBER,19
-2020,Number of local breeds with unknown risk status (number),NUMBER,19
-2021,Number of local breeds with unknown risk status (number),NUMBER,19
-2022,Number of local breeds with unknown risk status (number),NUMBER,19
-2000,Number of local breeds (not extinct) (number),NUMBER,1
-2001,Number of local breeds (not extinct) (number),NUMBER,1
-2002,Number of local breeds (not extinct) (number),NUMBER,1
-2003,Number of local breeds (not extinct) (number),NUMBER,4
-2004,Number of local breeds (not extinct) (number),NUMBER,4
-2005,Number of local breeds (not extinct) (number),NUMBER,4
-2006,Number of local breeds (not extinct) (number),NUMBER,19
-2007,Number of local breeds (not extinct) (number),NUMBER,19
-2008,Number of local breeds (not extinct) (number),NUMBER,19
-2009,Number of local breeds (not extinct) (number),NUMBER,19
-2010,Number of local breeds (not extinct) (number),NUMBER,19
-2011,Number of local breeds (not extinct) (number),NUMBER,19
-2012,Number of local breeds (not extinct) (number),NUMBER,19
-2013,Number of local breeds (not extinct) (number),NUMBER,19
-2014,Number of local breeds (not extinct) (number),NUMBER,19
-2015,Number of local breeds (not extinct) (number),NUMBER,19
-2016,Number of local breeds (not extinct) (number),NUMBER,19
-2017,Number of local breeds (not extinct) (number),NUMBER,19
-2018,Number of local breeds (not extinct) (number),NUMBER,19
-2019,Number of local breeds (not extinct) (number),NUMBER,19
-2020,Number of local breeds (not extinct) (number),NUMBER,19
-2021,Number of local breeds (not extinct) (number),NUMBER,19
-2022,Number of local breeds (not extinct) (number),NUMBER,19
+2003,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2004,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2005,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2006,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2007,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2008,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2009,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2010,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2011,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2012,Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%),Percent,25
+2000,Number of local breeds with unknown risk status (number),Number,0
+2001,Number of local breeds with unknown risk status (number),Number,1
+2002,Number of local breeds with unknown risk status (number),Number,1
+2003,Number of local breeds with unknown risk status (number),Number,0
+2004,Number of local breeds with unknown risk status (number),Number,0
+2005,Number of local breeds with unknown risk status (number),Number,0
+2006,Number of local breeds with unknown risk status (number),Number,15
+2007,Number of local breeds with unknown risk status (number),Number,15
+2008,Number of local breeds with unknown risk status (number),Number,15
+2009,Number of local breeds with unknown risk status (number),Number,15
+2010,Number of local breeds with unknown risk status (number),Number,15
+2011,Number of local breeds with unknown risk status (number),Number,15
+2012,Number of local breeds with unknown risk status (number),Number,15
+2013,Number of local breeds with unknown risk status (number),Number,19
+2014,Number of local breeds with unknown risk status (number),Number,19
+2015,Number of local breeds with unknown risk status (number),Number,19
+2016,Number of local breeds with unknown risk status (number),Number,19
+2017,Number of local breeds with unknown risk status (number),Number,19
+2018,Number of local breeds with unknown risk status (number),Number,19
+2019,Number of local breeds with unknown risk status (number),Number,19
+2020,Number of local breeds with unknown risk status (number),Number,19
+2021,Number of local breeds with unknown risk status (number),Number,19
+2022,Number of local breeds with unknown risk status (number),Number,19
+2000,Number of local breeds (not extinct) (number),Number,1
+2001,Number of local breeds (not extinct) (number),Number,1
+2002,Number of local breeds (not extinct) (number),Number,1
+2003,Number of local breeds (not extinct) (number),Number,4
+2004,Number of local breeds (not extinct) (number),Number,4
+2005,Number of local breeds (not extinct) (number),Number,4
+2006,Number of local breeds (not extinct) (number),Number,19
+2007,Number of local breeds (not extinct) (number),Number,19
+2008,Number of local breeds (not extinct) (number),Number,19
+2009,Number of local breeds (not extinct) (number),Number,19
+2010,Number of local breeds (not extinct) (number),Number,19
+2011,Number of local breeds (not extinct) (number),Number,19
+2012,Number of local breeds (not extinct) (number),Number,19
+2013,Number of local breeds (not extinct) (number),Number,19
+2014,Number of local breeds (not extinct) (number),Number,19
+2015,Number of local breeds (not extinct) (number),Number,19
+2016,Number of local breeds (not extinct) (number),Number,19
+2017,Number of local breeds (not extinct) (number),Number,19
+2018,Number of local breeds (not extinct) (number),Number,19
+2019,Number of local breeds (not extinct) (number),Number,19
+2020,Number of local breeds (not extinct) (number),Number,19
+2021,Number of local breeds (not extinct) (number),Number,19
+2022,Number of local breeds (not extinct) (number),Number,19

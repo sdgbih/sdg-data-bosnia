@@ -1,22 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Sex,Value
-2000,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,15.6034
-2001,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,14.2898
-2002,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,15.0449
-2003,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,12.2422
-2004,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,11.3348
-2005,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,11.4677
-2006,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,10.0616
-2007,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,9.1508
-2008,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,8.2064
-2009,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,7.5434
-2010,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,7.6904
-2011,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,7.8149
-2012,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,6.9029
-2013,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,7.5563
-2014,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,8.301
-2015,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,7.4017
-2016,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,6.4276
-2017,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,5.9328
-2018,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,5.5475
-2019,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,5.3941
-2020,Maternal mortality ratio,PER_100000_LIVE_BIRTHS,Female,5.6684
+2000,Maternal mortality ratio,"Per 100,000 live births",Female,15.6034
+2001,Maternal mortality ratio,"Per 100,000 live births",Female,14.2898
+2002,Maternal mortality ratio,"Per 100,000 live births",Female,15.0449
+2003,Maternal mortality ratio,"Per 100,000 live births",Female,12.2422
+2004,Maternal mortality ratio,"Per 100,000 live births",Female,11.3348
+2005,Maternal mortality ratio,"Per 100,000 live births",Female,11.4677
+2006,Maternal mortality ratio,"Per 100,000 live births",Female,10.0616
+2007,Maternal mortality ratio,"Per 100,000 live births",Female,9.1508
+2008,Maternal mortality ratio,"Per 100,000 live births",Female,8.2064
+2009,Maternal mortality ratio,"Per 100,000 live births",Female,7.5434
+2010,Maternal mortality ratio,"Per 100,000 live births",Female,7.6904
+2011,Maternal mortality ratio,"Per 100,000 live births",Female,7.8149
+2012,Maternal mortality ratio,"Per 100,000 live births",Female,6.9029
+2013,Maternal mortality ratio,"Per 100,000 live births",Female,7.5563
+2014,Maternal mortality ratio,"Per 100,000 live births",Female,8.301
+2015,Maternal mortality ratio,"Per 100,000 live births",Female,7.4017
+2016,Maternal mortality ratio,"Per 100,000 live births",Female,6.4276
+2017,Maternal mortality ratio,"Per 100,000 live births",Female,5.9328
+2018,Maternal mortality ratio,"Per 100,000 live births",Female,5.5475
+2019,Maternal mortality ratio,"Per 100,000 live births",Female,5.3941
+2020,Maternal mortality ratio,"Per 100,000 live births",Female,5.6684

@@ -1,39 +1,39 @@
 Year,SERIES,UNIT_MEASURE,Value
-2003,Total government revenue as a proportion of GDP,PT,23.95627
-2004,Total government revenue as a proportion of GDP,PT,22.84454
-2005,Total government revenue as a proportion of GDP,PT,41.41298
-2006,Total government revenue as a proportion of GDP,PT,44.2008
-2007,Total government revenue as a proportion of GDP,PT,44.9061
-2008,Total government revenue as a proportion of GDP,PT,43.6401
-2009,Total government revenue as a proportion of GDP,PT,41.7375
-2010,Total government revenue as a proportion of GDP,PT,42.8564
-2011,Total government revenue as a proportion of GDP,PT,43.3316
-2012,Total government revenue as a proportion of GDP,PT,43.7502
-2013,Total government revenue as a proportion of GDP,PT,42.6583
-2014,Total government revenue as a proportion of GDP,PT,43.8087
-2015,Total government revenue as a proportion of GDP,PT,43.1511
-2016,Total government revenue as a proportion of GDP,PT,42.7015
-2017,Total government revenue as a proportion of GDP,PT,42.9602
-2018,Total government revenue as a proportion of GDP,PT,43.0637
-2019,Total government revenue as a proportion of GDP,PT,42.5493
-2020,Total government revenue as a proportion of GDP,PT,42.1273
-2021,Total government revenue as a proportion of GDP,PT,43.301
-2003,"Total government revenue, in local currency",CUR_LCU_M,3519.0779
-2004,"Total government revenue, in local currency",CUR_LCU_M,3654.7027
-2005,"Total government revenue, in local currency",CUR_LCU_M,7122.063
-2006,"Total government revenue, in local currency",CUR_LCU_M,8586.4407
-2007,"Total government revenue, in local currency",CUR_LCU_M,9832.6954
-2008,"Total government revenue, in local currency",CUR_LCU_M,10903.0922
-2009,"Total government revenue, in local currency",CUR_LCU_M,10342.5251
-2010,"Total government revenue, in local currency",CUR_LCU_M,10862.5909
-2011,"Total government revenue, in local currency",CUR_LCU_M,11357.0551
-2012,"Total government revenue, in local currency",CUR_LCU_M,11459.5153
-2013,"Total government revenue, in local currency",CUR_LCU_M,11408.1339
-2014,"Total government revenue, in local currency",CUR_LCU_M,11961.6905
-2015,"Total government revenue, in local currency",CUR_LCU_M,12335.0872
-2016,"Total government revenue, in local currency",CUR_LCU_M,12767.3369
-2017,"Total government revenue, in local currency",CUR_LCU_M,13479.2972
-2018,"Total government revenue, in local currency",CUR_LCU_M,14402.2588
-2019,"Total government revenue, in local currency",CUR_LCU_M,15018.0991
-2020,"Total government revenue, in local currency",CUR_LCU_M,14430.7042
-2021,"Total government revenue, in local currency",CUR_LCU_M,16052.7532
+2003,Total government revenue as a proportion of GDP,Percent,23.95627
+2004,Total government revenue as a proportion of GDP,Percent,22.84454
+2005,Total government revenue as a proportion of GDP,Percent,41.41298
+2006,Total government revenue as a proportion of GDP,Percent,44.2008
+2007,Total government revenue as a proportion of GDP,Percent,44.9061
+2008,Total government revenue as a proportion of GDP,Percent,43.6401
+2009,Total government revenue as a proportion of GDP,Percent,41.7375
+2010,Total government revenue as a proportion of GDP,Percent,42.8564
+2011,Total government revenue as a proportion of GDP,Percent,43.3316
+2012,Total government revenue as a proportion of GDP,Percent,43.7502
+2013,Total government revenue as a proportion of GDP,Percent,42.6583
+2014,Total government revenue as a proportion of GDP,Percent,43.8087
+2015,Total government revenue as a proportion of GDP,Percent,43.1511
+2016,Total government revenue as a proportion of GDP,Percent,42.7015
+2017,Total government revenue as a proportion of GDP,Percent,42.9602
+2018,Total government revenue as a proportion of GDP,Percent,43.0637
+2019,Total government revenue as a proportion of GDP,Percent,42.5493
+2020,Total government revenue as a proportion of GDP,Percent,42.1273
+2021,Total government revenue as a proportion of GDP,Percent,43.301
+2003,"Total government revenue, in local currency",Local currency (millions),3519.0779
+2004,"Total government revenue, in local currency",Local currency (millions),3654.7027
+2005,"Total government revenue, in local currency",Local currency (millions),7122.063
+2006,"Total government revenue, in local currency",Local currency (millions),8586.4407
+2007,"Total government revenue, in local currency",Local currency (millions),9832.6954
+2008,"Total government revenue, in local currency",Local currency (millions),10903.0922
+2009,"Total government revenue, in local currency",Local currency (millions),10342.5251
+2010,"Total government revenue, in local currency",Local currency (millions),10862.5909
+2011,"Total government revenue, in local currency",Local currency (millions),11357.0551
+2012,"Total government revenue, in local currency",Local currency (millions),11459.5153
+2013,"Total government revenue, in local currency",Local currency (millions),11408.1339
+2014,"Total government revenue, in local currency",Local currency (millions),11961.6905
+2015,"Total government revenue, in local currency",Local currency (millions),12335.0872
+2016,"Total government revenue, in local currency",Local currency (millions),12767.3369
+2017,"Total government revenue, in local currency",Local currency (millions),13479.2972
+2018,"Total government revenue, in local currency",Local currency (millions),14402.2588
+2019,"Total government revenue, in local currency",Local currency (millions),15018.0991
+2020,"Total government revenue, in local currency",Local currency (millions),14430.7042
+2021,"Total government revenue, in local currency",Local currency (millions),16052.7532

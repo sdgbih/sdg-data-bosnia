@@ -1,32 +1,32 @@
 Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Administration Professionals,RO,0.99
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Business and Administration Associate Professionals,RO,0.91
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,General and Keyboard Clerks,RO,1.19
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,RO,0.8
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Senior Managers: Senior Government Officials,RO,0.29
-2020,Proportions of positions in the public service compared to national distributions (ratio),under 35 years old,,Both sexes or no breakdown by sex,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",RO,0.44
-2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",RO,1.11
-2021,Proportions of positions in the judiciary compared to national distributions (ratio),under 45 years olds,,Both sexes or no breakdown by sex,Judges,RO,0.49
-2021,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Judges,RO,1.27
-2021,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breakdown by age,,Female,Judges,RO,1.17
-2021,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,RO,1.38
-2021,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,RO,1.26
-2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,NUMBER,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,NUMBER,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Foreign Affairs,Male,,NUMBER,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,NUMBER,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Unknown,DEFENCE,Male,,NUMBER,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Finance,Not available,,NUMBER,0.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,NUMBER,0.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Gender Equality,Not available,,NUMBER,0.0
-2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,RO,0.50835
-2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,RO,0.38819
-2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Female,,NUMBER,1.0
-2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,NUMBER,1.0
-2021,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,NUMBER,3.0
-2021,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years olds,,,,NUMBER,8.0
-2021,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years olds,,,,NUMBER,1.0
-2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years olds,,,,PT,19.05
-2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years olds,,,,PT,6.67
-2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years olds,,,,RO,0.43121
-2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years olds,,,,RO,0.15098
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Administration Professionals,Ratio,0.99
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Business and Administration Associate Professionals,Ratio,0.91
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,General and Keyboard Clerks,Ratio,1.19
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,Ratio,0.8
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Senior Managers: Senior Government Officials,Ratio,0.29
+2020,Proportions of positions in the public service compared to national distributions (ratio),under 35 years old,,Both sexes or no breakdown by sex,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,0.44
+2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,1.11
+2021,Proportions of positions in the judiciary compared to national distributions (ratio),under 45 years olds,,Both sexes or no breakdown by sex,Judges,Ratio,0.49
+2021,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Judges,Ratio,1.27
+2021,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.17
+2021,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.38
+2021,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.26
+2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,Number,1.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,Number,1.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Foreign Affairs,Male,,Number,1.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,Number,1.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Unknown,DEFENCE,Male,,Number,1.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Finance,Not available,,Number,0.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,Number,0.0
+2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Gender Equality,Not available,,Number,0.0
+2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.50835
+2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.38819
+2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Female,,Number,1.0
+2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,1.0
+2021,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
+2021,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years olds,,,,Number,8.0
+2021,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years olds,,,,Number,1.0
+2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years olds,,,,Percent,19.05
+2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years olds,,,,Percent,6.67
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years olds,,,,Ratio,0.43121
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years olds,,,,Ratio,0.15098
