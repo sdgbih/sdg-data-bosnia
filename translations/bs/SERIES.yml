@@ -240,7 +240,11 @@ SG_HAZ_CMRSTHOLM: Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i d
 SG_INF_ACCSS: Broj zemalja koje usvajaju i provode ustavne, zakonske i/ili političke garancije za pristup informacijama od javnog značaja 
 SG_INT_MBRDEV: Udio članova zemalja u razvoju u međunarodnim organizacijama, prema organizaciji  
 SG_INT_VRTDEV: Udio prava glasa zemalja u razvoju u međunarodnim organizacijama, prema organizaciji
-SG_LGL_LNDFEMOD: Stepen do kojeg zakonski okvir (uključujući običajno pravo) garantira jednaka prava žena na vlasništvo nad zemljom i /ili kontrolu (1 = Nema dokaza do 6 = Najviši nivo garancija) 
+SG_LGL_LNDFEMOD: Stepen do kojeg zakonski okvir (uključujući običajno pravo) garantira jednaka prava žena na vlasništvo nad zemljom i /ili kontrolu (1 = Nema dokaza do 6 = Najviši nivo garancija)
+SG_LGL_GENEQLFP: Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 1. sveobuhvatni pravni okviri i javni život
+SG_LGL_GENEQVAW: Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 2. nasilje nad ženama
+SG_LGL_GENEQEMP: Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 3. zapošljavanje i ekonomske koristi
+SG_LGL_GENEQMAR: Pravni okviri koji promovišu, sprovode i prate rodnu ravnopravnost (postotak postignuća, 0 - 100) Oblast 4. brak i porodica
 SG_NHR_IMPLN: Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)
 SG_NHR_NOAPPLN: Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, D status (1 = DA; 0 = NE)
 SG_PLN_RECNDI: Udio novih razvojnih intervencija izvučenih iz okvira rezultata koje vode zemlje - podaci prema primaocu
