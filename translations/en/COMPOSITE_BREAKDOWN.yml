@@ -17,9 +17,10 @@ IO_IFC: International Finance Corporation
 IO_IMF: International Monetary Fund
 IO_UNGA: UN General Assembly
 IO_UNSC: UN Security Council
-IS_256KT2M: 256 kbit/s to less than 2 Mbit/s
-IS_2MT10M: 2 Mbit/s to less than 10 Mbit/s
-IS_GE10M: 10 Mbit/s or above
+256KT2MBPS: 256 kbit/s to less than 2 Mbit/s
+2MT10MBPS: 2 Mbit/s to less than 10 Mbit/s
+10MBPS: 10 Mbit/s or above
+ANYS: Any speed
 MOT_IWW: Inland waterway transport
 MOT_RAI: Rail
 MOT_ROA: Road
