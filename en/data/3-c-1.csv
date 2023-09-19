@@ -1,50 +1,50 @@
 Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
-2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,17.49
-2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,18.38
-2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,19.12
-2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,19.93
-2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,20.8
-2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Medical doctors,21.03
-2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,0.97
-2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.05
-2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.15
-2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.19
-2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.24
-2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Pharmacists,1.26
-2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,53.35
-2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,54.86
-2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,57.81
-2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,57.78
-2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,59.79
-2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,60.13
-2016,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,53.24
-2017,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,54.22
-2018,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,56.05
-2010,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.09
-2011,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.16
-2012,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.38
-2013,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.24
-2014,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.31
-2015,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,2.34
-2013,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,79.5
-2014,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,78.2
-2015,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,78.6
-2016,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,78.2
-2017,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,77.7
-2018,"Health worker distribution, by sex and type of occupation",Percent,Female,Nursing and midwifery personnel,77.5
-2013,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,20.5
-2014,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,21.8
-2015,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,21.4
-2016,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,21.8
-2017,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,22.3
-2018,"Health worker distribution, by sex and type of occupation",Percent,Male,Nursing and midwifery personnel,22.5
-2010,"Health worker distribution, by sex and type of occupation",Percent,Female,Medical doctors,88.8
-2011,"Health worker distribution, by sex and type of occupation",Percent,Female,Medical doctors,88.2
-2012,"Health worker distribution, by sex and type of occupation",Percent,Female,Medical doctors,87.9
-2013,"Health worker distribution, by sex and type of occupation",Percent,Female,Medical doctors,87.7
-2015,"Health worker distribution, by sex and type of occupation",Percent,Female,Medical doctors,87.7
-2010,"Health worker distribution, by sex and type of occupation",Percent,Male,Medical doctors,11.2
-2011,"Health worker distribution, by sex and type of occupation",Percent,Male,Medical doctors,11.8
-2012,"Health worker distribution, by sex and type of occupation",Percent,Male,Medical doctors,12.1
-2013,"Health worker distribution, by sex and type of occupation",Percent,Male,Medical doctors,12.3
-2015,"Health worker distribution, by sex and type of occupation",Percent,Male,Medical doctors,12.3
+2010,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,17.49
+2011,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,18.38
+2012,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,19.12
+2013,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,19.93
+2014,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,20.8
+2015,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Medical doctors,21.03
+2010,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,0.97
+2011,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,1.05
+2012,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,1.15
+2013,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,1.19
+2014,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,1.24
+2015,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Pharmacists,1.26
+2010,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,53.35
+2011,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,54.86
+2012,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,57.81
+2013,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,57.78
+2014,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,59.79
+2015,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,60.13
+2016,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,53.24
+2017,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,54.22
+2018,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Nursing and midwifery personnel,56.05
+2010,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.09
+2011,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.16
+2012,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.38
+2013,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.24
+2014,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.31
+2015,"Health worker density, by type of occupation (per 10,000 population)",PER_10000_POP,,Dentists,2.34
+2013,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,79.5
+2014,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,78.2
+2015,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,78.6
+2016,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,78.2
+2017,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,77.7
+2018,"Health worker distribution, by sex and type of occupation",PT,Female,Nursing and midwifery personnel,77.5
+2013,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,20.5
+2014,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,21.8
+2015,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,21.4
+2016,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,21.8
+2017,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,22.3
+2018,"Health worker distribution, by sex and type of occupation",PT,Male,Nursing and midwifery personnel,22.5
+2010,"Health worker distribution, by sex and type of occupation",PT,Female,Medical doctors,88.8
+2011,"Health worker distribution, by sex and type of occupation",PT,Female,Medical doctors,88.2
+2012,"Health worker distribution, by sex and type of occupation",PT,Female,Medical doctors,87.9
+2013,"Health worker distribution, by sex and type of occupation",PT,Female,Medical doctors,87.7
+2015,"Health worker distribution, by sex and type of occupation",PT,Female,Medical doctors,87.7
+2010,"Health worker distribution, by sex and type of occupation",PT,Male,Medical doctors,11.2
+2011,"Health worker distribution, by sex and type of occupation",PT,Male,Medical doctors,11.8
+2012,"Health worker distribution, by sex and type of occupation",PT,Male,Medical doctors,12.1
+2013,"Health worker distribution, by sex and type of occupation",PT,Male,Medical doctors,12.3
+2015,"Health worker distribution, by sex and type of occupation",PT,Male,Medical doctors,12.3

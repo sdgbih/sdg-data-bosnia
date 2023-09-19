@@ -1,11 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2017,Number of deaths and missing persons attributed to disasters (number),Number,0.0
-2017,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",Number,0.0
-2017,Broj umrlih usljed katastrofe (broj),Number,0.0
-2017,"Number of directly affected persons attributed to disasters per 100,000 population (number)",Number,0.0
-2017,Number of injured or ill people attributed to disasters (number),Number,0.0
-2017,Number of missing persons due to disaster (number),Number,
-2017,Number of people affected by disaster (number),Number,
-2017,Number of people whose damaged dwellings were attributed to disasters (number),Number,0.0
-2017,Number of people whose destroyed dwellings were attributed to disasters (number),Number,0.0
-2017,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",Number,0.0
+2017,Number of deaths and missing persons attributed to disasters (number),NUMBER,0.0
+2017,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",NUMBER,0.0
+2017,Broj umrlih usljed katastrofe (broj),NUMBER,0.0
+2017,"Number of directly affected persons attributed to disasters per 100,000 population (number)",NUMBER,0.0
+2017,Number of injured or ill people attributed to disasters (number),NUMBER,0.0
+2017,Number of missing persons due to disaster (number),NUMBER,
+2017,Number of people affected by disaster (number),NUMBER,
+2017,Number of people whose damaged dwellings were attributed to disasters (number),NUMBER,0.0
+2017,Number of people whose destroyed dwellings were attributed to disasters (number),NUMBER,0.0
+2017,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",NUMBER,0.0

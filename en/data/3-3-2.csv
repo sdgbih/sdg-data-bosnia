@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",83
-2001,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",82
-2002,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",56
-2003,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",59
-2004,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",78
-2005,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",70
-2006,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",59
-2007,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",79
-2008,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",57
-2009,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",58
-2010,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",45
-2011,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",46
-2012,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",49
-2013,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",44
-2014,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",43
-2015,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",40
-2016,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",33
-2017,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",29
-2018,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",25
-2019,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",27
-2020,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",26
-2021,"Tuberculosis incidence (per 100,000 population)","Per 100,000 population",25
+2000,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,83
+2001,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,82
+2002,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,56
+2003,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,59
+2004,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,78
+2005,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,70
+2006,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,59
+2007,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,79
+2008,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,57
+2009,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,58
+2010,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,45
+2011,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,46
+2012,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,49
+2013,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,44
+2014,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,43
+2015,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,40
+2016,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,33
+2017,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,29
+2018,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,25
+2019,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,27
+2020,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,26
+2021,"Tuberculosis incidence (per 100,000 population)",PER_100000_POP,25

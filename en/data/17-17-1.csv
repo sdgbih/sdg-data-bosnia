@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,0.0
-2016,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,0.0
-2017,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,0.0
-2018,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,0.0
-2019,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,59.95
-2020,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",Millions of current United States dollars,78.78
-2015,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,0.0
-2016,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,0.0
-2017,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,0.0
-2018,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,0.0
-2019,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,59.95
-2020,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",Millions of constant United States dollars,78.78
+2015,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,0.0
+2016,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,0.0
+2017,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,0.0
+2018,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,0.0
+2019,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,59.95
+2020,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",CU_USD_M,78.78
+2015,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,0.0
+2016,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,0.0
+2017,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,0.0
+2018,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,0.0
+2019,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,59.95
+2020,"Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",CON_USD_M,78.78

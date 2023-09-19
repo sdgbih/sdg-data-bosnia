@@ -1,18 +1,18 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Freight volume (tonne kilometres),Tonne kilometres,Aire,0.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,
-2019,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,
-2018,Freight volume (tonne kilometres),Tonne kilometres,Rail,
-2019,Freight volume (tonne kilometres),Tonne kilometres,Rail,
-2020,Freight volume (tonne kilometres),Tonne kilometres,Rail,
-2018,Freight volume (tonne kilometres),Tonne kilometres,Road,
-2019,Freight volume (tonne kilometres),Tonne kilometres,Road,
-2020,Freight volume (tonne kilometres),Tonne kilometres,Road,
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Aire,7353050.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Aire,1812510.0
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Rail,
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Road,
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Road,
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Road,
+2020,Freight volume (tonne kilometres),T_KM,Aire,0.0
+2018,Freight volume (tonne kilometres),T_KM,Inland waterway transport,
+2019,Freight volume (tonne kilometres),T_KM,Inland waterway transport,
+2018,Freight volume (tonne kilometres),T_KM,Rail,
+2019,Freight volume (tonne kilometres),T_KM,Rail,
+2020,Freight volume (tonne kilometres),T_KM,Rail,
+2018,Freight volume (tonne kilometres),T_KM,Road,
+2019,Freight volume (tonne kilometres),T_KM,Road,
+2020,Freight volume (tonne kilometres),T_KM,Road,
+2019,Passenger volume (passenger kilometres),P_KM,Aire,7353050.0
+2020,Passenger volume (passenger kilometres),P_KM,Aire,1812510.0
+2018,Passenger volume (passenger kilometres),P_KM,Rail,
+2019,Passenger volume (passenger kilometres),P_KM,Rail,
+2020,Passenger volume (passenger kilometres),P_KM,Rail,
+2018,Passenger volume (passenger kilometres),P_KM,Road,
+2019,Passenger volume (passenger kilometres),P_KM,Road,
+2020,Passenger volume (passenger kilometres),P_KM,Road,

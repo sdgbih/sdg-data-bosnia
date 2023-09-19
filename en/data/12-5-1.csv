@@ -5,10 +5,10 @@ Year,SERIES,UNIT_MEASURE,Value
 2017,Electronic waste recycling (Tonnes),TONNES,1237.93
 2018,Electronic waste recycling (Tonnes),TONNES,1271.2
 2019,Electronic waste recycling (Tonnes),TONNES,1310.05
-2014,"Electronic waste recycling, per capita (Kg)",Kilograms,0.318407021497909
-2015,"Electronic waste recycling, per capita (Kg)",Kilograms,0.337387641782932
-2016,"Electronic waste recycling, per capita (Kg)",Kilograms,0.3536585660948359
-2017,"Electronic waste recycling, per capita (Kg)",Kilograms,0.369362624696631
-2018,"Electronic waste recycling, per capita (Kg)",Kilograms,0.382439398976331
-2019,"Electronic waste recycling, per capita (Kg)",Kilograms,0.396865579742853
-2014,"Electronic waste recycling, rate (%)",Percent,4.799937
+2014,"Electronic waste recycling, per capita (Kg)",KG,0.318407021497909
+2015,"Electronic waste recycling, per capita (Kg)",KG,0.337387641782932
+2016,"Electronic waste recycling, per capita (Kg)",KG,0.3536585660948359
+2017,"Electronic waste recycling, per capita (Kg)",KG,0.369362624696631
+2018,"Electronic waste recycling, per capita (Kg)",KG,0.382439398976331
+2019,"Electronic waste recycling, per capita (Kg)",KG,0.396865579742853
+2014,"Electronic waste recycling, rate (%)",PT,4.799937
