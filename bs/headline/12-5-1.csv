@@ -1,14 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2014,1108.73,TONNES,Reciklaža elektronskog otpada (tone)
-2015,1157.02,TONNES,Reciklaža elektronskog otpada (tone)
-2016,1197.58,TONNES,Reciklaža elektronskog otpada (tone)
-2017,1237.93,TONNES,Reciklaža elektronskog otpada (tone)
-2018,1271.2,TONNES,Reciklaža elektronskog otpada (tone)
-2019,1310.05,TONNES,Reciklaža elektronskog otpada (tone)
-2014,0.318407021497909,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2015,0.337387641782932,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2016,0.3536585660948359,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2017,0.369362624696631,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2018,0.382439398976331,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2019,0.396865579742853,KG,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2014,4.799937,PT,"Reciklaža elektronskog otpada, stopa (%)"
+2014,1108.73,Tone,Reciklaža elektronskog otpada (tone)
+2015,1157.02,Tone,Reciklaža elektronskog otpada (tone)
+2016,1197.58,Tone,Reciklaža elektronskog otpada (tone)
+2017,1237.93,Tone,Reciklaža elektronskog otpada (tone)
+2018,1271.2,Tone,Reciklaža elektronskog otpada (tone)
+2019,1310.05,Tone,Reciklaža elektronskog otpada (tone)
+2014,0.318407021497909,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2015,0.337387641782932,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2016,0.3536585660948359,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2017,0.369362624696631,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2018,0.382439398976331,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2019,0.396865579742853,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
+2014,4.799937,Procenat,"Reciklaža elektronskog otpada, stopa (%)"

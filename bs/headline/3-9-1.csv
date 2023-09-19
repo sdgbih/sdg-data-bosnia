@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2019,55.0,PER_100000_POP,Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
-2019,72.0,PER_100000_POP,Stopa smrtnosti koja se pripisuje zagađenjem zraka domaćinstava
-2019,114.0,PER_100000_POP,Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka (umrli na 100 000 stanovnika)
-2016,,PER_100000_POP,Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
-2016,,PER_100000_POP,Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka domaćinstava
-2016,,PER_100000_POP,Stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka
+2019,55.0,Na 100 000 stanovnika,Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
+2019,72.0,Na 100 000 stanovnika,Stopa smrtnosti koja se pripisuje zagađenjem zraka domaćinstava
+2019,114.0,Na 100 000 stanovnika,Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka (umrli na 100 000 stanovnika)
+2016,,Na 100 000 stanovnika,Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
+2016,,Na 100 000 stanovnika,Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka domaćinstava
+2016,,Na 100 000 stanovnika,Stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka
