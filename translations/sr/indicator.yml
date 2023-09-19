@@ -23,7 +23,7 @@ geographical_area: Географско подручје
 unit_of_measurement: Мјерна јединица
 footnote: Фуснота
 units_type: Јединица мјере
-series: Серије
+series: Графикон
 dataset_size_warning: Превише је скупова података за приказ на графикону. Неће бити приказане све док не уклоните неке одабире.
 view_indicator_list: Погледајте листу индикатора овог циља
 sub_categories: Подкатегорије
