@@ -1,40 +1,40 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-BOOL,Boolean or binary measure,Logička ili binarna mjera,BOOL,BOOL,4,1
-CON_USD,Constant USD,Konstantni američki dolari,CON_USD,CON_USD,11,6
-CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,CON_USD_M,CON_USD_M,10,3
-CU_USD,(nominal United States dollars),(tekući američki dolari),CU_USD,CU_USD,6,4
-CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),CU_USD_B,CU_USD_B,1,1
-CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,CU_USD_M,CU_USD_M,8,3
-CUR_LCU,in BAM,u KM,CUR_LCU,CUR_LCU,33,1
-CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),CUR_LCU_M,CUR_LCU_M,1,1
-GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,GPERM3,GPERM3,5,1
-HA_TH,HA_TH,Hiljade hektara,HA_TH,HA_TH,4,2
-IX,Index,Index,IX,IX,10,7
-KG,Kilograms,Kilogrami,KG,KG,5,3
-KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,KG_PER_CON_USD,KG_PER_CON_USD,26,4
-KM2,Square kilometers,Kvadratnih kilometara,KM2,KM2,45,3
-LITRES,LITRES,Litri,LITRES,LITRES,3,1
-M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,M_M3_PER_YR,M_M3_PER_YR,9,1
-MILLIONS,MILLIONS,Milioni,MILLIONS,MILLIONS,1,1
-MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant PPP GDP,Megadžula po konstantni američkog dolara PPP BDP,MJ_PER_GDP_CON_PPP_USD,MJ_PER_GDP_CON_PPP_USD,1,1
-MT_CO2E,Million tons of CO2 equivalent,Milion tona ekvivalenta CO2,MT_CO2E,MT_CO2E,1,1
-NUMBER,Number,Broj,NUMBER,NUMBER,142,32
-P_KM,Passenger kilometres,Putnički kilometri,P_KM,P_KM,3,1
-PER_1000000_POP,Per million population,Na milion stanovnika,PER_1000000_POP,PER_1000000_POP,1,1
-PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,PER_100000_LIVE_BIRTHS,PER_100000_LIVE_BIRTHS,1,1
-PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,PER_100000_POP,PER_100000_POP,39,9
-PER_10000_POP,"Per 10,000 population",Na 10 000 stanovnika,PER_10000_POP,PER_10000_POP,4,1
-PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,PER_1000_LIVE_BIRTHS,PER_1000_LIVE_BIRTHS,7,2
-PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,PER_1000_POP,PER_1000_POP,2,1
-PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,PER_1000_UNINFECTED_POP,PER_1000_UNINFECTED_POP,9,1
-PER_100_POP,Per 100 population,Na 100 stanovnika,PER_100_POP,PER_100_POP,4,1
-PER_MARW_20T24Y,(%) of married women aged 20 - 24 years,(%) udatih žena starosti 20 - 24 godine,PER_MARW_20T24Y,PER_MARW_20T24Y,2,1
-PT,Percent,Procenat,PT,PT,611,100
-RO,Ratio,Odnos,RO,RO,103,4
-SCORE,Score,Rezultat,SCORE,SCORE,4,4
-T_KM,Tonne kilometres,Tonski kilometri,T_KM,T_KM,4,1
-THOUSANDS,THOUSANDS,Hiljade,THOUSANDS,THOUSANDS,8,3
-TONNES,TONNES,Tone,TONNES,TONNES,67,5
-TONNES_M,TONNES_M,Milioni tona,TONNES_M,TONNES_M,2,1
-USD,USD,Američki dolar,USD,USD,5,4
-USD/m3,USD/m3,USD/m3,USD/m3,USD/m3,4,1
+BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,BOOL,4,1
+CON_USD,Constant USD,Konstantni američki dolari,Kонстантни амерички долари,CON_USD,11,6
+CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,Милиони константни амерички долари,CON_USD_M,10,3
+CU_USD,(nominal United States dollars),(tekući američki dolari),(текући амерички долари),CU_USD,6,4
+CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),(милијарде номиналних америчких долара),CU_USD_B,1,1
+CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,CU_USD_M,8,3
+CUR_LCU,in BAM,u KM,у KM,CUR_LCU,33,1
+CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),Локална валута (милиони),CUR_LCU_M,1,1
+GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,GPERM3,5,1
+HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,HA_TH,4,2
+IX,Index,Index,Индеx,IX,10,7
+KG,Kilograms,Kilogrami,Килограми,KG,5,3
+KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,KG_PER_CON_USD,26,4
+KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,KM2,45,3
+LITRES,LITRES,Litri,Литри,LITRES,3,1
+M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,Милион кубних метара годишње,M_M3_PER_YR,9,1
+MILLIONS,MILLIONS,Milioni,Милиони,MILLIONS,1,1
+MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant PPP GDP,Megadžula po konstantni američkog dolara PPP BDP,Мегаџула по константни америчког долара ППП БДП,MJ_PER_GDP_CON_PPP_USD,1,1
+MT_CO2E,Million tons of CO2 equivalent,Milion tona ekvivalenta CO2,Милион тона еквивалента CO2,MT_CO2E,1,1
+NUMBER,Number,Broj,Број,NUMBER,142,32
+P_KM,Passenger kilometres,Putnički kilometri,Путнички километри,P_KM,3,1
+PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,PER_1000000_POP,1,1
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,PER_100000_LIVE_BIRTHS,1,1
+PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,PER_100000_POP,39,9
+PER_10000_POP,"Per 10,000 population",Na 10 000 stanovnika,На 10 000 становника,PER_10000_POP,4,1
+PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1.000 живорођених,PER_1000_LIVE_BIRTHS,7,2
+PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 становника,PER_1000_POP,2,1
+PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,PER_1000_UNINFECTED_POP,9,1
+PER_100_POP,Per 100 population,Na 100 stanovnika,На 100 становника,PER_100_POP,4,1
+PER_MARW_20T24Y,(%) of married women aged 20 - 24 years,(%) udatih žena starosti 20 - 24 godine,(%) удатих жена старости 20 - 24 године,PER_MARW_20T24Y,2,1
+PT,Percent,Procenat,Проценат,PT,611,100
+RO,Ratio,Odnos,Однос,RO,103,4
+SCORE,Score,Rezultat,Резултат,SCORE,4,4
+T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,T_KM,4,1
+THOUSANDS,THOUSANDS,Hiljade,Хиљаде,THOUSANDS,8,3
+TONNES,TONNES,Tone,Тоне,TONNES,67,5
+TONNES_M,TONNES_M,Milioni tona,Милиони тона,TONNES_M,2,1
+USD,USD,Američki dolar,Амерички долар,USD,5,4
+USD/m3,USD/m3,USD/m3,Амерички долар/m3,USD/m3,4,1

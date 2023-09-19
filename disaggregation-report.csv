@@ -13,6 +13,6 @@ OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,178,403
 SEX,Sex,Spol,Пол,Spol,39,4
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,UNIT_MEASURE,UNIT_MEASURE,177,39
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,UNIT_MEASURE,177,39
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,5
