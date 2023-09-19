@@ -1,22 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2000,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,15.6034
-2001,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,14.2898
-2002,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,15.0449
-2003,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,12.2422
-2004,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,11.3348
-2005,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,11.4677
-2006,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,10.0616
-2007,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,9.1508
-2008,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,8.2064
-2009,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,7.5434
-2010,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,7.6904
-2011,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,7.8149
-2012,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,6.9029
-2013,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,7.5563
-2014,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,8.301
-2015,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,7.4017
-2016,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,6.4276
-2017,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,5.9328
-2018,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,5.5475
-2019,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,5.3941
-2020,Stopa smrtnosti majki,Na 100 000 živorođenih,Žene,5.6684
+2000,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,15.6034
+2001,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,14.2898
+2002,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,15.0449
+2003,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,12.2422
+2004,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,11.3348
+2005,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,11.4677
+2006,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,10.0616
+2007,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,9.1508
+2008,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,8.2064
+2009,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,7.5434
+2010,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,7.6904
+2011,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,7.8149
+2012,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,6.9029
+2013,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,7.5563
+2014,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,8.301
+2015,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,7.4017
+2016,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,6.4276
+2017,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,5.9328
+2018,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,5.5475
+2019,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,5.3941
+2020,Stopa smrtnosti majki,PER_100000_LIVE_BIRTHS,Žene,5.6684

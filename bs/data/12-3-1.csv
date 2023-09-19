@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Sektor prehrambenog otpada,Value
-2019,Otpad od hrane (tone),Tone,Domaćinstva,273269.2359
-2019,Otpad od hrane (tone),Tone,Potrošnja izvan domaćinstva,91266.29414
-2019,Otpad od hrane (tone),Tone,Maloprodaja,51628.39459
-2019,Otpad od hrane po stanovniku (KG),Kilogrami,Domaćinstva,82.7838
-2019,Otpad od hrane po stanovniku (KG),Kilogrami,Potrošnja izvan domaćinstva,27.6481
-2019,Otpad od hrane po stanovniku (KG),Kilogrami,Maloprodaja,15.6402
+2019,Otpad od hrane (tone),TONNES,Domaćinstva,273269.2359
+2019,Otpad od hrane (tone),TONNES,Potrošnja izvan domaćinstva,91266.29414
+2019,Otpad od hrane (tone),TONNES,Maloprodaja,51628.39459
+2019,Otpad od hrane po stanovniku (KG),KG,Domaćinstva,82.7838
+2019,Otpad od hrane po stanovniku (KG),KG,Potrošnja izvan domaćinstva,27.6481
+2019,Otpad od hrane po stanovniku (KG),KG,Maloprodaja,15.6402

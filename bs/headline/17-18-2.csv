@@ -1,4 +1,4 @@
 Year,Value,UNIT_MEASURE,SERIES
-2019,1,Broj,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)
-2020,1,Broj,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)
-2022,1,Broj,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)
+2019,1,NUMBER,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)
+2020,1,NUMBER,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)
+2022,1,NUMBER,Zemlje sa nacionalnim statističkim zakonodavstvom koje je u skladu sa Osnovnim principima zvanične statistike (1 = DA; 0 = NE)

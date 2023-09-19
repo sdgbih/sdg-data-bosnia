@@ -1,55 +1,55 @@
 Year,UNIT_MEASURE,Tip,Value
-a)Januar,u hiljadama KM,Izvoz 2019,856376
-b)Februar,u hiljadama KM,Izvoz 2019,926443
-c)Mart,u hiljadama KM,Izvoz 2019,989133
-d)April,u hiljadama KM,Izvoz 2019,1034867
-e)Maj,u hiljadama KM,Izvoz 2019,1028163
-f)Juni,u hiljadama KM,Izvoz 2019,995601
-g)Juli,u hiljadama KM,Izvoz 2019,1005663
-h)August,u hiljadama KM,Izvoz 2019,844904
-i)Septembar,u hiljadama KM,Izvoz 2019,983719
-j)Oktobar,u hiljadama KM,Izvoz 2019,1013456
-k)Novembar,u hiljadama KM,Izvoz 2019,981349
-l)Decembar,u hiljadama KM,Izvoz 2019,832891
-a)Januar,u hiljadama KM,Uvoz 2019,1292899
-b)Februar,u hiljadama KM,Uvoz 2019,1549613
-c)Mart,u hiljadama KM,Uvoz 2019,1772859
-d)April,u hiljadama KM,Uvoz 2019,1750450
-e)Maj,u hiljadama KM,Uvoz 2019,1809099
-f)Juni,u hiljadama KM,Uvoz 2019,1608480
-g)Juli,u hiljadama KM,Uvoz 2019,1745495
-h)August,u hiljadama KM,Uvoz 2019,1526382
-i)Septembar,u hiljadama KM,Uvoz 2019,1572606
-j)Oktobar,u hiljadama KM,Uvoz 2019,1708558
-k)Novembar,u hiljadama KM,Uvoz 2019,1609355
-l)Decembar,u hiljadama KM,Uvoz 2019,1552789
-a)Januar,u hiljadama KM,Izvoz 2020,855977
-b)Februar,u hiljadama KM,Izvoz 2020,923256
-c)Mart,u hiljadama KM,Izvoz 2020,848386
-d)April,u hiljadama KM,Izvoz 2020,696198
-e)Maj,u hiljadama KM,Izvoz 2020,736613
-f)Juni,u hiljadama KM,Izvoz 2020,888104
-g)Juli,u hiljadama KM,Izvoz 2020,874153
-h)August,u hiljadama KM,Izvoz 2020,775220
-i)Septembar,u hiljadama KM,Izvoz 2020,977148
-j)Oktobar,u hiljadama KM,Izvoz 2020,1019625
-k)Novembar,u hiljadama KM,Izvoz 2020,963423
-l)Decembar,u hiljadama KM,Izvoz 2020,955873
-a)Januar,u hiljadama KM,Uvoz 2020,1235871
-b)Februar,u hiljadama KM,Uvoz 2020,1567515
-c)Mart,u hiljadama KM,Uvoz 2020,1483047
-d)April,u hiljadama KM,Uvoz 2020,1133427
-e)Maj,u hiljadama KM,Uvoz 2020,1183197
-f)Juni,u hiljadama KM,Uvoz 2020,1416588
-g)Juli,u hiljadama KM,Uvoz 2020,1511289
-h)August,u hiljadama KM,Uvoz 2020,1306882
-i)Septembar,u hiljadama KM,Uvoz 2020,1483216
-j)Oktobar,u hiljadama KM,Uvoz 2020,1600786
-k)Novembar,u hiljadama KM,Uvoz 2020,1445602
-l)Decembar,u hiljadama KM,Uvoz 2020,1517666
-a)Januar,u hiljadama KM,Izvoz 2021,881277
-b)Februar,u hiljadama KM,Izvoz 2021,923011
-c)Mart,u hiljadama KM,Izvoz 2021,848261
-a)Januar,u hiljadama KM,Uvoz 2021,1236794
-b)Februar,u hiljadama KM,Uvoz 2021,1567650
-c)Mart,u hiljadama KM,Uvoz 2021,1483138
+a)Januar,CUR_NAC_1000,Izvoz 2019,856376
+b)Februar,CUR_NAC_1000,Izvoz 2019,926443
+c)Mart,CUR_NAC_1000,Izvoz 2019,989133
+d)April,CUR_NAC_1000,Izvoz 2019,1034867
+e)Maj,CUR_NAC_1000,Izvoz 2019,1028163
+f)Juni,CUR_NAC_1000,Izvoz 2019,995601
+g)Juli,CUR_NAC_1000,Izvoz 2019,1005663
+h)August,CUR_NAC_1000,Izvoz 2019,844904
+i)Septembar,CUR_NAC_1000,Izvoz 2019,983719
+j)Oktobar,CUR_NAC_1000,Izvoz 2019,1013456
+k)Novembar,CUR_NAC_1000,Izvoz 2019,981349
+l)Decembar,CUR_NAC_1000,Izvoz 2019,832891
+a)Januar,CUR_NAC_1000,Uvoz 2019,1292899
+b)Februar,CUR_NAC_1000,Uvoz 2019,1549613
+c)Mart,CUR_NAC_1000,Uvoz 2019,1772859
+d)April,CUR_NAC_1000,Uvoz 2019,1750450
+e)Maj,CUR_NAC_1000,Uvoz 2019,1809099
+f)Juni,CUR_NAC_1000,Uvoz 2019,1608480
+g)Juli,CUR_NAC_1000,Uvoz 2019,1745495
+h)August,CUR_NAC_1000,Uvoz 2019,1526382
+i)Septembar,CUR_NAC_1000,Uvoz 2019,1572606
+j)Oktobar,CUR_NAC_1000,Uvoz 2019,1708558
+k)Novembar,CUR_NAC_1000,Uvoz 2019,1609355
+l)Decembar,CUR_NAC_1000,Uvoz 2019,1552789
+a)Januar,CUR_NAC_1000,Izvoz 2020,855977
+b)Februar,CUR_NAC_1000,Izvoz 2020,923256
+c)Mart,CUR_NAC_1000,Izvoz 2020,848386
+d)April,CUR_NAC_1000,Izvoz 2020,696198
+e)Maj,CUR_NAC_1000,Izvoz 2020,736613
+f)Juni,CUR_NAC_1000,Izvoz 2020,888104
+g)Juli,CUR_NAC_1000,Izvoz 2020,874153
+h)August,CUR_NAC_1000,Izvoz 2020,775220
+i)Septembar,CUR_NAC_1000,Izvoz 2020,977148
+j)Oktobar,CUR_NAC_1000,Izvoz 2020,1019625
+k)Novembar,CUR_NAC_1000,Izvoz 2020,963423
+l)Decembar,CUR_NAC_1000,Izvoz 2020,955873
+a)Januar,CUR_NAC_1000,Uvoz 2020,1235871
+b)Februar,CUR_NAC_1000,Uvoz 2020,1567515
+c)Mart,CUR_NAC_1000,Uvoz 2020,1483047
+d)April,CUR_NAC_1000,Uvoz 2020,1133427
+e)Maj,CUR_NAC_1000,Uvoz 2020,1183197
+f)Juni,CUR_NAC_1000,Uvoz 2020,1416588
+g)Juli,CUR_NAC_1000,Uvoz 2020,1511289
+h)August,CUR_NAC_1000,Uvoz 2020,1306882
+i)Septembar,CUR_NAC_1000,Uvoz 2020,1483216
+j)Oktobar,CUR_NAC_1000,Uvoz 2020,1600786
+k)Novembar,CUR_NAC_1000,Uvoz 2020,1445602
+l)Decembar,CUR_NAC_1000,Uvoz 2020,1517666
+a)Januar,CUR_NAC_1000,Izvoz 2021,881277
+b)Februar,CUR_NAC_1000,Izvoz 2021,923011
+c)Mart,CUR_NAC_1000,Izvoz 2021,848261
+a)Januar,CUR_NAC_1000,Uvoz 2021,1236794
+b)Februar,CUR_NAC_1000,Uvoz 2021,1567650
+c)Mart,CUR_NAC_1000,Uvoz 2021,1483138
