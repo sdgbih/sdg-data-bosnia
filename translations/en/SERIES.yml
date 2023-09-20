@@ -163,8 +163,8 @@ IS_RDP_PFVOL: Passenger volume (passenger kilometres)
 IT_MOB_2GNTWK: Proportion of population covered by at least a 2G mobile network
 IT_MOB_3GNTWK: Proportion of population covered by at least a 3G mobile network
 IT_MOB_4GNTWK: Proportion of population covered by at least a 4G mobile network
-IT_NET_BBND: Fixed broadband subscriptions per 100 inhabitants
-IT_NET_BBNDN: Fixed broadband subscriptions (number)
+IT_NET_BBND: Fixed broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)
+IT_NET_BBNDN: Number of fixed broadband subscriptions, by speed (number)
 IT_USE_II99: Proportion of individuals using the Internet (%)
 IU_COR_BRIB: Prevalence rate of bribery, by sex (%)
 NV_IND_MANF: Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)
