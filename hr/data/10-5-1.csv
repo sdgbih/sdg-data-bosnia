@@ -20,6 +20,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Likvidna sredstva u kratkoročne obaveze (%),Postotak,60.43847
 2019,Likvidna sredstva u kratkoročne obaveze (%),Postotak,61.03062
 2020,Likvidna sredstva u kratkoročne obaveze (%),Postotak,51.34221
+2021,Likvidna sredstva u kratkoročne obaveze (%),Postotak,51.2768
 2003,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,33.09814
 2004,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,9.20791
 2005,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,6.34987
@@ -38,6 +39,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,2.10767
 2019,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,3.42322
 2020,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,4.17421
+2021,Neto otvorena pozicija u devizama prema kapitalu (%),Postotak,3.9976
 2000,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,30.30251
 2001,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,33.46471
 2002,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,24.41932
@@ -59,6 +61,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,11.42326
 2019,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,9.61235
 2020,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,7.3803
+2021,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Postotak,6.9967
 2000,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,21.21596
 2001,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,17.9071
 2002,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,11.01722
@@ -80,6 +83,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,8.770334
 2019,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,7.41166
 2020,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,6.1224
+2021,Nenaplativi krediti prema ukupnim bruto kreditima (%),Postotak,5.7789
 2000,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,26.47587
 2001,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,22.35867
 2002,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,18.94798
@@ -101,6 +105,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,16.48705
 2019,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,17.47287
 2020,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,18.0835
+2021,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Postotak,18.7423
 2000,Regulatorni kapital prema imovini (%),Postotak,20.43923
 2001,Regulatorni kapital prema imovini (%),Postotak,14.52766
 2002,Regulatorni kapital prema imovini (%),Postotak,14.93297
@@ -120,8 +125,9 @@ Year,SERIES,UNIT_MEASURE,Value
 2016,Regulatorni kapital prema imovini (%),Postotak,10.86116
 2017,Regulatorni kapital prema imovini (%),Postotak,10.67599
 2018,Regulatorni kapital prema imovini (%),Postotak,10.43046
-2019,Regulatorni kapital prema imovini (%),Postotak,10.78633
-2020,Regulatorni kapital prema imovini (%),Postotak,10.47051
+2019,Regulatorni kapital prema imovini (%),Postotak,10.5108
+2020,Regulatorni kapital prema imovini (%),Postotak,10.187
+2021,Regulatorni kapital prema imovini (%),Postotak,9.9746
 2003,Povrat na imovinu (ROA) (%),Postotak,0.44729
 2004,Povrat na imovinu (ROA) (%),Postotak,0.68858
 2005,Povrat na imovinu (ROA) (%),Postotak,0.69402
@@ -140,3 +146,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Povrat na imovinu (ROA) (%),Postotak,1.29306
 2019,Povrat na imovinu (ROA) (%),Postotak,1.35167
 2020,Povrat na imovinu (ROA) (%),Postotak,0.74568
+2021,Povrat na imovinu (ROA) (%),Postotak,1.313
