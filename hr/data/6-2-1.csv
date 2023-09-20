@@ -1,41 +1,131 @@
 Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Value
-2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0
-2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0
-2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0
-2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0
-2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0
-2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0
-2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0
-2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0
-2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0
-2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0
-2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2019,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2020,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2021,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0
-2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,41
-2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,44
-2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,48
-2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,51
-2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,55
-2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,24
-2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,28
-2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,33
-2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,38
-2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,43
-2019,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,48
-2020,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,53
-2021,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58
-2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97
-2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97
-2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97
-2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96
-2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96
-2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96
-2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,99
-2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,99
-2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,99
+2000,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.661
+2001,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.5961
+2002,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.5314
+2003,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.467
+2004,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.403
+2005,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.3392
+2006,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.2758
+2007,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.2127
+2008,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.1499
+2009,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0875
+2010,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0253
+2011,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2011,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2013,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ukupno,0.0
+2000,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.873
+2001,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.7882
+2002,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.7034
+2003,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.6187
+2004,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.5339
+2005,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.4491
+2006,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.3644
+2007,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.2796
+2008,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.1948
+2009,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.1101
+2010,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0253
+2011,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2012,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2013,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Ruralno,0.0
+2000,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.373
+2001,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.3382
+2002,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.3034
+2003,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.2687
+2004,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.2339
+2005,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.1991
+2006,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.1644
+2007,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.1296
+2008,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0949
+2009,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0601
+2010,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0253
+2011,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2012,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2013,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2014,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2015,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2016,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2017,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2018,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2019,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2020,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2021,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2022,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.0683
+2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.1377
+2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.2032
+2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.2652
+2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.3201
+2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.3725
+2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.4212
+2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.4655
+2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.506
+2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,26.5428
+2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,29.221
+2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,32.1149
+2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,35.0579
+2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,38.0489
+2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,41.0995
+2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,44.2831
+2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,47.586
+2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,51.0101
+2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Ukupno,54.5577
+2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.451
+2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.2582
+2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.0654
+2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.8725
+2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.6797
+2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.4859
+2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.2923
+2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.0986
+2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,4.9051
+2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,4.7116
+2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,7.9621
+2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,11.59
+2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,15.3806
+2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,19.4209
+2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,23.6923
+2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,28.1835
+2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,32.8386
+2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,37.6573
+2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,42.6398
+2019,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,47.786
+2020,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,53.096
+2021,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1009
+2022,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1009
+2008,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.1948
+2009,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.203
+2010,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2111
+2011,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2193
+2012,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2274
+2013,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2356
+2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2438
+2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2523
+2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ukupno,97.2611
+2008,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2009,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2010,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2011,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2012,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2013,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Ruralno,96.0497
+2008,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2009,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2010,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2011,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2012,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2013,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2014,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2015,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
+2016,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Urbano,98.5989
