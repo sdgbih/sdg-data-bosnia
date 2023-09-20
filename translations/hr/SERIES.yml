@@ -120,9 +120,9 @@ ER_MTN_GRNCVI: Indeks planinskog zelenog pokrivača
 ER_MTN_TOTL: Planinsko područje (kvadratni kilometri)
 ER_MTN_DGRDP: Udio degradiranog planinskog zemljišta (%)
 ER_MTN_DGRDA: Površina degradiranog planinskog zemljišta (kvadratni kilometri)
-ER_PTD_FRHWTR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima 
+ER_PTD_FRHWTR: Prosječan udio slatkovodnih ključnih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%) 
 ER_PTD_MTN: Prosječan udio planinskih ključnih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%) 
-ER_PTD_TERR: Prosječan udio pokrivenih ključnih područja slatkovodne biološke raznolikosti prema zaštićenim područjima
+ER_PTD_TERR: Prosječan udio kopnenih ključnih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%)
 ER_UNK_LBREDN: Broj lokalnih pasmina s nepoznatim statusom rizika (broj)
 ER_RSK_LBREDS: Udio lokalnih pasmina klasificiranih kao rizične kao udio lokalnih pasmina s poznatom razinom rizika od izumiranja (%)
 ER_NOEX_LBREDN: Broj lokalnih pasmina (koje nisu izumrle) (broj)
