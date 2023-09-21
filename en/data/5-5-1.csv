@@ -7,9 +7,11 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2019,Current number of seats in national parliaments (number),Number,Female,9.0
 2020,Current number of seats in national parliaments (number),Number,Female,9.0
 2021,Current number of seats in national parliaments (number),Number,Female,11.0
+2022,Current number of seats in national parliaments (number),Number,Female,11.0
 2021,Number of seats in national parliaments,Number,Both sexes or no breakdown by sex,42.0
-2017,Proportion of elected seats held by women in deliberative bodies of local government,Percent,Female,18.5852
-2021,Proportion of elected seats held by women in deliberative bodies of local government,Percent,Female,19.5974
+2022,Number of seats in national parliaments,Number,Both sexes or no breakdown by sex,42.0
+2017,Proportion of elected seats held by women in deliberative bodies of local government,Percent,Female,
+2021,Proportion of elected seats held by women in deliberative bodies of local government,Percent,Female,
 2014,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,21.43
 2015,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,21.43
 2016,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,21.43
@@ -18,3 +20,4 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2019,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,21.43
 2020,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,21.43
 2021,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,26.19
+2022,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,26.19
