@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Value
+2022,"U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju (%)",Procenat,70
+2022,"(S.1.C.1) U kojoj mjeri zemlje imaju zakone i propise koji garantuju potpun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 1. Njega porodilja (%)",Procenat,100
+2022,"(S.4.C.10) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 10. Usluge savetovanja i testiranja na HIV",Procenat,100
+2022,"(S.4.C.11) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 11. Usluge j i nege HIV-a (%)",Procenat,100
+2022,"(S.4.C.12) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 12. Poverljivost HIV-a (%)",Procenat,100
+2022,"(S.4.C.13) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 13. HPV vakcina (%)",Procenat,0
+2022,"(S.1.C.2) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 2. Roba koja spašava živote (%)",Procenat,54
+2022,"(S.1.C.3) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 3. Abortus",Procenat,50
+2022,"(S.1.C.4) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 4. Njega nakon abortusa (%)",Procenat,100
+2022,"(S.2.C.5) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 5. Usluge kontracepcije (%)",Procenat,0
+2022,"(S.2.C.6) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 6. Pristanak za kontracepciju (%)",Procenat,100
+2022,"(S.2.C.7) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 7. Hitna kontracepcija (%)",Procenat,0
+2022,"(S.3.C.8) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 8. Zakoni o nastavnom planu i programu seksualnog obrazovanja (%)",Procenat,100
+2022,"(S.3.C.9) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 9. Teme nastavnog plana i programa seksualnog obrazovanja (%)",Procenat,100
+2022,"(S.1) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 1. Njega porodilja (%)",Procenat,76
+2022,"(S.2) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 2. Kontracepcija i planiranje porodice (%)",Procenat,33
+2022,"(S.3) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 3. Seksualno obrazovanje (%)",Procenat,100
+2022,"(S.4) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 4. HIV i HPV (%)",Procenat,75
