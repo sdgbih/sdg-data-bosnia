@@ -1,13 +1,31 @@
 Year,SERIES,UNIT_MEASURE,Sex,Value
+2010,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,339.0
+2005,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,405.0
+2010,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,390.0
 2015,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,367.0
 2019,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,361.0
+2000,Number of deaths attributed to suicide,Number,Female,76.0
+2005,Number of deaths attributed to suicide,Number,Female,85.0
+2010,Number of deaths attributed to suicide,Number,Female,84.0
 2015,Number of deaths attributed to suicide,Number,Female,81.0
 2019,Number of deaths attributed to suicide,Number,Female,76.0
+2000,Number of deaths attributed to suicide,Number,Male,263.0
+2005,Number of deaths attributed to suicide,Number,Male,320.0
+2010,Number of deaths attributed to suicide,Number,Male,306.0
 2015,Number of deaths attributed to suicide,Number,Male,287.0
 2019,Number of deaths attributed to suicide,Number,Male,285.0
+2000,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,9.0
+2005,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,10.8
+2010,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,10.5
 2015,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,10.7
 2019,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,10.9
+2000,Suicide mortality rate,"Per 100,000 population",Female,4.0
+2005,Suicide mortality rate,"Per 100,000 population",Female,4.4
+2010,Suicide mortality rate,"Per 100,000 population",Female,4.5
 2015,Suicide mortality rate,"Per 100,000 population",Female,4.6
 2019,Suicide mortality rate,"Per 100,000 population",Female,4.5
+2000,Suicide mortality rate,"Per 100,000 population",Male,14.3
+2005,Suicide mortality rate,"Per 100,000 population",Male,17.3
+2010,Suicide mortality rate,"Per 100,000 population",Male,16.8
 2015,Suicide mortality rate,"Per 100,000 population",Male,17.0
 2019,Suicide mortality rate,"Per 100,000 population",Male,17.6
