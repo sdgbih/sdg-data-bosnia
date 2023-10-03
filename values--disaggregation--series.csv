@@ -292,7 +292,7 @@ SH_DTH_NCOM,"Mortality rate attributed to cardiovascular disease, cancer, diabet
 SH_DYN_IMRT,Infant mortality rate,Stopa smrtnosti dojenčadi,Стопа смртности дојенчади,Stopa smrtnosti dojenčadi,3,1
 SH_DYN_IMRTN,Infant deaths (number),Umrla dojenčad (broj),Умрла дојенчад (број),Umrla dojenčad (broj),3,1
 SH_DYN_MORT,Under-five mortality rate,Stopa smrtnosti ispod pet godina,Стопа смртности испод пет година,Stopa smrtnosti ispod pet godina,3,1
-SH_DYN_MORTN,Under-five deaths (number),Smrtnost ispod pet ogdina (broj),Смртност испод пет гогдина (број),Smrtnost ispod pet ogdina (broj),3,1
+SH_DYN_MORTN,Under-five deaths (number),Smrtnost ispod pet godina (broj),Смртност испод пет гогдина (број),Smrtnost ispod pet ogdina (broj),3,1
 SH_DYN_NMRT,Neonatal mortality rate,Stopa neonatalnog mortaliteta,Стопа неонаталног морталитета,Stopa neonatalnog mortaliteta,1,1
 SH_DYN_NMRTN,Neonatal deaths (number),Neonatalni mortalitet (broj),Неонатални морталитет (број),Neonatalni mortalitet (broj),1,1
 SH_FPL_MTMM,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje porodice zadovoljile sa modernim metodama,Удио жена репродуктивног узраста (старости од 15 до 49 година) које су своју потребу за планирање породице задовољиле са модерним методама,Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje obitelji zadovoljile sa modernim metodama,1,1
