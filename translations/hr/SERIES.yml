@@ -276,7 +276,7 @@ SH_DTH_NCOM: Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dija
 SH_DYN_IMRT: Stopa smrtnosti dojenčadi
 SH_DYN_IMRTN: Umrla dojenčad (broj)
 SH_DYN_MORT: Stopa smrtnosti ispod pet godina
-SH_DYN_MORTN: Smrtnost ispod pet ogdina (broj)
+SH_DYN_MORTN: Smrtnost ispod pet godina (broj)
 SH_DYN_NMRT: Stopa neonatalnog mortaliteta
 SH_DYN_NMRTN: Neonatalni mortalitet (broj)
 SH_FPL_MTMM: Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje obitelji zadovoljile sa modernim metodama 
