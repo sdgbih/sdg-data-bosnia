@@ -42,16 +42,16 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2020,Prevalence of severe food insecurity (%),Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,2.8
 2021,Prevalence of severe food insecurity (%),Percent,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,3.1
 2015,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,150.8
-2016,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,141
+2016,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,141.0
 2017,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,119.2
 2018,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,124.9
 2019,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,151.6
-2020,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,201
+2020,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,201.0
 2021,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Female,221.1
 2015,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,136.2
 2016,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,161.5
-2017,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,134
-2018,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,140
+2017,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,134.0
+2018,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,140.0
 2019,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,135.4
 2020,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,154.5
 2021,Number of moderately or severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,154.4
@@ -72,10 +72,4 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2017,Number of severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,21.2
 2018,Number of severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,21.4
 2019,Number of severely food insecure people (thousands of people),THOUSANDS,15 years old and over,Male,28.0
-2015,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
-2016,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
-2017,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
-2018,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
-2019,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
-2020,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,<100
 2021,Number of severely food insecure people (thousands of people),THOUSANDS,All age ranges or no breakdown by age,Both sexes or no breakdown by sex,103.1

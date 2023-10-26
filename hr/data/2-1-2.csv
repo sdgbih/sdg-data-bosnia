@@ -42,16 +42,16 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,2.8
 2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,3.1
 2015,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,150.8
-2016,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,141
+2016,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,141.0
 2017,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,119.2
 2018,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,124.9
 2019,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,151.6
-2020,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,201
+2020,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,201.0
 2021,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,221.1
 2015,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,136.2
 2016,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,161.5
-2017,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,134
-2018,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,140
+2017,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,134.0
+2018,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,140.0
 2019,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,135.4
 2020,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,154.5
 2021,Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,154.4
@@ -72,10 +72,4 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2017,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,21.2
 2018,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,21.4
 2019,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,28.0
-2015,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
-2016,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
-2017,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
-2018,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
-2019,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
-2020,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,<100
 2021,Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,103.1
