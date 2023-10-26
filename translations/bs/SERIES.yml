@@ -170,7 +170,7 @@ IT_USE_II99: Udio pojedinaca koji koriste internet (%)
 IU_COR_BRIB: Stopa rasprostranjenosti podmićivanja, prema spolu (%)
 NV_IND_MANF: Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio BDP-a (%)
 NV_IND_MANFPC: Dodatna proizvodna vrijednost po glavi stanovnika (stalni američki dolari iz 2015.)
-NV_IND_SSIS: Udio malih industrija u ukupnoj dodanoj vrijednosti industrije
+NV_IND_SSIS: Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%)
 NV_IND_TECH: Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost
 NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
 PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta u 2011. međunarodnim USD) 
