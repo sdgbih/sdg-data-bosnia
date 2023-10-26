@@ -8,9 +8,9 @@ AG_LND_FRSTN: Šumska površina (hektari)
 AG_LND_TOTL: Površina zemljišta (hektari)
 AG_PRD_AGVAS: Udio dodane vrijednosti poljoprivrede u BDP-u 
 AG_PRD_FIESMS: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%) 
-AG_PRD_FIESMSN: Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi) 
+AG_PRD_FIESMSN: Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi) 
 AG_PRD_FIESS: Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%) 
-AG_PRD_FIESSN: Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi)
+AG_PRD_FIESSN: Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi)
 BX_TRF_PWKR: Količina doznaka (u američkim dolarima) kao udio u ukupnom iznosu BDP-a
 DC_ENVTECH_TT: Ukupna trgovina praćena ekološkim prihvatljivim tehnologijama (tekući američki dolari)
 DC_ENVTECH_EXP: Količina praćenih izvezenih tehnologija prihvatljivih za okoliš (tekući američki dolari)
