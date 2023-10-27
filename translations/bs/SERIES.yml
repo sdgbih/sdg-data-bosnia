@@ -147,7 +147,7 @@ GB_XPD_CULNAT_PV: Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i pri
 GB_XPD_CULNAT_PBPV: Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)
 GB_XPD_CUL_PBPV: Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)
 GB_XPD_NAT_PBPV: Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)
-GC_GOB_TAXD: Udio domaćeg budžeta koji se finansira iz domaćih poreza
+GC_GOB_TAXD: Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a)
 GF_FRN_FDI: Prilivi stranih direktnih investicija (SDI)
 GF_XPD_GBPC: Primarni državni rashodi kao udio u prvobitno odobrenom budžetu
 GF_COM_PPPI: Iznos američkih dolara namjenjenih javno-privatnim partnerstvima za infrastrukturu, nominalno u milionima USD
