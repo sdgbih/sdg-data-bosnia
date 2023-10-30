@@ -68,10 +68,10 @@ EN_MWT_EXP: Izvezeni komunalni otpad (tone)
 EN_EWT_RCYPCAP: Reciklaža elektroničkog otpada, po stanovniku (Kg)
 EN_EWT_RCYR: Reciklaža elektroničkog otpada, stopa (%)
 EN_EWT_RCYV: Reciklaža elektroničkog otpada (tone)
-EN_H2O_GRAMBQ: Udio tijela podzemnih voda sa dobrim kvalitetom ambijentalne vode
-EN_H2O_OPAMBQ: Udio otvorenih vodnih tijela sa dobrim kvalitetom ambijentalne vode
-EN_H2O_RVAMBQ: Udio riječnih vodnih tijela sa dobrim kvalitetom ambijentalne vode
-EN_H2O_WBAMBQ: Udio vodnih tijela sa dobrim kvalitetom ambijentalne vode 
+EN_H2O_GRAMBQ: Podzemna vodna tijela sa dobrim ambijentalnim kvalitetom vode
+EN_H2O_OPAMBQ: Otvorena vodna tijela sa dobrim ambijentalnim kvalitetom vode
+EN_H2O_RVAMBQ: Riječna vodna tijela sa dobrim ambijentalnim kvalitetom vode
+EN_H2O_WBAMBQ: Vodna tijela sa dobrim kvalitetom ambijentalne vode 
 EN_HAZ_GENGDP: Proizvedeni opasni otpad, po jedinici BDP-a
 EN_HAZ_GENV: Proizvedeni opasni otpad (tone)
 EN_HAZ_PCAP: Proizvedeni opasni otpad, po stanovniku (Kg)
