@@ -196,7 +196,7 @@ SE_GPI_PTNPRE: Prilagođeni indeks rodnog pariteta za stopu učešća u organizo
 SE_IMP_FPOF: Prilagođeni imigracioni status ndeks pariteta za postizanje najmanje fiksnog nivoa znanja u funkcionalnim vještinama, prema vještini računanja/pismenosti (omjer) 
 SE_LGP_ACHI: Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer) 
 SE_NAP_ACHI: Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer) 
-SE_PRE_PARTN: Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%) 
+SE_PRE_PARTN: Stopa učešća u organiziranom učenju (godinu dana prije zvanične starosne dobi za ulazak u osnovnu školu), prema spolu (%)
 SE_TOT_CPLR: Stopa završetka studija prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja (%)
 SE_TOT_GPI: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer) 
 SE_TOT_GPI_FS: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer) 
