@@ -122,6 +122,7 @@ ER_PTD_FRHWTR: Prosječan udio slatkovodnih ključnih područja biodiverziteta (
 ER_PTD_MTN: Prosječan udio planinskih ključnih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%) 
 ER_PTD_TERR: Prosječan udio kopnenih ključnih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%)
 ER_UNK_LBREDN: Broj lokalnih pasmina s nepoznatim statusom rizika (broj)
+ER_REG_UNFCIM: Napredak zemalja u stepenu implementacije međunarodnih instrumenata koji imaju za cilj borbu protiv ilegalnog, neprijavljenog i neregulisanog ribolova (nivo implementacije 1 najniži do 5 najviši)
 ER_RSK_LBREDS: Udio lokalnih pasmina klasificiranih kao rizične kao udio lokalnih pasmina s poznatom razinom rizika od izumiranja (%)
 ER_NOEX_LBREDN: Broj lokalnih pasmina (koje nisu izumrle) (broj)
 ER_RSK_LST: Indeks crvene liste
