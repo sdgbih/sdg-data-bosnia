@@ -332,7 +332,7 @@ SH_SUD_ALCOL: Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)
 SH_SUD_TREAT: Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)
 SH_TBS_INCID: Učestalost tuberkuloze (na 100.000 stanovnika)  
 SH_TRP_INTVN: Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti
-SH_XPD_EARN10: Udio stanovništva s velikim troškovima za zdravstvo po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
+SH_XPD_EARN10: Udio stanovništva s velikim troškovima za zdravstvo po kućanstvu (veći od 10%) kao udio u ukupnim rashodima ili prihodima kućanstva 
 SH_XPD_EARN25: Udio stanovništva s velikim troškovima za zdravstvo (većim od 25%) po kućanstvu kao udio u ukupnim rashodima ili prihodima kućanstva 
 SI_AGR_LSFP: Prosječni dohodak velikih proizvođača hrane, PPP (konstanta u 2011. godini u inozemstvu)
 SI_COV_BENFTS: Udio stanovništva obuhvaćenog najmanje jednom naknadom socijalne zaštite, prema spolu (%)
