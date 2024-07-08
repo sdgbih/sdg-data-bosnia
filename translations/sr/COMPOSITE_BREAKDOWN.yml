@@ -112,3 +112,8 @@ parliamentary_committees: Парламентарни одбори
 type_of_skill: Врста вјештине
 type_of_speed: Врста брзине
 name_of_the_city: Име града
+Substance_use_disorders: Поремећаји употребе супстанци
+ATS: Стимуланси типа амфетамина (АТС)
+COCAINE: Кокаин
+DRUG_TOTAL: Укупно дрога укључујући АТС, опиоиде, кокаин, канабис и друге дроге
+OPIOIDS: Опијати
