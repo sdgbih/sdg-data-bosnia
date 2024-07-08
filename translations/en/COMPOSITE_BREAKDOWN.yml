@@ -112,7 +112,7 @@ parliamentary_committees: Parliamentary committees
 type_of_skill: Type of skill
 type_of_speed: Type of speed
 name_of_the_city: City name
-Substance_use_disorders: Substance use disorders
+substance_use_disorders: Substance use disorders
 ATS: Amphetamine-type stimulants (ATS)
 COCAINE: Cocaine
 DRUG_TOTAL: Drug total including ATS, opioids, cocaine, cannabis and other drugs
