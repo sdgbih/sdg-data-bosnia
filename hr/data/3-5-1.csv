@@ -1,4 +1,23 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Oba spola ili bez podjele po spolu,6.0
-2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Žene,2.2
-2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Muškarci,9.8
+Year,SERIES,UNIT_MEASURE,Godine,Spol,Substance_use_disorders,Value
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Oba spola ili bez podjele po spolu,,6.0
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Žene,,2.2
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Muškarci,,9.8
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,ATS,0.39
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,ATS,0.44
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,ATS,0.45
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,ATS,0.08
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,ATS,0.09
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,ATS,0.09
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,ATS,0.69
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,ATS,0.8
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,ATS,0.83
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,COCAINE,0.55
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,COCAINE,0.55
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,COCAINE,0.56
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,COCAINE,0.81
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,COCAINE,0.83
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,COCAINE,0.85
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,DRUG_TOTAL,4.5
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,DRUG_TOTAL,1.1
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,DRUG_TOTAL,6.63
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,OPIOIDS,13.1
