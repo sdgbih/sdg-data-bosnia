@@ -102,6 +102,10 @@ BA_BANJA_LUKA: Banja Luka
 BA_SARAJEVO: Sarajevo
 BA_TUZLA: Tuzla
 BA_ZENICA: Zenica
+ATS: Stimulansi tipa amfetamina ATS
+COCAINE: Kokain
+DRUG_TOTAL: Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)
+OPIOIDS: Opijati
 policy_domains: Domenske politike
 Type_of_renewable_technology: Vrsta obnovljive tehnologije
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
@@ -113,7 +117,3 @@ type_of_skill: Vrsta vještine
 type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
 substance_use_disorders: Poremećaji upotrebe supstanci
-ATS: Stimulansi tipa amfetamina (ATS)
-COCAINE: Kokain
-DRUG_TOTAL: Ukupno droga uključujući ATS, opioide, kokain, kanabis i druge droge
-OPIOIDS: Opijati
