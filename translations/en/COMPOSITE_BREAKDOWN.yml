@@ -102,6 +102,10 @@ BA_BANJA_LUKA: Banja Luka
 BA_SARAJEVO: Sarajevo
 BA_TUZLA: Tuzla
 BA_ZENICA: Zenica
+ATS: Amphetamine type stimulants (ATS)
+COCAINE: Cocaine
+DRUG_TOTAL: Drug total (including ATS, opioids, cocaine, cannabis and other drugs)
+OPIOIDS: Opioids
 policy_domains: Policy domains
 Type_of_renewable_technology: Type of renewable technology
 ihr_capacity: IHR Capacity
@@ -113,7 +117,3 @@ type_of_skill: Type of skill
 type_of_speed: Type of speed
 name_of_the_city: City name
 substance_use_disorders: Substance use disorders
-ATS: Amphetamine-type stimulants (ATS)
-COCAINE: Cocaine
-DRUG_TOTAL: Drug total including ATS, opioids, cocaine, cannabis and other drugs
-OPIOIDS: Opioids
