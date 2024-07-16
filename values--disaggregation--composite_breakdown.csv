@@ -5,6 +5,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,1,1
 ALLDOMAINS,Total,Ukupno,Укупно,Ukupno,1,1
 ANYS,Any speed,Bilo koja brzina,Било која брзина,Bilo koja brzina,2,1
+ATS,Amphetamine type stimulants (ATS),Stimulansi tipa amfetamina ATS,Стимуланси типа амфетамина АТС,Stimulansi tipa amfetamina ATS,3,1
 BA_BANJA_LUKA,Banja Luka,Banja Luka,Бања Лука,Banja Luka,2,2
 BA_SARAJEVO,Sarajevo,Sarajevo,Сарајевo,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,Тузла,Tuzla,2,2
@@ -12,6 +13,7 @@ BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
 BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,1,1
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
+COCAINE,Cocaine,Kokain,Кокаин,Kokain,2,1
 DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,1,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
@@ -20,6 +22,7 @@ DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,Сарадња и п�
 DOMAIN4,Socioeconomic well - being,Socioekonomsko blagostanje,Социоекономско благостање,Socioekonomsko blagostanje,1,1
 DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,Димензије кризне мобилности,Dimenzije krizne mobilnosti,1,1
 DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija","Сигурна, уредна и редовна миграција","Sigurna, uredna i redovita migracija",1,1
+DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)","Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)","Укупно дрога (укључујући АТС, опиате, кокаин, канабис и друге дроге)","Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",3,1
 FINANCE,Finance,Finansije,Финансије,Financije,2,1
 FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,2,1
 GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,2,1
@@ -50,6 +53,7 @@ MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пл
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
 MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
+OPIOIDS,Opioids,Opijati,Опијати,Opijati,1,1
 RES,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,16,2
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,16,2

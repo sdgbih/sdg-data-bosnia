@@ -1,23 +1,23 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Substance_use_disorders,Value
+Year,SERIES,UNIT_MEASURE,Age,Sex,COMPOSITE_BREAKDOWN,Value
 2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Both sexes or no breakdown by sex,,6.0
 2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Female,,2.2
 2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Male,,9.8
-2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,ATS,0.39
-2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,ATS,0.44
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,ATS,0.45
-2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,ATS,0.08
-2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,ATS,0.09
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,ATS,0.09
-2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,ATS,0.69
-2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,ATS,0.8
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,ATS,0.83
-2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,COCAINE,0.55
-2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,COCAINE,0.55
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,COCAINE,0.56
-2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,COCAINE,0.81
-2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,COCAINE,0.83
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,COCAINE,0.85
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,DRUG_TOTAL,4.5
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,DRUG_TOTAL,1.1
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,DRUG_TOTAL,6.63
-2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,OPIOIDS,13.1
+2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Amphetamine type stimulants (ATS),0.39
+2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Amphetamine type stimulants (ATS),0.44
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Amphetamine type stimulants (ATS),0.45
+2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,Amphetamine type stimulants (ATS),0.08
+2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,Amphetamine type stimulants (ATS),0.09
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,Amphetamine type stimulants (ATS),0.09
+2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Amphetamine type stimulants (ATS),0.69
+2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Amphetamine type stimulants (ATS),0.8
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Amphetamine type stimulants (ATS),0.83
+2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Cocaine,0.55
+2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Cocaine,0.55
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Cocaine,0.56
+2017,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Cocaine,0.81
+2018,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Cocaine,0.83
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,Cocaine,0.85
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)",4.5
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Female,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)",1.1
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Male,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)",6.63
+2019,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)",Percent,,Both sexes or no breakdown by sex,Opioids,13.1
