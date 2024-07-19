@@ -219,24 +219,24 @@ Year,Value,UNIT_MEASURE,SERIES
 2020,100.7989,Square kilometers,Reservoir minimum water area (square kilometres)
 2021,99.86901,Square kilometers,Reservoir minimum water area (square kilometres)
 2022,98.38298,Square kilometers,Reservoir minimum water area (square kilometres)
-2005,11.48827,Percent,EN_RSRV_MNWAC
-2006,11.93666,Percent,EN_RSRV_MNWAC
-2007,11.48769,Percent,EN_RSRV_MNWAC
-2008,10.99773,Percent,EN_RSRV_MNWAC
-2009,11.42076,Percent,EN_RSRV_MNWAC
-2010,11.06304,Percent,EN_RSRV_MNWAC
-2011,10.81456,Percent,EN_RSRV_MNWAC
-2012,10.56178,Percent,EN_RSRV_MNWAC
-2013,9.83103,Percent,EN_RSRV_MNWAC
-2014,10.56633,Percent,EN_RSRV_MNWAC
-2015,10.86818,Percent,EN_RSRV_MNWAC
-2016,10.72445,Percent,EN_RSRV_MNWAC
-2017,11.42435,Percent,EN_RSRV_MNWAC
-2018,11.90889,Percent,EN_RSRV_MNWAC
-2019,11.82979,Percent,EN_RSRV_MNWAC
-2020,11.36214,Percent,EN_RSRV_MNWAC
-2021,10.3348,Percent,EN_RSRV_MNWAC
-2022,8.69305,Percent,EN_RSRV_MNWAC
+2005,11.48827,Percent,Reservoir minimum water area change (%)
+2006,11.93666,Percent,Reservoir minimum water area change (%)
+2007,11.48769,Percent,Reservoir minimum water area change (%)
+2008,10.99773,Percent,Reservoir minimum water area change (%)
+2009,11.42076,Percent,Reservoir minimum water area change (%)
+2010,11.06304,Percent,Reservoir minimum water area change (%)
+2011,10.81456,Percent,Reservoir minimum water area change (%)
+2012,10.56178,Percent,Reservoir minimum water area change (%)
+2013,9.83103,Percent,Reservoir minimum water area change (%)
+2014,10.56633,Percent,Reservoir minimum water area change (%)
+2015,10.86818,Percent,Reservoir minimum water area change (%)
+2016,10.72445,Percent,Reservoir minimum water area change (%)
+2017,11.42435,Percent,Reservoir minimum water area change (%)
+2018,11.90889,Percent,Reservoir minimum water area change (%)
+2019,11.82979,Percent,Reservoir minimum water area change (%)
+2020,11.36214,Percent,Reservoir minimum water area change (%)
+2021,10.3348,Percent,Reservoir minimum water area change (%)
+2022,8.69305,Percent,Reservoir minimum water area change (%)
 2017,0.09,Percent,Wetlands area (% of total land area)
 2017,45.53,Square kilometers,Wetlands area (square kilometres)
 2021,572.0,Square kilometers,Extent of inland wetlands (square kilometres)
