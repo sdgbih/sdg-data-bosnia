@@ -1,184 +1,218 @@
 Year,SERIES,UNIT_MEASURE,Stepen odstupanja,Value
 2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.0
 2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.0
-2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.00735
-2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.37914
-2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.17123
+2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.0073
+2020,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.0379
+2021,Vode jezera kvalitetno trofičko stanje (%),Procenat,Ekstreman (75-100%),0.0057
+2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.379
+2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.1713
 2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.2425
-2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),87.37409
-2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),96.89573
-2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),96.47529
-2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),12.24677
-2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),2.93304
-2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),3.27486
-2017,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),36.68313
-2018,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),13.28185
-2019,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),22.93294
-2017,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),11.47945
-2018,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),9.6747
-2019,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),22.7296
-2017,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),45.97859
-2018,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),59.27442
-2019,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),35.41258
-2017,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),5.85881
-2018,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),17.76903
-2019,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),18.92488
-2000,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00037
-2001,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00072
-2002,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00112
-2003,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00151
-2004,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00184
-2005,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00183
-2006,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00187
-2007,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00187
-2008,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00183
-2009,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00184
-2010,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00183
+2020,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.5234
+2021,Vode jezera kvalitetno trofičko stanje (%),Procenat,Visok (50-75%),0.5773
+2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),87.3743
+2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),96.896
+2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),96.4754
+2020,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),91.5949
+2021,Vode jezera kvalitetno trofičko stanje (%),Procenat,Nizak (0-25%),93.7713
+2017,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),12.2467
+2018,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),2.9327
+2019,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),3.2748
+2020,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),7.8446
+2021,Vode jezera kvalitetno trofičko stanje (%),Procenat,Srednji (25-50%),5.6457
+2017,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),36.6827
+2018,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),13.2817
+2019,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),22.932
+2020,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),47.1
+2021,Vode jezera zamućenost kvalitete (%),Procenat,Ekstreman (75-100%),37.7657
+2017,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),11.4794
+2018,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),9.6748
+2019,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),22.7298
+2020,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),12.8349
+2021,Vode jezera zamućenost kvalitete (%),Procenat,Visok (50-75%),9.9743
+2017,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),45.9792
+2018,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),59.2746
+2019,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),35.4132
+2020,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),34.098
+2021,Vode jezera zamućenost kvalitete (%),Procenat,Nizak (0-25%),46.079
+2017,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),5.8588
+2018,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),17.7689
+2019,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),18.9251
+2020,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),5.9671
+2021,Vode jezera zamućenost kvalitete (%),Procenat,Srednji (25-50%),6.181
+2000,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0004
+2001,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0007
+2002,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0011
+2003,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0015
+2004,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2005,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2006,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2007,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2008,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2009,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2010,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
 2011,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0018
-2012,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00177
-2013,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00176
+2012,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0018
+2013,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0018
 2014,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0018
-2015,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00185
-2016,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00188
-2017,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00191
-2018,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00195
-2019,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00197
-2020,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.00194
-2000,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,18.9211
-2001,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,37.08134
-2002,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,57.09037
-2003,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,77.13374
-2004,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,94.01254
-2005,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,93.9408
-2006,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,95.99758
-2007,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,95.83309
-2008,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,93.65994
-2009,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,94.04692
-2010,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,93.58104
-2011,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,92.20307
-2012,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,90.77127
-2013,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,90.25489
-2014,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,92.19039
-2015,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,94.6941
-2016,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,96.10445
-2017,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,98.00787
-2018,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,99.97525
-2019,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,100.93968
-2020,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,99.3012
-2006,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,2.18945
-2007,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,2.01434
-2008,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-0.29897
-2009,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,0.111296
-2010,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-0.38296
-2011,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-1.84982
-2012,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-3.37396
-2013,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-3.92365
-2014,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,-1.86332
-2015,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,0.80434
-2016,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,2.30321
-2017,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,4.3294
-2018,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,6.42387
-2019,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,7.4503
-2020,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,5.70624
-2000,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,9e-05
-2001,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00031
-2002,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00073
+2015,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2016,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2017,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2018,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.002
+2019,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.002
+2020,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.002
+2021,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.002
+2022,"Jezera i rijeke, trajno vodno područje (% ukupne površine kopna)",Procenat,,0.0019
+2000,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,19.38761
+2001,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,37.91617
+2002,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,58.35049
+2003,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,78.85137
+2004,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,96.21938
+2005,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,96.10356
+2006,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,98.23945
+2007,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,98.08088
+2008,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,95.76764
+2009,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,96.04224
+2010,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,95.56122
+2011,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,94.15428
+2012,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,92.64733
+2013,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,92.11201
+2014,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,94.11437
+2015,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,96.57513
+2016,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,97.93719
+2017,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,99.82922
+2018,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,101.88708
+2019,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,102.83415
+2020,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,101.07315
+2021,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,100.37546
+2022,"Jezera i rijeke, trajno vodno područje (kvadratnih kilometara)",Kvadratnih kilometara,,98.9633
+2005,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,10.29836
+2006,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,12.74973
+2007,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,12.56774
+2008,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,9.91283
+2009,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,10.22799
+2010,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,9.67592
+2011,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,8.06118
+2012,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,6.33164
+2013,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,5.71725
+2014,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,8.01537
+2015,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,10.83959
+2016,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,12.40283
+2017,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,14.57432
+2018,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,16.93613
+2019,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,18.02309
+2020,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,16.00198
+2021,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,15.20124
+2022,"Jezera i rijeke, trajne vodne promjene površine (%)",Procenat,,13.5805
+2000,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0001
+2001,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0003
+2002,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0007
 2003,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.001
-2004,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00123
-2005,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00159
-2006,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00185
-2007,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00184
-2008,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00186
-2009,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00201
-2010,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00189
-2011,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00188
-2012,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00168
-2013,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00164
-2014,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00178
-2015,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00191
-2016,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00172
-2017,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00195
-2018,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00204
-2019,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00205
-2020,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.00187
-2000,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,4.53895
-2001,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,15.91319
-2002,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,37.17754
-2003,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,50.97623
-2004,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,63.17394
-2005,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,81.45977
-2006,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,94.95219
-2007,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,94.14942
-2008,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,95.23501
-2009,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,103.10421
-2010,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,96.74523
-2011,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,96.06081
-2012,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,86.07504
-2013,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,83.91209
-2014,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,91.35195
-2015,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,97.9299
-2016,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,88.1021
-2017,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,99.94336
-2018,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,104.3819
-2019,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,104.73704
-2020,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,95.90865
-2006,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,16.56329
-2007,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,15.57782
-2008,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,16.91048
-2009,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,26.57072
-2010,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,18.76443
-2011,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,17.92424
-2012,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,5.6657
-2013,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,3.01048
-2014,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,12.14364
-2015,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,20.21873
-2016,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,8.15412
-2017,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,22.69045
-2018,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,28.13921
-2019,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,28.57517
-2020,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,17.73744
-2000,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00042
-2001,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00085
-2002,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00131
-2003,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00173
-2004,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00217
-2005,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00221
-2006,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00222
-2007,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00222
-2008,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2009,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2010,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2011,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00225
-2012,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2013,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00221
-2014,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00223
-2015,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2016,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00224
-2017,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00225
-2018,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00228
-2019,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00229
-2020,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00227
-2000,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,21.30832
-2001,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,43.76151
-2002,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,67.28981
-2003,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,88.82365
-2004,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,110.9992
-2005,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.08666
-2006,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.68491
-2007,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.54978
-2008,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.5283
-2009,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.7854
-2010,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.50879
-2011,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.07718
-2012,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.49089
-2013,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.01625
-2014,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.25878
-2015,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.69885
-2016,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.69124
-2017,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.41521
-2018,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,116.69246
-2019,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,117.01124
-2020,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,116.46947
+2004,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0012
+2005,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0016
+2006,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2007,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2008,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2009,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.002
+2010,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0019
+2011,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0019
+2012,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0017
+2013,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0016
+2014,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2015,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0019
+2016,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0017
+2017,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0019
+2018,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.002
+2019,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.002
+2020,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0019
+2021,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2022,Jezera i rijeke sezonska vodena površina (% ukupne površine kopna),Procenat,,0.0018
+2000,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,4.48583
+2001,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,15.70308
+2002,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,36.94994
+2003,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,50.57756
+2004,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,62.60016
+2005,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,80.70444
+2006,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,94.00306
+2007,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,92.69879
+2008,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,93.86829
+2009,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,101.9335
+2010,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,95.48293
+2011,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,95.21826
+2012,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,85.59456
+2013,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,83.46911
+2014,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,90.4602
+2015,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,97.41045
+2016,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,87.27362
+2017,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,98.98236
+2018,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,103.31956
+2019,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,103.67642
+2020,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,94.80561
+2021,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,94.4393
+2022,Jezera i rijeke sezonsko vodno područje (kvadratni kilometri),Kvadratnih kilometara,,90.53656
+2005,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,2.52009
+2006,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,19.41353
+2007,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,17.7567
+2008,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,19.24234
+2009,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,29.48769
+2010,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,21.29344
+2011,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,20.95722
+2012,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,8.73209
+2013,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,6.0321
+2014,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,14.91299
+2015,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,23.742
+2016,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,10.86503
+2017,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,25.73882
+2018,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,31.24843
+2019,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,31.70176
+2020,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,20.43303
+2021,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,19.9677
+2022,Jezera i rijeke sezonska promjena vodnog područja (%),Procenat,,15.00998
+2000,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0004
+2001,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0008
+2002,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0013
+2003,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0017
+2004,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2005,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2006,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2007,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2008,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2009,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2010,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2011,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2012,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2013,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2014,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2015,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2016,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2017,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2018,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0023
+2019,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0023
+2020,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0023
+2021,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0022
+2022,Maksimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.0023
+2000,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,21.30032
+2001,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,43.74432
+2002,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,67.26286
+2003,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,88.78941
+2004,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,110.95503
+2005,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.0414
+2006,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.63894
+2007,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,113.5038
+2008,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.47983
+2009,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.73907
+2010,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.46172
+2011,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.03038
+2012,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.44519
+2013,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,112.97205
+2014,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.21259
+2015,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.65258
+2016,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,114.64481
+2017,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.36758
+2018,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,116.64399
+2019,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,116.96274
+2020,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,116.42087
+2021,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.38359
+2022,Maksimalna površina akumulacije (kvadratni kilometri),Kvadratnih kilometara,,115.51934
 2000,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00039
 2001,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00078
 2002,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00118
@@ -200,26 +234,49 @@ Year,SERIES,UNIT_MEASURE,Stepen odstupanja,Value
 2018,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00198
 2019,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00198
 2020,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00197
-2000,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,19.91548
-2001,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,40.00486
-2002,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,60.58138
-2003,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,80.77175
-2004,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.30196
-2005,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.94422
-2006,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.35065
-2007,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.94422
-2008,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.50055
-2009,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.88304
-2010,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.55931
-2011,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.33427
-2012,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.10475
-2013,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,99.4431
-2014,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.10906
-2015,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.38218
-2016,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.25186
-2017,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.88622
-2018,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.32455
-2019,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.25319
-2020,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.91942
+2021,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00195
+2022,Minimalna površina akumulacije (% ukupne površine kopna),Procenat,,0.00192
+2000,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,19.90939
+2001,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,39.99274
+2002,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,60.56282
+2003,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,80.74683
+2004,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.27077
+2005,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.91307
+2006,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.31893
+2007,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.91254
+2008,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.46905
+2009,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.85196
+2010,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.52817
+2011,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.30326
+2012,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.07446
+2013,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,99.41302
+2014,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.07857
+2015,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.35179
+2016,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.2217
+2017,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.85521
+2018,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.29379
+2019,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,101.22219
+2020,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,100.7989
+2021,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,99.86901
+2022,Minimalna vodena površina rezervoara (kvadratni kilometri),Kvadratnih kilometara,,98.38298
+2005,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.48827
+2006,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.93666
+2007,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.48769
+2008,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.99773
+2009,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.42076
+2010,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.06304
+2011,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.81456
+2012,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.56178
+2013,Minimalna promjena vodne površine rezervoara (%),Procenat,,9.83103
+2014,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.56633
+2015,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.86818
+2016,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.72445
+2017,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.42435
+2018,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.90889
+2019,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.82979
+2020,Minimalna promjena vodne površine rezervoara (%),Procenat,,11.36214
+2021,Minimalna promjena vodne površine rezervoara (%),Procenat,,10.3348
+2022,Minimalna promjena vodne površine rezervoara (%),Procenat,,8.69305
 2017,Močvarno područje (% od ukupne površine kopna),Procenat,,0.09
 2017,Močvarno područje (kvadratnih kilometara),Kvadratnih kilometara,,45.53
+2021,Opseg močvara u unutrašnjosti (kvadratnih kilometara),Kvadratnih kilometara,,572.0

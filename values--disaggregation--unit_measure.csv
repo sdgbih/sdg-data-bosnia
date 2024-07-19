@@ -12,7 +12,7 @@ HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,Tisuće hektara,4,2
 IX,Index,Index,Индеx,Index,10,7
 KG,Kilograms,Kilogrami,Килограми,Kilogrami,5,3
 KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,26,4
-KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,44,2
+KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,45,2
 LITRES,LITRES,Litri,Литри,Litri,3,1
 M_M3_PER_YR,Million of cubic metres per annum,Milion kubnih metara godišnje,Милион кубних метара годишње,Milion kubnih metara godišnje,14,1
 MILLIONS,MILLIONS,Milioni,Милиони,Milijuni,1,1
@@ -29,7 +29,7 @@ PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 станов�
 PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,Na 1 000 nezaraženog stanovništva,9,1
 PER_100_POP,Per 100 population,Na 100 stanovnika,На 100 становника,Na 100 stanovnika,4,1
 PER_MARW_20T24Y,(%) of married women aged 20 - 24 years,(%) udatih žena starosti 20 - 24 godine,(%) удатих жена старости 20 - 24 године,(%) udanih žena u dobi od 20 - 24 god,2,1
-PT,Percent,Procenat,Проценат,Postotak,644,102
+PT,Percent,Procenat,Проценат,Postotak,645,102
 RO,Ratio,Odnos,Однос,Odnos,103,4
 SCORE,Score,Rezultat,Резултат,Rezultat,4,4
 T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,Tonski kilometri,4,1
