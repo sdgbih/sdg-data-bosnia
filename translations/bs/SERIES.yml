@@ -229,7 +229,7 @@ SG_DSR_SFDRR: Broj zemalja koje su prijavile da imaju Nacionalnu strategiju za s
 SG_DSR_SILN: Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama
 SG_DSR_SILS: Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama smanjenja rizika od katastrofa
 SG_GEN_EQPWN: Udio zemalja sa sistemima praćenja i raspodjelom javnih rashoda za rodnu ravnopravnost i osnaživanje žena 
-SG_GEN_LOCGELS: Udio biračkih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave
+SG_GEN_LOCGELS: Udio izbornih mjesta koje imaju žene u savjetodavnim tijelima lokalne uprave (%)
 SG_GEN_PARL: Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta)
 SG_GEN_PARLN: Broj mjesta koje imaju žene u nacionalnim parlamentima
 SG_GEN_PARLNT: Trenutni broj mjesta u nacionalnim parlamentima (broj) 
