@@ -13,7 +13,8 @@ KG_PER_CON_USD: Kilogrami po konstanti američkog dolara
 KM2: Kvadratnih kilometara
 LITRES: Litri
 MILLIONS: Milioni
-MJ_PER_GDP_CON_PPP_USD: Megadžula po konstantni američkog dolara PPP BDP 
+MJ_PER_GDP_CON_PPP_USD: Megadžula po konstantni američkog dolara PPP BDP
+W_PER_CAPITA: Vati po glavi stanovnika
 NUMBER: Broj
 PER_1000000_POP: Na milion stanovnika
 PER_100000_LIVE_BIRTHS: Na 100 000 živorođenih
