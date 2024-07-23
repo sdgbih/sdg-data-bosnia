@@ -1,29 +1,102 @@
 Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,10.2814
-2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.53692
-2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,10.83291
-2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.52782
-2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.68895
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.48619
-2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.90294
-2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.49577
-2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,3.03498
-2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,3.06168
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.20241
-2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.71903
-2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.97509
-2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,5.12817
-2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.88006
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.86948
-2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.75737
-2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.73758
-2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.73486
-2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.87663
-2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.82636
-2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,3.31631
-2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.80636
-2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.81688
-2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,3.05611
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,9.872
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.432
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,10.632
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.22
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.248
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.387
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.877
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.45
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.953
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.945
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,3.73155
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.19996
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.45288
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.67832
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.42737
+2020,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.43569
+2021,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugalj,4.35365
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ostaci usjeva,0.307
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ostaci usjeva,0.471
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ostaci usjeva,0.321
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ostaci usjeva,0.504
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ostaci usjeva,0.485
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Usjevi,0.898
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Usjevi,1.134
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Usjevi,0.916
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Usjevi,1.167
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Usjevi,1.107
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude željeza,0.511
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude željeza,0.426
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude željeza,0.402
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude željeza,0.35
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude željeza,0.382
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.035
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.676
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.883
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.989
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.697
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni gas,0.063
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni gas,0.072
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni gas,0.075
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni gas,0.075
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni gas,0.075
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Stočna hrana i krmno bilje,0.535
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Stočna hrana i krmno bilje,0.558
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Stočna hrana i krmno bilje,0.55
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Stočna hrana i krmno bilje,0.544
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Stočna hrana i krmno bilje,0.537
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.835
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.75
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.724
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.716
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.845
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.273
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.274
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.274
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.323
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.43
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.24646
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.29274
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.31248
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.32526
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.34144
+2020,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.30257
+2021,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantni u industriji ili poljoprivredi,0.2985
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,2.48356
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,2.91732
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,2.40635
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,2.4336
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,2.7797
+2020,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,3.13139
+2021,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali - dominantna gradnja,3.48278
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.714
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,3.286
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.754
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.742
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.941
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.49921
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.56131
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.55542
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.53535
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.50069
+2020,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.48052
+2021,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nafta,0.52817
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Divlji ulov i žetva,0.002
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Divlji ulov i žetva,0.003
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Divlji ulov i žetva,0.003
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Divlji ulov i žetva,0.003
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Divlji ulov i žetva,0.003
+2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Drvo,0.501
+2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Drvo,0.526
+2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Drvo,0.479
+2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Drvo,0.55
+2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Drvo,0.613
 2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara)",Kilogrami po konstanti američkog dolara,Bez podjele,2.20886
 2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara)",Kilogrami po konstanti američkog dolara,Bez podjele,2.37127
 2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara)",Kilogrami po konstanti američkog dolara,Bez podjele,2.13123
