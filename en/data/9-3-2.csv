@@ -1,4 +1,3 @@
-Year,SERIES,UNIT_MEASURE,Value
-2009,Proportion of small-scale industries with a loan or line of credit,Percent,59.31
-2013,Proportion of small-scale industries with a loan or line of credit,Percent,73.66
-2019,Proportion of small-scale industries with a loan or line of credit,Percent,44.38
+Year,SERIES,UNIT_MEASURE,Economic activity,Value
+2009,Proportion of small-scale industries with a loan or line of credit,Percent,Manufacturing,59.31
+2019,Proportion of small-scale industries with a loan or line of credit,Percent,Manufacturing,44.38
