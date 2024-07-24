@@ -366,7 +366,7 @@ SL_TLF_NEET_19ICLS: Udio mladih koji nisu u obrazovanju, zapošljavanju ili obuc
 SL_TLF_UEM: Stopa nezaposlenosti, prema polu i starosti - 13. ICLS (%)
 SL_TLF_UEM_19ICLS: Stopa nezaposlenosti, prema polu i starosti - 19. ICLS (%)
 SM_DTH_MIGR: Ukupni smrtni slučajevi i nestanci zabilježeni tokom migracije
-SM_POP_REFG_OR: Udio stanovništva koje su izbjeglice, prema zemlji porijekla (%)
+SM_POP_REFG_OR: Broj izbjeglica na 100.000 stanovnika, prema zemlji porijekla (na 100.000 stanovnika)
 SN_ITK_DEFC: Rasprostranjenost pothranjenosti
 SN_ITK_DEFCN: Broj pothranjenih ljudi
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
