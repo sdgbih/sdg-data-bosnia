@@ -364,7 +364,7 @@ SL_TLF_NEET_19ICLS: Manufacturing employment as a proportion of total employment
 SL_TLF_UEM: Unemployment rate, by sex and age - 13th ICLS (%)
 SL_TLF_UEM_19ICLS: Unemployment rate, by sex and age - 19th ICLS (%)
 SM_DTH_MIGR: Total deaths and disappearances recorded during migration
-SM_POP_REFG_OR: Proportion of the population who are refugees, by country of origin
+SM_POP_REFG_OR: Number of refugees per 100,000 population, by country of origin (per 100,000 population)
 SN_ITK_DEFC: Prevalence of undernourishment
 SN_ITK_DEFCN: Number of undernourish people
 SN_STA_OVWGT: Proportion of children moderately or severely overweight
