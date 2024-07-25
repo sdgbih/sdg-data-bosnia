@@ -1,16 +1,25 @@
-Year,SERIES,UNIT_MEASURE,Value
-2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,50.3733
-2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,45.7236
-2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,51.5904
-2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,1.2191
-2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,3.822
-2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,0.7207
-2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,51.5924
-2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,49.5456
-2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,52.3112
-2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,48.9166
-2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,46.6525
-2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,49.279
-2019,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,2.6759
-2020,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,2.8931
-2021,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni američki dolari,3.0322
+Year,SERIES,UNIT_MEASURE,Nivo_vlade,Value
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,52.36392
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,46.83249
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,51.90584
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Lokalna uprava,19.70345
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Lokalna uprava,18.18337
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Lokalna uprava,18.75471
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Nacionalna vlast,15.29726
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Nacionalna vlast,13.6866
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Nacionalna vlast,17.04023
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Entitetska vlast,17.36321
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Entitetska vlast,14.96252
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno i prirodno naslijeđe, javno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Entitetska vlast,16.1109
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,1.26728
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,3.91469
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,0.72513
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,53.6312
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,50.74718
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturnu i prirodnu baštinu, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,52.63097
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,50.8496
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,47.78392
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na kulturno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,49.58025
+2019,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,2.7816
+2020,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,2.96325
+2021,"Ukupni izdaci po glavi stanovnika potrošeni na prirodno naslijeđe, javno i privatno (PPP, konstantni američki dolari 2017.)",Konstantni PPP američki dolari,Bilo koji nivo vlasti,3.05072
