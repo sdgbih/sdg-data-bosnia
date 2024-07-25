@@ -1,28 +1,28 @@
 Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE_BREAKDOWN,Degree of urbanisation,Age,Value
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,,1.00305
-2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,,1.00407
-2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Total,,1.00407
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 3,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 4,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,Total,,1.003
-2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,Total,,1.003
-2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,Total,,1.003
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 4,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,Total,,1.1482
-2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,Total,,1.1509
-2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,Total,,1.1539
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Total,,
-2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Total,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00305
+2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00407
+2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00407
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 3,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 4,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 5 (richest),,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,All areas,,1.003
+2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,All areas,,1.003
+2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Total (national average) or no breakdown,,,All areas,,1.003
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 1 (poorest),,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 2,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 3,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 4,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Primary education,Quintile 5 (richest),,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,All areas,,1.1482
+2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,All areas,,1.1509
+2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Total (national average) or no breakdown,,,All areas,,1.1539
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 1 (poorest),,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 2,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,All areas,,
+2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,All areas,,
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,Rural,,
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 1 (poorest),,,Rural,,
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Quintile 2,,,Rural,,

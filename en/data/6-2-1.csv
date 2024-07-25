@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.661
-2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.5961
-2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.5314
-2003,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.467
-2004,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.403
-2005,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.3392
-2006,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.2758
-2007,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.2127
-2008,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.1499
-2009,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0875
-2010,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0253
-2011,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2012,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2013,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2014,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2015,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2016,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2017,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
-2018,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Total,0.0
+2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.661
+2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.5961
+2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.5314
+2003,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.467
+2004,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.403
+2005,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.3392
+2006,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.2758
+2007,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.2127
+2008,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.1499
+2009,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0875
+2010,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0253
+2011,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2012,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2013,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2014,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2015,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2016,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2017,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
+2018,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,All areas,0.0
 2000,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0.873
 2001,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0.7882
 2002,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Rural,0.7034
@@ -60,25 +60,25 @@ Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
 2020,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0.0
 2021,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0.0
 2022,"Proportion of population practicing open defecation, by urban/rural (%)",Percent,Urban,0.0
-2000,Proportion of population using safely managed sanitation services,Percent,Total,26.0683
-2001,Proportion of population using safely managed sanitation services,Percent,Total,26.1377
-2002,Proportion of population using safely managed sanitation services,Percent,Total,26.2032
-2003,Proportion of population using safely managed sanitation services,Percent,Total,26.2652
-2004,Proportion of population using safely managed sanitation services,Percent,Total,26.3201
-2005,Proportion of population using safely managed sanitation services,Percent,Total,26.3725
-2006,Proportion of population using safely managed sanitation services,Percent,Total,26.4212
-2007,Proportion of population using safely managed sanitation services,Percent,Total,26.4655
-2008,Proportion of population using safely managed sanitation services,Percent,Total,26.506
-2009,Proportion of population using safely managed sanitation services,Percent,Total,26.5428
-2010,Proportion of population using safely managed sanitation services,Percent,Total,29.221
-2011,Proportion of population using safely managed sanitation services,Percent,Total,32.1149
-2012,Proportion of population using safely managed sanitation services,Percent,Total,35.0579
-2013,Proportion of population using safely managed sanitation services,Percent,Total,38.0489
-2014,Proportion of population using safely managed sanitation services,Percent,Total,41.0995
-2015,Proportion of population using safely managed sanitation services,Percent,Total,44.2831
-2016,Proportion of population using safely managed sanitation services,Percent,Total,47.586
-2017,Proportion of population using safely managed sanitation services,Percent,Total,51.0101
-2018,Proportion of population using safely managed sanitation services,Percent,Total,54.5577
+2000,Proportion of population using safely managed sanitation services,Percent,All areas,26.0683
+2001,Proportion of population using safely managed sanitation services,Percent,All areas,26.1377
+2002,Proportion of population using safely managed sanitation services,Percent,All areas,26.2032
+2003,Proportion of population using safely managed sanitation services,Percent,All areas,26.2652
+2004,Proportion of population using safely managed sanitation services,Percent,All areas,26.3201
+2005,Proportion of population using safely managed sanitation services,Percent,All areas,26.3725
+2006,Proportion of population using safely managed sanitation services,Percent,All areas,26.4212
+2007,Proportion of population using safely managed sanitation services,Percent,All areas,26.4655
+2008,Proportion of population using safely managed sanitation services,Percent,All areas,26.506
+2009,Proportion of population using safely managed sanitation services,Percent,All areas,26.5428
+2010,Proportion of population using safely managed sanitation services,Percent,All areas,29.221
+2011,Proportion of population using safely managed sanitation services,Percent,All areas,32.1149
+2012,Proportion of population using safely managed sanitation services,Percent,All areas,35.0579
+2013,Proportion of population using safely managed sanitation services,Percent,All areas,38.0489
+2014,Proportion of population using safely managed sanitation services,Percent,All areas,41.0995
+2015,Proportion of population using safely managed sanitation services,Percent,All areas,44.2831
+2016,Proportion of population using safely managed sanitation services,Percent,All areas,47.586
+2017,Proportion of population using safely managed sanitation services,Percent,All areas,51.0101
+2018,Proportion of population using safely managed sanitation services,Percent,All areas,54.5577
 2000,Proportion of population using safely managed sanitation services,Percent,Urban,6.451
 2001,Proportion of population using safely managed sanitation services,Percent,Urban,6.2582
 2002,Proportion of population using safely managed sanitation services,Percent,Urban,6.0654
@@ -102,15 +102,15 @@ Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
 2020,Proportion of population using safely managed sanitation services,Percent,Urban,53.096
 2021,Proportion of population using safely managed sanitation services,Percent,Urban,58.1009
 2022,Proportion of population using safely managed sanitation services,Percent,Urban,58.1009
-2008,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.1948
-2009,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.203
-2010,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2111
-2011,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2193
-2012,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2274
-2013,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2356
-2014,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2438
-2015,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2523
-2016,Proportion of population with basic handwashing facilities on premises,Percent,Total,97.2611
+2008,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.1948
+2009,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.203
+2010,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2111
+2011,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2193
+2012,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2274
+2013,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2356
+2014,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2438
+2015,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2523
+2016,Proportion of population with basic handwashing facilities on premises,Percent,All areas,97.2611
 2008,Proportion of population with basic handwashing facilities on premises,Percent,Rural,96.0497
 2009,Proportion of population with basic handwashing facilities on premises,Percent,Rural,96.0497
 2010,Proportion of population with basic handwashing facilities on premises,Percent,Rural,96.0497
