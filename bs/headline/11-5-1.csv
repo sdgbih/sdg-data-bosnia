@@ -1,3 +1,4 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2017,0,Broj,Broj smrtnih slučajeva uslijed katastrofe (broj)
+2017,0,Na 100 000 stanovnika,Broj smrtnih slučajeva i nestalih osoba pripisanih katastrofama na 100 000 stanovnika (broj)
+2017,0,Broj,Broj smrtnih slučajeva i nestalih osoba pripisanih katastrofama (broj)
