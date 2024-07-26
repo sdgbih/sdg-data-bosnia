@@ -7,7 +7,8 @@ CUR_LCU_M: Local currency (millions)
 CU_USD_B: (billions of nominal United States dollars)
 CU_USD: (nominal United States dollars)
 GPERM3: Micrograms per cubic meter
-HA_TH: HA_TH
+HA_TH: Thousands of hectares
+T_PER_HA: Tonnes per hectare
 IX: Index
 KG: Kilograms
 KG_PER_CON_USD: Kilograms per constant USD
