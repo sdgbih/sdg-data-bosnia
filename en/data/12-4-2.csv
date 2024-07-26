@@ -1,16 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
-2003,"Hazardous waste exported, (Tonnes)",TONNES,,,7094.29981
-2004,"Hazardous waste exported, (Tonnes)",TONNES,,,709.42999
-2005,"Hazardous waste exported, (Tonnes)",TONNES,,,656.0
-2006,"Hazardous waste exported, (Tonnes)",TONNES,,,666.0
-2007,"Hazardous waste exported, (Tonnes)",TONNES,,,444.73599
-2008,"Hazardous waste exported, (Tonnes)",TONNES,,,497.05621
-2009,"Hazardous waste exported, (Tonnes)",TONNES,,,314.5
-2010,"Hazardous waste exported, (Tonnes)",TONNES,,,87.0
-2011,"Hazardous waste exported, (Tonnes)",TONNES,,,426.194
-2012,"Hazardous waste exported, (Tonnes)",TONNES,,,554.39203
-2013,"Hazardous waste exported, (Tonnes)",TONNES,,,506.28299
-2014,"Hazardous waste exported, (Tonnes)",TONNES,,,568.88599
+2020,"Hazardous waste exported, (Tonnes)",TONNES,,,
 2008,Hazardous waste generated (Tonnes),TONNES,,,10588.0
 2009,Hazardous waste generated (Tonnes),TONNES,,,9632.0
 2010,Hazardous waste generated (Tonnes),TONNES,,,10320.0
@@ -35,20 +24,8 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2016,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
 2018,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0008
 2020,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
-2004,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2006,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2008,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2010,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2011,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2012,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2013,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2014,"Hazardous waste imported, (Tonnes)",TONNES,,,0.0
-2004,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2006,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2008,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2010,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2011,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
-2012,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Incineration,,0.0
+2020,"Hazardous waste imported, (Tonnes)",TONNES,,,
+2020,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Landfilling,,0.0
 2008,Municipal waste collected (Tonnes),TONNES,,,
 2008,Municipal waste generated (Tonnes),TONNES,,,1367000.0
 2009,Municipal waste generated (Tonnes),TONNES,,,1362000.0
@@ -69,128 +46,24 @@ Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
 2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
 2020,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
 2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
-2008,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2009,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2010,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2011,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2012,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2013,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2014,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2015,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2016,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2018,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
 2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
-2020,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
 2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,78.60049
-2008,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2009,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2010,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2011,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2012,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2013,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2014,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2015,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2016,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,0.0
-2008,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2009,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2010,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2011,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2012,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2013,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2014,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2015,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2016,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2017,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2018,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,
 2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
 2020,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
-2021,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,966000.0
-2008,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2009,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2010,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2011,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2012,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2013,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2014,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2015,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,0.0
-2008,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,1220000.0
-2009,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,1112512.939
-2010,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,1102031.982
-2011,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,1073953.979
-2012,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,925739.99
-2013,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,894000.0
-2014,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,986000.0
-2015,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,954000.0
-2008,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,1220000.0
-2009,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,1002000.0
-2010,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,1042000.0
-2011,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,1074000.0
-2012,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,926000.0
-2013,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,894182.983
-2014,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,985989.014
-2015,Municipal waste treated by type of treatment (Tonnes),TONNES,Other type of waste management,,954163.025
-2012,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
+2021,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,
+2021,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,
+2020,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Landfilling,,1087000.0
+2020,Municipal waste treated by type of treatment (Tonnes),TONNES,Landfilling,,1087000.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
-2008,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,87148.003
-2009,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,83616.997
-2010,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,104000.0
-2012,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,72364.0
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,85279.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,216356.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,551584.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,765270.0
-2008,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,3563000.0
-2009,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,3077568.115
-2010,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1325000.0
-2012,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1213475.0
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1304841.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1422448.0
 2018,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1893270.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1842260.0
-2008,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",1059000.0
-2009,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",1563614.014
-2010,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",1583119.995
-2012,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",3170717.0
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",2666984.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",3061988.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",3247689.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",3129364.0
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,Construction,149146.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,Construction,156918.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,Construction,122916.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,Construction,85972.0
-2003,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,915165.283
-2004,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,894664.429
-2005,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,948811.89
-2006,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1002959.412
-2007,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1057106.934
-2008,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1065105.225
-2009,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,996164.978
-2010,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,839164.978
-2011,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,836145.02
-2013,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,705317.017
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,761536.987
-2015,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,715000.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,920541.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,902567.0
-2003,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,915165.283
-2004,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,894664.429
-2005,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,948811.89
-2006,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,1002959.412
-2007,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,1057106.934
-2008,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,5774253.418
-2009,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,5720964.355
-2010,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,3851284.912
-2011,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,836145.02
-2012,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,4456556.0
-2013,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,705317.017
-2014,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,5540772.0
-2015,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,715000.0
-2016,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,6127022.0
-2018,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,6747605.0
 2020,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,6753458.0
