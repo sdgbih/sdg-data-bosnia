@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-AG_FOOD_WST,Food waste (Tonnes),Otpad od hrane (tone),Отпад од хране (тоне),Otpad od hrane (tone),3,1
-AG_FOOD_WST_PC,Food waste per capita (KG),Otpad od hrane po stanovniku (KG),Отпад од хране по становнику (КГ),Otpad od hrane po stanovniku (KG),3,1
+AG_FOOD_WST,Food waste (Tonnes),Otpad od hrane (tone),Отпад од хране (тоне),Otpad od hrane (tone),4,1
+AG_FOOD_WST_PC,Food waste per capita (KG),Otpad od hrane po stanovniku (KG),Отпад од хране по становнику (КГ),Otpad od hrane po stanovniku (KG),4,1
 AG_FPA_CFPI,Consumer Food Price Index,Indeks potrošačkih cijena hrane,Индекс потрошачких цијена хране,Indeks potrošačkih cijena hrane,1,1
 AG_LND_DGRD,Proportion of land that is degraded over total land area,Udio zemljišta koje je degradirano na ukupnoj površini zemljišta,Удио земљишта које је деградирано на укупној површини земљишта,Udio zemljišta koje je degradirano na ukupnoj površini zemljišta,1,1
 AG_LND_FRST,Forest area as a proportion of total land area,Udio šumske površine u ukupnoj površini zemljišta,Удио шумске површине у укупној површини земљишта,Udio šumske površine u ukupnoj površini zemljišta,1,1
