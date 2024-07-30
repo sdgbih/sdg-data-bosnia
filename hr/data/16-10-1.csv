@@ -1,7 +1,2 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2024,"Zemlje s najmanje jednim potvrđenim slučajem ubojstava branitelja ljudskih prava, novinara i sindikalista (1 = DA, 0 = NE)",Broj,Oba spola ili bez podjele po spolu,0
