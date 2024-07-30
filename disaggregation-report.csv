@@ -12,8 +12,8 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 Level_of_government,Level of government,Nivo_vlade,Ниво власти,Nivo vlasti,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,185,434
-SEX,Sex,Spol,Пол,Spol,39,4
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,184,42
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,186,435
+SEX,Sex,Spol,Пол,Spol,40,4
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,185,42
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,4
