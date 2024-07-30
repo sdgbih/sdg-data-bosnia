@@ -240,7 +240,7 @@ SG_HAZ_CMRBASEL: Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim
 SG_HAZ_CMRMNTRL: Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim hemikalijama
 SG_HAZ_CMRROTDAM: Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim hemikalijama
 SG_HAZ_CMRSTHOLM: Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim hemikalijama
-SG_INF_ACCSS: Broj zemalja koje usvajaju i provode ustavne, zakonske i/ili političke garancije za pristup informacijama od javnog značaja 
+SG_INF_ACCSS: Zemalje koje usvajaju i provode ustavne, zakonske i/ili političke garancije za javni pristup informacijama
 SG_INT_MBRDEV: Udio članova zemalja u razvoju u međunarodnim organizacijama, prema organizaciji  
 SG_INT_VRTDEV: Udio prava glasa zemalja u razvoju u međunarodnim organizacijama, prema organizaciji
 SG_LGL_LNDFEMOD: Stepen do kojeg zakonski okvir (uključujući običajno pravo) garantira jednaka prava žena na vlasništvo nad zemljom i /ili kontrolu (1 = Nema dokaza do 6 = Najviši nivo garancija)
