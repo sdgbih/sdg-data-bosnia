@@ -1,19 +1,20 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,-7.10726,Percent,Current account balance as a proportion of GDP (%)
-2005,-16.43416,Percent,Current account balance as a proportion of GDP (%)
-2010,-6.0003,Percent,Current account balance as a proportion of GDP (%)
-2011,-9.47895,Percent,Current account balance as a proportion of GDP (%)
-2012,-8.62589,Percent,Current account balance as a proportion of GDP (%)
-2013,-5.32604,Percent,Current account balance as a proportion of GDP (%)
-2014,-7.35101,Percent,Current account balance as a proportion of GDP (%)
-2015,-5.09529,Percent,Current account balance as a proportion of GDP (%)
-2016,-4.75523,Percent,Current account balance as a proportion of GDP (%)
-2017,-4.84387,Percent,Current account balance as a proportion of GDP (%)
-2018,-3.27874,Percent,Current account balance as a proportion of GDP (%)
-2019,-2.63293,Percent,Current account balance as a proportion of GDP (%)
-2020,-3.30118,Percent,Current account balance as a proportion of GDP (%)
-2021,-2.38767,Percent,Current account balance as a proportion of GDP (%)
-2000,0.0,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
+2000,-7.10679,Percent,Current account balance as a proportion of GDP (%)
+2005,-16.43439,Percent,Current account balance as a proportion of GDP (%)
+2010,-6.00046,Percent,Current account balance as a proportion of GDP (%)
+2011,-9.4792,Percent,Current account balance as a proportion of GDP (%)
+2012,-8.62595,Percent,Current account balance as a proportion of GDP (%)
+2013,-5.32586,Percent,Current account balance as a proportion of GDP (%)
+2014,-7.35086,Percent,Current account balance as a proportion of GDP (%)
+2015,-5.03541,Percent,Current account balance as a proportion of GDP (%)
+2016,-4.69867,Percent,Current account balance as a proportion of GDP (%)
+2017,-4.77878,Percent,Current account balance as a proportion of GDP (%)
+2018,-3.23063,Percent,Current account balance as a proportion of GDP (%)
+2019,-2.59692,Percent,Current account balance as a proportion of GDP (%)
+2020,-2.83952,Percent,Current account balance as a proportion of GDP (%)
+2021,-1.77164,Percent,Current account balance as a proportion of GDP (%)
+2022,-4.35221,Percent,Current account balance as a proportion of GDP (%)
+2000,,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
 2005,-2566375.55372,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
 2010,121005146.35935,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
 2011,34933677.17534,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
@@ -25,36 +26,39 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,89476552.73999,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
 2018,149838740.93335,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
 2019,123009925.55627,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
-2020,7135294.99267,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
-2021,44071127.11991,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
-2000,2.62376,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2005,5.55837,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2010,2.58395,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2011,2.52946,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2012,2.27538,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2013,1.72344,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2014,2.93596,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2015,2.36307,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2016,1.85178,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2017,2.81762,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2018,2.98156,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2019,2.21693,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2020,2.17044,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2021,2.73208,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
-2000,45.78598,Percent,External debt stocks as a proportion of GNI (%)
-2005,59.94089,Percent,External debt stocks as a proportion of GNI (%)
-2010,81.85679,Percent,External debt stocks as a proportion of GNI (%)
-2011,65.68403,Percent,External debt stocks as a proportion of GNI (%)
-2012,74.89242,Percent,External debt stocks as a proportion of GNI (%)
-2013,74.83313,Percent,External debt stocks as a proportion of GNI (%)
-2014,69.91181,Percent,External debt stocks as a proportion of GNI (%)
-2015,71.11965,Percent,External debt stocks as a proportion of GNI (%)
-2016,68.67041,Percent,External debt stocks as a proportion of GNI (%)
-2017,72.67407,Percent,External debt stocks as a proportion of GNI (%)
-2018,64.4861,Percent,External debt stocks as a proportion of GNI (%)
-2019,63.08652,Percent,External debt stocks as a proportion of GNI (%)
-2020,70.09029,Percent,External debt stocks as a proportion of GNI (%)
-2021,58.07773,Percent,External debt stocks as a proportion of GNI (%)
+2020,3861346.05199,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
+2021,45106909.92111,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
+2022,137915691.72801,(nominal United States dollars),"Portfolio investment, net (Balance of Payments, current United States dollars)"
+2000,2.62359,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2005,5.55844,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2010,2.58402,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2011,2.52953,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2012,2.2754,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2013,1.72338,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2014,2.9359,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2015,2.33529,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2016,1.82976,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2017,2.77976,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2018,2.93781,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2019,2.18661,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2020,2.14087,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2021,2.69925,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2022,2.63587,Percent,"Foreign direct investment, net inflows, as a proportion of GDP (%)"
+2000,45.78296,Percent,External debt stocks as a proportion of GNI (%)
+2005,59.94173,Percent,External debt stocks as a proportion of GNI (%)
+2010,81.85901,Percent,External debt stocks as a proportion of GNI (%)
+2011,65.68575,Percent,External debt stocks as a proportion of GNI (%)
+2012,74.86832,Percent,External debt stocks as a proportion of GNI (%)
+2013,74.80525,Percent,External debt stocks as a proportion of GNI (%)
+2014,69.91982,Percent,External debt stocks as a proportion of GNI (%)
+2015,70.32523,Percent,External debt stocks as a proportion of GNI (%)
+2016,67.85855,Percent,External debt stocks as a proportion of GNI (%)
+2017,71.68526,Percent,External debt stocks as a proportion of GNI (%)
+2018,63.51537,Percent,External debt stocks as a proportion of GNI (%)
+2019,62.1214,Percent,External debt stocks as a proportion of GNI (%)
+2020,68.93985,Percent,External debt stocks as a proportion of GNI (%)
+2021,55.88815,Percent,External debt stocks as a proportion of GNI (%)
+2022,53.04764,Percent,External debt stocks as a proportion of GNI (%)
 2000,20.43923,Percent,Bank capital to assets ratio (%)
 2005,9.72961,Percent,Bank capital to assets ratio (%)
 2010,10.27702,Percent,Bank capital to assets ratio (%)
@@ -69,6 +73,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,10.51084,Percent,Bank capital to assets ratio (%)
 2020,10.18703,Percent,Bank capital to assets ratio (%)
 2021,9.97462,Percent,Bank capital to assets ratio (%)
+2022,9.89093,Percent,Bank capital to assets ratio (%)
 2000,1.40762,Ratio,Total reserves in months of imports (ratio)
 2005,3.77303,Ratio,Total reserves in months of imports (ratio)
 2010,5.80977,Ratio,Total reserves in months of imports (ratio)
@@ -81,21 +86,24 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,7.00829,Ratio,Total reserves in months of imports (ratio)
 2018,6.64613,Ratio,Total reserves in months of imports (ratio)
 2019,7.283,Ratio,Total reserves in months of imports (ratio)
-2020,10.09293,Ratio,Total reserves in months of imports (ratio)
-2021,8.30966,Ratio,Total reserves in months of imports (ratio)
-2000,2.45427,Ratio,Broad money to total reserves ratio
+2020,10.06339,Ratio,Total reserves in months of imports (ratio)
+2021,8.26229,Ratio,Total reserves in months of imports (ratio)
+2022,6.4819,Ratio,Total reserves in months of imports (ratio)
+2000,2.45443,Ratio,Broad money to total reserves ratio
 2005,2.01543,Ratio,Broad money to total reserves ratio
-2010,2.09199,Ratio,Broad money to total reserves ratio
-2011,2.4126,Ratio,Broad money to total reserves ratio
-2012,2.23118,Ratio,Broad money to total reserves ratio
-2013,2.19201,Ratio,Broad money to total reserves ratio
-2014,2.41021,Ratio,Broad money to total reserves ratio
-2015,2.20706,Ratio,Broad money to total reserves ratio
-2016,2.22398,Ratio,Broad money to total reserves ratio
-2017,1.9686,Ratio,Broad money to total reserves ratio
-2018,2.1443,Ratio,Broad money to total reserves ratio
-2019,2.09113,Ratio,Broad money to total reserves ratio
-2020,1.88955,Ratio,Broad money to total reserves ratio
+2010,2.09193,Ratio,Broad money to total reserves ratio
+2011,2.41254,Ratio,Broad money to total reserves ratio
+2012,2.23116,Ratio,Broad money to total reserves ratio
+2013,2.19208,Ratio,Broad money to total reserves ratio
+2014,2.41026,Ratio,Broad money to total reserves ratio
+2015,2.20707,Ratio,Broad money to total reserves ratio
+2016,2.22394,Ratio,Broad money to total reserves ratio
+2017,1.96866,Ratio,Broad money to total reserves ratio
+2018,2.14432,Ratio,Broad money to total reserves ratio
+2019,2.09115,Ratio,Broad money to total reserves ratio
+2020,1.88958,Ratio,Broad money to total reserves ratio
+2021,2.01146,Ratio,Broad money to total reserves ratio
+2022,2.04041,Ratio,Broad money to total reserves ratio
 2000,11.2504,Percent,Annual broad money growth (%)
 2005,18.20266,Percent,Annual broad money growth (%)
 2010,7.22357,Percent,Annual broad money growth (%)
@@ -109,6 +117,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2018,9.38125,Percent,Annual broad money growth (%)
 2019,8.85292,Percent,Annual broad money growth (%)
 2020,7.27725,Percent,Annual broad money growth (%)
+2021,11.56357,Percent,Annual broad money growth (%)
+2022,5.47159,Percent,Annual broad money growth (%)
 2010,1.99621,Percent,"Annual inflation, consumer prices (%)"
 2011,3.67125,Percent,"Annual inflation, consumer prices (%)"
 2012,2.05267,Percent,"Annual inflation, consumer prices (%)"
@@ -127,48 +137,56 @@ Year,Value,UNIT_MEASURE,SERIES
 2012,-1.61232,Percent,Cash surplus/deficit as a proportion of GDP (%)
 2013,-2.07742,Percent,Cash surplus/deficit as a proportion of GDP (%)
 2014,-4.02826,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2015,0.36477,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2016,1.07578,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2017,2.60142,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2018,2.04599,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2019,1.77603,Percent,Cash surplus/deficit as a proportion of GDP (%)
-2020,-4.84436,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2015,0.3649,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2016,1.06296,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2017,2.2209,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2018,1.62524,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2019,1.3915,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2020,-5.15374,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2021,-1.18384,Percent,Cash surplus/deficit as a proportion of GDP (%)
+2022,0.10597,Percent,Cash surplus/deficit as a proportion of GDP (%)
 2005,19.88609,Percent,Tax revenue as a proportion of GDP (%)
 2010,19.68568,Percent,Tax revenue as a proportion of GDP (%)
 2011,20.30567,Percent,Tax revenue as a proportion of GDP (%)
 2012,20.47754,Percent,Tax revenue as a proportion of GDP (%)
 2013,19.75154,Percent,Tax revenue as a proportion of GDP (%)
 2014,19.7779,Percent,Tax revenue as a proportion of GDP (%)
-2015,19.93422,Percent,Tax revenue as a proportion of GDP (%)
-2016,19.95149,Percent,Tax revenue as a proportion of GDP (%)
-2017,20.25934,Percent,Tax revenue as a proportion of GDP (%)
-2018,20.44075,Percent,Tax revenue as a proportion of GDP (%)
-2019,20.10135,Percent,Tax revenue as a proportion of GDP (%)
-2020,19.00931,Percent,Tax revenue as a proportion of GDP (%)
+2015,19.70001,Percent,Tax revenue as a proportion of GDP (%)
+2016,19.71375,Percent,Tax revenue as a proportion of GDP (%)
+2017,19.98765,Percent,Tax revenue as a proportion of GDP (%)
+2018,20.14102,Percent,Tax revenue as a proportion of GDP (%)
+2019,19.8266,Percent,Tax revenue as a proportion of GDP (%)
+2020,18.75064,Percent,Tax revenue as a proportion of GDP (%)
+2021,19.11684,Percent,Tax revenue as a proportion of GDP (%)
+2022,19.13845,Percent,Tax revenue as a proportion of GDP (%)
 2005,1.59307,Percent,Annual growth of the general government final consumption expenditure (%)
 2010,1.67511,Percent,Annual growth of the general government final consumption expenditure (%)
 2011,-0.89846,Percent,Annual growth of the general government final consumption expenditure (%)
 2012,1.22055,Percent,Annual growth of the general government final consumption expenditure (%)
 2013,-0.20575,Percent,Annual growth of the general government final consumption expenditure (%)
 2014,1.49262,Percent,Annual growth of the general government final consumption expenditure (%)
-2015,0.06333,Percent,Annual growth of the general government final consumption expenditure (%)
-2016,0.02122,Percent,Annual growth of the general government final consumption expenditure (%)
-2017,1.43518,Percent,Annual growth of the general government final consumption expenditure (%)
-2018,1.00074,Percent,Annual growth of the general government final consumption expenditure (%)
-2019,0.7438,Percent,Annual growth of the general government final consumption expenditure (%)
-2020,1.43173,Percent,Annual growth of the general government final consumption expenditure (%)
-2021,3.11844,Percent,Annual growth of the general government final consumption expenditure (%)
+2015,1.12281,Percent,Annual growth of the general government final consumption expenditure (%)
+2016,-0.11893,Percent,Annual growth of the general government final consumption expenditure (%)
+2017,1.39171,Percent,Annual growth of the general government final consumption expenditure (%)
+2018,1.31122,Percent,Annual growth of the general government final consumption expenditure (%)
+2019,1.00648,Percent,Annual growth of the general government final consumption expenditure (%)
+2020,1.52916,Percent,Annual growth of the general government final consumption expenditure (%)
+2021,2.91974,Percent,Annual growth of the general government final consumption expenditure (%)
+2022,1.26204,Percent,Annual growth of the general government final consumption expenditure (%)
 2005,4.84107,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2010,0.09176,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2011,-0.15862,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2012,-0.65288,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2013,0.0509,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2014,1.92101,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
-2015,1.60808,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
-2016,2.20181,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
-2017,1.09859,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
-2018,1.96691,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
-2019,2.27595,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2015,1.71151,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2016,2.20076,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2017,1.42198,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2018,2.17296,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2019,2.30912,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2020,-3.47483,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2021,4.02789,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
+2022,2.02002,Percent,Annual growth of households and NPISHs final consumption expenditure (%)
 2005,15.72809,Percent,Annual growth of exports of goods and services (%)
 2010,13.90052,Percent,Annual growth of exports of goods and services (%)
 2011,4.64401,Percent,Annual growth of exports of goods and services (%)
@@ -178,10 +196,11 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,9.78281,Percent,Annual growth of exports of goods and services (%)
 2016,9.36788,Percent,Annual growth of exports of goods and services (%)
 2017,11.821,Percent,Annual growth of exports of goods and services (%)
-2018,7.04489,Percent,Annual growth of exports of goods and services (%)
-2019,0.72369,Percent,Annual growth of exports of goods and services (%)
-2020,-15.84752,Percent,Annual growth of exports of goods and services (%)
-2021,24.59393,Percent,Annual growth of exports of goods and services (%)
+2018,7.27846,Percent,Annual growth of exports of goods and services (%)
+2019,0.50439,Percent,Annual growth of exports of goods and services (%)
+2020,-15.84753,Percent,Annual growth of exports of goods and services (%)
+2021,24.59394,Percent,Annual growth of exports of goods and services (%)
+2022,13.32212,Percent,Annual growth of exports of goods and services (%)
 2005,6.54338,Percent,Annual growth of the gross capital formation (%)
 2010,-15.44982,Percent,Annual growth of the gross capital formation (%)
 2011,12.22054,Percent,Annual growth of the gross capital formation (%)
@@ -195,6 +214,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,6.35157,Percent,Annual growth of the gross capital formation (%)
 2020,-8.49656,Percent,Annual growth of the gross capital formation (%)
 2021,22.37658,Percent,Annual growth of the gross capital formation (%)
+2022,2.6907,Percent,Annual growth of the gross capital formation (%)
 2005,10.43014,Percent,Annual growth of imports of goods and services (%)
 2010,2.4786,Percent,Annual growth of imports of goods and services (%)
 2011,2.91652,Percent,Annual growth of imports of goods and services (%)
@@ -204,10 +224,11 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,1.78218,Percent,Annual growth of imports of goods and services (%)
 2016,7.19478,Percent,Annual growth of imports of goods and services (%)
 2017,7.65118,Percent,Annual growth of imports of goods and services (%)
-2018,3.88957,Percent,Annual growth of imports of goods and services (%)
-2019,1.37081,Percent,Annual growth of imports of goods and services (%)
+2018,3.94707,Percent,Annual growth of imports of goods and services (%)
+2019,1.31473,Percent,Annual growth of imports of goods and services (%)
 2020,-13.42491,Percent,Annual growth of imports of goods and services (%)
 2021,20.46773,Percent,Annual growth of imports of goods and services (%)
+2022,6.31564,Percent,Annual growth of imports of goods and services (%)
 2000,12.76547,Percent,Annual GDP growth (%)
 2005,3.89718,Percent,Annual GDP growth (%)
 2010,0.86567,Percent,Annual GDP growth (%)
@@ -215,13 +236,14 @@ Year,Value,UNIT_MEASURE,SERIES
 2012,-0.82184,Percent,Annual GDP growth (%)
 2013,2.34986,Percent,Annual GDP growth (%)
 2014,1.15385,Percent,Annual GDP growth (%)
-2015,3.08916,Percent,Annual GDP growth (%)
-2016,3.14981,Percent,Annual GDP growth (%)
-2017,3.17143,Percent,Annual GDP growth (%)
-2018,3.74007,Percent,Annual GDP growth (%)
-2019,2.831,Percent,Annual GDP growth (%)
-2020,-3.11929,Percent,Annual GDP growth (%)
-2021,7.54559,Percent,Annual GDP growth (%)
+2015,4.31475,Percent,Annual GDP growth (%)
+2016,3.24226,Percent,Annual GDP growth (%)
+2017,3.2441,Percent,Annual GDP growth (%)
+2018,3.8275,Percent,Annual GDP growth (%)
+2019,2.88734,Percent,Annual GDP growth (%)
+2020,-3.0151,Percent,Annual GDP growth (%)
+2021,7.39165,Percent,Annual GDP growth (%)
+2022,4.10623,Percent,Annual GDP growth (%)
 2000,2.123,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2005,1.5727,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2010,1.4767,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
@@ -232,21 +254,23 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,1.7635,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2016,1.7681,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2017,1.7354,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
-2018,1.657,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
+2018,1.6569,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2019,1.7471,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2020,1.717,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
 2021,1.6536,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
-2000,75.00801,Percent,Merchandise trade as a proportion of GDP (%)
-2005,84.38064,Percent,Merchandise trade as a proportion of GDP (%)
-2010,81.65674,Percent,Merchandise trade as a proportion of GDP (%)
-2011,90.64763,Percent,Merchandise trade as a proportion of GDP (%)
-2012,88.12407,Percent,Merchandise trade as a proportion of GDP (%)
-2013,87.91703,Percent,Merchandise trade as a proportion of GDP (%)
-2014,90.95639,Percent,Merchandise trade as a proportion of GDP (%)
-2015,86.87638,Percent,Merchandise trade as a proportion of GDP (%)
-2016,85.57747,Percent,Merchandise trade as a proportion of GDP (%)
-2017,93.50603,Percent,Merchandise trade as a proportion of GDP (%)
-2018,93.2048,Percent,Merchandise trade as a proportion of GDP (%)
-2019,87.79615,Percent,Merchandise trade as a proportion of GDP (%)
-2020,80.32392,Percent,Merchandise trade as a proportion of GDP (%)
-2021,92.62857,Percent,Merchandise trade as a proportion of GDP (%)
+2022,1.8593,Ratio,DEC alternative conversion factor (in local currency unit per United States dollar)
+2000,75.00306,Percent,Merchandise trade as a proportion of GDP (%)
+2005,84.38182,Percent,Merchandise trade as a proportion of GDP (%)
+2010,81.65896,Percent,Merchandise trade as a proportion of GDP (%)
+2011,90.65001,Percent,Merchandise trade as a proportion of GDP (%)
+2012,88.12465,Percent,Merchandise trade as a proportion of GDP (%)
+2013,87.9141,Percent,Merchandise trade as a proportion of GDP (%)
+2014,90.95448,Percent,Merchandise trade as a proportion of GDP (%)
+2015,85.85528,Percent,Merchandise trade as a proportion of GDP (%)
+2016,84.55957,Percent,Merchandise trade as a proportion of GDP (%)
+2017,92.24957,Percent,Merchandise trade as a proportion of GDP (%)
+2018,91.83729,Percent,Merchandise trade as a proportion of GDP (%)
+2019,86.59541,Percent,Merchandise trade as a proportion of GDP (%)
+2020,79.24439,Percent,Merchandise trade as a proportion of GDP (%)
+2021,91.51541,Percent,Merchandise trade as a proportion of GDP (%)
+2022,102.35799,Percent,Merchandise trade as a proportion of GDP (%)

@@ -1,19 +1,20 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,-7.10726,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2005,-16.43416,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2010,-6.0003,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2011,-9.47895,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2012,-8.62589,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2013,-5.32604,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2014,-7.35101,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2015,-5.09529,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2016,-4.75523,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2017,-4.84387,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2018,-3.27874,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2019,-2.63293,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2020,-3.30118,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2021,-2.38767,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
-2000,0.0,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
+2000,-7.10679,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2005,-16.43439,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2010,-6.00046,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2011,-9.4792,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2012,-8.62595,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2013,-5.32586,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2014,-7.35086,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2015,-5.03541,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2016,-4.69867,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2017,-4.77878,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2018,-3.23063,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2019,-2.59692,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2020,-2.83952,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2021,-1.77164,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2022,-4.35221,Procenat,Stanje tekućeg računa kao proporcija BDP-a (%)
+2000,,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
 2005,-2566375.55372,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
 2010,121005146.35935,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
 2011,34933677.17534,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
@@ -25,36 +26,39 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,89476552.73999,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
 2018,149838740.93335,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
 2019,123009925.55627,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
-2020,7135294.99267,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
-2021,44071127.11991,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
-2000,2.62376,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2005,5.55837,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2010,2.58395,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2011,2.52946,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2012,2.27538,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2013,1.72344,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2014,2.93596,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2015,2.36307,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2016,1.85178,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2017,2.81762,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2018,2.98156,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2019,2.21693,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2020,2.17044,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2021,2.73208,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
-2000,45.78598,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2005,59.94089,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2010,81.85679,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2011,65.68403,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2012,74.89242,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2013,74.83313,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2014,69.91181,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2015,71.11965,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2016,68.67041,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2017,72.67407,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2018,64.4861,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2019,63.08652,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2020,70.09029,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
-2021,58.07773,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2020,3861346.05199,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
+2021,45106909.92111,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
+2022,137915691.72801,(tekući američki dolari),"Portfolio ulaganja, neto (platni bilans, tekući američki dolari)"
+2000,2.62359,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2005,5.55844,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2010,2.58402,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2011,2.52953,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2012,2.2754,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2013,1.72338,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2014,2.9359,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2015,2.33529,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2016,1.82976,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2017,2.77976,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2018,2.93781,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2019,2.18661,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2020,2.14087,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2021,2.69925,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2022,2.63587,Procenat,"Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)"
+2000,45.78296,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2005,59.94173,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2010,81.85901,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2011,65.68575,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2012,74.86832,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2013,74.80525,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2014,69.91982,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2015,70.32523,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2016,67.85855,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2017,71.68526,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2018,63.51537,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2019,62.1214,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2020,68.93985,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2021,55.88815,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
+2022,53.04764,Procenat,Zalihe vanjskog duga kao udio BND-a (%)
 2000,20.43923,Procenat,Omjer kapitala banke i aktive (%)
 2005,9.72961,Procenat,Omjer kapitala banke i aktive (%)
 2010,10.27702,Procenat,Omjer kapitala banke i aktive (%)
@@ -69,6 +73,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,10.51084,Procenat,Omjer kapitala banke i aktive (%)
 2020,10.18703,Procenat,Omjer kapitala banke i aktive (%)
 2021,9.97462,Procenat,Omjer kapitala banke i aktive (%)
+2022,9.89093,Procenat,Omjer kapitala banke i aktive (%)
 2000,1.40762,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
 2005,3.77303,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
 2010,5.80977,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
@@ -81,21 +86,24 @@ Year,Value,UNIT_MEASURE,SERIES
 2017,7.00829,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
 2018,6.64613,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
 2019,7.283,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
-2020,10.09293,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
-2021,8.30966,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
-2000,2.45427,Odnos,Omjer širokog novca i ukupnih rezervi
+2020,10.06339,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
+2021,8.26229,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
+2022,6.4819,Odnos,Ukupne rezerve u mjesecima uvoza (omjer)
+2000,2.45443,Odnos,Omjer širokog novca i ukupnih rezervi
 2005,2.01543,Odnos,Omjer širokog novca i ukupnih rezervi
-2010,2.09199,Odnos,Omjer širokog novca i ukupnih rezervi
-2011,2.4126,Odnos,Omjer širokog novca i ukupnih rezervi
-2012,2.23118,Odnos,Omjer širokog novca i ukupnih rezervi
-2013,2.19201,Odnos,Omjer širokog novca i ukupnih rezervi
-2014,2.41021,Odnos,Omjer širokog novca i ukupnih rezervi
-2015,2.20706,Odnos,Omjer širokog novca i ukupnih rezervi
-2016,2.22398,Odnos,Omjer širokog novca i ukupnih rezervi
-2017,1.9686,Odnos,Omjer širokog novca i ukupnih rezervi
-2018,2.1443,Odnos,Omjer širokog novca i ukupnih rezervi
-2019,2.09113,Odnos,Omjer širokog novca i ukupnih rezervi
-2020,1.88955,Odnos,Omjer širokog novca i ukupnih rezervi
+2010,2.09193,Odnos,Omjer širokog novca i ukupnih rezervi
+2011,2.41254,Odnos,Omjer širokog novca i ukupnih rezervi
+2012,2.23116,Odnos,Omjer širokog novca i ukupnih rezervi
+2013,2.19208,Odnos,Omjer širokog novca i ukupnih rezervi
+2014,2.41026,Odnos,Omjer širokog novca i ukupnih rezervi
+2015,2.20707,Odnos,Omjer širokog novca i ukupnih rezervi
+2016,2.22394,Odnos,Omjer širokog novca i ukupnih rezervi
+2017,1.96866,Odnos,Omjer širokog novca i ukupnih rezervi
+2018,2.14432,Odnos,Omjer širokog novca i ukupnih rezervi
+2019,2.09115,Odnos,Omjer širokog novca i ukupnih rezervi
+2020,1.88958,Odnos,Omjer širokog novca i ukupnih rezervi
+2021,2.01146,Odnos,Omjer širokog novca i ukupnih rezervi
+2022,2.04041,Odnos,Omjer širokog novca i ukupnih rezervi
 2000,11.2504,Procenat,Godišnji rast novca (%)
 2005,18.20266,Procenat,Godišnji rast novca (%)
 2010,7.22357,Procenat,Godišnji rast novca (%)
@@ -109,6 +117,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2018,9.38125,Procenat,Godišnji rast novca (%)
 2019,8.85292,Procenat,Godišnji rast novca (%)
 2020,7.27725,Procenat,Godišnji rast novca (%)
+2021,11.56357,Procenat,Godišnji rast novca (%)
+2022,5.47159,Procenat,Godišnji rast novca (%)
 2010,1.99621,Procenat,"Godišnja inflacija, potrošačke cijene (%)"
 2011,3.67125,Procenat,"Godišnja inflacija, potrošačke cijene (%)"
 2012,2.05267,Procenat,"Godišnja inflacija, potrošačke cijene (%)"
@@ -127,48 +137,56 @@ Year,Value,UNIT_MEASURE,SERIES
 2012,-1.61232,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
 2013,-2.07742,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
 2014,-4.02826,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2015,0.36477,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2016,1.07578,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2017,2.60142,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2018,2.04599,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2019,1.77603,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
-2020,-4.84436,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2015,0.3649,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2016,1.06296,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2017,2.2209,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2018,1.62524,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2019,1.3915,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2020,-5.15374,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2021,-1.18384,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
+2022,0.10597,Procenat,Višak/deficit gotovine kao proporcija BDP-a (%)
 2005,19.88609,Procenat,Porezni prihod kao udio BDP-a (%)
 2010,19.68568,Procenat,Porezni prihod kao udio BDP-a (%)
 2011,20.30567,Procenat,Porezni prihod kao udio BDP-a (%)
 2012,20.47754,Procenat,Porezni prihod kao udio BDP-a (%)
 2013,19.75154,Procenat,Porezni prihod kao udio BDP-a (%)
 2014,19.7779,Procenat,Porezni prihod kao udio BDP-a (%)
-2015,19.93422,Procenat,Porezni prihod kao udio BDP-a (%)
-2016,19.95149,Procenat,Porezni prihod kao udio BDP-a (%)
-2017,20.25934,Procenat,Porezni prihod kao udio BDP-a (%)
-2018,20.44075,Procenat,Porezni prihod kao udio BDP-a (%)
-2019,20.10135,Procenat,Porezni prihod kao udio BDP-a (%)
-2020,19.00931,Procenat,Porezni prihod kao udio BDP-a (%)
+2015,19.70001,Procenat,Porezni prihod kao udio BDP-a (%)
+2016,19.71375,Procenat,Porezni prihod kao udio BDP-a (%)
+2017,19.98765,Procenat,Porezni prihod kao udio BDP-a (%)
+2018,20.14102,Procenat,Porezni prihod kao udio BDP-a (%)
+2019,19.8266,Procenat,Porezni prihod kao udio BDP-a (%)
+2020,18.75064,Procenat,Porezni prihod kao udio BDP-a (%)
+2021,19.11684,Procenat,Porezni prihod kao udio BDP-a (%)
+2022,19.13845,Procenat,Porezni prihod kao udio BDP-a (%)
 2005,1.59307,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2010,1.67511,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2011,-0.89846,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2012,1.22055,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2013,-0.20575,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2014,1.49262,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2015,0.06333,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2016,0.02122,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2017,1.43518,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2018,1.00074,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2019,0.7438,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2020,1.43173,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
-2021,3.11844,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2015,1.12281,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2016,-0.11893,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2017,1.39171,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2018,1.31122,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2019,1.00648,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2020,1.52916,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2021,2.91974,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
+2022,1.26204,Procenat,Godišnji rast izdataka za finalnu potrošnju opće vlade (%)
 2005,4.84107,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2010,0.09176,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2011,-0.15862,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2012,-0.65288,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2013,0.0509,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2014,1.92101,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
-2015,1.60808,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
-2016,2.20181,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
-2017,1.09859,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
-2018,1.96691,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
-2019,2.27595,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2015,1.71151,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2016,2.20076,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2017,1.42198,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2018,2.17296,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2019,2.30912,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2020,-3.47483,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2021,4.02789,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
+2022,2.02002,Procenat,Godišnji rast izdataka za finalnu potrošnju domaćinstava i NPISH (%)
 2005,15.72809,Procenat,Godišnji rast izvoza roba i usluga (%)
 2010,13.90052,Procenat,Godišnji rast izvoza roba i usluga (%)
 2011,4.64401,Procenat,Godišnji rast izvoza roba i usluga (%)
@@ -178,10 +196,11 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,9.78281,Procenat,Godišnji rast izvoza roba i usluga (%)
 2016,9.36788,Procenat,Godišnji rast izvoza roba i usluga (%)
 2017,11.821,Procenat,Godišnji rast izvoza roba i usluga (%)
-2018,7.04489,Procenat,Godišnji rast izvoza roba i usluga (%)
-2019,0.72369,Procenat,Godišnji rast izvoza roba i usluga (%)
-2020,-15.84752,Procenat,Godišnji rast izvoza roba i usluga (%)
-2021,24.59393,Procenat,Godišnji rast izvoza roba i usluga (%)
+2018,7.27846,Procenat,Godišnji rast izvoza roba i usluga (%)
+2019,0.50439,Procenat,Godišnji rast izvoza roba i usluga (%)
+2020,-15.84753,Procenat,Godišnji rast izvoza roba i usluga (%)
+2021,24.59394,Procenat,Godišnji rast izvoza roba i usluga (%)
+2022,13.32212,Procenat,Godišnji rast izvoza roba i usluga (%)
 2005,6.54338,Procenat,Godišnji rast bruto investicija (%)
 2010,-15.44982,Procenat,Godišnji rast bruto investicija (%)
 2011,12.22054,Procenat,Godišnji rast bruto investicija (%)
@@ -195,6 +214,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,6.35157,Procenat,Godišnji rast bruto investicija (%)
 2020,-8.49656,Procenat,Godišnji rast bruto investicija (%)
 2021,22.37658,Procenat,Godišnji rast bruto investicija (%)
+2022,2.6907,Procenat,Godišnji rast bruto investicija (%)
 2005,10.43014,Procenat,Godišnji rast uvoza roba i usluga (%)
 2010,2.4786,Procenat,Godišnji rast uvoza roba i usluga (%)
 2011,2.91652,Procenat,Godišnji rast uvoza roba i usluga (%)
@@ -204,10 +224,11 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,1.78218,Procenat,Godišnji rast uvoza roba i usluga (%)
 2016,7.19478,Procenat,Godišnji rast uvoza roba i usluga (%)
 2017,7.65118,Procenat,Godišnji rast uvoza roba i usluga (%)
-2018,3.88957,Procenat,Godišnji rast uvoza roba i usluga (%)
-2019,1.37081,Procenat,Godišnji rast uvoza roba i usluga (%)
+2018,3.94707,Procenat,Godišnji rast uvoza roba i usluga (%)
+2019,1.31473,Procenat,Godišnji rast uvoza roba i usluga (%)
 2020,-13.42491,Procenat,Godišnji rast uvoza roba i usluga (%)
 2021,20.46773,Procenat,Godišnji rast uvoza roba i usluga (%)
+2022,6.31564,Procenat,Godišnji rast uvoza roba i usluga (%)
 2000,12.76547,Procenat,Godišnji rast BDP-a (%)
 2005,3.89718,Procenat,Godišnji rast BDP-a (%)
 2010,0.86567,Procenat,Godišnji rast BDP-a (%)
@@ -215,13 +236,14 @@ Year,Value,UNIT_MEASURE,SERIES
 2012,-0.82184,Procenat,Godišnji rast BDP-a (%)
 2013,2.34986,Procenat,Godišnji rast BDP-a (%)
 2014,1.15385,Procenat,Godišnji rast BDP-a (%)
-2015,3.08916,Procenat,Godišnji rast BDP-a (%)
-2016,3.14981,Procenat,Godišnji rast BDP-a (%)
-2017,3.17143,Procenat,Godišnji rast BDP-a (%)
-2018,3.74007,Procenat,Godišnji rast BDP-a (%)
-2019,2.831,Procenat,Godišnji rast BDP-a (%)
-2020,-3.11929,Procenat,Godišnji rast BDP-a (%)
-2021,7.54559,Procenat,Godišnji rast BDP-a (%)
+2015,4.31475,Procenat,Godišnji rast BDP-a (%)
+2016,3.24226,Procenat,Godišnji rast BDP-a (%)
+2017,3.2441,Procenat,Godišnji rast BDP-a (%)
+2018,3.8275,Procenat,Godišnji rast BDP-a (%)
+2019,2.88734,Procenat,Godišnji rast BDP-a (%)
+2020,-3.0151,Procenat,Godišnji rast BDP-a (%)
+2021,7.39165,Procenat,Godišnji rast BDP-a (%)
+2022,4.10623,Procenat,Godišnji rast BDP-a (%)
 2000,2.123,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2005,1.5727,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2010,1.4767,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
@@ -232,21 +254,23 @@ Year,Value,UNIT_MEASURE,SERIES
 2015,1.7635,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2016,1.7681,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2017,1.7354,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
-2018,1.657,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
+2018,1.6569,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2019,1.7471,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2020,1.717,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
 2021,1.6536,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
-2000,75.00801,Procenat,Trgovina robom kao udio u BDP-u (%)
-2005,84.38064,Procenat,Trgovina robom kao udio u BDP-u (%)
-2010,81.65674,Procenat,Trgovina robom kao udio u BDP-u (%)
-2011,90.64763,Procenat,Trgovina robom kao udio u BDP-u (%)
-2012,88.12407,Procenat,Trgovina robom kao udio u BDP-u (%)
-2013,87.91703,Procenat,Trgovina robom kao udio u BDP-u (%)
-2014,90.95639,Procenat,Trgovina robom kao udio u BDP-u (%)
-2015,86.87638,Procenat,Trgovina robom kao udio u BDP-u (%)
-2016,85.57747,Procenat,Trgovina robom kao udio u BDP-u (%)
-2017,93.50603,Procenat,Trgovina robom kao udio u BDP-u (%)
-2018,93.2048,Procenat,Trgovina robom kao udio u BDP-u (%)
-2019,87.79615,Procenat,Trgovina robom kao udio u BDP-u (%)
-2020,80.32392,Procenat,Trgovina robom kao udio u BDP-u (%)
-2021,92.62857,Procenat,Trgovina robom kao udio u BDP-u (%)
+2022,1.8593,Odnos,DEC alternativni faktor konverzije (u jedinici lokalne valute po američkim dolarima)
+2000,75.00306,Procenat,Trgovina robom kao udio u BDP-u (%)
+2005,84.38182,Procenat,Trgovina robom kao udio u BDP-u (%)
+2010,81.65896,Procenat,Trgovina robom kao udio u BDP-u (%)
+2011,90.65001,Procenat,Trgovina robom kao udio u BDP-u (%)
+2012,88.12465,Procenat,Trgovina robom kao udio u BDP-u (%)
+2013,87.9141,Procenat,Trgovina robom kao udio u BDP-u (%)
+2014,90.95448,Procenat,Trgovina robom kao udio u BDP-u (%)
+2015,85.85528,Procenat,Trgovina robom kao udio u BDP-u (%)
+2016,84.55957,Procenat,Trgovina robom kao udio u BDP-u (%)
+2017,92.24957,Procenat,Trgovina robom kao udio u BDP-u (%)
+2018,91.83729,Procenat,Trgovina robom kao udio u BDP-u (%)
+2019,86.59541,Procenat,Trgovina robom kao udio u BDP-u (%)
+2020,79.24439,Procenat,Trgovina robom kao udio u BDP-u (%)
+2021,91.51541,Procenat,Trgovina robom kao udio u BDP-u (%)
+2022,102.35799,Procenat,Trgovina robom kao udio u BDP-u (%)
