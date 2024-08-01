@@ -252,7 +252,7 @@ SG_LGL_GENEQMAR: Pravni okviri koji promovišu, sprovode i prate rodnu ravnoprav
 SG_NHR_CMPLNC: Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)
 SG_NHR_IMPLN: Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)
 SG_NHR_NOAPPLN: Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, D status (1 = DA; 0 = NE)
-SG_PLN_RECNDI: Udio novih razvojnih intervencija izvučenih iz okvira rezultata koje vode zemlje - podaci prema primaocu
+SG_PLN_RECNDI: Udio projektnih ciljeva u novim razvojnim intervencijama izvučeni iz okvira rezultata koje vodi država - podaci po primaocu (%)
 SG_PLN_RECRICTRY: Udio indikatora rezultata izvučenih iz okvira rezultata koje vode zemlje - podaci prema primaocu (%)
 SG_PLN_RECRIMON: Udio indikatora rezultata koji će se pratiti pomoću državnih izvora i sistema praćenja - podaci po primaocu (%)
 SG_PLN_REPOLRES: Opseg upotrebe državnih okvira rezultata i alata za planiranje od strane pružalaca razvojne saradnje - podaci prema primaocu (%)
