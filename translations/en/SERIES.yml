@@ -477,3 +477,6 @@ TG_VAL_TOTL_GD_ZS: Merchandise trade as a proportion of GDP (%)
 BN_KLT_PTXL_CD: Portfolio investment, net (Balance of Payments, current United States dollars)
 GC_TAX_TOTL_GD_ZS: Tax revenue as a proportion of GDP (%)
 FI_RES_TOTL_MO: Total reserves in months of imports (ratio)
+IQ_SPI_PIL4: Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index)
+IQ_SPI_PIL5: Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index)
+SG_STT_ODIN: Open Data Inventory (ODIN) Coverage Index
