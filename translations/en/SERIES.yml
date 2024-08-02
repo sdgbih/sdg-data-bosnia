@@ -259,7 +259,7 @@ SG_REG_BRTH: Proportion of children under 5 years of age whose births have been 
 SG_REG_BRTH90N: Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
 SG_REG_CENSUSN: Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)
 SG_REG_DETH75N: Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)
-SG_STT_CAPTY: Dollar value of all resources made available to strengthen statistical capacity in developing countries
+SG_STT_CAPTY: Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)
 SG_STT_FPOS: Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)
 SG_STT_NSDSFDDNR: Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)
 SG_STT_NSDSFDGVT: Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)
