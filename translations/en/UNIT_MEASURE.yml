@@ -5,7 +5,7 @@ CON_PPP_USD: Constant PPP USD
 CU_USD_M: Millions of current United States dollars
 CUR_LCU_M: Local currency (millions)
 CU_USD_B: (billions of nominal United States dollars)
-CU_USD: (nominal United States dollars)
+CU_USD: (Current United States dollars)
 GPERM3: Micrograms per cubic meter
 HA_TH: Thousands of hectares
 T_PER_HA: Tonnes per hectare
