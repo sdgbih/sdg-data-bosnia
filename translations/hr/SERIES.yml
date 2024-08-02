@@ -253,6 +253,7 @@ SG_LGL_GENEQMAR: Pravni okviri koji promiču, provode i prate ravnopravnost spol
 SG_NHR_CMPLNC: Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)
 SG_NHR_IMPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)
 SG_NHR_NOAPPLN: Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, D status (1 = DA; 0 = NE)
+SG_PLN_MSTKSDG_R: Broj zemalja koje izvješćuju o napretku u okvirima za praćenje učinkovitosti razvoja s više dionika koji podržavaju postizanje ciljeva održivog razvoja, Primatelj (1 = DA; 0 = NE)
 SG_PLN_RECNDI: Udio projektnih ciljeva u novim razvojnim intervencijama izvučeni iz okvira rezultata koje vodi država - podaci po primaocu (%)
 SG_PLN_RECRICTRY: Udio pokazatelja rezultata izvučenih iz okvira rezultata koje vode zemlje - podaci prema primatelju (%)
 SG_PLN_RECRIMON: Udio pokazatelja rezultata koji će se pratiti pomoću državnih izvora i sustava praćenja - podaci po primatelju (%)
