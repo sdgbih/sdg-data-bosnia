@@ -250,6 +250,7 @@ SG_LGL_GENEQMAR: Legal frameworks that promote, enforce and monitor gender equal
 SG_NHR_IMPLN: Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)
 SG_NHR_CMPLNC: Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)
 SG_NHR_NOAPPLN: Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)
+SG_PLN_MSTKSDG_R: Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)
 SG_PLN_RECNDI: Proportion of project objectives in new development interventions drawn from country - led result frameworks - data by recipient (%)
 SG_PLN_RECRICTRY: Proportion of results indicators drawn from country-led results frameworks - data by recipient (%)
 SG_PLN_RECRIMON: Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%)
