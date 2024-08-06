@@ -1,31 +1,31 @@
 Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
-2009,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.36
-2010,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.6
-2011,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.78
-2014,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.91
-2015,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.0
-2016,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.9
-2017,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.0
-2018,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.23
-2019,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.18
-2021,EN_ATM_CO2,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.53
-2009,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,0.89
-2010,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,0.977
-2011,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,1.087
-2014,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,1.074
-2015,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,1.097
-2016,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,0.987
-2017,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,0.959
-2018,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,1.051
-2019,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,1.027
-2021,EN_ATM_CO2MVA,Kilogrami po konstanti američkog dolara,Proizvodnja,0.66
-2009,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.499
-2010,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.502
-2011,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.569
-2014,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.454
-2015,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.438
-2016,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.484
-2017,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.475
-2018,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.455
-2019,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.413
-2021,EN_ATM_CO2GDP,Kilogrami po konstanti američkog dolara,,0.396
+2009,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.36
+2010,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.6
+2011,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.78
+2014,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.91
+2015,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.0
+2016,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.9
+2017,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.0
+2018,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.23
+2019,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.18
+2021,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.53
+2009,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.89
+2010,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.977
+2011,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.087
+2014,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.074
+2015,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.097
+2016,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.987
+2017,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.959
+2018,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.051
+2019,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.027
+2021,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.66
+2009,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.499
+2010,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.502
+2011,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.569
+2014,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.454
+2015,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.438
+2016,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.484
+2017,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.475
+2018,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.455
+2019,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.413
+2021,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2017.),Kilogrami po konstanti američkog dolara,,0.396

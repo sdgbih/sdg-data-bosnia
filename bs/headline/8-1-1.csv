@@ -1,24 +1,24 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,4.75,Procenat,NY_GDP_PCAP
-2001,2.04,Procenat,NY_GDP_PCAP
-2002,4.94,Procenat,NY_GDP_PCAP
-2003,4.23,Procenat,NY_GDP_PCAP
-2004,7.37,Procenat,NY_GDP_PCAP
-2005,5.13,Procenat,NY_GDP_PCAP
-2006,6.35,Procenat,NY_GDP_PCAP
-2007,7.19,Procenat,NY_GDP_PCAP
-2008,7.17,Procenat,NY_GDP_PCAP
-2009,-1.36,Procenat,NY_GDP_PCAP
-2010,2.63,Procenat,NY_GDP_PCAP
-2011,2.79,Procenat,NY_GDP_PCAP
-2012,1.03,Procenat,NY_GDP_PCAP
-2013,3.96,Procenat,NY_GDP_PCAP
-2014,2.47,Procenat,NY_GDP_PCAP
-2015,4.46,Procenat,NY_GDP_PCAP
-2016,4.43,Procenat,NY_GDP_PCAP
-2017,4.4,Procenat,NY_GDP_PCAP
-2018,4.96,Procenat,NY_GDP_PCAP
-2019,4.04,Procenat,NY_GDP_PCAP
-2020,-1.88,Procenat,NY_GDP_PCAP
-2021,8.9,Procenat,NY_GDP_PCAP
-2022,5.3,Procenat,NY_GDP_PCAP
+2000,4.75,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2001,2.04,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2002,4.94,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2003,4.23,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2004,7.37,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2005,5.13,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2006,6.35,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2007,7.19,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2008,7.17,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2009,-1.36,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2010,2.63,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2011,2.79,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2012,1.03,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2013,3.96,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2014,2.47,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2015,4.46,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2016,4.43,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2017,4.4,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2018,4.96,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2019,4.04,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2020,-1.88,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2021,8.9,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
+2022,5.3,Procenat,Godišnja stopa rasta realnog BDP-a po stanovniku
