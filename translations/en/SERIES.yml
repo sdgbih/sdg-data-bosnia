@@ -13,6 +13,8 @@ AG_PRD_FIESMS: Prevalence of moderate or severe food insecurity in the populatio
 AG_PRD_FIESMSN: Population in moderate or severe food insecurity (thousands of people)
 AG_PRD_FIESS: Prevalence of severe food insecurity in the population (%)
 AG_PRD_FIESSN: Population in severe food insecurity (thousands of people)
+AG_PRD_ORTIND: Agriculture orientation index for government expenditures
+AG_XPD_AGSGB: Agriculture share of Government Expenditure (%)
 BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of total GDP
 DC_ENVTECH_TT: Total trade of tracked Environmentally Sound Technologies (current United States dollars)
 DC_ENVTECH_EXP: Amount of tracked exported Environmentally Sound Technologies (current United States dollars)
