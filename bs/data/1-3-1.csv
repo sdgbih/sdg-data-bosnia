@@ -1,29 +1,29 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2019,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Oba spola ili bez podjele po spolu,69.5
-2019,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Žene,41.3
-2019,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Muškarci,100.0
-2020,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Oba spola ili bez podjele po spolu,75.3
-2020,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Žene,43.8
-2020,Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju,Procenat,Muškarci,100.0
-2001,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,1.2
-2005,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,1.6
-2008,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,1.6
-2009,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,2.4
-2010,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,2.6
-2011,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,2.0
-2019,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,Oba spola ili bez podjele po spolu,5.3
-2007,Udio stanovništva obuhvaćenog programima tržišta rada,Procenat,,2.03118
-2007,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,,20.50947
-2015,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,,17.4175
-2007,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Procenat,,41.52379
-2015,Udio stanovništva obuhvaćenog programima socijalnog osiguranja,Procenat,,40.16296
-2020,"Udio stanovništva s teškim invaliditetom koje prima novčanu naknadu za invalidnost, prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,100.0
-2020,"Udio stanovništva s teškim invaliditetom koje prima novčanu naknadu za invalidnost, prema spolu (%)",Procenat,Žene,100.0
-2020,"Udio stanovništva s teškim invaliditetom koje prima novčanu naknadu za invalidnost, prema spolu (%)",Procenat,Muškarci,100.0
-2021,"Udio stanovništva obuhvaćenog najmanje jednom naknadom socijalne zaštite, prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,54.5
-2019,Udio majki sa novorođenčadi koje primaju novčanu naknadu za materinstvo (%),Procenat,Žene,100.0
-2020,Udio majki sa novorođenčadi koje primaju novčanu naknadu za materinstvo (%),Procenat,Žene,100.0
-2021,Udio majki sa novorođenčadi koje primaju novčanu naknadu za materinstvo (%),Procenat,Žene,100.0
-2020,"Udio siromašne populacije koja prima novčanu pomoć socijalne pomoći, prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,2.6
-2021,"Udio djece / domaćinstava koja primaju dječiju / porodičnu novčanu naknadu, prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,14.6
-2021,"Udio ugroženog stanovništva koje prima novčanu pomoć socijalne pomoći, prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,14.7
+2019,SI_COV_PENSN,Procenat,Oba spola ili bez podjele po spolu,69.5
+2019,SI_COV_PENSN,Procenat,Žene,41.3
+2019,SI_COV_PENSN,Procenat,Muškarci,100.0
+2020,SI_COV_PENSN,Procenat,Oba spola ili bez podjele po spolu,75.3
+2020,SI_COV_PENSN,Procenat,Žene,43.8
+2020,SI_COV_PENSN,Procenat,Muškarci,100.0
+2001,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,1.2
+2005,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,1.6
+2008,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,1.6
+2009,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,2.4
+2010,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,2.6
+2011,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,2.0
+2019,SI_COV_UEMP,Procenat,Oba spola ili bez podjele po spolu,5.3
+2007,SI_COV_LMKT,Procenat,,2.03118
+2007,SI_COV_SOCAST,Procenat,,20.50947
+2015,SI_COV_SOCAST,Procenat,,17.4175
+2007,SI_COV_SOCINS,Procenat,,41.52379
+2015,SI_COV_SOCINS,Procenat,,40.16296
+2020,SI_COV_DISAB,Procenat,Oba spola ili bez podjele po spolu,100.0
+2020,SI_COV_DISAB,Procenat,Žene,100.0
+2020,SI_COV_DISAB,Procenat,Muškarci,100.0
+2021,SI_COV_BENFTS,Procenat,Oba spola ili bez podjele po spolu,54.5
+2019,SI_COV_MATNL,Procenat,Žene,100.0
+2020,SI_COV_MATNL,Procenat,Žene,100.0
+2021,SI_COV_MATNL,Procenat,Žene,100.0
+2020,SI_COV_POOR,Procenat,Oba spola ili bez podjele po spolu,2.6
+2021,SI_COV_CHLD,Procenat,Oba spola ili bez podjele po spolu,14.6
+2021,SI_COV_VULN,Procenat,Oba spola ili bez podjele po spolu,14.7

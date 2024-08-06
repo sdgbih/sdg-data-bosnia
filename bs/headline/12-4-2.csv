@@ -1,10 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2020,,Tone,Izvoz opasnog otpada (tone)
-2020,9943.0,Tone,Generisani opasni otpad (tone)
-2020,2.9963,Kilogrami,"Generisani opasni otpad, po stanovniku (Kg)"
-2020,0.0006,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2020,,Tone,Uvoz opasnog otpada (tone)
-2008,,Tone,Prikupljeni komunalni otpad (tone)
-2019,1228000.0,Tone,Generisani komunalni otpad (tone)
-2020,1206000.0,Tone,Generisani komunalni otpad (tone)
-2021,1229000.0,Tone,Generisani komunalni otpad (tone)
+2020,,Tone,EN_HAZ_EXP
+2020,9943.0,Tone,EN_HAZ_GENV
+2020,2.9963,Kilogrami,EN_HAZ_PCAP
+2020,0.0006,Kilogrami po konstanti američkog dolara,EN_HAZ_GENGDP
+2020,,Tone,EN_HAZ_IMP
+2008,,Tone,EN_MWT_COLLV
+2019,1228000.0,Tone,EN_MWT_GENV
+2020,1206000.0,Tone,EN_MWT_GENV
+2021,1229000.0,Tone,EN_MWT_GENV

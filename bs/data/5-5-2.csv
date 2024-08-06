@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2014,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.15
-2015,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,22.0
-2016,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,21.59
-2017,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,20.29
-2018,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,25.92
-2019,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.32
-2020,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,25.12
-2021,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.2
-2022,Udio žena na rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.1
-2014,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.2
-2015,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.2
-2016,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,18.8
-2017,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,18.8
-2018,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,26.1
-2019,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,25.4
-2020,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.9
-2021,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,20.2
-2022,Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%),Procenat,Žene,24.1
-2021,Udio žena na rukovodećim pozicijama - 19. ICLS (%),Procenat,Žene,
-2022,Udio žena na rukovodećim pozicijama - 19. ICLS (%),Procenat,Žene,
-2021,Udio žena na višim i srednjim rukovodećim pozicijama - 19. ICLS (%),Procenat,Žene,
-2022,Udio žena na višim i srednjim rukovodećim pozicijama - 19. ICLS (%),Procenat,Žene,
+2014,IC_GEN_MGTL,Procenat,Žene,24.15
+2015,IC_GEN_MGTL,Procenat,Žene,22.0
+2016,IC_GEN_MGTL,Procenat,Žene,21.59
+2017,IC_GEN_MGTL,Procenat,Žene,20.29
+2018,IC_GEN_MGTL,Procenat,Žene,25.92
+2019,IC_GEN_MGTL,Procenat,Žene,24.32
+2020,IC_GEN_MGTL,Procenat,Žene,25.12
+2021,IC_GEN_MGTL,Procenat,Žene,24.2
+2022,IC_GEN_MGTL,Procenat,Žene,24.1
+2014,IC_GEN_MGTN,Procenat,Žene,24.2
+2015,IC_GEN_MGTN,Procenat,Žene,24.2
+2016,IC_GEN_MGTN,Procenat,Žene,18.8
+2017,IC_GEN_MGTN,Procenat,Žene,18.8
+2018,IC_GEN_MGTN,Procenat,Žene,26.1
+2019,IC_GEN_MGTN,Procenat,Žene,25.4
+2020,IC_GEN_MGTN,Procenat,Žene,24.9
+2021,IC_GEN_MGTN,Procenat,Žene,20.2
+2022,IC_GEN_MGTN,Procenat,Žene,24.1
+2021,IC_GEN_MGTL_19ICLS,Procenat,Žene,
+2022,IC_GEN_MGTL_19ICLS,Procenat,Žene,
+2021,IC_GEN_MGTN_19ICLS,Procenat,Žene,
+2022,IC_GEN_MGTN_19ICLS,Procenat,Žene,

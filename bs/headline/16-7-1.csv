@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2021,0.50835,Odnos,"Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
-2022,0.50835,Odnos,"Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
-2023,0.3722,Odnos,"Odnos ženskih članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u donjem domu ili jednodomnom parlamentu"
-2021,0.3882,Odnos,"Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
-2022,0.3882,Odnos,"Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
-2023,0.3908,Odnos,"Odnos za ženske članove parlamenata (Odnos udjela žena u parlamentu u udjelu žena u nacionalnom stanovništvu sa starosnom podobnošću kao donja granica), u gornjem domu"
+2021,0.50835,Odnos,SG_DMK_PARLMP_LC
+2022,0.50835,Odnos,SG_DMK_PARLMP_LC
+2023,0.3722,Odnos,SG_DMK_PARLMP_LC
+2021,0.3882,Odnos,SG_DMK_PARLMP_UC
+2022,0.3882,Odnos,SG_DMK_PARLMP_UC
+2023,0.3908,Odnos,SG_DMK_PARLMP_UC

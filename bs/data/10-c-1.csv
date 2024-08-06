@@ -1,8 +1,8 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,7.28
-2017,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,6.5
-2018,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,6.9
-2019,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,7.61
-2020,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,7.27
-2021,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,6.94
-2022,Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%),Procenat,7.84
+2015,SI_RMT_COST,Procenat,7.28
+2017,SI_RMT_COST,Procenat,6.5
+2018,SI_RMT_COST,Procenat,6.9
+2019,SI_RMT_COST,Procenat,7.61
+2020,SI_RMT_COST,Procenat,7.27
+2021,SI_RMT_COST,Procenat,6.94
+2022,SI_RMT_COST,Procenat,7.84

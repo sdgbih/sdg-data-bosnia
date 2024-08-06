@@ -1,14 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2014,,Tone,Reciklaža elektronskog otpada (tone)
-2015,,Tone,Reciklaža elektronskog otpada (tone)
-2016,,Tone,Reciklaža elektronskog otpada (tone)
-2017,,Tone,Reciklaža elektronskog otpada (tone)
-2018,,Tone,Reciklaža elektronskog otpada (tone)
-2019,,Tone,Reciklaža elektronskog otpada (tone)
-2014,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2015,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2016,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2017,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2018,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2019,,Kilogrami,"Reciklaža elektronskog otpada, po stanovniku (Kg)"
-2014,,Procenat,"Reciklaža elektronskog otpada, stopa (%)"
+2014,,Tone,EN_EWT_RCYV
+2015,,Tone,EN_EWT_RCYV
+2016,,Tone,EN_EWT_RCYV
+2017,,Tone,EN_EWT_RCYV
+2018,,Tone,EN_EWT_RCYV
+2019,,Tone,EN_EWT_RCYV
+2014,,Kilogrami,EN_EWT_RCYPCAP
+2015,,Kilogrami,EN_EWT_RCYPCAP
+2016,,Kilogrami,EN_EWT_RCYPCAP
+2017,,Kilogrami,EN_EWT_RCYPCAP
+2018,,Kilogrami,EN_EWT_RCYPCAP
+2019,,Kilogrami,EN_EWT_RCYPCAP
+2014,,Procenat,EN_EWT_RCYR

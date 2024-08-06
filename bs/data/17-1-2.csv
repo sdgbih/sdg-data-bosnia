@@ -1,21 +1,21 @@
 Year,SERIES,UNIT_MEASURE,Value
-2003,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,83.47171
-2004,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,86.24788
-2005,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,59.63647
-2006,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,61.56456
-2007,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,57.82445
-2008,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,51.96723
-2009,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,46.89452
-2010,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,49.15388
-2011,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,51.64659
-2012,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,50.37305
-2013,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,49.38217
-2014,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,48.5627
-2015,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,53.03225
-2016,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,54.53435
-2017,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,56.42694
-2018,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,56.2608
-2019,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,55.88266
-2020,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,45.34085
-2021,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,52.49757
-2022,Udio domaćeg budžeta koji se finansira iz domaćih poreza (% BDP-a),Procenat,54.57984
+2003,GC_GOB_TAXD,Procenat,83.47171
+2004,GC_GOB_TAXD,Procenat,86.24788
+2005,GC_GOB_TAXD,Procenat,59.63647
+2006,GC_GOB_TAXD,Procenat,61.56456
+2007,GC_GOB_TAXD,Procenat,57.82445
+2008,GC_GOB_TAXD,Procenat,51.96723
+2009,GC_GOB_TAXD,Procenat,46.89452
+2010,GC_GOB_TAXD,Procenat,49.15388
+2011,GC_GOB_TAXD,Procenat,51.64659
+2012,GC_GOB_TAXD,Procenat,50.37305
+2013,GC_GOB_TAXD,Procenat,49.38217
+2014,GC_GOB_TAXD,Procenat,48.5627
+2015,GC_GOB_TAXD,Procenat,53.03225
+2016,GC_GOB_TAXD,Procenat,54.53435
+2017,GC_GOB_TAXD,Procenat,56.42694
+2018,GC_GOB_TAXD,Procenat,56.2608
+2019,GC_GOB_TAXD,Procenat,55.88266
+2020,GC_GOB_TAXD,Procenat,45.34085
+2021,GC_GOB_TAXD,Procenat,52.49757
+2022,GC_GOB_TAXD,Procenat,54.57984

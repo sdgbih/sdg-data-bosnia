@@ -1,9 +1,9 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,100.0,Procenat,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim hemikalijama
-2020,100.0,Procenat,Usklađenost s Montrealskim protokolom o opasnom otpadu i drugim hemikalijama
-2015,50.0,Procenat,Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim hemikalijama
-2020,80.0,Procenat,Usklađenost sa Bazelskom konvencijom o opasnom otpadu i drugim hemikalijama
-2015,72.55,Procenat,Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim hemikalijama
-2020,91.38,Procenat,Usklađenost sa Roterdamskom konvencijom o opasnom otpadu i drugim hemikalijama
-2015,33.33,Procenat,Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim hemikalijama
-2020,62.5,Procenat,Usklađenost sa Štokholmskom konvencijom o opasnom otpadu i drugim hemikalijama
+2015,100.0,Procenat,SG_HAZ_CMRMNTRL
+2020,100.0,Procenat,SG_HAZ_CMRMNTRL
+2015,50.0,Procenat,SG_HAZ_CMRBASEL
+2020,80.0,Procenat,SG_HAZ_CMRBASEL
+2015,72.55,Procenat,SG_HAZ_CMRROTDAM
+2020,91.38,Procenat,SG_HAZ_CMRROTDAM
+2015,33.33,Procenat,SG_HAZ_CMRSTHOLM
+2020,62.5,Procenat,SG_HAZ_CMRSTHOLM

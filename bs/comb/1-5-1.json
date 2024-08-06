@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2017],"SERIES":["Broj smrtnih slu\u010dajeva uslijed katastrofe (broj)","Broj smrtnih slu\u010dajeva i nestalih osoba pripisanih katastrofama (broj)"],"UNIT_MEASURE":["Broj","Broj"],"Value":[0,0]},"edges":[]}
+{"data":{"Year":[2017,2017],"SERIES":["VC_DSR_MORT","VC_DSR_MMHN"],"UNIT_MEASURE":["Broj","Broj"],"Value":[0,0]},"edges":[]}
