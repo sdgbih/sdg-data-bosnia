@@ -13,6 +13,8 @@ AG_PRD_FIESMS: Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane u popu
 AG_PRD_FIESMSN: Populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (u tisućama ljudi) 
 AG_PRD_FIESS: Rasprostranjenost ozbiljne nesigurnosti hranom u populaciji (%) 
 AG_PRD_FIESSN: Populacija u ozbiljnoj nesigurnosti u pogledu hrane (tisuće ljudi)
+AG_PRD_ORTIND: Indeks poljoprivredne orijentacije za državne rashode
+AG_XPD_AGSGB: Udio poljoprivrede u državnim rashodima (%)
 BX_TRF_PWKR: Količina doznaka (u američkim dolarima) kao udio u ukupnom iznosu BDP-a
 DC_ENVTECH_TT: Ukupna trgovina praćena ekološkim prihvatljivim tehnologijama (tekući američki dolari)
 DC_ENVTECH_EXP: Količina praćenih izvezenih tehnologija prihvatljivih za okoliš (tekući američki dolari)
