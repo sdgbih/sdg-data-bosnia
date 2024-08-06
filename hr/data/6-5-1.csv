@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Value
-2017,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,61
-2020,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,53
-2023,Stupanj primjene integriranog upravljanja vodnim resursima,Postotak,65
-2017,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje",Postotak,66
-2020,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje",Postotak,60
-2023,"Stupanj provedbe integriranog upravljanja vodnim resursima, poticajno okruženje",Postotak,82
-2017,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje",Postotak,62
-2020,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje",Postotak,53
-2023,"Stupanj provedbe integriranog upravljanja vodnim resursima, institucije i sudjelovanje",Postotak,49
-2017,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja",Postotak,62
-2020,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja",Postotak,56
-2023,"Stupanj implementacije integriranog upravljanja vodnim resursima, instrumenti upravljanja",Postotak,64
-2017,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje",Postotak,53
-2020,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje",Postotak,43
-2023,"Stupanj implementacije integriranog upravljanja vodnim resursima, financiranje",Postotak,65
+2017,ER_H2O_IWRMD,Postotak,61
+2020,ER_H2O_IWRMD,Postotak,53
+2023,ER_H2O_IWRMD,Postotak,65
+2017,ER_H2O_IWRMD_EE,Postotak,66
+2020,ER_H2O_IWRMD_EE,Postotak,60
+2023,ER_H2O_IWRMD_EE,Postotak,82
+2017,ER_H2O_IWRMD_IP,Postotak,62
+2020,ER_H2O_IWRMD_IP,Postotak,53
+2023,ER_H2O_IWRMD_IP,Postotak,49
+2017,ER_H2O_IWRMD_MI,Postotak,62
+2020,ER_H2O_IWRMD_MI,Postotak,56
+2023,ER_H2O_IWRMD_MI,Postotak,64
+2017,ER_H2O_IWRMD_FI,Postotak,53
+2020,ER_H2O_IWRMD_FI,Postotak,43
+2023,ER_H2O_IWRMD_FI,Postotak,65

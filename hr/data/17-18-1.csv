@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,48.3333333333333
-2017,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,46.6833333333333
-2018,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,47.3833333333333
-2019,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,47.3833333333333
-2020,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,57.4833333333333
-2021,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,64.1166666666667
-2022,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,61.7916666666667
-2016,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,65.0
-2017,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,65.0
-2018,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,60.0
-2019,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,60.0
-2020,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,60.0
-2021,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,80.0
-2022,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,80.0
-2022,Indeks pokrivenosti inventara otvorenih podataka (ODIN),Index,48.6
+2016,IQ_SPI_PIL4,Index,48.3333333333333
+2017,IQ_SPI_PIL4,Index,46.6833333333333
+2018,IQ_SPI_PIL4,Index,47.3833333333333
+2019,IQ_SPI_PIL4,Index,47.3833333333333
+2020,IQ_SPI_PIL4,Index,57.4833333333333
+2021,IQ_SPI_PIL4,Index,64.1166666666667
+2022,IQ_SPI_PIL4,Index,61.7916666666667
+2016,IQ_SPI_PIL5,Index,65.0
+2017,IQ_SPI_PIL5,Index,65.0
+2018,IQ_SPI_PIL5,Index,60.0
+2019,IQ_SPI_PIL5,Index,60.0
+2020,IQ_SPI_PIL5,Index,60.0
+2021,IQ_SPI_PIL5,Index,80.0
+2022,IQ_SPI_PIL5,Index,80.0
+2022,SG_STT_ODIN,Index,48.6

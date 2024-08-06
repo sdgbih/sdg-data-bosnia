@@ -1,24 +1,24 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,12.62,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2001,2.65,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2002,4.84,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2003,4.42,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2004,7.7,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2005,5.59,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2006,6.75,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2007,2.15,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2008,-2.75,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2009,-0.38,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2010,5.34,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2011,3.88,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2012,0.62,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2013,3.79,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2014,0.18,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2015,5.68,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2016,1.56,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2017,-2.04,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2018,2.69,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2019,-1.47,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2020,-1.09,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2021,1.07,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
-2022,1.89,Postotak,Godišnja stopa rasta realnog BDP-a po zaposlenoj osobi
+2000,12.62,Postotak,SL_EMP_PCAP
+2001,2.65,Postotak,SL_EMP_PCAP
+2002,4.84,Postotak,SL_EMP_PCAP
+2003,4.42,Postotak,SL_EMP_PCAP
+2004,7.7,Postotak,SL_EMP_PCAP
+2005,5.59,Postotak,SL_EMP_PCAP
+2006,6.75,Postotak,SL_EMP_PCAP
+2007,2.15,Postotak,SL_EMP_PCAP
+2008,-2.75,Postotak,SL_EMP_PCAP
+2009,-0.38,Postotak,SL_EMP_PCAP
+2010,5.34,Postotak,SL_EMP_PCAP
+2011,3.88,Postotak,SL_EMP_PCAP
+2012,0.62,Postotak,SL_EMP_PCAP
+2013,3.79,Postotak,SL_EMP_PCAP
+2014,0.18,Postotak,SL_EMP_PCAP
+2015,5.68,Postotak,SL_EMP_PCAP
+2016,1.56,Postotak,SL_EMP_PCAP
+2017,-2.04,Postotak,SL_EMP_PCAP
+2018,2.69,Postotak,SL_EMP_PCAP
+2019,-1.47,Postotak,SL_EMP_PCAP
+2020,-1.09,Postotak,SL_EMP_PCAP
+2021,1.07,Postotak,SL_EMP_PCAP
+2022,1.89,Postotak,SL_EMP_PCAP

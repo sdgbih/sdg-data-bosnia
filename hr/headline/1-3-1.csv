@@ -1,6 +1,6 @@
 Year,Value,UNIT_MEASURE,SERIES
-2007,2.03118,Postotak,Udio stanovništva obuhvaćenog programima tržišta rada
-2007,20.50947,Postotak,Udio stanovništva obuhvaćenog programima socijalne skrbi
-2015,17.4175,Postotak,Udio stanovništva obuhvaćenog programima socijalne skrbi
-2007,41.52379,Postotak,Udio stanovništva obuhvaćenog programima socijalnog osiguranja
-2015,40.16296,Postotak,Udio stanovništva obuhvaćenog programima socijalnog osiguranja
+2007,2.03118,Postotak,SI_COV_LMKT
+2007,20.50947,Postotak,SI_COV_SOCAST
+2015,17.4175,Postotak,SI_COV_SOCAST
+2007,41.52379,Postotak,SI_COV_SOCINS
+2015,40.16296,Postotak,SI_COV_SOCINS

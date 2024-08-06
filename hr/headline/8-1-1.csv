@@ -1,24 +1,24 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,4.75,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2001,2.04,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2002,4.94,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2003,4.23,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2004,7.37,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2005,5.13,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2006,6.35,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2007,7.19,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2008,7.17,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2009,-1.36,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2010,2.63,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2011,2.79,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2012,1.03,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2013,3.96,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2014,2.47,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2015,4.46,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2016,4.43,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2017,4.4,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2018,4.96,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2019,4.04,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2020,-1.88,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2021,8.9,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
-2022,5.3,Postotak,Godišnja stopa rasta realnog BDP-a po stanovniku
+2000,4.75,Postotak,NY_GDP_PCAP
+2001,2.04,Postotak,NY_GDP_PCAP
+2002,4.94,Postotak,NY_GDP_PCAP
+2003,4.23,Postotak,NY_GDP_PCAP
+2004,7.37,Postotak,NY_GDP_PCAP
+2005,5.13,Postotak,NY_GDP_PCAP
+2006,6.35,Postotak,NY_GDP_PCAP
+2007,7.19,Postotak,NY_GDP_PCAP
+2008,7.17,Postotak,NY_GDP_PCAP
+2009,-1.36,Postotak,NY_GDP_PCAP
+2010,2.63,Postotak,NY_GDP_PCAP
+2011,2.79,Postotak,NY_GDP_PCAP
+2012,1.03,Postotak,NY_GDP_PCAP
+2013,3.96,Postotak,NY_GDP_PCAP
+2014,2.47,Postotak,NY_GDP_PCAP
+2015,4.46,Postotak,NY_GDP_PCAP
+2016,4.43,Postotak,NY_GDP_PCAP
+2017,4.4,Postotak,NY_GDP_PCAP
+2018,4.96,Postotak,NY_GDP_PCAP
+2019,4.04,Postotak,NY_GDP_PCAP
+2020,-1.88,Postotak,NY_GDP_PCAP
+2021,8.9,Postotak,NY_GDP_PCAP
+2022,5.3,Postotak,NY_GDP_PCAP

@@ -1,12 +1,12 @@
 Year,SERIES,UNIT_MEASURE,Value
-2018,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
-2020,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
-2022,Zemlje koje su ugovorne strane Međunarodnog ugovora o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE),Broj,0
-2022,Zemlje potpisnice Nagojskog protokola (1 = DA; 0 = NE),Broj,0
-2018,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
-2020,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
-2022,"Zemlje koje imaju zakonodavni, administrativni i politički okvir ili mjere prijavljene putem internetskog sustava izvješćivanja o usklađenosti s Međunarodnim ugovorom o biljnim genetičkim resursima za hranu i poljoprivredu (PGRFA) (1 = DA; 0 = NE)",Broj,0
-2022,"Zemlje koje imaju zakonodavne, administrativne i političke okvire za osiguranje pravedne raspodjele koristi (1 = DA; 0 = NE)",Broj,0
-2018,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
-2020,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,2
-2022,Ukupan prijavljeni broj Standardnih sporazuma o prijenosu materijala (SMTA) koji prenose biljne genetičke resurse za hranu i poljoprivredu u zemlju,Broj,3
+2018,ER_CBD_PTYPGRFA,Broj,0
+2020,ER_CBD_PTYPGRFA,Broj,0
+2022,ER_CBD_PTYPGRFA,Broj,0
+2022,ER_CBD_NAGOYA,Broj,0
+2018,ER_CBD_ORSPGRFA,Broj,0
+2020,ER_CBD_ORSPGRFA,Broj,0
+2022,ER_CBD_ORSPGRFA,Broj,0
+2022,ER_CBD_ABSCLRHS,Broj,0
+2018,ER_CBD_SMTA,Broj,2
+2020,ER_CBD_SMTA,Broj,2
+2022,ER_CBD_SMTA,Broj,3
