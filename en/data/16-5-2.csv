@@ -1,3 +1,3 @@
 Year,SERIES,UNIT_MEASURE,Value
-2013,Bribery incidence (% of firms experiencing at least one bribe payment request),Percent,13.0
-2019,Bribery incidence (% of firms experiencing at least one bribe payment request),Percent,16.0
+2013,IC_FRM_BRIB,Percent,13.0
+2019,IC_FRM_BRIB,Percent,16.0

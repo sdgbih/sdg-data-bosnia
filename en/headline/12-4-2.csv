@@ -1,10 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2020,,TONNES,"Hazardous waste exported, (Tonnes)"
-2020,9943.0,TONNES,Hazardous waste generated (Tonnes)
-2020,2.9963,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2020,0.0006,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
-2020,,TONNES,"Hazardous waste imported, (Tonnes)"
-2008,,TONNES,Municipal waste collected (Tonnes)
-2019,1228000.0,TONNES,Municipal waste generated (Tonnes)
-2020,1206000.0,TONNES,Municipal waste generated (Tonnes)
-2021,1229000.0,TONNES,Municipal waste generated (Tonnes)
+2020,,TONNES,EN_HAZ_EXP
+2020,9943.0,TONNES,EN_HAZ_GENV
+2020,2.9963,Kilograms,EN_HAZ_PCAP
+2020,0.0006,Kilograms per constant USD,EN_HAZ_GENGDP
+2020,,TONNES,EN_HAZ_IMP
+2008,,TONNES,EN_MWT_COLLV
+2019,1228000.0,TONNES,EN_MWT_GENV
+2020,1206000.0,TONNES,EN_MWT_GENV
+2021,1229000.0,TONNES,EN_MWT_GENV

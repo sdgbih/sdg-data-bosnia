@@ -1,14 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2010,-1.13,Index,Consumer Food Price Index
-2011,0.41,Index,Consumer Food Price Index
-2012,-0.19,Index,Consumer Food Price Index
-2013,-0.42,Index,Consumer Food Price Index
-2014,-0.59,Index,Consumer Food Price Index
-2015,-0.025,Index,Consumer Food Price Index
-2016,-0.04,Index,Consumer Food Price Index
-2017,0.31,Index,Consumer Food Price Index
-2018,-0.59,Index,Consumer Food Price Index
-2019,0.31,Index,Consumer Food Price Index
-2020,1.12,Index,Consumer Food Price Index
-2021,0.77,Index,Consumer Food Price Index
-2022,2.83,Index,Consumer Food Price Index
+2010,-1.13,Index,AG_FPA_CFPI
+2011,0.41,Index,AG_FPA_CFPI
+2012,-0.19,Index,AG_FPA_CFPI
+2013,-0.42,Index,AG_FPA_CFPI
+2014,-0.59,Index,AG_FPA_CFPI
+2015,-0.025,Index,AG_FPA_CFPI
+2016,-0.04,Index,AG_FPA_CFPI
+2017,0.31,Index,AG_FPA_CFPI
+2018,-0.59,Index,AG_FPA_CFPI
+2019,0.31,Index,AG_FPA_CFPI
+2020,1.12,Index,AG_FPA_CFPI
+2021,0.77,Index,AG_FPA_CFPI
+2022,2.83,Index,AG_FPA_CFPI

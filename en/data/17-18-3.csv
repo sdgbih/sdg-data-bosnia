@@ -1,17 +1,17 @@
 Year,SERIES,UNIT_MEASURE,Value
-2019,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),Number,1
-2020,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),Number,1
-2021,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),Number,1
-2022,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),Number,1
-2019,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),Number,1
-2020,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),Number,1
-2021,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),Number,1
-2022,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),Number,1
-2019,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),Number,1
-2020,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),Number,1
-2021,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),Number,1
-2022,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),Number,1
-2019,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),Number,1
-2020,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),Number,1
-2021,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),Number,1
-2022,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),Number,1
+2019,SG_STT_NSDSFND,Number,1
+2020,SG_STT_NSDSFND,Number,1
+2021,SG_STT_NSDSFND,Number,1
+2022,SG_STT_NSDSFND,Number,1
+2019,SG_STT_NSDSIMPL,Number,1
+2020,SG_STT_NSDSIMPL,Number,1
+2021,SG_STT_NSDSIMPL,Number,1
+2022,SG_STT_NSDSIMPL,Number,1
+2019,SG_STT_NSDSFDGVT,Number,1
+2020,SG_STT_NSDSFDGVT,Number,1
+2021,SG_STT_NSDSFDGVT,Number,1
+2022,SG_STT_NSDSFDGVT,Number,1
+2019,SG_STT_NSDSFDDNR,Number,1
+2020,SG_STT_NSDSFDDNR,Number,1
+2021,SG_STT_NSDSFDDNR,Number,1
+2022,SG_STT_NSDSFDDNR,Number,1

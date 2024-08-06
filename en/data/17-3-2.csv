@@ -1,24 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,28.3947
-2001,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,25.8596
-2002,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,22.2307
-2003,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,20.4509
-2004,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,20.2156
-2005,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,18.1571
-2006,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,16.704
-2007,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,17.0256
-2008,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,14.2191
-2009,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,12.0759
-2010,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.6094
-2011,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.5031
-2012,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.7143
-2013,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.7705
-2014,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,11.3539
-2015,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.9795
-2016,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.7846
-2017,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,11.0053
-2018,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,11.047
-2019,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,11.3881
-2020,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,9.5473
-2021,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.4778
-2022,Volume of remittances (in United States dollars) as a proportion of total GDP,Percent,10.547
+2000,BX_TRF_PWKR,Percent,28.3947
+2001,BX_TRF_PWKR,Percent,25.8596
+2002,BX_TRF_PWKR,Percent,22.2307
+2003,BX_TRF_PWKR,Percent,20.4509
+2004,BX_TRF_PWKR,Percent,20.2156
+2005,BX_TRF_PWKR,Percent,18.1571
+2006,BX_TRF_PWKR,Percent,16.704
+2007,BX_TRF_PWKR,Percent,17.0256
+2008,BX_TRF_PWKR,Percent,14.2191
+2009,BX_TRF_PWKR,Percent,12.0759
+2010,BX_TRF_PWKR,Percent,10.6094
+2011,BX_TRF_PWKR,Percent,10.5031
+2012,BX_TRF_PWKR,Percent,10.7143
+2013,BX_TRF_PWKR,Percent,10.7705
+2014,BX_TRF_PWKR,Percent,11.3539
+2015,BX_TRF_PWKR,Percent,10.9795
+2016,BX_TRF_PWKR,Percent,10.7846
+2017,BX_TRF_PWKR,Percent,11.0053
+2018,BX_TRF_PWKR,Percent,11.047
+2019,BX_TRF_PWKR,Percent,11.3881
+2020,BX_TRF_PWKR,Percent,9.5473
+2021,BX_TRF_PWKR,Percent,10.4778
+2022,BX_TRF_PWKR,Percent,10.547

@@ -1,24 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Debt service as a proportion of exports of goods and services,Percent,12.67419
-2001,Debt service as a proportion of exports of goods and services,Percent,11.979
-2002,Debt service as a proportion of exports of goods and services,Percent,5.93503
-2003,Debt service as a proportion of exports of goods and services,Percent,5.22393
-2004,Debt service as a proportion of exports of goods and services,Percent,4.11623
-2005,Debt service as a proportion of exports of goods and services,Percent,3.58475
-2006,Debt service as a proportion of exports of goods and services,Percent,3.34136
-2007,Debt service as a proportion of exports of goods and services,Percent,3.1481
-2008,Debt service as a proportion of exports of goods and services,Percent,2.70532
-2009,Debt service as a proportion of exports of goods and services,Percent,3.28689
-2010,Debt service as a proportion of exports of goods and services,Percent,3.629
-2011,Debt service as a proportion of exports of goods and services,Percent,3.68589
-2012,Debt service as a proportion of exports of goods and services,Percent,4.4527
-2013,Debt service as a proportion of exports of goods and services,Percent,7.053
-2014,Debt service as a proportion of exports of goods and services,Percent,7.7323
-2015,Debt service as a proportion of exports of goods and services,Percent,7.2828
-2016,Debt service as a proportion of exports of goods and services,Percent,6.471
-2017,Debt service as a proportion of exports of goods and services,Percent,7.4196
-2018,Debt service as a proportion of exports of goods and services,Percent,6.8138
-2019,Debt service as a proportion of exports of goods and services,Percent,6.0291
-2020,Debt service as a proportion of exports of goods and services,Percent,6.1817
-2021,Debt service as a proportion of exports of goods and services,Percent,4.6361
-2022,Debt service as a proportion of exports of goods and services,Percent,3.7435
+2000,DT_TDS_DECT,Percent,12.67419
+2001,DT_TDS_DECT,Percent,11.979
+2002,DT_TDS_DECT,Percent,5.93503
+2003,DT_TDS_DECT,Percent,5.22393
+2004,DT_TDS_DECT,Percent,4.11623
+2005,DT_TDS_DECT,Percent,3.58475
+2006,DT_TDS_DECT,Percent,3.34136
+2007,DT_TDS_DECT,Percent,3.1481
+2008,DT_TDS_DECT,Percent,2.70532
+2009,DT_TDS_DECT,Percent,3.28689
+2010,DT_TDS_DECT,Percent,3.629
+2011,DT_TDS_DECT,Percent,3.68589
+2012,DT_TDS_DECT,Percent,4.4527
+2013,DT_TDS_DECT,Percent,7.053
+2014,DT_TDS_DECT,Percent,7.7323
+2015,DT_TDS_DECT,Percent,7.2828
+2016,DT_TDS_DECT,Percent,6.471
+2017,DT_TDS_DECT,Percent,7.4196
+2018,DT_TDS_DECT,Percent,6.8138
+2019,DT_TDS_DECT,Percent,6.0291
+2020,DT_TDS_DECT,Percent,6.1817
+2021,DT_TDS_DECT,Percent,4.6361
+2022,DT_TDS_DECT,Percent,3.7435

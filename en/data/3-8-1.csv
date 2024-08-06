@@ -1,5 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Universal health coverage (UHC) service coverage index,Index,68
-2017,Universal health coverage (UHC) service coverage index,Index,70
-2019,Universal health coverage (UHC) service coverage index,Index,67
-2021,Universal health coverage (UHC) service coverage index,Index,66
+2015,SH_ACS_UNHC,Index,68
+2017,SH_ACS_UNHC,Index,70
+2019,SH_ACS_UNHC,Index,67
+2021,SH_ACS_UNHC,Index,66

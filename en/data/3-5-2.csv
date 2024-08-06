@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Both sexes or no breakdown by sex,5.9544
-2019,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Both sexes or no breakdown by sex,6.3848
-2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Female,2.0829
-2019,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Female,2.2337
-2015,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Male,10.0555
-2019,Alcohol consumption per capita (aged 15 years and older) within a calendar year,LITRES,15 years old and over,Male,10.7454
+2015,SH_ALC_CONSPT,LITRES,15 years old and over,Both sexes or no breakdown by sex,5.9544
+2019,SH_ALC_CONSPT,LITRES,15 years old and over,Both sexes or no breakdown by sex,6.3848
+2015,SH_ALC_CONSPT,LITRES,15 years old and over,Female,2.0829
+2019,SH_ALC_CONSPT,LITRES,15 years old and over,Female,2.2337
+2015,SH_ALC_CONSPT,LITRES,15 years old and over,Male,10.0555
+2019,SH_ALC_CONSPT,LITRES,15 years old and over,Male,10.7454

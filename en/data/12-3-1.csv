@@ -1,17 +1,17 @@
 Year,SERIES,UNIT_MEASURE,Food Waste Sector,Value
-2019,Food waste (Tonnes),TONNES,All food waste sectors,416163.925
-2022,Food waste (Tonnes),TONNES,All food waste sectors,403903.837
-2019,Food waste (Tonnes),TONNES,Households,273269.236
-2022,Food waste (Tonnes),TONNES,Households,277116.728
-2019,Food waste (Tonnes),TONNES,Out-of-home consumption,91266.294
-2022,Food waste (Tonnes),TONNES,Out-of-home consumption,79255.996
-2019,Food waste (Tonnes),TONNES,Retail,51628.395
-2022,Food waste (Tonnes),TONNES,Retail,47531.113
-2019,Food waste per capita (KG),Kilograms,All food waste sectors,123.832
-2022,Food waste per capita (KG),Kilograms,All food waste sectors,124.911
-2019,Food waste per capita (KG),Kilograms,Households,81.313
-2022,Food waste per capita (KG),Kilograms,Households,85.701
-2019,Food waste per capita (KG),Kilograms,Out-of-home consumption,27.157
-2012,Food waste per capita (KG),Kilograms,Out-of-home consumption,24.511
-2019,Food waste per capita (KG),Kilograms,Retail,15.362
-2022,Food waste per capita (KG),Kilograms,Retail,14.699
+2019,AG_FOOD_WST,TONNES,All food waste sectors,416163.925
+2022,AG_FOOD_WST,TONNES,All food waste sectors,403903.837
+2019,AG_FOOD_WST,TONNES,Households,273269.236
+2022,AG_FOOD_WST,TONNES,Households,277116.728
+2019,AG_FOOD_WST,TONNES,Out-of-home consumption,91266.294
+2022,AG_FOOD_WST,TONNES,Out-of-home consumption,79255.996
+2019,AG_FOOD_WST,TONNES,Retail,51628.395
+2022,AG_FOOD_WST,TONNES,Retail,47531.113
+2019,AG_FOOD_WST_PC,Kilograms,All food waste sectors,123.832
+2022,AG_FOOD_WST_PC,Kilograms,All food waste sectors,124.911
+2019,AG_FOOD_WST_PC,Kilograms,Households,81.313
+2022,AG_FOOD_WST_PC,Kilograms,Households,85.701
+2019,AG_FOOD_WST_PC,Kilograms,Out-of-home consumption,27.157
+2012,AG_FOOD_WST_PC,Kilograms,Out-of-home consumption,24.511
+2019,AG_FOOD_WST_PC,Kilograms,Retail,15.362
+2022,AG_FOOD_WST_PC,Kilograms,Retail,14.699

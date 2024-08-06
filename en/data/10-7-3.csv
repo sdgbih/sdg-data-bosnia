@@ -1,5 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Value
-2018,Total deaths and disappearances recorded during migration,Number,4
-2019,Total deaths and disappearances recorded during migration,Number,22
-2021,Total deaths and disappearances recorded during migration,Number,10
-2022,Total deaths and disappearances recorded during migration,Number,8
+2018,SM_DTH_MIGR,Number,4
+2019,SM_DTH_MIGR,Number,22
+2021,SM_DTH_MIGR,Number,10
+2022,SM_DTH_MIGR,Number,8

@@ -1,24 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.50427
-2001,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.93124
-2002,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.13716
-2003,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.25946
-2004,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.23325
-2005,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.1206
-2006,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.14395
-2007,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.10573
-2008,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.0942
-2009,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.06307
-2010,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.14942
-2011,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.18138
-2012,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.27539
-2013,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.16629
-2014,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.09827
-2015,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.26381
-2016,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.16298
-2017,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.1349
-2018,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.07716
-2019,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.1002
-2020,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.13386
-2021,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.29906
-2022,"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",Percent,0.14949
+2000,DC_ODA_POVLG,Percent,0.50427
+2001,DC_ODA_POVLG,Percent,0.93124
+2002,DC_ODA_POVLG,Percent,0.13716
+2003,DC_ODA_POVLG,Percent,0.25946
+2004,DC_ODA_POVLG,Percent,0.23325
+2005,DC_ODA_POVLG,Percent,0.1206
+2006,DC_ODA_POVLG,Percent,0.14395
+2007,DC_ODA_POVLG,Percent,0.10573
+2008,DC_ODA_POVLG,Percent,0.0942
+2009,DC_ODA_POVLG,Percent,0.06307
+2010,DC_ODA_POVLG,Percent,0.14942
+2011,DC_ODA_POVLG,Percent,0.18138
+2012,DC_ODA_POVLG,Percent,0.27539
+2013,DC_ODA_POVLG,Percent,0.16629
+2014,DC_ODA_POVLG,Percent,0.09827
+2015,DC_ODA_POVLG,Percent,0.26381
+2016,DC_ODA_POVLG,Percent,0.16298
+2017,DC_ODA_POVLG,Percent,0.1349
+2018,DC_ODA_POVLG,Percent,0.07716
+2019,DC_ODA_POVLG,Percent,0.1002
+2020,DC_ODA_POVLG,Percent,0.13386
+2021,DC_ODA_POVLG,Percent,0.29906
+2022,DC_ODA_POVLG,Percent,0.14949

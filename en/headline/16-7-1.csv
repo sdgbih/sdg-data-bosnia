@@ -1,7 +1,7 @@
 Year,Value,UNIT_MEASURE,SERIES
-2021,0.50835,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
-2022,0.50835,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
-2023,0.3722,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
-2021,0.3882,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber"
-2022,0.3882,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber"
-2023,0.3908,Ratio,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber"
+2021,0.50835,Ratio,SG_DMK_PARLMP_LC
+2022,0.50835,Ratio,SG_DMK_PARLMP_LC
+2023,0.3722,Ratio,SG_DMK_PARLMP_LC
+2021,0.3882,Ratio,SG_DMK_PARLMP_UC
+2022,0.3882,Ratio,SG_DMK_PARLMP_UC
+2023,0.3908,Ratio,SG_DMK_PARLMP_UC

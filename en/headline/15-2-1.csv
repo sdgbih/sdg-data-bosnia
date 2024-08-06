@@ -1,8 +1,8 @@
 Year,Value,UNIT_MEASURE,SERIES
-2018,156.36,Tonnes per hectare,Above-ground biomass in forest per hectare (tonnes per hectare)
-2019,156.36,Tonnes per hectare,Above-ground biomass in forest per hectare (tonnes per hectare)
-2020,156.36,Tonnes per hectare,Above-ground biomass in forest per hectare (tonnes per hectare)
-2020,0.4,Percent,Forest area net change rate (%)
-2018,1654.459,Thousands of hectares,Forest area certified under an independently verified certification scheme (hectares)
-2020,1888.803,Thousands of hectares,Forest area certified under an independently verified certification scheme (hectares)
-2022,1969.29,Thousands of hectares,Forest area certified under an independently verified certification scheme (hectares)
+2018,156.36,Tonnes per hectare,AG_LND_FRSTBIOPHA
+2019,156.36,Tonnes per hectare,AG_LND_FRSTBIOPHA
+2020,156.36,Tonnes per hectare,AG_LND_FRSTBIOPHA
+2020,0.4,Percent,AG_LND_FRSTCHG
+2018,1654.459,Thousands of hectares,AG_LND_FRSTCERT
+2020,1888.803,Thousands of hectares,AG_LND_FRSTCERT
+2022,1969.29,Thousands of hectares,AG_LND_FRSTCERT

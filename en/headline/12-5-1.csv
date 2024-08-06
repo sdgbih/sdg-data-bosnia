@@ -1,14 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2014,,TONNES,Electronic waste recycling (Tonnes)
-2015,,TONNES,Electronic waste recycling (Tonnes)
-2016,,TONNES,Electronic waste recycling (Tonnes)
-2017,,TONNES,Electronic waste recycling (Tonnes)
-2018,,TONNES,Electronic waste recycling (Tonnes)
-2019,,TONNES,Electronic waste recycling (Tonnes)
-2014,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2015,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2016,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2017,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2018,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2019,,Kilograms,"Electronic waste recycling, per capita (Kg)"
-2014,,Percent,"Electronic waste recycling, rate (%)"
+2014,,TONNES,EN_EWT_RCYV
+2015,,TONNES,EN_EWT_RCYV
+2016,,TONNES,EN_EWT_RCYV
+2017,,TONNES,EN_EWT_RCYV
+2018,,TONNES,EN_EWT_RCYV
+2019,,TONNES,EN_EWT_RCYV
+2014,,Kilograms,EN_EWT_RCYPCAP
+2015,,Kilograms,EN_EWT_RCYPCAP
+2016,,Kilograms,EN_EWT_RCYPCAP
+2017,,Kilograms,EN_EWT_RCYPCAP
+2018,,Kilograms,EN_EWT_RCYPCAP
+2019,,Kilograms,EN_EWT_RCYPCAP
+2014,,Percent,EN_EWT_RCYR

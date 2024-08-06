@@ -1,10 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2017,73.32,Percent,Proportion of transboundary aquifers with an operational arrangement for water cooperation
-2020,73.32,Percent,Proportion of transboundary aquifers with an operational arrangement for water cooperation
-2023,73.32,Percent,Proportion of transboundary aquifers with an operational arrangement for water cooperation
-2017,92.6,Percent,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation
-2020,92.6,Percent,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation
-2023,92.75,Percent,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation
-2017,96.14,Percent,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation
-2020,96.14,Percent,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation
-2023,96.32,Percent,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation
+2017,73.32,Percent,EG_TBA_H2COAQ
+2020,73.32,Percent,EG_TBA_H2COAQ
+2023,73.32,Percent,EG_TBA_H2COAQ
+2017,92.6,Percent,EG_TBA_H2CO
+2020,92.6,Percent,EG_TBA_H2CO
+2023,92.75,Percent,EG_TBA_H2CO
+2017,96.14,Percent,EG_TBA_H2CORL
+2020,96.14,Percent,EG_TBA_H2CORL
+2023,96.32,Percent,EG_TBA_H2CORL

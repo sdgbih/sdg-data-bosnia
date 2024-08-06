@@ -1,62 +1,62 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2000,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.26
-2001,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.59
-2002,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.86
-2003,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.79
-2004,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.65
-2005,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.11
-2006,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.88
-2007,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.32
-2008,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.42
-2009,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.16
-2010,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.79
-2011,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.69
-2012,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.69
-2013,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.97
-2014,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.31
-2015,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.12
-2016,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.37
-2017,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.92
-2018,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.69
-2019,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.36
-2021,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.91
-2000,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.3
-2001,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.41
-2002,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.31
-2003,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.3
-2004,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.12
-2005,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.94
-2006,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.02
-2007,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.81
-2008,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.01
-2009,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.48
-2010,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.88
-2011,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.92
-2014,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.94
-2015,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.12
-2016,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.81
-2017,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.56
-2018,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.73
-2019,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.48
-2021,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,13.99
-2000,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,211.1
-2001,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,223.93
-2002,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,242.43
-2003,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,250.64
-2004,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,264.86
-2005,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,293.19
-2006,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,338.17
-2007,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,378.83
-2008,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,409.7
-2009,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,393.88
-2010,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,429.67
-2011,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,437.29
-2012,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,441.9
-2013,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,471.32
-2014,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,497.97
-2015,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,517.49
-2016,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,553.24
-2017,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,606.1
-2018,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,624.27
-2019,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,631.49
-2021,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,708.66
+2000,NV_IND_MANF,Percent,Manufacturing,8.26
+2001,NV_IND_MANF,Percent,Manufacturing,8.59
+2002,NV_IND_MANF,Percent,Manufacturing,8.86
+2003,NV_IND_MANF,Percent,Manufacturing,8.79
+2004,NV_IND_MANF,Percent,Manufacturing,8.65
+2005,NV_IND_MANF,Percent,Manufacturing,9.11
+2006,NV_IND_MANF,Percent,Manufacturing,9.88
+2007,NV_IND_MANF,Percent,Manufacturing,10.32
+2008,NV_IND_MANF,Percent,Manufacturing,10.42
+2009,NV_IND_MANF,Percent,Manufacturing,10.16
+2010,NV_IND_MANF,Percent,Manufacturing,10.79
+2011,NV_IND_MANF,Percent,Manufacturing,10.69
+2012,NV_IND_MANF,Percent,Manufacturing,10.69
+2013,NV_IND_MANF,Percent,Manufacturing,10.97
+2014,NV_IND_MANF,Percent,Manufacturing,11.31
+2015,NV_IND_MANF,Percent,Manufacturing,11.12
+2016,NV_IND_MANF,Percent,Manufacturing,11.37
+2017,NV_IND_MANF,Percent,Manufacturing,11.92
+2018,NV_IND_MANF,Percent,Manufacturing,11.69
+2019,NV_IND_MANF,Percent,Manufacturing,11.36
+2021,NV_IND_MANF,Percent,Manufacturing,11.91
+2000,NV_IND_MANF_CD,Percent,Manufacturing,9.3
+2001,NV_IND_MANF_CD,Percent,Manufacturing,9.41
+2002,NV_IND_MANF_CD,Percent,Manufacturing,9.31
+2003,NV_IND_MANF_CD,Percent,Manufacturing,9.3
+2004,NV_IND_MANF_CD,Percent,Manufacturing,9.12
+2005,NV_IND_MANF_CD,Percent,Manufacturing,9.94
+2006,NV_IND_MANF_CD,Percent,Manufacturing,10.02
+2007,NV_IND_MANF_CD,Percent,Manufacturing,10.81
+2008,NV_IND_MANF_CD,Percent,Manufacturing,11.01
+2009,NV_IND_MANF_CD,Percent,Manufacturing,10.48
+2010,NV_IND_MANF_CD,Percent,Manufacturing,10.88
+2011,NV_IND_MANF_CD,Percent,Manufacturing,10.92
+2014,NV_IND_MANF_CD,Percent,Manufacturing,10.94
+2015,NV_IND_MANF_CD,Percent,Manufacturing,11.12
+2016,NV_IND_MANF_CD,Percent,Manufacturing,11.81
+2017,NV_IND_MANF_CD,Percent,Manufacturing,12.56
+2018,NV_IND_MANF_CD,Percent,Manufacturing,12.73
+2019,NV_IND_MANF_CD,Percent,Manufacturing,12.48
+2021,NV_IND_MANF_CD,Percent,Manufacturing,13.99
+2000,NV_IND_MANFPC,Constant USD,Manufacturing,211.1
+2001,NV_IND_MANFPC,Constant USD,Manufacturing,223.93
+2002,NV_IND_MANFPC,Constant USD,Manufacturing,242.43
+2003,NV_IND_MANFPC,Constant USD,Manufacturing,250.64
+2004,NV_IND_MANFPC,Constant USD,Manufacturing,264.86
+2005,NV_IND_MANFPC,Constant USD,Manufacturing,293.19
+2006,NV_IND_MANFPC,Constant USD,Manufacturing,338.17
+2007,NV_IND_MANFPC,Constant USD,Manufacturing,378.83
+2008,NV_IND_MANFPC,Constant USD,Manufacturing,409.7
+2009,NV_IND_MANFPC,Constant USD,Manufacturing,393.88
+2010,NV_IND_MANFPC,Constant USD,Manufacturing,429.67
+2011,NV_IND_MANFPC,Constant USD,Manufacturing,437.29
+2012,NV_IND_MANFPC,Constant USD,Manufacturing,441.9
+2013,NV_IND_MANFPC,Constant USD,Manufacturing,471.32
+2014,NV_IND_MANFPC,Constant USD,Manufacturing,497.97
+2015,NV_IND_MANFPC,Constant USD,Manufacturing,517.49
+2016,NV_IND_MANFPC,Constant USD,Manufacturing,553.24
+2017,NV_IND_MANFPC,Constant USD,Manufacturing,606.1
+2018,NV_IND_MANFPC,Constant USD,Manufacturing,624.27
+2019,NV_IND_MANFPC,Constant USD,Manufacturing,631.49
+2021,NV_IND_MANFPC,Constant USD,Manufacturing,708.66

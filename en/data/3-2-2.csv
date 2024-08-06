@@ -1,19 +1,19 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2014,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,150.0
-2015,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,147.0
-2016,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,145.0
-2017,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,143.0
-2018,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,141.0
-2019,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,134.0
-2020,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,128.0
-2021,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,122.0
-2022,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,117.0
-2014,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.8
-2015,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.7
-2016,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
-2017,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
-2018,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
-2019,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
-2020,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
-2021,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4
-2022,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4
+2014,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,150.0
+2015,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,147.0
+2016,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,145.0
+2017,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,143.0
+2018,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,141.0
+2019,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,134.0
+2020,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,128.0
+2021,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,122.0
+2022,SH_DYN_NMRTN,Number,under 1 month old,Both sexes or no breakdown by sex,117.0
+2014,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.8
+2015,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.7
+2016,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
+2017,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
+2018,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
+2019,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
+2020,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
+2021,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4
+2022,SH_DYN_NMRT,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4

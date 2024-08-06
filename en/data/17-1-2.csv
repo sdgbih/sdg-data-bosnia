@@ -1,21 +1,21 @@
 Year,SERIES,UNIT_MEASURE,Value
-2003,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,83.47171
-2004,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,86.24788
-2005,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,59.63647
-2006,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,61.56456
-2007,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,57.82445
-2008,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,51.96723
-2009,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,46.89452
-2010,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,49.15388
-2011,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,51.64659
-2012,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,50.37305
-2013,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,49.38217
-2014,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,48.5627
-2015,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,53.03225
-2016,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,54.53435
-2017,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,56.42694
-2018,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,56.2608
-2019,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,55.88266
-2020,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,45.34085
-2021,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,52.49757
-2022,Proportion of domestic budget funded by domestic taxes (% of GDP),Percent,54.57984
+2003,GC_GOB_TAXD,Percent,83.47171
+2004,GC_GOB_TAXD,Percent,86.24788
+2005,GC_GOB_TAXD,Percent,59.63647
+2006,GC_GOB_TAXD,Percent,61.56456
+2007,GC_GOB_TAXD,Percent,57.82445
+2008,GC_GOB_TAXD,Percent,51.96723
+2009,GC_GOB_TAXD,Percent,46.89452
+2010,GC_GOB_TAXD,Percent,49.15388
+2011,GC_GOB_TAXD,Percent,51.64659
+2012,GC_GOB_TAXD,Percent,50.37305
+2013,GC_GOB_TAXD,Percent,49.38217
+2014,GC_GOB_TAXD,Percent,48.5627
+2015,GC_GOB_TAXD,Percent,53.03225
+2016,GC_GOB_TAXD,Percent,54.53435
+2017,GC_GOB_TAXD,Percent,56.42694
+2018,GC_GOB_TAXD,Percent,56.2608
+2019,GC_GOB_TAXD,Percent,55.88266
+2020,GC_GOB_TAXD,Percent,45.34085
+2021,GC_GOB_TAXD,Percent,52.49757
+2022,GC_GOB_TAXD,Percent,54.57984

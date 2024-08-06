@@ -1,3 +1,3 @@
 Year,SERIES,UNIT_MEASURE,Sex,Value
-2021,"Death rate due to road traffic injuries, by sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,13.7
-2021,Number of deaths rate due to road traffic injuries,Number,Both sexes or no breakdown by sex,447.0
+2021,SH_STA_TRAF,"Per 100,000 population",Both sexes or no breakdown by sex,13.7
+2021,SH_STA_TRAFN,Number,Both sexes or no breakdown by sex,447.0

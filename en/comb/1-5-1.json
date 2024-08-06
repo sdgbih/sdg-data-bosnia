@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2017],"SERIES":["Number of deaths due to disaster (number)","Number of deaths and missing persons attributed to disasters (number)"],"UNIT_MEASURE":["Number","Number"],"Value":[0,0]},"edges":[]}
+{"data":{"Year":[2017,2017],"SERIES":["VC_DSR_MORT","VC_DSR_MMHN"],"UNIT_MEASURE":["Number","Number"],"Value":[0,0]},"edges":[]}
