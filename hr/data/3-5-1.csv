@@ -1,23 +1,23 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,COMPOSITE_BREAKDOWN,Value
-2016,SH_SUD_ALCOL,Postotak,15 godina i više,Oba spola ili bez podjele po spolu,,6.0
-2016,SH_SUD_ALCOL,Postotak,15 godina i više,Žene,,2.2
-2016,SH_SUD_ALCOL,Postotak,15 godina i više,Muškarci,,9.8
-2017,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.39
-2018,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.44
-2019,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.45
-2017,SH_SUD_TREAT,Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.08
-2018,SH_SUD_TREAT,Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.09
-2019,SH_SUD_TREAT,Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.09
-2017,SH_SUD_TREAT,Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.69
-2018,SH_SUD_TREAT,Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.8
-2019,SH_SUD_TREAT,Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.83
-2017,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.55
-2018,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.55
-2019,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.56
-2017,SH_SUD_TREAT,Postotak,,Muškarci,Kokain,0.81
-2018,SH_SUD_TREAT,Postotak,,Muškarci,Kokain,0.83
-2019,SH_SUD_TREAT,Postotak,,Muškarci,Kokain,0.85
-2019,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",4.5
-2019,SH_SUD_TREAT,Postotak,,Žene,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",1.1
-2019,SH_SUD_TREAT,Postotak,,Muškarci,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",6.63
-2019,SH_SUD_TREAT,Postotak,,Oba spola ili bez podjele po spolu,Opijati,13.1
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Oba spola ili bez podjele po spolu,,6.0
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Žene,,2.2
+2016,"Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)",Postotak,15 godina i više,Muškarci,,9.8
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.39
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.44
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.45
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.08
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.09
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,Stimulansi tipa amfetamina ATS,0.09
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.69
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.8
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Stimulansi tipa amfetamina ATS,0.83
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.55
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.55
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Kokain,0.56
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Kokain,0.81
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Kokain,0.83
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,Kokain,0.85
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",4.5
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Žene,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",1.1
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Muškarci,"Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",6.63
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Postotak,,Oba spola ili bez podjele po spolu,Opijati,13.1

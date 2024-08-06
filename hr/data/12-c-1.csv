@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Value
-2019,ER_FFS_CMPT_GDP,Postotak,0.45243
-2020,ER_FFS_CMPT_GDP,Postotak,0.40844
-2021,ER_FFS_CMPT_GDP,Postotak,0.89915
-2022,ER_FFS_CMPT_GDP,Postotak,1.54
-2019,ER_FFS_CMPT_CD,(milijarde nominalnih američkih dolara),0.08451
-2020,ER_FFS_CMPT_CD,(milijarde nominalnih američkih dolara),0.07399
-2021,ER_FFS_CMPT_CD,(milijarde nominalnih američkih dolara),0.17493
-2022,ER_FFS_CMPT_CD,(milijarde nominalnih američkih dolara),0.31191
-2019,ER_FFS_CMPT_PC_CD,(nominalni američki dolari),25.14639
-2020,ER_FFS_CMPT_PC_CD,(nominalni američki dolari),22.29759
-2021,ER_FFS_CMPT_PC_CD,(nominalni američki dolari),53.47975
-2022,ER_FFS_CMPT_PC_CD,(nominalni američki dolari),96.46126
+2019,Subvencije za fosilna goriva (potrošnja i proizvodnja) kao udio ukupnog BDP-a (%),Postotak,0.45243
+2020,Subvencije za fosilna goriva (potrošnja i proizvodnja) kao udio ukupnog BDP-a (%),Postotak,0.40844
+2021,Subvencije za fosilna goriva (potrošnja i proizvodnja) kao udio ukupnog BDP-a (%),Postotak,0.89915
+2022,Subvencije za fosilna goriva (potrošnja i proizvodnja) kao udio ukupnog BDP-a (%),Postotak,1.54
+2019,Subvencije za fosilna goriva (potrošnja i proizvodnja) (milijarde nominalnih američkih dolara),(milijarde nominalnih američkih dolara),0.08451
+2020,Subvencije za fosilna goriva (potrošnja i proizvodnja) (milijarde nominalnih američkih dolara),(milijarde nominalnih američkih dolara),0.07399
+2021,Subvencije za fosilna goriva (potrošnja i proizvodnja) (milijarde nominalnih američkih dolara),(milijarde nominalnih američkih dolara),0.17493
+2022,Subvencije za fosilna goriva (potrošnja i proizvodnja) (milijarde nominalnih američkih dolara),(milijarde nominalnih američkih dolara),0.31191
+2019,Subvencije za fosilna goriva (potrošnja i proizvodnja) po glavi stanovnika (nominalni američki dolari),(nominalni američki dolari),25.14639
+2020,Subvencije za fosilna goriva (potrošnja i proizvodnja) po glavi stanovnika (nominalni američki dolari),(nominalni američki dolari),22.29759
+2021,Subvencije za fosilna goriva (potrošnja i proizvodnja) po glavi stanovnika (nominalni američki dolari),(nominalni američki dolari),53.47975
+2022,Subvencije za fosilna goriva (potrošnja i proizvodnja) po glavi stanovnika (nominalni američki dolari),(nominalni američki dolari),96.46126

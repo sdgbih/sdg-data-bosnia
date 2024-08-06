@@ -1,31 +1,31 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2000,SH_STA_SCIDEN,Broj,Oba spola ili bez podjele po spolu,339.0
-2005,SH_STA_SCIDEN,Broj,Oba spola ili bez podjele po spolu,405.0
-2010,SH_STA_SCIDEN,Broj,Oba spola ili bez podjele po spolu,390.0
-2015,SH_STA_SCIDEN,Broj,Oba spola ili bez podjele po spolu,367.0
-2019,SH_STA_SCIDEN,Broj,Oba spola ili bez podjele po spolu,361.0
-2000,SH_STA_SCIDEN,Broj,Žene,76.0
-2005,SH_STA_SCIDEN,Broj,Žene,85.0
-2010,SH_STA_SCIDEN,Broj,Žene,84.0
-2015,SH_STA_SCIDEN,Broj,Žene,81.0
-2019,SH_STA_SCIDEN,Broj,Žene,76.0
-2000,SH_STA_SCIDEN,Broj,Muškarci,263.0
-2005,SH_STA_SCIDEN,Broj,Muškarci,320.0
-2010,SH_STA_SCIDEN,Broj,Muškarci,306.0
-2015,SH_STA_SCIDEN,Broj,Muškarci,287.0
-2019,SH_STA_SCIDEN,Broj,Muškarci,285.0
-2000,SH_STA_SCIDE,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,9.0
-2005,SH_STA_SCIDE,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.8
-2010,SH_STA_SCIDE,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.5
-2015,SH_STA_SCIDE,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.7
-2019,SH_STA_SCIDE,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.9
-2000,SH_STA_SCIDE,Na 100 000 stanovnika,Žene,4.0
-2005,SH_STA_SCIDE,Na 100 000 stanovnika,Žene,4.4
-2010,SH_STA_SCIDE,Na 100 000 stanovnika,Žene,4.5
-2015,SH_STA_SCIDE,Na 100 000 stanovnika,Žene,4.6
-2019,SH_STA_SCIDE,Na 100 000 stanovnika,Žene,4.5
-2000,SH_STA_SCIDE,Na 100 000 stanovnika,Muškarci,14.3
-2005,SH_STA_SCIDE,Na 100 000 stanovnika,Muškarci,17.3
-2010,SH_STA_SCIDE,Na 100 000 stanovnika,Muškarci,16.8
-2015,SH_STA_SCIDE,Na 100 000 stanovnika,Muškarci,17.0
-2019,SH_STA_SCIDE,Na 100 000 stanovnika,Muškarci,17.6
+2000,Broj smrtnih slučajeva samoubojstvom,Broj,Oba spola ili bez podjele po spolu,339.0
+2005,Broj smrtnih slučajeva samoubojstvom,Broj,Oba spola ili bez podjele po spolu,405.0
+2010,Broj smrtnih slučajeva samoubojstvom,Broj,Oba spola ili bez podjele po spolu,390.0
+2015,Broj smrtnih slučajeva samoubojstvom,Broj,Oba spola ili bez podjele po spolu,367.0
+2019,Broj smrtnih slučajeva samoubojstvom,Broj,Oba spola ili bez podjele po spolu,361.0
+2000,Broj smrtnih slučajeva samoubojstvom,Broj,Žene,76.0
+2005,Broj smrtnih slučajeva samoubojstvom,Broj,Žene,85.0
+2010,Broj smrtnih slučajeva samoubojstvom,Broj,Žene,84.0
+2015,Broj smrtnih slučajeva samoubojstvom,Broj,Žene,81.0
+2019,Broj smrtnih slučajeva samoubojstvom,Broj,Žene,76.0
+2000,Broj smrtnih slučajeva samoubojstvom,Broj,Muškarci,263.0
+2005,Broj smrtnih slučajeva samoubojstvom,Broj,Muškarci,320.0
+2010,Broj smrtnih slučajeva samoubojstvom,Broj,Muškarci,306.0
+2015,Broj smrtnih slučajeva samoubojstvom,Broj,Muškarci,287.0
+2019,Broj smrtnih slučajeva samoubojstvom,Broj,Muškarci,285.0
+2000,Stopa samoubojstvima,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,9.0
+2005,Stopa samoubojstvima,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.8
+2010,Stopa samoubojstvima,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.5
+2015,Stopa samoubojstvima,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.7
+2019,Stopa samoubojstvima,Na 100 000 stanovnika,Oba spola ili bez podjele po spolu,10.9
+2000,Stopa samoubojstvima,Na 100 000 stanovnika,Žene,4.0
+2005,Stopa samoubojstvima,Na 100 000 stanovnika,Žene,4.4
+2010,Stopa samoubojstvima,Na 100 000 stanovnika,Žene,4.5
+2015,Stopa samoubojstvima,Na 100 000 stanovnika,Žene,4.6
+2019,Stopa samoubojstvima,Na 100 000 stanovnika,Žene,4.5
+2000,Stopa samoubojstvima,Na 100 000 stanovnika,Muškarci,14.3
+2005,Stopa samoubojstvima,Na 100 000 stanovnika,Muškarci,17.3
+2010,Stopa samoubojstvima,Na 100 000 stanovnika,Muškarci,16.8
+2015,Stopa samoubojstvima,Na 100 000 stanovnika,Muškarci,17.0
+2019,Stopa samoubojstvima,Na 100 000 stanovnika,Muškarci,17.6

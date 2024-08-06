@@ -1,10 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2020,0,Logička ili binarna mjera,ER_IAS_NATBUD
-2022,0,Logička ili binarna mjera,ER_IAS_NATBUD
-2010,0,Logička ili binarna mjera,ER_IAS_LEGIS
-2020,1,Logička ili binarna mjera,ER_IAS_LEGIS
-2022,1,Logička ili binarna mjera,ER_IAS_LEGIS
-2020,1,Logička ili binarna mjera,ER_IAS_NBSAP
-2022,1,Logička ili binarna mjera,ER_IAS_NBSAP
-2020,0,Logička ili binarna mjera,ER_IAS_GLOFUN
-2022,0,Logička ili binarna mjera,ER_IAS_GLOFUN
+2020,0,Logička ili binarna mjera,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)"
+2022,0,Logička ili binarna mjera,"Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE)"
+2010,0,Logička ili binarna mjera,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2020,1,Logička ili binarna mjera,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2022,1,Logička ili binarna mjera,"Zakoni, propisi, akti koji se odnose na spriječavanje uvođenja i upravljanja invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2020,1,Logička ili binarna mjera,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)"
+2022,1,Logička ili binarna mjera,"Nacionalna strategija i akcioni plan za biodiverzitet (NBSAP) ima za cilj usklađivanje sa Aichi biodiverzitetom, cilj 9 utvrđen u Strateškom planu za biološku raznolikost 2011-2020 (1 = DA, 0 = NE)"
+2020,0,Logička ili binarna mjera,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)"
+2022,0,Logička ili binarna mjera,"Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)"

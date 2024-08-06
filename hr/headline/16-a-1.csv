@@ -1,16 +1,16 @@
 Year,Value,UNIT_MEASURE,SERIES
-2019,,Broj,SG_NHR_IMPLN
-2020,,Broj,SG_NHR_IMPLN
-2021,,Broj,SG_NHR_IMPLN
-2000,0.0,Broj,SG_NHR_CMPLNC
-2005,2.0,Broj,SG_NHR_CMPLNC
-2010,2.0,Broj,SG_NHR_CMPLNC
-2015,2.0,Broj,SG_NHR_CMPLNC
-2016,2.0,Broj,SG_NHR_CMPLNC
-2017,2.0,Broj,SG_NHR_CMPLNC
-2018,2.0,Broj,SG_NHR_CMPLNC
-2019,2.0,Broj,SG_NHR_CMPLNC
-2020,2.0,Broj,SG_NHR_CMPLNC
-2021,2.0,Broj,SG_NHR_CMPLNC
-2022,2.0,Broj,SG_NHR_CMPLNC
-2023,2.0,Broj,SG_NHR_CMPLNC
+2019,,Broj,"Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)"
+2020,,Broj,"Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)"
+2021,,Broj,"Zemlje s nacionalnim institucijama za ljudska prava sukladno Pariškim principima, A status (1 = DA; 0 = NE)"
+2000,0.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2005,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2010,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2015,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2016,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2017,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2018,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2019,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2020,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2021,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2022,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"
+2023,2.0,Broj,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim načelima (0 = Nema statusa; 1 = Status B, djelomično usklađeno; 2 = Status A, potpuno usklađeno)"

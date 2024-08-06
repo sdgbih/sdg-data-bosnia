@@ -1,8 +1,8 @@
 Year,Value,UNIT_MEASURE,SERIES
-2018,156.36,Tona po hektaru,AG_LND_FRSTBIOPHA
-2019,156.36,Tona po hektaru,AG_LND_FRSTBIOPHA
-2020,156.36,Tona po hektaru,AG_LND_FRSTBIOPHA
-2020,0.4,Postotak,AG_LND_FRSTCHG
-2018,1654.459,Tisuće hektara,AG_LND_FRSTCERT
-2020,1888.803,Tisuće hektara,AG_LND_FRSTCERT
-2022,1969.29,Tisuće hektara,AG_LND_FRSTCERT
+2018,156.36,Tona po hektaru,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
+2019,156.36,Tona po hektaru,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
+2020,156.36,Tona po hektaru,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
+2020,0.4,Postotak,Neto promjene šumske površine (%)
+2018,1654.459,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
+2020,1888.803,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
+2022,1969.29,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)

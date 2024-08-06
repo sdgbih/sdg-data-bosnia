@@ -1,51 +1,51 @@
 Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Value
-2010,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,34.91059
-2011,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,36.5729
-2012,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,34.05842
-2013,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,31.48972
-2014,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,32.07207
-2015,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,30.73886
-2016,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,29.70925
-2017,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,31.40318
-2018,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,32.0164
-2019,EN_ATM_PM25,Mikrogrami po kubnom metru,Sva područja,26.19402
-2010,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,42.92364
-2011,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,45.05643
-2012,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,43.85321
-2013,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,38.97629
-2014,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,39.60343
-2015,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,37.94639
-2016,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,36.78305
-2017,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,40.27741
-2018,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,39.6268
-2019,EN_ATM_PM25,Mikrogrami po kubnom metru,Grad,32.52884
-2010,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,31.96807
-2011,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,33.47936
-2012,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,30.90362
-2013,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,28.79152
-2014,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,29.31388
-2015,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,28.13006
-2016,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,27.14589
-2017,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,28.49337
-2018,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,29.24978
-2019,EN_ATM_PM25,Mikrogrami po kubnom metru,Ruralno,23.90133
-2010,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,37.84263
-2011,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,39.60648
-2012,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,36.58439
-2013,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.05886
-2014,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.73922
-2015,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,33.20532
-2016,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,32.12138
-2017,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,33.72101
-2018,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.59927
-2019,EN_ATM_PM25,Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,28.30796
-2010,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,39.48627
-2011,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,41.3699
-2012,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,38.93669
-2013,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,35.65029
-2014,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,36.31329
-2015,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,34.73918
-2016,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,33.62895
-2017,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,35.84018
-2018,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,36.22323
-2019,EN_ATM_PM25,Mikrogrami po kubnom metru,Urbano,29.67038
+2010,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,34.91059
+2011,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,36.5729
+2012,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,34.05842
+2013,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,31.48972
+2014,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,32.07207
+2015,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,30.73886
+2016,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,29.70925
+2017,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,31.40318
+2018,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,32.0164
+2019,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Sva područja,26.19402
+2010,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,42.92364
+2011,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,45.05643
+2012,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,43.85321
+2013,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,38.97629
+2014,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,39.60343
+2015,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,37.94639
+2016,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,36.78305
+2017,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,40.27741
+2018,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,39.6268
+2019,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Grad,32.52884
+2010,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,31.96807
+2011,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,33.47936
+2012,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,30.90362
+2013,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,28.79152
+2014,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,29.31388
+2015,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,28.13006
+2016,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,27.14589
+2017,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,28.49337
+2018,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,29.24978
+2019,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Ruralno,23.90133
+2010,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,37.84263
+2011,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,39.60648
+2012,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,36.58439
+2013,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.05886
+2014,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.73922
+2015,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,33.20532
+2016,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,32.12138
+2017,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,33.72101
+2018,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,34.59927
+2019,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Mjesto i poluzgusnosto područje,28.30796
+2010,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,39.48627
+2011,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,41.3699
+2012,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,38.93669
+2013,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,35.65029
+2014,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,36.31329
+2015,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,34.73918
+2016,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,33.62895
+2017,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,35.84018
+2018,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,36.22323
+2019,"Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)",Mikrogrami po kubnom metru,Urbano,29.67038

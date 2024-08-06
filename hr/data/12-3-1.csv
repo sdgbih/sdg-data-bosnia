@@ -1,17 +1,17 @@
 Year,SERIES,UNIT_MEASURE,Sektor prehrambenog otpada,Value
-2019,AG_FOOD_WST,Tone,Svi sektori otpada od hrane,416163.925
-2022,AG_FOOD_WST,Tone,Svi sektori otpada od hrane,403903.837
-2019,AG_FOOD_WST,Tone,Kućanstva,273269.236
-2022,AG_FOOD_WST,Tone,Kućanstva,277116.728
-2019,AG_FOOD_WST,Tone,Potrošnja izvan kućanstva,91266.294
-2022,AG_FOOD_WST,Tone,Potrošnja izvan kućanstva,79255.996
-2019,AG_FOOD_WST,Tone,Maloprodaja,51628.395
-2022,AG_FOOD_WST,Tone,Maloprodaja,47531.113
-2019,AG_FOOD_WST_PC,Kilogrami,Svi sektori otpada od hrane,123.832
-2022,AG_FOOD_WST_PC,Kilogrami,Svi sektori otpada od hrane,124.911
-2019,AG_FOOD_WST_PC,Kilogrami,Kućanstva,81.313
-2022,AG_FOOD_WST_PC,Kilogrami,Kućanstva,85.701
-2019,AG_FOOD_WST_PC,Kilogrami,Potrošnja izvan kućanstva,27.157
-2012,AG_FOOD_WST_PC,Kilogrami,Potrošnja izvan kućanstva,24.511
-2019,AG_FOOD_WST_PC,Kilogrami,Maloprodaja,15.362
-2022,AG_FOOD_WST_PC,Kilogrami,Maloprodaja,14.699
+2019,Otpad od hrane (tone),Tone,Svi sektori otpada od hrane,416163.925
+2022,Otpad od hrane (tone),Tone,Svi sektori otpada od hrane,403903.837
+2019,Otpad od hrane (tone),Tone,Kućanstva,273269.236
+2022,Otpad od hrane (tone),Tone,Kućanstva,277116.728
+2019,Otpad od hrane (tone),Tone,Potrošnja izvan kućanstva,91266.294
+2022,Otpad od hrane (tone),Tone,Potrošnja izvan kućanstva,79255.996
+2019,Otpad od hrane (tone),Tone,Maloprodaja,51628.395
+2022,Otpad od hrane (tone),Tone,Maloprodaja,47531.113
+2019,Otpad od hrane po stanovniku (KG),Kilogrami,Svi sektori otpada od hrane,123.832
+2022,Otpad od hrane po stanovniku (KG),Kilogrami,Svi sektori otpada od hrane,124.911
+2019,Otpad od hrane po stanovniku (KG),Kilogrami,Kućanstva,81.313
+2022,Otpad od hrane po stanovniku (KG),Kilogrami,Kućanstva,85.701
+2019,Otpad od hrane po stanovniku (KG),Kilogrami,Potrošnja izvan kućanstva,27.157
+2012,Otpad od hrane po stanovniku (KG),Kilogrami,Potrošnja izvan kućanstva,24.511
+2019,Otpad od hrane po stanovniku (KG),Kilogrami,Maloprodaja,15.362
+2022,Otpad od hrane po stanovniku (KG),Kilogrami,Maloprodaja,14.699
