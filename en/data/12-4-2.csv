@@ -1,37 +1,37 @@
 Year,SERIES,UNIT_MEASURE,Type of waste treatment,Economic activity,Value
-2020,EN_HAZ_EXP,TONNES,,,
-2020,EN_HAZ_GENV,TONNES,,,9943.0
-2020,EN_HAZ_PCAP,Kilograms,,,2.9963
-2020,EN_HAZ_GENGDP,Kilograms per constant USD,,,0.0006
-2020,EN_HAZ_IMP,TONNES,,,
-2020,EN_HAZ_TREATV,TONNES,Landfilling,,0.0
-2008,EN_MWT_COLLV,TONNES,,,
-2019,EN_MWT_GENV,TONNES,,,1228000.0
-2020,EN_MWT_GENV,TONNES,,,1206000.0
-2021,EN_MWT_GENV,TONNES,,,1229000.0
-2017,EN_MWT_TREATR,Percent,Landfilling,,
-2018,EN_MWT_TREATR,Percent,Landfilling,,
-2019,EN_MWT_TREATR,Percent,Landfilling,,
-2020,EN_MWT_TREATR,Percent,Landfilling,,
-2021,EN_MWT_TREATR,Percent,Landfilling,,
-2019,EN_MWT_TREATR,Percent,Incineration,,0.0
-2021,EN_MWT_TREATR,Percent,Incineration,,78.60049
-2019,EN_MWT_TREATR,Percent,Incineration to generate energy,,
-2021,EN_MWT_TREATR,Percent,Incineration to generate energy,,
-2019,EN_MWT_TREATV,TONNES,Incineration,,0.0
-2020,EN_MWT_TREATV,TONNES,Incineration,,0.0
-2021,EN_MWT_TREATV,TONNES,Incineration,,
-2019,EN_MWT_TREATV,TONNES,Incineration to generate energy,,
-2021,EN_MWT_TREATV,TONNES,Incineration to generate energy,,
-2019,EN_MWT_TREATV,TONNES,"Landfilling, controlled",,
-2020,EN_MWT_TREATV,TONNES,"Landfilling, controlled",,
-2019,EN_MWT_TREATV,TONNES,Landfilling,,1087000.0
-2020,EN_MWT_TREATV,TONNES,Landfilling,,1087000.0
-2020,EN_TWT_GENV,TONNES,,"Agriculture, forestry and fishing",0.0
-2020,EN_TWT_GENV,TONNES,,Mining and quarrying,765270.0
-2018,EN_TWT_GENV,TONNES,,Manufacturing,1893270.0
-2020,EN_TWT_GENV,TONNES,,Manufacturing,1842260.0
-2020,EN_TWT_GENV,TONNES,,"Electricity, gas, steam and air conditioning supply",3129364.0
-2020,EN_TWT_GENV,TONNES,,Construction,85972.0
-2020,EN_TWT_GENV,TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,902567.0
-2020,EN_TWT_GENV,TONNES,,No breakdown,6753458.0
+2020,"Hazardous waste exported, (Tonnes)",TONNES,,,
+2020,Hazardous waste generated (Tonnes),TONNES,,,9943.0
+2020,"Hazardous waste generated, per capita (Kg)",Kilograms,,,2.9963
+2020,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",Kilograms per constant USD,,,0.0006
+2020,"Hazardous waste imported, (Tonnes)",TONNES,,,
+2020,"Hazardous waste treated, by type of treatment (Tonnes)",TONNES,Landfilling,,0.0
+2008,Municipal waste collected (Tonnes),TONNES,,,
+2019,Municipal waste generated (Tonnes),TONNES,,,1228000.0
+2020,Municipal waste generated (Tonnes),TONNES,,,1206000.0
+2021,Municipal waste generated (Tonnes),TONNES,,,1229000.0
+2017,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2018,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2020,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Landfilling,,
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,0.0
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration,,78.60049
+2019,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,
+2021,"Proportion of municipal waste treated, by type of treatment (%)",Percent,Incineration to generate energy,,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
+2020,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,0.0
+2021,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration,,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,
+2021,Municipal waste treated by type of treatment (Tonnes),TONNES,Incineration to generate energy,,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,
+2020,Municipal waste treated by type of treatment (Tonnes),TONNES,"Landfilling, controlled",,
+2019,Municipal waste treated by type of treatment (Tonnes),TONNES,Landfilling,,1087000.0
+2020,Municipal waste treated by type of treatment (Tonnes),TONNES,Landfilling,,1087000.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,"Agriculture, forestry and fishing",0.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,Mining and quarrying,765270.0
+2018,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1893270.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,Manufacturing,1842260.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,"Electricity, gas, steam and air conditioning supply",3129364.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,Construction,85972.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,902567.0
+2020,"Total waste generation, by activity (Tonnes)",TONNES,,No breakdown,6753458.0

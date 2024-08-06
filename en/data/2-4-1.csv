@@ -1,15 +1,15 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,AG_LND_SUST_PRXTS,Score,2.83
-2016,AG_LND_SUST_PRXTS,Score,3.83
-2017,AG_LND_SUST_PRXTS,Score,2.83
-2018,AG_LND_SUST_PRXTS,Score,4.33
-2019,AG_LND_SUST_PRXTS,Score,3.67
-2020,AG_LND_SUST_PRXTS,Score,4.33
-2021,AG_LND_SUST_PRXTS,Score,3.83
-2015,AG_LND_SUST_PRXCSS,Score,2.83
-2016,AG_LND_SUST_PRXCSS,Score,2.67
-2017,AG_LND_SUST_PRXCSS,Score,3.0
-2018,AG_LND_SUST_PRXCSS,Score,3.0
-2019,AG_LND_SUST_PRXCSS,Score,3.33
-2020,AG_LND_SUST_PRXCSS,Score,3.33
-2021,AG_LND_SUST_PRXCSS,Score,3.5
+2015,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,2.83
+2016,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,3.83
+2017,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,2.83
+2018,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,4.33
+2019,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,3.67
+2020,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,4.33
+2021,"Progress toward productive and sustainable agriculture, trend score (PROXY)",Score,3.83
+2015,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,2.83
+2016,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,2.67
+2017,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,3.0
+2018,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,3.0
+2019,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,3.33
+2020,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,3.33
+2021,"Progress toward productive and sustainable agriculture, current status score (PROXY)",Score,3.5

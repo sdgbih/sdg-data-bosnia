@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Value
-2017,SG_GOV_LOGV,Number,143.0
-2018,SG_GOV_LOGV,Number,143.0
-2017,SG_DSR_SILN,Number,
-2018,SG_DSR_SILN,Number,
-2017,SG_DSR_SILS,Percent,
-2018,SG_DSR_SILS,Percent,
+2017,Number of local governments,Number,143.0
+2018,Number of local governments,Number,143.0
+2017,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,
+2018,Number of local governments that adopt and implement local DRR strategies in line with national strategies,Number,
+2017,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,
+2018,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Percent,

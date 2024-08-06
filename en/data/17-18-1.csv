@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,IQ_SPI_PIL4,Index,48.3333333333333
-2017,IQ_SPI_PIL4,Index,46.6833333333333
-2018,IQ_SPI_PIL4,Index,47.3833333333333
-2019,IQ_SPI_PIL4,Index,47.3833333333333
-2020,IQ_SPI_PIL4,Index,57.4833333333333
-2021,IQ_SPI_PIL4,Index,64.1166666666667
-2022,IQ_SPI_PIL4,Index,61.7916666666667
-2016,IQ_SPI_PIL5,Index,65.0
-2017,IQ_SPI_PIL5,Index,65.0
-2018,IQ_SPI_PIL5,Index,60.0
-2019,IQ_SPI_PIL5,Index,60.0
-2020,IQ_SPI_PIL5,Index,60.0
-2021,IQ_SPI_PIL5,Index,80.0
-2022,IQ_SPI_PIL5,Index,80.0
-2022,SG_STT_ODIN,Index,48.6
+2016,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,48.3333333333333
+2017,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,46.6833333333333
+2018,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,47.3833333333333
+2019,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,47.3833333333333
+2020,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,57.4833333333333
+2021,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,64.1166666666667
+2022,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,61.7916666666667
+2016,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,65.0
+2017,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,65.0
+2018,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,60.0
+2019,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,60.0
+2020,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,60.0
+2021,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,80.0
+2022,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,80.0
+2022,Open Data Inventory (ODIN) Coverage Index,Index,48.6

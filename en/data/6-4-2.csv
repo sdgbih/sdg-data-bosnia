@@ -1,60 +1,60 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2001,ER_H2O_STRESS,Percent,Industries,0.11
-2006,ER_H2O_STRESS,Percent,Industries,0.22
-2007,ER_H2O_STRESS,Percent,Industries,0.26
-2010,ER_H2O_STRESS,Percent,Industries,0.31
-2011,ER_H2O_STRESS,Percent,Industries,0.4
-2012,ER_H2O_STRESS,Percent,Industries,0.49
-2013,ER_H2O_STRESS,Percent,Industries,0.51
-2014,ER_H2O_STRESS,Percent,Industries,0.41
-2015,ER_H2O_STRESS,Percent,Industries,0.41
-2016,ER_H2O_STRESS,Percent,Industries,0.44
-2017,ER_H2O_STRESS,Percent,Industries,0.44
-2018,ER_H2O_STRESS,Percent,Industries,0.41
-2019,ER_H2O_STRESS,Percent,Industries,0.27
-2001,ER_H2O_STRESS,Percent,Services (G to T),2.37
-2006,ER_H2O_STRESS,Percent,Services (G to T),2.31
-2007,ER_H2O_STRESS,Percent,Services (G to T),2.33
-2010,ER_H2O_STRESS,Percent,Services (G to T),2.58
-2011,ER_H2O_STRESS,Percent,Services (G to T),2.42
-2012,ER_H2O_STRESS,Percent,Services (G to T),2.42
-2013,ER_H2O_STRESS,Percent,Services (G to T),2.39
-2014,ER_H2O_STRESS,Percent,Services (G to T),2.33
-2015,ER_H2O_STRESS,Percent,Services (G to T),2.37
-2016,ER_H2O_STRESS,Percent,Services (G to T),2.34
-2017,ER_H2O_STRESS,Percent,Services (G to T),2.22
-2018,ER_H2O_STRESS,Percent,Services (G to T),1.66
-2019,ER_H2O_STRESS,Percent,Services (G to T),1.76
-2001,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2006,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2007,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2010,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2011,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2012,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2013,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2014,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2015,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2016,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2017,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2018,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2019,ER_H2O_STRESS,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
-2000,ER_H2O_STRESS,Percent,No breakdown,2.47
-2001,ER_H2O_STRESS,Percent,No breakdown,2.48
-2002,ER_H2O_STRESS,Percent,No breakdown,2.49
-2003,ER_H2O_STRESS,Percent,No breakdown,2.51
-2004,ER_H2O_STRESS,Percent,No breakdown,2.52
-2005,ER_H2O_STRESS,Percent,No breakdown,2.51
-2006,ER_H2O_STRESS,Percent,No breakdown,2.53
-2007,ER_H2O_STRESS,Percent,No breakdown,2.59
-2010,ER_H2O_STRESS,Percent,No breakdown,2.89
-2011,ER_H2O_STRESS,Percent,No breakdown,2.81
-2012,ER_H2O_STRESS,Percent,No breakdown,2.91
-2013,ER_H2O_STRESS,Percent,No breakdown,2.89
-2014,ER_H2O_STRESS,Percent,No breakdown,2.74
-2015,ER_H2O_STRESS,Percent,No breakdown,2.78
-2016,ER_H2O_STRESS,Percent,No breakdown,2.79
-2017,ER_H2O_STRESS,Percent,No breakdown,2.66
-2018,ER_H2O_STRESS,Percent,No breakdown,2.07
-2019,ER_H2O_STRESS,Percent,No breakdown,2.03
-2020,ER_H2O_STRESS,Percent,No breakdown,2.0
-2021,ER_H2O_STRESS,Percent,No breakdown,2.03
+2001,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.11
+2006,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.22
+2007,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.26
+2010,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.31
+2011,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.4
+2012,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.49
+2013,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.51
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.41
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.41
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.44
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.44
+2018,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.41
+2019,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Industries,0.27
+2001,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.37
+2006,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.31
+2007,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.33
+2010,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.58
+2011,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.42
+2012,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.42
+2013,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.39
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.33
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.37
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.34
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),2.22
+2018,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),1.66
+2019,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Services (G to T),1.76
+2001,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2006,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2007,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2010,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2011,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2012,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2013,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2018,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2019,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,Agriculture (ISIC4 A01 A0210 A0322),0.0
+2000,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.47
+2001,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.48
+2002,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.49
+2003,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.51
+2004,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.52
+2005,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.51
+2006,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.53
+2007,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.59
+2010,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.89
+2011,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.81
+2012,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.91
+2013,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.89
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.74
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.78
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.79
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.66
+2018,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.07
+2019,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.03
+2020,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.0
+2021,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Percent,No breakdown,2.03

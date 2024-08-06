@@ -1,36 +1,36 @@
 Year,SERIES,UNIT_MEASURE,Age,Value
-2006,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,14.4788795230681
-2007,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,19.4510064782245
-2008,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,27.175175221066
-2009,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,41.5721322515375
-2010,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,34.2691709170218
-2011,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,38.1452884856447
-2012,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,41.4200229035952
-2013,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,44.7029459829599
-2014,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,47.0952066260908
-2015,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,50.4287277323247
-2016,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,51.114771932446
-2017,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,52.6204037923617
-2018,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,54.7117276421148
-2019,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,57.3707007831101
-2020,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,57.6303137575638
-2021,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,58.499263908218
-2022,FB_ATM_TOTL,"Per 100,000 population",15 years old and over,60.0496090418073
-2005,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,24.9828975645487
-2006,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,25.9854687375388
-2007,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.6071045172364
-2008,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,32.0914388848104
-2009,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,31.0487068919232
-2010,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,30.7111695649813
-2011,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,31.7665838387108
-2012,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,31.6456717043823
-2013,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,32.5142041323429
-2014,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,33.4884568855933
-2015,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,30.7451487831271
-2016,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.5126956990909
-2017,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.7464270950973
-2018,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.9150723201196
-2019,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.5599037571512
-2020,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.7183978135194
-2021,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,30.0042293386744
-2022,FB_CBK_BRCH,"Per 100,000 population",15 years old and over,29.4617259122237
+2006,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,14.4788795230681
+2007,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,19.4510064782245
+2008,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,27.175175221066
+2009,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,41.5721322515375
+2010,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,34.2691709170218
+2011,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,38.1452884856447
+2012,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,41.4200229035952
+2013,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,44.7029459829599
+2014,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,47.0952066260908
+2015,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,50.4287277323247
+2016,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,51.114771932446
+2017,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,52.6204037923617
+2018,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,54.7117276421148
+2019,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,57.3707007831101
+2020,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,57.6303137575638
+2021,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,58.499263908218
+2022,"Number of automated teller machines (ATMs) per 100,000 adults","Per 100,000 population",15 years old and over,60.0496090418073
+2005,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,24.9828975645487
+2006,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,25.9854687375388
+2007,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.6071045172364
+2008,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,32.0914388848104
+2009,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,31.0487068919232
+2010,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,30.7111695649813
+2011,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,31.7665838387108
+2012,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,31.6456717043823
+2013,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,32.5142041323429
+2014,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,33.4884568855933
+2015,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,30.7451487831271
+2016,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.5126956990909
+2017,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.7464270950973
+2018,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.9150723201196
+2019,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.5599037571512
+2020,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.7183978135194
+2021,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,30.0042293386744
+2022,"Number of commercial bank branches per 100,000 adults","Per 100,000 population",15 years old and over,29.4617259122237

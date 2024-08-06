@@ -1,51 +1,51 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2010,EN_ATM_PM25,Micrograms per cubic meter,All areas,34.91059
-2011,EN_ATM_PM25,Micrograms per cubic meter,All areas,36.5729
-2012,EN_ATM_PM25,Micrograms per cubic meter,All areas,34.05842
-2013,EN_ATM_PM25,Micrograms per cubic meter,All areas,31.48972
-2014,EN_ATM_PM25,Micrograms per cubic meter,All areas,32.07207
-2015,EN_ATM_PM25,Micrograms per cubic meter,All areas,30.73886
-2016,EN_ATM_PM25,Micrograms per cubic meter,All areas,29.70925
-2017,EN_ATM_PM25,Micrograms per cubic meter,All areas,31.40318
-2018,EN_ATM_PM25,Micrograms per cubic meter,All areas,32.0164
-2019,EN_ATM_PM25,Micrograms per cubic meter,All areas,26.19402
-2010,EN_ATM_PM25,Micrograms per cubic meter,City,42.92364
-2011,EN_ATM_PM25,Micrograms per cubic meter,City,45.05643
-2012,EN_ATM_PM25,Micrograms per cubic meter,City,43.85321
-2013,EN_ATM_PM25,Micrograms per cubic meter,City,38.97629
-2014,EN_ATM_PM25,Micrograms per cubic meter,City,39.60343
-2015,EN_ATM_PM25,Micrograms per cubic meter,City,37.94639
-2016,EN_ATM_PM25,Micrograms per cubic meter,City,36.78305
-2017,EN_ATM_PM25,Micrograms per cubic meter,City,40.27741
-2018,EN_ATM_PM25,Micrograms per cubic meter,City,39.6268
-2019,EN_ATM_PM25,Micrograms per cubic meter,City,32.52884
-2010,EN_ATM_PM25,Micrograms per cubic meter,Rural,31.96807
-2011,EN_ATM_PM25,Micrograms per cubic meter,Rural,33.47936
-2012,EN_ATM_PM25,Micrograms per cubic meter,Rural,30.90362
-2013,EN_ATM_PM25,Micrograms per cubic meter,Rural,28.79152
-2014,EN_ATM_PM25,Micrograms per cubic meter,Rural,29.31388
-2015,EN_ATM_PM25,Micrograms per cubic meter,Rural,28.13006
-2016,EN_ATM_PM25,Micrograms per cubic meter,Rural,27.14589
-2017,EN_ATM_PM25,Micrograms per cubic meter,Rural,28.49337
-2018,EN_ATM_PM25,Micrograms per cubic meter,Rural,29.24978
-2019,EN_ATM_PM25,Micrograms per cubic meter,Rural,23.90133
-2010,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,37.84263
-2011,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,39.60648
-2012,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,36.58439
-2013,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,34.05886
-2014,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,34.73922
-2015,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,33.20532
-2016,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,32.12138
-2017,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,33.72101
-2018,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,34.59927
-2019,EN_ATM_PM25,Micrograms per cubic meter,Town and semi-dense area,28.30796
-2010,EN_ATM_PM25,Micrograms per cubic meter,Urban,39.48627
-2011,EN_ATM_PM25,Micrograms per cubic meter,Urban,41.3699
-2012,EN_ATM_PM25,Micrograms per cubic meter,Urban,38.93669
-2013,EN_ATM_PM25,Micrograms per cubic meter,Urban,35.65029
-2014,EN_ATM_PM25,Micrograms per cubic meter,Urban,36.31329
-2015,EN_ATM_PM25,Micrograms per cubic meter,Urban,34.73918
-2016,EN_ATM_PM25,Micrograms per cubic meter,Urban,33.62895
-2017,EN_ATM_PM25,Micrograms per cubic meter,Urban,35.84018
-2018,EN_ATM_PM25,Micrograms per cubic meter,Urban,36.22323
-2019,EN_ATM_PM25,Micrograms per cubic meter,Urban,29.67038
+2010,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,34.91059
+2011,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,36.5729
+2012,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,34.05842
+2013,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,31.48972
+2014,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,32.07207
+2015,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,30.73886
+2016,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,29.70925
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,31.40318
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,32.0164
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,All areas,26.19402
+2010,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,42.92364
+2011,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,45.05643
+2012,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,43.85321
+2013,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,38.97629
+2014,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,39.60343
+2015,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,37.94639
+2016,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,36.78305
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,40.27741
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,39.6268
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,City,32.52884
+2010,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,31.96807
+2011,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,33.47936
+2012,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,30.90362
+2013,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,28.79152
+2014,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,29.31388
+2015,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,28.13006
+2016,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,27.14589
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,28.49337
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,29.24978
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Rural,23.90133
+2010,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,37.84263
+2011,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,39.60648
+2012,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,36.58439
+2013,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,34.05886
+2014,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,34.73922
+2015,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,33.20532
+2016,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,32.12138
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,33.72101
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,34.59927
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Town and semi-dense area,28.30796
+2010,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,39.48627
+2011,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,41.3699
+2012,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,38.93669
+2013,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,35.65029
+2014,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,36.31329
+2015,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,34.73918
+2016,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,33.62895
+2017,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,35.84018
+2018,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,36.22323
+2019,"Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",Micrograms per cubic meter,Urban,29.67038

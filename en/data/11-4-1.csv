@@ -1,25 +1,25 @@
 Year,SERIES,UNIT_MEASURE,Level of government,Value
-2019,GB_XPD_CULNAT_PB,Constant PPP USD,Any level of government,52.36392
-2020,GB_XPD_CULNAT_PB,Constant PPP USD,Any level of government,46.83249
-2021,GB_XPD_CULNAT_PB,Constant PPP USD,Any level of government,51.90584
-2019,GB_XPD_CULNAT_PB,Constant PPP USD,Local Government,19.70345
-2020,GB_XPD_CULNAT_PB,Constant PPP USD,Local Government,18.18337
-2021,GB_XPD_CULNAT_PB,Constant PPP USD,Local Government,18.75471
-2019,GB_XPD_CULNAT_PB,Constant PPP USD,National Government,15.29726
-2020,GB_XPD_CULNAT_PB,Constant PPP USD,National Government,13.6866
-2021,GB_XPD_CULNAT_PB,Constant PPP USD,National Government,17.04023
-2019,GB_XPD_CULNAT_PB,Constant PPP USD,Regional Government,17.36321
-2020,GB_XPD_CULNAT_PB,Constant PPP USD,Regional Government,14.96252
-2021,GB_XPD_CULNAT_PB,Constant PPP USD,Regional Government,16.1109
-2019,GB_XPD_CULNAT_PV,Constant PPP USD,Any level of government,1.26728
-2020,GB_XPD_CULNAT_PV,Constant PPP USD,Any level of government,3.91469
-2021,GB_XPD_CULNAT_PV,Constant PPP USD,Any level of government,0.72513
-2019,GB_XPD_CULNAT_PBPV,Constant PPP USD,Any level of government,53.6312
-2020,GB_XPD_CULNAT_PBPV,Constant PPP USD,Any level of government,50.74718
-2021,GB_XPD_CULNAT_PBPV,Constant PPP USD,Any level of government,52.63097
-2019,GB_XPD_CUL_PBPV,Constant PPP USD,Any level of government,50.8496
-2020,GB_XPD_CUL_PBPV,Constant PPP USD,Any level of government,47.78392
-2021,GB_XPD_CUL_PBPV,Constant PPP USD,Any level of government,49.58025
-2019,GB_XPD_NAT_PBPV,Constant PPP USD,Any level of government,2.7816
-2020,GB_XPD_NAT_PBPV,Constant PPP USD,Any level of government,2.96325
-2021,GB_XPD_NAT_PBPV,Constant PPP USD,Any level of government,3.05072
+2019,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,52.36392
+2020,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,46.83249
+2021,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,51.90584
+2019,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Local Government,19.70345
+2020,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Local Government,18.18337
+2021,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Local Government,18.75471
+2019,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,National Government,15.29726
+2020,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,National Government,13.6866
+2021,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,National Government,17.04023
+2019,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Regional Government,17.36321
+2020,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Regional Government,14.96252
+2021,"Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)",Constant PPP USD,Regional Government,16.1109
+2019,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,1.26728
+2020,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,3.91469
+2021,"Total expenditure per capita spent on cultural and natural heritage, private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,0.72513
+2019,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,53.6312
+2020,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,50.74718
+2021,"Total expenditure per capita spent on cultural and natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,52.63097
+2019,"Total expenditure per capita spent on cultural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,50.8496
+2020,"Total expenditure per capita spent on cultural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,47.78392
+2021,"Total expenditure per capita spent on cultural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,49.58025
+2019,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,2.7816
+2020,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,2.96325
+2021,"Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)",Constant PPP USD,Any level of government,3.05072

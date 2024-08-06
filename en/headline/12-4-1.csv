@@ -1,9 +1,9 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,100.0,Percent,SG_HAZ_CMRMNTRL
-2020,100.0,Percent,SG_HAZ_CMRMNTRL
-2015,50.0,Percent,SG_HAZ_CMRBASEL
-2020,80.0,Percent,SG_HAZ_CMRBASEL
-2015,72.55,Percent,SG_HAZ_CMRROTDAM
-2020,91.38,Percent,SG_HAZ_CMRROTDAM
-2015,33.33,Percent,SG_HAZ_CMRSTHOLM
-2020,62.5,Percent,SG_HAZ_CMRSTHOLM
+2015,100.0,Percent,Compliance with the Montreal Protocol on hazardous waste and other chemicals
+2020,100.0,Percent,Compliance with the Montreal Protocol on hazardous waste and other chemicals
+2015,50.0,Percent,Compliance with the Basel Convention on hazardous waste and other chemicals
+2020,80.0,Percent,Compliance with the Basel Convention on hazardous waste and other chemicals
+2015,72.55,Percent,Compliance with the Rotterdam Convention on hazardous waste and other chemicals
+2020,91.38,Percent,Compliance with the Rotterdam Convention on hazardous waste and other chemicals
+2015,33.33,Percent,Compliance with the Stockholm Convention on hazardous waste and other chemicals
+2020,62.5,Percent,Compliance with the Stockholm Convention on hazardous waste and other chemicals

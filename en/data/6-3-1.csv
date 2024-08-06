@@ -1,19 +1,19 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Degree of urbanisation,Value
-2020,EN_WWT_WWDS,Percent,,,46.7966
-2022,EN_WWT_WWDS,Percent,,,65.30532
-2015,EN_WWT_TREATR,Percent,Industries,All areas,100.0
-2015,EN_WWT_TREATR,Percent,No breakdown,All areas,54.3595
-2022,EN_WWT_GEN,Million of cubic metres per annum,Industries,All areas,9.3
-2022,EN_WWT_GEN,Million of cubic metres per annum,"Agriculture, forestry and fishing",All areas,0.2
-2022,EN_WWT_GEN,Million of cubic metres per annum,Mining and quarrying,All areas,
-2022,EN_WWT_GEN,Million of cubic metres per annum,Manufacturing,All areas,
-2022,EN_WWT_GEN,Million of cubic metres per annum,"Electricity, gas, steam and air conditioning supply",All areas,
-2022,EN_WWT_GEN,Million of cubic metres per annum,ISIC4_E,All areas,
-2022,EN_WWT_GEN,Million of cubic metres per annum,Construction,All areas,
-2022,EN_WWT_GEN,Million of cubic metres per annum,Private households,All areas,80.2
-2022,EN_WWT_GEN,Million of cubic metres per annum,"Services, and activities by households",All areas,95.4
-2022,EN_WWT_GEN,Million of cubic metres per annum,Services,All areas,15.2
-2012,EN_WWT_GEN,Million of cubic metres per annum,No breakdown,All areas,104.8
-2022,EN_WWT_TREAT,Million of cubic metres per annum,Industries,All areas,
-2022,EN_WWT_TREAT,Million of cubic metres per annum,No breakdown,All areas,38.6
-2022,EN_WWT_TREATR,Million of cubic metres per annum,No breakdown,All areas,36.8
+2020,Proportion of safely treated domestic wastewater flows,Percent,,,46.7966
+2022,Proportion of safely treated domestic wastewater flows,Percent,,,65.30532
+2015,"Proportion of wastewater treated, by activity and location (%)",Percent,Industries,All areas,100.0
+2015,"Proportion of wastewater treated, by activity and location (%)",Percent,No breakdown,All areas,54.3595
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Industries,All areas,9.3
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,"Agriculture, forestry and fishing",All areas,0.2
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Mining and quarrying,All areas,
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Manufacturing,All areas,
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,"Electricity, gas, steam and air conditioning supply",All areas,
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,ISIC4_E,All areas,
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Construction,All areas,
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Private households,All areas,80.2
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,"Services, and activities by households",All areas,95.4
+2022,Total wastewater generated (million m3/year),Million of cubic metres per annum,Services,All areas,15.2
+2012,Total wastewater generated (million m3/year),Million of cubic metres per annum,No breakdown,All areas,104.8
+2022,Total wastewater treated (million m3/year),Million of cubic metres per annum,Industries,All areas,
+2022,Total wastewater treated (million m3/year),Million of cubic metres per annum,No breakdown,All areas,38.6
+2022,"Proportion of wastewater treated, by activity and location (%)",Million of cubic metres per annum,No breakdown,All areas,36.8

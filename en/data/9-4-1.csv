@@ -1,31 +1,31 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2009,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.36
-2010,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.6
-2011,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.78
-2014,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.91
-2015,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.0
-2016,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.9
-2017,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.0
-2018,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.23
-2019,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.18
-2021,EN_ATM_CO2,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.53
-2009,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,0.89
-2010,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,0.977
-2011,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,1.087
-2014,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,1.074
-2015,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,1.097
-2016,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,0.987
-2017,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,0.959
-2018,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,1.051
-2019,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,1.027
-2021,EN_ATM_CO2MVA,Kilograms per constant USD,Manufacturing,0.66
-2009,EN_ATM_CO2GDP,Kilograms per constant USD,,0.499
-2010,EN_ATM_CO2GDP,Kilograms per constant USD,,0.502
-2011,EN_ATM_CO2GDP,Kilograms per constant USD,,0.569
-2014,EN_ATM_CO2GDP,Kilograms per constant USD,,0.454
-2015,EN_ATM_CO2GDP,Kilograms per constant USD,,0.438
-2016,EN_ATM_CO2GDP,Kilograms per constant USD,,0.484
-2017,EN_ATM_CO2GDP,Kilograms per constant USD,,0.475
-2018,EN_ATM_CO2GDP,Kilograms per constant USD,,0.455
-2019,EN_ATM_CO2GDP,Kilograms per constant USD,,0.413
-2021,EN_ATM_CO2GDP,Kilograms per constant USD,,0.396
+2009,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.36
+2010,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.6
+2011,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.78
+2014,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.91
+2015,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.0
+2016,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.9
+2017,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.0
+2018,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.23
+2019,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.18
+2021,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.53
+2009,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.89
+2010,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.977
+2011,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.087
+2014,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.074
+2015,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.097
+2016,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.987
+2017,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.959
+2018,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.051
+2019,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.027
+2021,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.66
+2009,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.499
+2010,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.502
+2011,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.569
+2014,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.454
+2015,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.438
+2016,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.484
+2017,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.475
+2018,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.455
+2019,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.413
+2021,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars),Kilograms per constant USD,,0.396
