@@ -333,7 +333,7 @@ SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (
 SH_STA_TRAFN: Broj smrtnih slučajeva zbog povreda u cestovnom saobraćaju
 SH_STA_WASH: Stopa smrtnosti koja se pripisuje nesigurnoj vodi, nesigurnoj sanitaciji i nedostatku higijene 
 SH_STA_WAST: Udio djece koja su umjereno ili ozbiljno iscrpljena
-SH_STA_WASTN: Djeca umjereno ili ozbiljno iscrpljena (broj)
+SH_STA_WASTN: Djeca umjereno ili ozbiljno iscrpljena (tisuće)
 SH_SUD_ALCOL: Poremećaji uporabe alkohola, rasprostranjenost u 12 mjeseci (%)
 SH_SUD_TREAT: Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)
 SH_TBS_INCID: Učestalost tuberkuloze (na 100.000 stanovnika)  
