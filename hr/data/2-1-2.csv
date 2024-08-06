@@ -1,75 +1,97 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,9.8
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,9.3
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,8.0
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,8.4
-2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,10.4
-2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,13.9
-2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,15.5
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,9.4
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,11.2
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,9.4
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,9.9
-2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,9.7
-2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,11.2
-2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,11.3
-2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,9.6
-2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,10.3
-2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,8.7
-2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,9.2
-2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,10.0
-2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,12.6
-2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,13.4
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,1.4
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,1.4
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,1.0
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,1.3
-2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,1.9
-2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,2.7
-2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,3.4
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,1.7
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,2.1
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,1.6
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,1.7
-2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,2.0
-2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,2.8
-2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,2.9
-2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,1.5
-2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,1.8
-2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,1.3
-2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,1.5
-2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,1.9
-2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,2.8
-2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,3.1
-2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,150.8
-2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,141.0
-2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,119.2
-2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,124.9
-2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,151.6
-2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,201.0
-2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,221.1
-2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,136.2
-2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,161.5
-2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,134.0
-2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,140.0
-2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,135.4
-2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,154.5
-2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,154.4
-2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,338.2
-2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,357.5
-2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,298.7
-2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,312.4
-2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,337.3
-2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,417.0
-2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,440.1
-2015,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,
-2016,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,
-2017,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,
-2018,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,
-2019,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,
-2015,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,
-2016,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,
-2017,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,
-2018,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,
-2019,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,
-2021,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,103.1
+Year,SERIES,UNIT_MEASURE,Godine,Spol,Stupanj urbanizacije,Value
+2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,9.8
+2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,9.3
+2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,8.0
+2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,8.4
+2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,10.4
+2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,13.9
+2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,15.5
+2022,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,15.6
+2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,9.4
+2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,11.2
+2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,9.4
+2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,ALLAREA.9.9,
+2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,9.7
+2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,11.2
+2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,11.3
+2022,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,10.9
+2015,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,9.6
+2016,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,10.3
+2017,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,8.7
+2018,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,9.2
+2019,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,10.0
+2020,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,12.6
+2021,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,13.4
+2022,Rasprostranjenost umjerene ili ozbiljne nesigurnosti hrane kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,13.3
+2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,1.4
+2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,1.4
+2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,1.0
+2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,1.3
+2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,1.9
+2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,2.7
+2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,3.4
+2022,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Žene,Sva područja,3.3
+2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,1.7
+2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,2.1
+2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,1.6
+2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,1.7
+2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,2.0
+2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,2.8
+2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,2.9
+2022,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,15 godina i više,Muškarci,Sva područja,2.2
+2015,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,1.5
+2016,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,1.8
+2017,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,1.3
+2018,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,1.5
+2019,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,1.9
+2020,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,2.8
+2021,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,3.1
+2022,Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),Postotak,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,Sva područja,2.8
+2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,150.8
+2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,141.0
+2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,119.2
+2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,124.9
+2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,151.6
+2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,201.0
+2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,221.1
+2022,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Žene,,219.8
+2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,136.2
+2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,161.5
+2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,134.0
+2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,140.0
+2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,135.4
+2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,154.5
+2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,154.4
+2022,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,15 godina i više,Muškarci,,147.1
+2015,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,338.2
+2016,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,357.5
+2017,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,298.7
+2018,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,312.4
+2019,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,337.3
+2020,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,417.0
+2021,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,440.1
+2022,Broj osoba sa umjerenim ili ozbiljnom nedostatkom hrane (u tisućama ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,429.9
+2015,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2016,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2017,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2018,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2019,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2020,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2021,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2022,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Žene,,100.0
+2015,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2016,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2017,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2018,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2019,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2020,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2021,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2022,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,15 godina i više,Muškarci,,100.0
+2015,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2016,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2017,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2018,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2019,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2020,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
+2021,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,103.1
+2022,Broj osoba sa ozbiljnom nesigurnosti hranom (tisuće ljudi),Tisuće,Svi dobni rasponi ili nema podjele po godinama,Oba spola ili bez podjele po spolu,,100.0
