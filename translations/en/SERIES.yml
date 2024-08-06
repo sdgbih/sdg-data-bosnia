@@ -330,7 +330,7 @@ SH_STA_TRAF: Death rate due to road traffic injuries, by sex (per 100,000 popula
 SH_STA_TRAFN: Number of deaths rate due to road traffic injuries
 SH_STA_WASH: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene
 SH_STA_WAST: Proportion of children moderately or severely wasted
-SH_STA_WASTN: Children moderately or severely wasted (number)
+SH_STA_WASTN: Children moderately or severely wasted (thousands)
 SH_SUD_ALCOL: Alcohol use disorders, 12-month prevalence (%)
 SH_SUD_TREAT: Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%) 
 SH_TBS_INCID: Tuberculosis incidence (per 100,000 population) 
