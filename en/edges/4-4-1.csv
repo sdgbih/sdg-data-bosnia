@@ -1,4 +1,4 @@
 From,To
-Sex,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Age
+Sex,Type_of_skill
+Type_of_skill,Age
 Age,Degree of urbanisation

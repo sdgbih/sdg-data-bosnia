@@ -1,4 +1,4 @@
 From,To
-Пол,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Године
+Пол,Type_of_skill
+Type_of_skill,Године
 Године,Степен урбанизације

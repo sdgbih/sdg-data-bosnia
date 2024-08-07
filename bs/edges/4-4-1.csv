@@ -1,4 +1,4 @@
 From,To
-Spol,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Godine
+Spol,Type_of_skill
+Type_of_skill,Godine
 Godine,Stepen urbanizacije

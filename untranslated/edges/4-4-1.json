@@ -1,1 +1,1 @@
-{"From":["SEX","COMPOSITE_BREAKDOWN","AGE"],"To":["COMPOSITE_BREAKDOWN","AGE","URBANISATION"]}
+{"From":["SEX","Type_of_skill","AGE"],"To":["Type_of_skill","AGE","URBANISATION"]}
