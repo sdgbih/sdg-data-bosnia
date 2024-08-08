@@ -14,7 +14,7 @@ OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,24
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,190,445
 SEX,Sex,Spol,Пол,Spol,40,4
-Type_of_skill,Type_of_skill,Type_of_skill,Type_of_skill,Type_of_skill,1,23
+Type_of_skill,Type_of_skill,Vrsta vještina,Type_of_skill,Type_of_skill,1,23
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,189,43
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,14,6
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,4
