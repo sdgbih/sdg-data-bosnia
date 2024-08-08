@@ -1,24 +1,32 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-ARSP,Using basic arithmetic formulas in a spreadsheet,Korištenje osnovnih aritmetičkih formula u proračunskoj tablici,Коришћење основних аритметичких формула у табели,Korištenje osnovnih aritmetičkih formula u proračunskoj tablici,3,1
-COPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata za kopiranje i lijepljenje za dupliranje ili premještanje informacija unutar dokumenta,Коришћење алатки за копирање и љепљење за дуплирање или премештање информација у документу,Korištenje alata za kopiranje i lijepljenje za dupliciranje ili premještanje informacija unutar dokumenta,3,1
-DLDONLD,"Reading or downloading on - line newspapers, magazines, or electronic books","Čitanje ili preuzimanje on - line novina, časopisa ili elektronskih knjiga","Читање или преузимање онлајн новина, часописа или електронских књига","Čitanje ili preuzimanje on-line novina, časopisa ili elektroničkih knjiga",3,1
-EMAIL,Sending e-mails with attached files,Slanje e - pošte sa priloženim fajlovima,Слање е - поште са приложеним датотекама,Slanje e - mailova s ​​priloženim datotekama,3,1
-EPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija sa softverom za prezentacije,Креирање електронских презентација са софтвером за презентације,Izrada elektroničkih prezentacija s prezentacijskim softverom,3,1
-FONLCRS,Doing a formal online course,Obavljanje formalnog online kursa,Извођење формалног онлајн курса,Izvođenje formalnog online tečaja,3,1
-GSINF,Getting information about goods or services online,Dobijanje informacija o robi ili uslugama na mreži,Добијање информација о роби или услугама на мрежи,Dobivanje informacija o robi ili uslugama na mreži,3,1
-GSPUR,Purchasing or ordering goods or services using the Internet,Kupovina ili naručivanje robe ili usluga putem Interneta,Куповина или наручивање робе или услуга путем Интернета,Kupnja ili naručivanje robe ili usluga putem Interneta,3,1
-HLTHINF,"Seeking health information (on injury, disease, nutrition, etc.)","Traženje informacija o zdravlju (o povredama, bolesti, ishrani, itd.)","Тражење здравствених информација (о повредама, болести, исхрани, итд.)","traženje zdravstvenih informacija (o ozljedama, bolestima, prehrani itd.)",3,1
-INST,Connecting and installing new devices,Connecting and installing new devices,Повезивање и инсталирање нових уређаја,Spajanje i instaliranje novih uređaja,3,1
-INTBNK,Using Internet banking,Korištenje Internet bankarstva,Коришћење Интернет банкарства,Korištenje Internet bankarstva,3,1
-ONLCNS,Taking part in on-line consultations or voting to define civic or political issues,Učestvovanje u on-line konsultacijama ili glasanje za definisanje građanskih ili političkih pitanja,Учествовање у он - лине консултацијама или гласање за дефинисање грађанских или политичких питања,Sudjelovanje u on - line konzultacijama ili glasovanje za definiranje građanskih ili političkih pitanja,3,1
-SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,12,1
-SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,12,1
-SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,12,1
-SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,12,1
-SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,12,1
-SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,12,1
-SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,12,1
-SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,12,1
-SKILL_INST,SKILL_INST,SKILL_INST,SKILL_INST,SKILL_INST,12,1
-SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,12,1
-SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,12,1
+ARSP,Using basic arithmetic formulas in a spreadsheet,Korištenje osnovnih aritmetičkih formula u proračunskoj tablici,Коришћење основних аритметичких формула у табели,Korištenje osnovnih aritmetičkih formula u proračunskoj tablici,6,1
+COPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata za kopiranje i lijepljenje za dupliranje ili premještanje informacija unutar dokumenta,Коришћење алатки за копирање и љепљење за дуплирање или премештање информација у документу,Korištenje alata za kopiranje i lijepljenje za dupliciranje ili premještanje informacija unutar dokumenta,6,1
+DLDONLD,"Reading or downloading on - line newspapers, magazines, or electronic books","Čitanje ili preuzimanje on - line novina, časopisa ili elektronskih knjiga","Читање или преузимање онлајн новина, часописа или електронских књига","Čitanje ili preuzimanje on-line novina, časopisa ili elektroničkih knjiga",6,1
+EMAIL,Sending e-mails with attached files,Slanje e - pošte sa priloženim fajlovima,Слање е - поште са приложеним датотекама,Slanje e - mailova s ​​priloženim datotekama,6,1
+EPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija sa softverom za prezentacije,Креирање електронских презентација са софтвером за презентације,Izrada elektroničkih prezentacija s prezentacijskim softverom,6,1
+FONLCRS,Doing a formal online course,Obavljanje formalnog online kursa,Извођење формалног онлајн курса,Izvođenje formalnog online tečaja,6,1
+GSINF,Getting information about goods or services online,Dobijanje informacija o robi ili uslugama na mreži,Добијање информација о роби или услугама на мрежи,Dobivanje informacija o robi ili uslugama na mreži,6,1
+GSPUR,Purchasing or ordering goods or services using the Internet,Kupovina ili naručivanje robe ili usluga putem Interneta,Куповина или наручивање робе или услуга путем Интернета,Kupnja ili naručivanje robe ili usluga putem Interneta,6,1
+HLTHINF,"Seeking health information (on injury, disease, nutrition, etc.)","Traženje informacija o zdravlju (o povredama, bolesti, ishrani, itd.)","Тражење здравствених информација (о повредама, болести, исхрани, итд.)","traženje zdravstvenih informacija (o ozljedama, bolestima, prehrani itd.)",6,1
+INST,Connecting and installing new devices,Connecting and installing new devices,Повезивање и инсталирање нових уређаја,Spajanje i instaliranje novih uređaja,6,1
+INTBNK,Using Internet banking,Korištenje Internet bankarstva,Коришћење Интернет банкарства,Korištenje Internet bankarstva,6,1
+ONLCNS,Taking part in on-line consultations or voting to define civic or political issues,Učestvovanje u on-line konsultacijama ili glasanje za definisanje građanskih ili političkih pitanja,Учествовање у он - лине консултацијама или гласање за дефинисање грађанских или политичких питања,Sudjelovanje u on - line konzultacijama ili glasovanje za definiranje građanskih ili političkih pitanja,6,1
+PCPR,Writing a computer program using a specialized programming language,Pisanje kompjuterskog programa pomoću specijalizovanog programskog jezika,Писање рачунарског програма помоћу специјализованог програмског језика,Pisanje računalnog programa pomoću specijaliziranog programskog jezika,6,1
+PRVCY,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)","Промјена подешавања приватности на вашем уређају, налогу или апликацији да бисте ограничили дјељење личних података и информација (нпр. име, контакт информације, фотографије)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje osobnih podataka i informacija (npr. ime, podaci za kontakt, fotografije)",6,1
+SCRTY,"Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts","Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavještenje o pokušaju prijave) za zaštitu uređaja i online računa","Подешавање ефикасних безбедносних мјера (нпр. јаке лозинке, обавјештење о покушају пријављивања) за заштиту уређаја и налога на мрежи","Postavljanje učinkovitih sigurnosnih mjera (npr. jake lozinke, obavijest o pokušaju prijave) za zaštitu uređaja i mrežnih računa",6,1
+SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,SKILL_ICTARSP,9,1
+SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,SKILL_ICTCMFL,9,1
+SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,SKILL_ICTCOPA,9,1
+SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,SKILL_ICTEMAIL,9,1
+SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,SKILL_ICTEPRS,9,1
+SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,SKILL_ICTPCPR,9,1
+SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,SKILL_ICTSOFT,9,1
+SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,SKILL_ICTTRAF,9,1
+SKILL_INST,SKILL_INST,SKILL_INST,SKILL_INST,SKILL_INST,9,1
+SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,SKILL_PRVCY,9,1
+SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,SKILL_SCRTY,9,1
+SNTWK,Participating in social networks,Učestvovanje na društvenim mrežama,Учествовање у друштвеним мрежама,Sudjelovanje u društvenim mrežama,6,1
+SOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера","Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",6,1
+TRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,Prijenos datoteka između računala i drugih uređaja,6,1
+UPLD,Uploading self / user - created content to a website to be shared,Učitavanje sadržaja koji je kreirao sam / korisnik na web stranicu za dijeljenje,Учитавање садржаја који је креирао сам/корисник на веб локацију за дељење,Prijenos sadržaja koji je sam/korisnik stvorio na web mjesto za dijeljenje,6,1
+VOIP,Telephoning over the Internet / VoIP,Telefoniranje preko Interneta / VoIP,Телефонирање преко Интернета / ВоИП,Telefoniranje preko interneta / VoIP,6,1
