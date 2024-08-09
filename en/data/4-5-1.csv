@@ -1,4 +1,4 @@
-Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE_BREAKDOWN,Degree of urbanisation,Age,Value
+Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,Type of skill,Degree of urbanisation,Age,Value
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00305
 2015,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00407
 2016,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Lower secondary education,Total (national average) or no breakdown,,,All areas,,1.00407
@@ -59,8 +59,8 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Urban,,
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Urban,,
 2014,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,,
-2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,,1.30087
-2019,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,Mathematics,,,1.14329
+2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,1.30087
+2019,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,SKILL_MATH,,,1.14329
 2014,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.1
 2015,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.2
 2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.2
@@ -69,6 +69,7 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2019,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.1
 2020,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.1
 2021,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.2
+2022,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,1.2
 2014,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.0
 2015,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.1
 2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.1
@@ -77,6 +78,7 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2019,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.0
 2020,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.1
 2021,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.1
+2022,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 64 years old,1.1
 2014,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,0.0
 2015,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.2
 2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.2
@@ -85,6 +87,7 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2019,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.1
 2020,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.1
 2021,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.1
+2022,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,25 to 54 years old,1.2
 2014,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,
 2015,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,
 2016,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,
@@ -93,36 +96,97 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,COMPOSITE
 2019,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,
 2020,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,0.8
 2021,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,55 to 64 years old,
-2019,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.97203
-2020,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.9511
-2021,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,1.0061
-2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formula in a spreadsheet,,,1.03128
-2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formula in a spreadsheet,,,0.70046
+2010,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.97698
+2011,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.93815
+2012,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.9575
+2016,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.96249
+2017,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.95839
+2018,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,1.00032
+2019,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.96578
+2020,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.94595
+2021,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.99947
+2022,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",Ratio,,,,,,,0.95614
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formulas in a spreadsheet,,,1.03128
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using basic arithmetic formulas in a spreadsheet,,,0.70046
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Copying or moving a file or folder,,,0.94207
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Copying or moving a file or folder,,,0.94222
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,,0.84348
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,,0.73837
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,,0.9209
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using copy and paste tools to duplicate or move information within a document,,,0.95803
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Reading or downloading on - line newspapers, magazines, or electronic books",,,0.9368
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Reading or downloading on - line newspapers, magazines, or electronic books",,,0.75367
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Reading or downloading on - line newspapers, magazines, or electronic books",,,0.91944
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Reading or downloading on - line newspapers, magazines, or electronic books",,,1.00999
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Reading or downloading on - line newspapers, magazines, or electronic books",,,0.92242
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Sending e-mails with attached files,,,0.75366
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Sending e-mails with attached files,,,0.9208
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Sending e-mails with attached files,,,0.90442
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Creating electronic presentations with presentation software,,,0.73845
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Creating electronic presentations with presentation software,,,0.69955
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Creating electronic presentations with presentation software,,,0.8413
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Doing a formal online course,,,0.81909
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Doing a formal online course,,,0.3876
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Doing a formal online course,,,1.54689
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,1.00358
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,1.01953
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,0.96707
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,0.95765
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,0.96015
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Getting information about goods or services online,,,0.91484
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,0.84345
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,0.93063
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,0.60743
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,0.96291
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,1.30381
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Purchasing or ordering goods or services using the Internet,,,0.75269
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,1.12669
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,1.10676
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,0.98894
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,1.09733
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,1.03659
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Seeking health information (on injury, disease, nutrition, etc.)",,,1.00007
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Connecting and installing new devices,,,0.7443
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Connecting and installing new devices,,,0.73088
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.69605
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.69234
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.65952
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.69984
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.96961
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Using Internet banking,,,0.82038
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Writing a computer program using a specialized programming language,,,0.31226
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Writing a computer program using a specialized programming language,,,0.2854
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",,,0.6868
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)",,,0.64385
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",,,0.8216
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Setting up effective security measures (e.g. strong passwords, log-in attempt notification) to protect devices and online accounts",,,0.60826
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,0.96275
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,1.00505
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,1.08195
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,0.95
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,1.01363
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Participating in social networks,,,0.99313
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Finding, downloading, installing and configuring software",,,0.79713
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Finding, downloading, installing and configuring software",,,0.8286
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,"Finding, downloading, installing and configuring software",,,0.94716
 2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,,0.88954
 2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,,0.91255
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,,0.9637
-2018,Language test parity index for achievement,Ratio,Lower secondary education,,,Reading,,,0.85397
-2019,Language test parity index for achievement,Ratio,Primary education,,,Mathematics,,,0.8731
-2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,,0.79283
-2019,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Mathematics,,,1.1155
-2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,,0.5554
-2019,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,Mathematics,,,0.7634
-2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,Reading,,,0.4988
-2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,Mathematics,,,0.8823
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Transferring files between a computer and other devices,,,0.74283
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Uploading self / user - created content to a website to be shared,,,0.66846
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Uploading self / user - created content to a website to be shared,,,0.88783
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Uploading self / user - created content to a website to be shared,,,0.99852
+2017,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,0.99461
+2018,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,0.95194
+2019,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,0.91838
+2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,0.98041
+2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,1.0118
+2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,1.00216
+2018,Language test parity index for achievement,Ratio,Lower secondary education,,,SKILL_READ,,,0.85397
+2019,Language test parity index for achievement,Ratio,Primary education,,,SKILL_MATH,,,0.8731
+2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.79283
+2019,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_MATH,,,1.1155
+2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.5554
+2019,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,SKILL_MATH,,,0.7634
+2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.4988
+2018,Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,SKILL_MATH,,,0.8823
