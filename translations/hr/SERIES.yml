@@ -380,8 +380,8 @@ SN_ITK_DEFC: Rasprostranjenost pothranjenosti
 SN_ITK_DEFCN: Broj pothranjenih ljudi
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
 SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj) 
-SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode
-SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge
+SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode, po lokaciji (%)
+SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge, po lokaciji (%)
 SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1000 žena u dobi od 15-19 i 10-14 godina)
 SP_DYN_MRBF15: Udio žena starosti 20-24 godine koje su bile u braku ili u izvanbračnoj zajednici prije 15. godine
 SP_DYN_MRBF18: Udio žena starosti 20-24 godine koje su bile u braku ili u izvanbračnoj zajednici prije 18. godine
