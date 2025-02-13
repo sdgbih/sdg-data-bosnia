@@ -21,6 +21,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Number of local breeds kept in the country,Number,22.0
 2021,Number of local breeds kept in the country,Number,22.0
 2022,Number of local breeds kept in the country,Number,22.0
+2023,Number of local breeds kept in the country,Number,22.0
 2021,Number of local breeds for which sufficient genetic resources are stored for reconstitution,Number,
 2000,Plant genetic resources accessions stored ex situ (number),Number,328.0
 2005,Plant genetic resources accessions stored ex situ (number),Number,331.0
@@ -33,6 +34,7 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Plant genetic resources accessions stored ex situ (number),Number,965.0
 2020,Plant genetic resources accessions stored ex situ (number),Number,971.0
 2021,Plant genetic resources accessions stored ex situ (number),Number,971.0
+2022,Plant genetic resources accessions stored ex situ (number),Number,971.0
 2021,Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution,Number,
 2000,Number of transboundary breeds (including extinct ones),Number,1.0
 2001,Number of transboundary breeds (including extinct ones),Number,1.0
@@ -57,3 +59,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Number of transboundary breeds (including extinct ones),Number,5.0
 2021,Number of transboundary breeds (including extinct ones),Number,5.0
 2022,Number of transboundary breeds (including extinct ones),Number,5.0
+2023,Number of transboundary breeds (including extinct ones),Number,5.0

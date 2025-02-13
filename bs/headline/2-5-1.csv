@@ -21,6 +21,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2020,22.0,Broj,Broj lokalnih pasmina koje se drže u zemlji
 2021,22.0,Broj,Broj lokalnih pasmina koje se drže u zemlji
 2022,22.0,Broj,Broj lokalnih pasmina koje se drže u zemlji
+2023,22.0,Broj,Broj lokalnih pasmina koje se drže u zemlji
 2021,,Broj,Broj lokalnih pasmina za koje su pohranjeni dovoljni genetski resursi za obnavljanje (rekonstituciju)
 2000,328.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2005,331.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
@@ -33,6 +34,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,965.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2020,971.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2021,971.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
+2022,971.0,Broj,Pristup biljnim genetičkim resursima pohranjenim izvan njihovog prirodnog staništa -ex-situ (broj)
 2021,,Broj,Broj prekograničnih pasmina za koje su pohranjeni dovoljni genetski resursi za obnavljanje (rekonstituciju)
 2000,1.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
 2001,1.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
@@ -57,3 +59,4 @@ Year,Value,UNIT_MEASURE,SERIES
 2020,5.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
 2021,5.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
 2022,5.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
+2023,5.0,Broj,Broj prekograničnih pasmina (uključujući izumrle)
