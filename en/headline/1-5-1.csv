@@ -1,3 +1,4 @@
 Year,Value,UNIT_MEASURE,SERIES
 2017,0,Number,Number of deaths due to disaster (number)
 2017,0,Number,Number of deaths and missing persons attributed to disasters (number)
+2017,0,Number,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
