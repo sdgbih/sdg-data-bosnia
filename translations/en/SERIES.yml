@@ -333,6 +333,7 @@ SH_STA_STNTN: Children moderately or severely stunted (number)
 SH_STA_TRAF: Death rate due to road traffic injuries, by sex (per 100,000 population)
 SH_STA_TRAFN: Number of deaths rate due to road traffic injuries
 SH_STA_WASH: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene
+SH_STA_WASHARI: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene from diarrhoea, intestinal nematode infections, malnutrition and acute respiratory infections (deaths per 100.000 population)
 SH_STA_WAST: Proportion of children moderately or severely wasted
 SH_STA_WASTN: Children moderately or severely wasted (thousands)
 SH_SUD_ALCOL: Alcohol use disorders, 12-month prevalence (%)
