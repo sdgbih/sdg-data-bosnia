@@ -334,7 +334,8 @@ SH_STA_STNT: Udio djece umjereno ili ozbiljno zaostale u razvoju
 SH_STA_STNTN: Djeca umjereno ili teško zaostala u razvoju (broj)
 SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)
 SH_STA_TRAFN: Broj smrtnih slučajeva zbog povreda u saobraćaju
-SH_STA_WASH: Stopa smrtnosti koja se pripisuje nebezbjednoj vodi, nebezbjednoj sanitaciji i nedostatku higijene 
+SH_STA_WASH: Stopa smrtnosti koja se pripisuje nebezbjednoj vodi, nebezbjednoj sanitaciji i nedostatku higijene
+SH_STA_WASHARI: Stopa smrtnosti koja se pripisuje neispravnoj vodi, nesigurnim sanitarijama i nedostatku higijene od dijareje, infekcija crijevnim nematodama, pothranjenosti i akutnih respiratornih infekcija (umrli na 100.000 stanovnika)
 SH_STA_WAST: Udio djece koja su umjereno ili ozbiljno iscrpljena
 SH_STA_WASTN: Djeca umjereno ili ozbiljno iscrpljena (hiljade)
 SH_SUD_ALCOL: Poremećaji upotrebe alkohola, rasprostranjenost u 12 mjeseci (%)
