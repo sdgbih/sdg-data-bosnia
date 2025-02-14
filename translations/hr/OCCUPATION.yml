@@ -1,8 +1,8 @@
-ISCO08_221: Doktori medicine
-ISCO08_2221_3221: Medicinsko osoblje
-ISCO08_222_322: Medicinsko osoblje i babice
-ISCO08_2261: Zubari
-ISCO08_2262: Farmaceuti
+IPHYS: Doktori medicine
+NURS: Medicinsko osoblje
+NURSMID: Medicinsko osoblje i babice 
+DENT: Zubari
+PHAR: Farmaceuti
 OCCUPATION: Zanimanje
 isco08: Sva zanimanja
 isco08-0: Zanimanja oružanih snaga
