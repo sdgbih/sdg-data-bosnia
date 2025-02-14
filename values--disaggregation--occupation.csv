@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 ADMINPRO,Administration Professionals,Administrativni stručnjaci,Административни стручњаци,Administrativni stručnjaci,1,1
 ASSOCPRO,Business and Administration Associate Professionals,Stručnjaci za poslovne i administrativne poslove,Стручњаци за пословне и административне послове,Poslovni i administrativni suradnici,1,1
+DENT,Dentists,Zubari,Зубари,Zubari,1,1
 GENERAL,General and Keyboard Clerks,Opšti službenici i sekretarice,Општи службеници и секретарице,Opći službenici i sekretarice,1,1
 isco08-0,Armed forces occupations,Zanimanja oružanih snaga,Занимања оружаних снага,Zanimanja oružanih snaga,3,1
 isco08-1,Managers,Menadžeri,Менаџери,Menadžeri,3,1
@@ -13,11 +14,11 @@ isco08-7,Craft and related trades workers,Zanatski i srodni radnici,Занатс
 isco08-8,"Plant and machine operators, and assemblers","Operateri postrojenja i strojeva, te monteri","Оператери постројења и стројева, те монтери","Operateri postrojenja i strojeva, te monteri",3,1
 isco08-9,Elementary occupations,Osnovna zanimanja,Основна занимања,Osnovna zanimanja,3,1
 isco08,All occupations,Sva zanimanja,Сва занимања,Sva zanimanja,3,1
-ISCO08_221,ISCO08_221,ISCO08_221,ISCO08_221,ISCO08_221,3,1
-ISCO08_222_322,ISCO08_222_322,ISCO08_222_322,ISCO08_222_322,ISCO08_222_322,3,1
-ISCO08_2261,ISCO08_2261,ISCO08_2261,ISCO08_2261,ISCO08_2261,1,1
-ISCO08_2262,ISCO08_2262,ISCO08_2262,ISCO08_2262,ISCO08_2262,1,1
 JUDGES,Judges,Sudije,Судије,JUDGES,5,1
+NURS,Nursing personnel,Medicinsko osoblje,Медицинско особље,Medicinsko osoblje,2,1
+NURSMID,Nursing and midwifery personnel,Medicinsko osoblje i babice,Медицинско особље и бабице,Medicinsko osoblje i babice,1,1
 OTHERMAN,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,Ostali menadžeri generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,Остали менаџери: генерални директори и извршни директори и менаџери за пословне услуге и администрацију,Ostali menadžeri: generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,1,1
+PHAR,Pharmacists,Farmaceuti,Фармацеути,Farmaceuti,1,1
+PHYS,Medical doctors,Doktori medicine,Доктори медицине,PHYS,3,1
 SENIORMAN,Senior Managers: Senior Government Officials,Viši menadžeri viši državni službenici,Виши руководиоци: виши државни службеници,Viši menadžeri: viši državni službenici,1,1
 TOTAL_PSP,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)","Ukupno osoblje javnih službi na nacionalnom nivou (uključujući policiju, obrazovanje, zdravstvo, administrativno osoblje na recepciji i sve ostalo osoblje javnih službi)","Укупан број запослених у јавним службама на националном нивоу (укључујући полицију, образовање, здравство, административно особље на рецепцији и све остало особље јавних служби)","Ukupno osoblje javne službe na nacionalnoj razini (uključujući policiju, obrazovanje, zdravstvo, administrativno osoblje na recepciji i sve ostalo osoblje javne službe)",2,1
