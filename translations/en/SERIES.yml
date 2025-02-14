@@ -279,7 +279,7 @@ SH_ALC_CONSPT: Alcohol consumption per capita (aged 15 years and older) within a
 SH_BLD_ECOLI: Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested
 SH_BLD_MRSA: Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested
 SH_DTH_NCD: Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)
-SH_DTH_NCOM: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
+SH_DTH_NCOM: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)
 SH_DYN_IMRT: Infant mortality rate
 SH_DYN_IMRTN: Infant deaths (number)
 SH_DYN_MORT: Under-five mortality rate
