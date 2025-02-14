@@ -1,8 +1,8 @@
-ISCO08_221: Medical doctors
-ISCO08_2221_3221: Nursing personnel
-ISCO08_222_322: Nursing and midwifery personnel
-ISCO08_2261: Dentists
-ISCO08_2262: Pharmacists
+PHYS: Medical doctors
+NURS: Nursing personnel
+NURSMID: Nursing and midwifery personnel
+DENT: Dentists
+PHAR: Pharmacists
 OCCUPATION: Occupation
 isco08: All occupations
 isco08-0: Armed forces occupations
