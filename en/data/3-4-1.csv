@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,COMPOSITE_BREAKDOWN,Value
-2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,20.1
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,19.2
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,18.7
-2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Female,,15.2
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Female,,14.1
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Female,,13.6
-2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,25.3
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,24.6
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,24.0
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,20.1
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,19.2
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,18.7
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Female,,15.2
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Female,,14.1
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Female,,13.6
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Male,,25.3
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Male,,24.6
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",Percent,30 to exact 70 years old,Male,,24.0
 2010,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,8032.0
 2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,8056.0
 2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,8407.0
