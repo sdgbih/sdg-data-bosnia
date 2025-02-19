@@ -67,42 +67,56 @@ Year,SERIES,UNIT_MEASURE,Razina obrazovanja,Kvantil dohotka ili bogatstva,Spol,V
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 3,,,Urbano,,
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 4,,,Urbano,,
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 5 (najbogatiji),,,Urbano,,0.99243
-2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog stepena čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,1.30087
-2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog stepena čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,1.14329
-2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.1
-2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.1
+2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog stepena čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,1.3009
+2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog stepena čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,1.1433
+2010,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.12
+2011,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
+2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
+2013,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.15
+2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.14
+2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.18
+2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.19
+2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.18
+2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.22
+2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.12
 2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.1
-2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.2
-2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.0
+2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
+2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
+2010,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.05
+2011,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.08
+2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.14
+2013,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.07
+2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.03
 2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.2
-2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.0
-2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.1
-2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,0.0
-2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.2
-2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.2
-2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.2
-2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.2
-2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.1
-2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.1
+2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.13
+2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.16
+2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.15
+2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,0.96
+2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.06
+2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.12
+2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 64 godine,1.14
+2010,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,0.96
+2011,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.02
+2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.11
+2013,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.02
+2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,0.92
+2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.26
+2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.25
+2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.21
+2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.19
+2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.15
+2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.09
 2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.1
-2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.2
+2022,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,25 do 54 godine,1.25
+2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,0.93
+2013,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,0.89
 2014,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2015,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2016,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2017,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2018,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2019,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
-2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,0.8
+2020,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2021,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,55 do 64 godine,
 2010,"Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer)",Odnos,,,,,,,0.97698
 2011,"Prilagođeni indeks rodnog pariteta za stopu učešća u organizovanom učenju (godinu dana prije zvaničnog osnovnog uzrasta), (omjer)",Odnos,,,,,,,0.93815
