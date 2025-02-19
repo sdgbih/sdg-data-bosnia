@@ -234,6 +234,7 @@ SG_DSR_SFDRR: Number of countries that reported having a National DRR Strategy w
 SG_DSR_SILN: Number of local governments that adopt and implement local DRR strategies in line with national strategies
 SG_DSR_SILS: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
 SG_GEN_EQPWN: Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment
+SG_GEN_EQPWNN: Countries with systems to track and make public allocations for gender equality and women's empowerment (0 = does not meet the requirement; 1 = approached the requirement; 2  =  Fully meets requirement)
 SG_GEN_LOCGELS: Proportion of elected seats held by women in deliberative bodies of local government
 SG_GEN_PARL: Proportion of seats held by women in national parliaments (% of total number of seats)
 SG_GEN_PARLN:  Current number of seats in national parliaments (number)
