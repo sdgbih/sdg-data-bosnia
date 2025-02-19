@@ -195,7 +195,7 @@ SE_ADT_EDUCTRN: Stopa učešća mladih i odraslih u formalnom i neformalnom obra
 SE_AGP_CPRA: Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
 SE_ALP_CPLR: Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
 SE_AWP_CPRA: Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
-SE_DEV_ONTRK: 'Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje'
+SE_DEV_ONTRK: 'Udio djece u dobi od 36 − 59 mjeseci koja su u razvoju u najmanje tri od sljedećih domena: pismenost - računanje, fizički razvoj, socijalno - emocionalni razvoj i učenje (% djece uzrasta 36-59 mjeseci)'
 SE_GCEDESD_CUR: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nastavne planove i programe 
 SE_GCEDESD_NEP: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nacionalne obrazovne politike 
 SSE_GCEDESD_SAS: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u ocjenjivanje učenika 
