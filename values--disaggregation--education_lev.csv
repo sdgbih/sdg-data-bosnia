@@ -2,7 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 _T,Total or not breakdown,Ukupno,Укупно,Ukupno,9,1
 AGG_0_1,Primary education or less,Osnovno obrazovanje ili niže,Основно образовање или ниже,Osnovno obrazovanje ili niže,1,1
 AGG_GE2,Secondary education or above,Srednje obrazovanje ili više,Средње образовање или више,Srednje obrazovanje ili više,1,1
-LOWSEC,Lower secondary education,Niže srednje obrazovanje,Ниже средње образовање,Niže srednje obrazovanje,90,3
-PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,92,4
+LOWSEC,Lower secondary education,Niže srednje obrazovanje,Ниже средње образовање,Niže srednje obrazovanje,99,3
+PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,101,4
 SECOND,Secondary education level,Nivo srednjeg obrazovanja,Ниво средњег образовања,Razina srednjeg obrazovanja,2,1
-UPPSEC,Upper secondary education,Više srednje obrazovanje,Више средње образовање,Više srednje obrazovanje,90,2
+UPPSEC,Upper secondary education,Više srednje obrazovanje,Више средње образовање,Više srednje obrazovanje,99,2
