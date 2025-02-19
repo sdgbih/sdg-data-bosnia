@@ -192,7 +192,7 @@ SE_ADT_EDUCTRN: Participation rate in formal and non-formal education and traini
 SE_AGP_CPRA: Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level
 SE_ALP_CPLR: Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level
 SE_AWP_CPRA: Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level
-SE_DEV_ONTRK: 'Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning'
+SE_DEV_ONTRK: 'Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains; literacy - numeracy, physical development, social - emotional development, and learning (% of children aged 36-59 months)'
 SE_GCEDESD_CUR: Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula 
 SE_GCEDESD_NEP: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies 
 SE_GCEDESD_SAS: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment 
