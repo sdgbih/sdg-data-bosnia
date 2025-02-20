@@ -377,12 +377,12 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.56
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.02
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.65
-2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.45
-2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.39
-2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.97
-2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,4.65
-2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,5.21
-2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,4.98
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),3.45
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),3.39
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),3.97
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),4.65
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),5.21
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Armed forces (isco-88),4.98
 2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",10.4
 2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.12
 2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.3
