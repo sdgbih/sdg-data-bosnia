@@ -1,6 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2000,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,148.84
+2001,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,110.64
+2002,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,89.28
+2003,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,77.11
+2004,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,68.84
 2005,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,67.7
+2006,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,63.24
+2007,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,65.86
+2008,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,66.22
+2009,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,67.1
 2010,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,59.15
 2011,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,44.81
 2012,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,35.35
@@ -14,7 +22,15 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,54.04
 2021,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,64.54
 2000,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),17.52
+2001,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),18.14
+2002,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),19.13
+2003,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),20.33
+2004,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),21.02
 2005,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),21.77
+2006,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),21.48
+2007,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),23.82
+2008,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),24.99
+2009,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),25.01
 2010,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),25.02
 2011,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),25.92
 2012,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),26.05

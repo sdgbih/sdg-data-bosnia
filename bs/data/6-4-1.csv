@@ -1,6 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2000,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,148.84
+2001,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,110.64
+2002,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,89.28
+2003,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,77.11
+2004,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,68.84
 2005,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,67.7
+2006,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,63.24
+2007,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,65.86
+2008,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,66.22
+2009,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,67.1
 2010,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,59.15
 2011,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,44.81
 2012,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,35.35
@@ -14,7 +22,15 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2020,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,54.04
 2021,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Industrije,64.54
 2000,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),17.52
+2001,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),18.14
+2002,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),19.13
+2003,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),20.33
+2004,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),21.02
 2005,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),21.77
+2006,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),21.48
+2007,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),23.82
+2008,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),24.99
+2009,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),25.01
 2010,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),25.02
 2011,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),25.92
 2012,Efikasnost upotrebe vode (u američkim dolarima po kubnom metru),USD/m3,Usluge (G do T),26.05
