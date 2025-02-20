@@ -1,4 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
+2000,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,2.72
 2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,2.9
 2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,3.07
 2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,3.06
@@ -13,7 +14,6 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,8.44
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,7.39
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,All occupations,7.78
-2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Armed forces occupations,4.98
 2011,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Armed forces occupations,5.03
 2012,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Armed forces occupations,4.71
 2013,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Armed forces occupations,4.63
@@ -113,7 +113,12 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Elementary occupations,6.05
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Elementary occupations,5.72
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Both sexes or no breakdown by sex,Elementary occupations,6.36
-2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,3.96
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,2.59
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,2.72
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,2.88
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,3.44
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,3.92
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,3.95
 2011,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,4.99
 2012,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,4.26
 2013,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,4.22
@@ -125,6 +130,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,All occupations,7.29
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Armed forces occupations,11.1
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Armed forces occupations,7.58
+2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Armed forces occupations,9.77
 2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Managers,4.66
 2011,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Managers,5.87
 2012,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Managers,7.07
@@ -175,6 +181,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service and sales workers,4.93
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service and sales workers,4.85
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service and sales workers,5.35
+2011,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Skilled agricultural, forestry and fishery workers",2.3
+2012,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Skilled agricultural, forestry and fishery workers",2.75
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Skilled agricultural, forestry and fishery workers",5.57
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Skilled agricultural, forestry and fishery workers",6.25
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Skilled agricultural, forestry and fishery workers",7.49
@@ -208,6 +216,63 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,5.11
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,5.17
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,5.81
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",4.58
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",5.93
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",7.31
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",5.93
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",5.14
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,"Legislators, senior officials and managers",4.66
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,5.23
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,3.97
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,4.64
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,5.52
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,7.02
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Professionals,6.44
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,2.4
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,2.97
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,2.96
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,3.75
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,4.23
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Technicians and associate professionals,4.78
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,2.89
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,2.85
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,3.07
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,4.16
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,3.74
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Clerks,3.62
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,2.16
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,2.24
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,1.96
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,2.41
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,2.55
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Service workers and shop and market sales workers,2.6
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Skilled agricultural and fishery workers,1.56
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Skilled agricultural and fishery workers,1.7
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,1.68
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,2.11
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,1.83
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,2.58
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,2.45
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Craft and related trades workers,2.26
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,1.15
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,1.64
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,1.87
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,2.12
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,2.08
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Plant and machine operators and assemblers,2.39
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,1.77
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,1.92
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,2.21
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,2.23
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,3.44
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Elementary occupations,2.82
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,1.6
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,1.29
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,1.67
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,2.36
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,2.39
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Female,Not elsewhere classified,2.13
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,All occupations,2.78
 2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,All occupations,3.0
 2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,All occupations,3.17
 2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,All occupations,3.69
@@ -302,7 +367,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2016,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Plant and machine operators, and assemblers",3.73
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Plant and machine operators, and assemblers",8.74
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Plant and machine operators, and assemblers",7.37
-2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Plant and machine operators, and assemblers",9.08
+2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Plant and machine operators, and assemblers",8.08
 2011,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,4.24
 2012,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,3.27
 2013,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,3.52
@@ -312,3 +377,69 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2020,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.56
 2021,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.02
 2022,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,6.65
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.45
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.39
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,3.97
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,4.65
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,5.21
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,isco88-0,4.98
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",10.4
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.12
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.3
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",5.82
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.83
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,"Legislators, senior officials and managers",6.85
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,4.0
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,4.53
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,4.86
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,5.81
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,6.11
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Professionals,6.63
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,3.73
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,3.01
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,3.9
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,6.28
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,4.13
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Technicians and associate professionals,4.41
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,2.53
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,2.91
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,3.29
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,3.57
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,4.06
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Clerks,3.71
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,2.28
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,2.4
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,2.75
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,2.96
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,3.16
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Service workers and shop and market sales workers,3.27
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,1.72
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,2.52
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,2.11
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,2.95
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,3.06
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Skilled agricultural and fishery workers,3.29
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,2.46
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,2.71
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,2.85
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,3.06
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,3.72
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Craft and related trades workers,3.8
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,2.26
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,2.97
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,2.63
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,3.05
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,3.57
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Plant and machine operators and assemblers,3.79
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,2.33
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,2.39
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,2.76
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,2.8
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,3.17
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Elementary occupations,3.24
+2001,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,2.35
+2006,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,3.32
+2007,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,2.5
+2008,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,2.61
+2009,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,2.74
+2010,Average hourly earnings of employees by sex and occupation (local currency),in BAM,Male,Not elsewhere classified,2.64

@@ -1,4 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
+2000,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,2.72
 2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,2.9
 2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,3.07
 2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,3.06
@@ -13,7 +14,6 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,8.44
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,7.39
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Sva zanimanja,7.78
-2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Zanimanja oružanih snaga,4.98
 2011,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Zanimanja oružanih snaga,5.03
 2012,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Zanimanja oružanih snaga,4.71
 2013,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Zanimanja oružanih snaga,4.63
@@ -113,7 +113,12 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Osnovna zanimanja,6.05
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Osnovna zanimanja,5.72
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Oba spola ili bez podjele po spolu,Osnovna zanimanja,6.36
-2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,3.96
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,2.59
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,2.72
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,2.88
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,3.44
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,3.92
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,3.95
 2011,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,4.99
 2012,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,4.26
 2013,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,4.22
@@ -125,6 +130,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Sva zanimanja,7.29
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanimanja oružanih snaga,11.1
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanimanja oružanih snaga,7.58
+2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanimanja oružanih snaga,9.77
 2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Menadžeri,4.66
 2011,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Menadžeri,5.87
 2012,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Menadžeri,7.07
@@ -175,6 +181,8 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni i prodajni radnici,4.93
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni i prodajni radnici,4.85
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni i prodajni radnici,5.35
+2011,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",2.3
+2012,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",2.75
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",5.57
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",6.25
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu",7.49
@@ -208,6 +216,63 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,5.11
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,5.17
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,5.81
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",4.58
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",5.93
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",7.31
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",5.93
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",5.14
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,"Zakonodavci, visoki službenici i menadžeri",4.66
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,5.23
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,3.97
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,4.64
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,5.52
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,7.02
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Profesionalci,6.44
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,2.4
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,2.97
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,2.96
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,3.75
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,4.23
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Tehničari i saradnici,4.78
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,2.89
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,2.85
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,3.07
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,4.16
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,3.74
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Službenici,3.62
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,2.16
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,2.24
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,1.96
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,2.41
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,2.55
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Uslužni radnici i radnici u trgovini i prodaji,2.6
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Kvalificirani poljoprivredni i ribarstveni radnici,1.56
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Kvalificirani poljoprivredni i ribarstveni radnici,1.7
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,1.68
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,2.11
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,1.83
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,2.58
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,2.45
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Zanatski i srodni radnici,2.26
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,1.15
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,1.64
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,1.87
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,2.12
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,2.08
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Rukovaoci postrojenja i mašina i monteri,2.39
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,1.77
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,1.92
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,2.21
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,2.23
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,3.44
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Osnovna zanimanja,2.82
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,1.6
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,1.29
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,1.67
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,2.36
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,2.39
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Žene,Neklasificirani na drugom mjestu,2.13
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Sva zanimanja,2.78
 2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Sva zanimanja,3.0
 2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Sva zanimanja,3.17
 2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Sva zanimanja,3.69
@@ -302,7 +367,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2016,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Operateri postrojenja i strojeva, te monteri",3.73
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Operateri postrojenja i strojeva, te monteri",8.74
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Operateri postrojenja i strojeva, te monteri",7.37
-2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Operateri postrojenja i strojeva, te monteri",9.08
+2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Operateri postrojenja i strojeva, te monteri",8.08
 2011,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,4.24
 2012,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,3.27
 2013,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,3.52
@@ -312,3 +377,69 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2020,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,6.56
 2021,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,6.02
 2022,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,6.65
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,3.45
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,3.39
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,3.97
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,4.65
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,5.21
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,isco88-0,4.98
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",10.4
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",6.12
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",6.3
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",5.82
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",6.83
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,"Zakonodavci, visoki službenici i menadžeri",6.85
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,4.0
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,4.53
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,4.86
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,5.81
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,6.11
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Profesionalci,6.63
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,3.73
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,3.01
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,3.9
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,6.28
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,4.13
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Tehničari i saradnici,4.41
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,2.53
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,2.91
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,3.29
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,3.57
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,4.06
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Službenici,3.71
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,2.28
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,2.4
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,2.75
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,2.96
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,3.16
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Uslužni radnici i radnici u trgovini i prodaji,3.27
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,1.72
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,2.52
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,2.11
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,2.95
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,3.06
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Kvalificirani poljoprivredni i ribarstveni radnici,3.29
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,2.46
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,2.71
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,2.85
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,3.06
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,3.72
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Zanatski i srodni radnici,3.8
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,2.26
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,2.97
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,2.63
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,3.05
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,3.57
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Rukovaoci postrojenja i mašina i monteri,3.79
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,2.33
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,2.39
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,2.76
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,2.8
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,3.17
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Osnovna zanimanja,3.24
+2001,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,2.35
+2006,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,3.32
+2007,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,2.5
+2008,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,2.61
+2009,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,2.74
+2010,Prosječna zarada po satu zaposlenih prema spolu i zanimanju (nacionalna valuta),u KM,Muškarci,Neklasificirani na drugom mjestu,2.64
