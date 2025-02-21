@@ -1,10 +1,27 @@
 Year,Value,UNIT_MEASURE,SERIES
-2020,,Tone,Izvoz opasnog otpada (tone)
+2014,8703.0,Tone,Proizvedeni opasni otpad (tone)
+2016,13292.0,Tone,Proizvedeni opasni otpad (tone)
+2016,14162.0,Tone,Proizvedeni opasni otpad (tone)
 2020,9943.0,Tone,Proizvedeni opasni otpad (tone)
+2014,2.43709,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2016,3.81846,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2018,4.16514,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
 2020,2.9963,Kilogrami,"Proizvedeni opasni otpad, po stanovniku (Kg)"
+2014,0.0006,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2016,0.0008,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
+2018,0.0008,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
 2020,0.0006,Kilogrami po konstanti američkog dolara,"Proizvedeni opasni otpad, po jedinici BDP-a"
-2020,,Tone,Uvoz opasnog otpada (tone)
+2012,554.392,Tone,Izvoz opasnog otpada (tone)
+2014,568.886,Tone,Izvoz opasnog otpada (tone)
+2012,0.0,Tone,Uvoz opasnog otpada (tone)
+2014,0.0,Tone,Uvoz opasnog otpada (tone)
 2008,,Tone,Prikupljeni komunalni otpad (tone)
+2012,1303000.0,Tone,Generisani komunalni otpad (tone)
+2014,1335000.0,Tone,Generisani komunalni otpad (tone)
+2015,1249000.0,Tone,Generisani komunalni otpad (tone)
+2016,1244000.0,Tone,Generisani komunalni otpad (tone)
+2017,1235000.0,Tone,Generisani komunalni otpad (tone)
+2018,1244000.0,Tone,Generisani komunalni otpad (tone)
 2019,1228000.0,Tone,Generisani komunalni otpad (tone)
 2020,1206000.0,Tone,Generisani komunalni otpad (tone)
 2021,1229000.0,Tone,Generisani komunalni otpad (tone)
