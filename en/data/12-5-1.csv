@@ -12,12 +12,12 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,"Electronic waste recycling, per capita (Kg)",Kilograms,
 2019,"Electronic waste recycling, per capita (Kg)",Kilograms,
 2014,"Electronic waste recycling, rate (%)",Percent,
-2012,EN_MWT_RCYR,Percent,0.0
-2014,EN_MWT_RCYR,Percent,0.0
-2015,EN_MWT_RCYR,Percent,0.0
-2016,EN_MWT_RCYR,Percent,0.0
-2017,EN_MWT_RCYR,Percent,0.0
-2014,EN_MWT_RCYV,TONNES,0.0
-2015,EN_MWT_RCYV,TONNES,0.0
-2016,EN_MWT_RCYV,TONNES,0.0
-2017,EN_MWT_RCYV,TONNES,0.0
+2012,Proportion of municipal waste recycled (%),Percent,0.0
+2014,Proportion of municipal waste recycled (%),Percent,0.0
+2015,Proportion of municipal waste recycled (%),Percent,0.0
+2016,Proportion of municipal waste recycled (%),Percent,0.0
+2017,Proportion of municipal waste recycled (%),Percent,0.0
+2014,Municipal waste recycled (Tonnes),TONNES,0.0
+2015,Municipal waste recycled (Tonnes),TONNES,0.0
+2016,Municipal waste recycled (Tonnes),TONNES,0.0
+2017,Municipal waste recycled (Tonnes),TONNES,0.0
