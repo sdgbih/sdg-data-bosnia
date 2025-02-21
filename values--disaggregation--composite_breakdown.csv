@@ -2,7 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 10MBPS,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbit/s ili više,2,1
 256KT2MBPS,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
 2MT10MBPS,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
-ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,2,2
+ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,3,3
 ALLDOMAINS,Total,Ukupno,Укупно,Ukupno,1,1
 ANYS,Any speed,Bilo koja brzina,Било која брзина,Bilo koja brzina,2,1
 ATS,Amphetamine type stimulants (ATS),Stimulansi tipa amfetamina ATS,Стимуланси типа амфетамина АТС,Stimulansi tipa amfetamina ATS,3,1
@@ -10,7 +10,7 @@ BA_BANJA_LUKA,Banja Luka,Banja Luka,Бања Лука,Banja Luka,2,2
 BA_SARAJEVO,Sarajevo,Sarajevo,Сарајевo,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,Тузла,Tuzla,2,2
 BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
-BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,2,2
+BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,3,3
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
 COCAINE,Cocaine,Kokain,Кокаин,Kokain,2,1
@@ -26,9 +26,9 @@ DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drug
 FINANCE,Finance,Finansije,Финансије,Financije,2,1
 FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,3,1
 GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,3,1
-GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,2,2
+GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,3,3
 HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,1,1
-HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,2,2
+HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,3,3
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
 IHR_03,Surveillance,Nadzor,Надзор,Nadzor,1,1
@@ -47,7 +47,7 @@ IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,М
 IO_IMF,International Monetary Fund,Međunarodni monetarni fond,Међународни монетарни фонд,Međunarodni monetarni fond,4,2
 IO_UNGA,UN General Assembly,Generalna skupština UN-a,Генерална скупштина УН-а,Generalna skupština UN-a,4,2
 IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,Савјет безбједности УН-а,Vijeće sigurnosti UN-a,4,2
-MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,2,2
+MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,3,3
 MOT_AIR,Aire,Zračni,Зрачни,Zračni,2,1
 MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
@@ -57,7 +57,7 @@ OPIOIDS,Opioids,Opijati,Опијати,Opijati,1,1
 RES,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 SKILL_MATH,Mathematics,Matematika,Математика,Matematika,4,1
 SKILL_READ,Reading,Čitanje,Читање,Čitanje,3,1
-SOLAR,Solar energy,Sunčeva energija,Сунчева енергија,Sunčeva energija,2,2
+SOLAR,Solar energy,Sunčeva energija,Сунчева енергија,Sunčeva energija,3,3
 SPAR2-C01,"Policy, Legal and normative Instruments to implement IHR (2021)","Politički, pravni i normativni instrumenti za implementaciju IHR-a (2021)","Политички, правни и нормативни инструменти за имплементацију ИХР-а (2021)","Politika, pravni i normativni instrumenti za provedbu IHR-a (2021)",1,1
 SPAR2-C02,"IHR Coordination, National IHR Focal Point functions, and advocacy (2021)","Koordinacija IHR-a, funkcije nacionalne kontakt tačke za IHR i zastupanje (2021)","Координација ИХР-а, функције Националне контакт тачке за ИХР и заступање (2021)","Koordinacija IHR-a, funkcije nacionalne kontaktne točke IHR-a i zastupanje (2021)",1,1
 SPAR2-C03,Financing (2021),Finansiranje (2021),Финансирање (2021),Financiranje (2021),1,1
@@ -86,4 +86,4 @@ SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о р�
 SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,Točke ulaska,1,1
 SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,Kemijski događaji,1,1
 SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,Izvanredne situacije u vezi sa zračenjem,1,1
-WIND,Wind energy,Energija vjetra,Енергија вјетра,Energija vjetra,2,2
+WIND,Wind energy,Energija vjetra,Енергија вјетра,Energija vjetra,3,3
