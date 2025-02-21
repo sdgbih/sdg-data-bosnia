@@ -200,7 +200,7 @@ SE_AWP_CPRA: Prilagođeni indeks pariteta bogatstva za stopu završetka, prema s
 SE_DEV_ONTRK: 'Udio djece u dobi od 36 − 59 mjeseci koja su u razvoju u najmanje tri od sljedećih domena: pismenost - računanje, fizički razvoj, socijalno - emocionalni razvoj i učenje (% djece uzrasta 36-59 mjeseci)'
 SE_GCEDESD_CUR: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nastavne planove i programe 
 SE_GCEDESD_NEP: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nacionalne obrazovne politike 
-SSE_GCEDESD_SAS: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u ocjenjivanje učenika 
+SE_GCEDESD_SAS: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u ocjenjivanje učenika 
 SE_GCEDESD_TED: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u obrazovanju nastavnika 
 SE_GPI_ICTS: Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer) 
 SE_GPI_PART: Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer)
