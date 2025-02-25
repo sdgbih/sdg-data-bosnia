@@ -58,6 +58,7 @@ EN_HAZ_GENGDP: Hazardous waste generated, per unit of GDP (kilograms per constan
 EN_HAZ_TREATV: Hazardous waste treated, by type of treatment (Tonnes)
 EN_HAZ_TRTDISR: Proportion of hazardous waste treated or disposed (%)
 EN_HAZ_TRTDISV: Hazardous waste treated or disposed (Tonnes)
+EN_MAR_BEALITSQ: Beach litter per square kilometer (Number)
 EN_MWT_COLLV: Municipal waste collected (Tonnes)
 EN_MWT_TREATR: Proportion of municipal waste treated, by type of treatment (%)
 EN_MWT_GENV: Municipal waste generated (Tonnes)
