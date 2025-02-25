@@ -58,7 +58,6 @@ EN_HAZ_GENGDP: Generisani opasni otpad, po jedinici BDP-a (kilogrami po konstant
 EN_HAZ_TREATV: Obrađen opasni otpad, prema vrsti obrade (tone)
 EN_HAZ_TRTDISR: Udio obrađenog ili odloženog opasnog otpada (%)
 EN_HAZ_TRTDISV: Obrađen ili odložen opasni otpad (tone)
-EN_MAR_BEALITSQ: Otpad na plaži po kvadratnom kilometru (broj)
 EN_MWT_COLLV: Prikupljeni komunalni otpad (tone)
 EN_MWT_TREATR: Udio obrađenog komunalnog otpada prema vrsti obrade (%)
 EN_MWT_GENV: Generisani komunalni otpad (tone)
@@ -461,7 +460,7 @@ AG_FOOD_WST: Otpad od hrane (tone)
 AG_FOOD_WST_PC: Otpad od hrane po stanovniku (KG) 
 EN_SCP_FRMN: Broj tvrtki koje objavljuju izvješća o održivosti s objavom po dimenzijama, prema razini zahtjeva
 EN_ATM_GHGT_NAIP: Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂)
-EN_MAR_BEALITSQ: Dužina plaže po kvadratnom kilometru
+EN_MAR_BEALITSQ: Otpad na plaži po kvadratnom kilometru (broj)
 EN_MAR_CHLANM: Hlorofil - anomalija, daljinsko ispitivanje (%)
 ER_RSK_LSTI: Indeks crvene liste 
 ER_IAS_NATBUD: Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE) 
