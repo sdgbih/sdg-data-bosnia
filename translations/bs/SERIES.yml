@@ -58,6 +58,7 @@ EN_HAZ_GENGDP: Generisani opasni otpad, po jedinici BDP-a (kilogrami po konstant
 EN_HAZ_TREATV: Obrađen opasni otpad, prema vrsti obrade (tone)
 EN_HAZ_TRTDISR: Udio obrađenog ili odloženog opasnog otpada (%)
 EN_HAZ_TRTDISV: Obrađen ili odložen opasni otpad (tone)
+EN_MAR_BEALITSQ: Otpad na plaži po kvadratnom kilometru (broj)
 EN_MWT_COLLV: Prikupljeni komunalni otpad (tone)
 EN_MWT_TREATR: Udio obrađenog komunalnog otpada prema vrsti obrade (%)
 EN_MWT_GENV: Generisani komunalni otpad (tone)
