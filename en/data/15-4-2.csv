@@ -164,10 +164,12 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2010,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.69
 2015,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.94
 2018,Mountain Green Cover Index,Total,Tree-covered areas,Percent,67.71
+2000,Mountain green cover area (square kilometres),Montane,Artificial surfaces,Square kilometers,126.25
 2005,Mountain green cover area (square kilometres),Montane,Artificial surfaces,Square kilometers,144.0
 2010,Mountain green cover area (square kilometres),Montane,Artificial surfaces,Square kilometers,163.86
 2015,Mountain green cover area (square kilometres),Montane,Artificial surfaces,Square kilometers,188.28
 2018,Mountain green cover area (square kilometres),Montane,Artificial surfaces,Square kilometers,191.99
+2000,Mountain green cover area (square kilometres),Montane,Croplands,Square kilometers,7152.61
 2005,Mountain green cover area (square kilometres),Montane,Croplands,Square kilometers,6950.25
 2010,Mountain green cover area (square kilometres),Montane,Croplands,Square kilometers,6511.69
 2015,Mountain green cover area (square kilometres),Montane,Croplands,Square kilometers,6432.99
@@ -176,138 +178,180 @@ Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
 2010,Mountain green cover area (square kilometres),Montane,Permanent snow and glaciers,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Montane,Permanent snow and glaciers,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Montane,Permanent snow and glaciers,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Montane,Grassland,Square kilometers,4998.88
 2005,Mountain green cover area (square kilometres),Montane,Grassland,Square kilometers,5013.66
 2010,Mountain green cover area (square kilometres),Montane,Grassland,Square kilometers,4990.11
 2015,Mountain green cover area (square kilometres),Montane,Grassland,Square kilometers,4950.42
 2018,Mountain green cover area (square kilometres),Montane,Grassland,Square kilometers,4969.21
+2000,Mountain green cover area (square kilometres),Montane,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,29.28
 2005,Mountain green cover area (square kilometres),Montane,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,31.34
 2010,Mountain green cover area (square kilometres),Montane,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.79
 2015,Mountain green cover area (square kilometres),Montane,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.24
 2018,Mountain green cover area (square kilometres),Montane,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.31
+2000,Mountain green cover area (square kilometres),Montane,Inland water bodies,Square kilometers,128.46
 2005,Mountain green cover area (square kilometres),Montane,Inland water bodies,Square kilometers,127.84
 2010,Mountain green cover area (square kilometres),Montane,Inland water bodies,Square kilometers,127.08
 2015,Mountain green cover area (square kilometres),Montane,Inland water bodies,Square kilometers,127.08
 2018,Mountain green cover area (square kilometres),Montane,Inland water bodies,Square kilometers,127.08
+2000,Mountain green cover area (square kilometres),Montane,Mountain Green Cover Index (MGCI),Square kilometers,37735.92
 2005,Mountain green cover area (square kilometres),Montane,Mountain Green Cover Index (MGCI),Square kilometers,37718.79
 2010,Mountain green cover area (square kilometres),Montane,Mountain Green Cover Index (MGCI),Square kilometers,37696.82
 2015,Mountain green cover area (square kilometres),Montane,Mountain Green Cover Index (MGCI),Square kilometers,37671.22
 2018,Mountain green cover area (square kilometres),Montane,Mountain Green Cover Index (MGCI),Square kilometers,37666.77
+2000,Mountain green cover area (square kilometres),Montane,Shrub-covered areas,Square kilometers,414.1
 2005,Mountain green cover area (square kilometres),Montane,Shrub-covered areas,Square kilometers,412.07
 2010,Mountain green cover area (square kilometres),Montane,Shrub-covered areas,Square kilometers,410.18
 2015,Mountain green cover area (square kilometres),Montane,Shrub-covered areas,Square kilometers,408.85
 2018,Mountain green cover area (square kilometres),Montane,Shrub-covered areas,Square kilometers,413.61
+2000,Mountain green cover area (square kilometres),Montane,Sparsely natural vegetated areas,Square kilometers,27.06
 2005,Mountain green cover area (square kilometres),Montane,Sparsely natural vegetated areas,Square kilometers,27.06
 2010,Mountain green cover area (square kilometres),Montane,Sparsely natural vegetated areas,Square kilometers,30.21
 2015,Mountain green cover area (square kilometres),Montane,Sparsely natural vegetated areas,Square kilometers,30.48
 2018,Mountain green cover area (square kilometres),Montane,Sparsely natural vegetated areas,Square kilometers,30.62
+2000,Mountain green cover area (square kilometres),Montane,Terrestrial barren land,Square kilometers,11.82
 2005,Mountain green cover area (square kilometres),Montane,Terrestrial barren land,Square kilometers,11.82
 2010,Mountain green cover area (square kilometres),Montane,Terrestrial barren land,Square kilometers,11.55
 2015,Mountain green cover area (square kilometres),Montane,Terrestrial barren land,Square kilometers,12.45
 2018,Mountain green cover area (square kilometres),Montane,Terrestrial barren land,Square kilometers,13.05
+2000,Mountain green cover area (square kilometres),Montane,Tree-covered areas,Square kilometers,25141.05
 2005,Mountain green cover area (square kilometres),Montane,Tree-covered areas,Square kilometers,25311.47
 2010,Mountain green cover area (square kilometres),Montane,Tree-covered areas,Square kilometers,25754.05
 2015,Mountain green cover area (square kilometres),Montane,Tree-covered areas,Square kilometers,25848.72
 2018,Mountain green cover area (square kilometres),Montane,Tree-covered areas,Square kilometers,25758.93
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Artificial surfaces,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Artificial surfaces,Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Artificial surfaces,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Artificial surfaces,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Artificial surfaces,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Croplands,Square kilometers,7.4
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Croplands,Square kilometers,6.5
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Croplands,Square kilometers,6.64
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Croplands,Square kilometers,5.88
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Croplands,Square kilometers,5.94
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Permanent snow and glaciers,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Grassland,Square kilometers,0.93
+2000,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Inland water bodies,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Inland water bodies,Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Inland water bodies,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Inland water bodies,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Inland water bodies,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Mountain Green Cover Index (MGCI),Square kilometers,24.4
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Mountain Green Cover Index (MGCI),Square kilometers,24.4
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Mountain Green Cover Index (MGCI),Square kilometers,24.4
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Mountain Green Cover Index (MGCI),Square kilometers,24.4
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Mountain Green Cover Index (MGCI),Square kilometers,24.4
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Shrub-covered areas,Square kilometers,10.56
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Shrub-covered areas,Square kilometers,10.56
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Shrub-covered areas,Square kilometers,10.7
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Shrub-covered areas,Square kilometers,10.7
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Shrub-covered areas,Square kilometers,10.7
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Sparsely natural vegetated areas,Square kilometers,0.21
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Sparsely natural vegetated areas,Square kilometers,0.21
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Sparsely natural vegetated areas,Square kilometers,0.21
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Sparsely natural vegetated areas,Square kilometers,0.21
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Sparsely natural vegetated areas,Square kilometers,0.21
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Terrestrial barren land,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Terrestrial barren land,Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Terrestrial barren land,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Terrestrial barren land,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Terrestrial barren land,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Remaining mountain area,Tree-covered areas,Square kilometers,5.51
 2005,Mountain green cover area (square kilometres),Remaining mountain area,Tree-covered areas,Square kilometers,6.41
 2010,Mountain green cover area (square kilometres),Remaining mountain area,Tree-covered areas,Square kilometers,6.13
 2015,Mountain green cover area (square kilometres),Remaining mountain area,Tree-covered areas,Square kilometers,6.9
 2018,Mountain green cover area (square kilometres),Remaining mountain area,Tree-covered areas,Square kilometers,6.83
+2000,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,126.25
 2005,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,144.0
 2010,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,163.86
 2015,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,188.28
 2018,Mountain green cover area (square kilometres),Total,Artificial surfaces,Square kilometers,191.99
+2000,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,7160.01
 2005,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6956.75
 2010,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6518.33
 2015,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6438.86
 2018,Mountain green cover area (square kilometres),Total,Croplands,Square kilometers,6500.67
+2000,Mountain green cover area (square kilometres),Total,Permanent snow and glaciers,Square kilometers,0.0
 2005,Mountain green cover area (square kilometres),Total,Permanent snow and glaciers,Square kilometers,0.0
 2010,Mountain green cover area (square kilometres),Total,Permanent snow and glaciers,Square kilometers,0.0
 2015,Mountain green cover area (square kilometres),Total,Permanent snow and glaciers,Square kilometers,0.0
 2018,Mountain green cover area (square kilometres),Total,Permanent snow and glaciers,Square kilometers,0.0
+2000,Mountain green cover area (square kilometres),Total,Grassland,Square kilometers,4999.81
 2005,Mountain green cover area (square kilometres),Total,Grassland,Square kilometers,5014.59
 2010,Mountain green cover area (square kilometres),Total,Grassland,Square kilometers,4991.04
 2015,Mountain green cover area (square kilometres),Total,Grassland,Square kilometers,4951.36
 2018,Mountain green cover area (square kilometres),Total,Grassland,Square kilometers,4970.14
+2000,Mountain green cover area (square kilometres),Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,29.28
 2005,Mountain green cover area (square kilometres),Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,31.34
 2010,Mountain green cover area (square kilometres),Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.79
 2015,Mountain green cover area (square kilometres),Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.24
 2018,Mountain green cover area (square kilometres),Total,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",Square kilometers,30.31
+2000,Mountain green cover area (square kilometres),Total,Inland water bodies,Square kilometers,128.46
 2005,Mountain green cover area (square kilometres),Total,Inland water bodies,Square kilometers,127.84
 2010,Mountain green cover area (square kilometres),Total,Inland water bodies,Square kilometers,127.08
 2015,Mountain green cover area (square kilometres),Total,Inland water bodies,Square kilometers,127.08
 2018,Mountain green cover area (square kilometres),Total,Inland water bodies,Square kilometers,127.08
+2000,Mountain green cover area (square kilometres),Total,Mountain Green Cover Index (MGCI),Square kilometers,37760.32
 2005,Mountain green cover area (square kilometres),Total,Mountain Green Cover Index (MGCI),Square kilometers,37743.19
 2010,Mountain green cover area (square kilometres),Total,Mountain Green Cover Index (MGCI),Square kilometers,37721.22
 2015,Mountain green cover area (square kilometres),Total,Mountain Green Cover Index (MGCI),Square kilometers,37695.62
 2018,Mountain green cover area (square kilometres),Total,Mountain Green Cover Index (MGCI),Square kilometers,37691.18
+2000,Mountain green cover area (square kilometres),Total,Shrub-covered areas,Square kilometers,424.65
 2005,Mountain green cover area (square kilometres),Total,Shrub-covered areas,Square kilometers,422.63
 2010,Mountain green cover area (square kilometres),Total,Shrub-covered areas,Square kilometers,420.88
 2015,Mountain green cover area (square kilometres),Total,Shrub-covered areas,Square kilometers,419.55
 2018,Mountain green cover area (square kilometres),Total,Shrub-covered areas,Square kilometers,424.3
+2000,Mountain green cover area (square kilometres),Total,Sparsely natural vegetated areas,Square kilometers,27.27
 2005,Mountain green cover area (square kilometres),Total,Sparsely natural vegetated areas,Square kilometers,27.27
 2010,Mountain green cover area (square kilometres),Total,Sparsely natural vegetated areas,Square kilometers,30.41
 2015,Mountain green cover area (square kilometres),Total,Sparsely natural vegetated areas,Square kilometers,30.69
 2018,Mountain green cover area (square kilometres),Total,Sparsely natural vegetated areas,Square kilometers,30.83
+2000,Mountain green cover area (square kilometres),Total,Terrestrial barren land,Square kilometers,11.82
 2005,Mountain green cover area (square kilometres),Total,Terrestrial barren land,Square kilometers,11.82
 2010,Mountain green cover area (square kilometres),Total,Terrestrial barren land,Square kilometers,11.55
 2015,Mountain green cover area (square kilometres),Total,Terrestrial barren land,Square kilometers,12.45
 2018,Mountain green cover area (square kilometres),Total,Terrestrial barren land,Square kilometers,13.05
+2000,Mountain green cover area (square kilometres),Total,Tree-covered areas,Square kilometers,25146.56
 2005,Mountain green cover area (square kilometres),Total,Tree-covered areas,Square kilometers,25317.89
 2010,Mountain green cover area (square kilometres),Total,Tree-covered areas,Square kilometers,25760.18
 2015,Mountain green cover area (square kilometres),Total,Tree-covered areas,Square kilometers,25855.61
 2018,Mountain green cover area (square kilometres),Total,Tree-covered areas,Square kilometers,25765.75
+2000,Mountain area (square kilometres),Montane,,Square kilometers,38029.51
+2005,Mountain area (square kilometres),Montane,,Square kilometers,38029.51
+2010,Mountain area (square kilometres),Montane,,Square kilometers,38029.51
+2015,Mountain area (square kilometres),Montane,,Square kilometers,38029.51
 2018,Mountain area (square kilometres),Montane,,Square kilometers,38029.51
+2000,Mountain area (square kilometres),Remaining mountain area,,Square kilometers,24.61
+2005,Mountain area (square kilometres),Remaining mountain area,,Square kilometers,24.61
+2010,Mountain area (square kilometres),Remaining mountain area,,Square kilometers,24.61
+2015,Mountain area (square kilometres),Remaining mountain area,,Square kilometers,24.61
 2018,Mountain area (square kilometres),Remaining mountain area,,Square kilometers,24.61
+2000,Mountain area (square kilometres),Total,,Square kilometers,38054.12
+2005,Mountain area (square kilometres),Total,,Square kilometers,38054.12
+2010,Mountain area (square kilometres),Total,,Square kilometers,38054.12
+2015,Mountain area (square kilometres),Total,,Square kilometers,38054.12
 2018,Mountain area (square kilometres),Total,,Square kilometers,38054.12
 2015,Proportion of degraded mountain land (%),Montane,,Percent,0.76
-2018,Proportion of degraded mountain land (%),Montane,,Percent,0.31
+2018,Proportion of degraded mountain land (%),Montane,,Percent,1.07
 2015,Proportion of degraded mountain land (%),Remaining mountain area,,Percent,1.14
-2018,Proportion of degraded mountain land (%),Remaining mountain area,,Percent,0.28
+2018,Proportion of degraded mountain land (%),Remaining mountain area,,Percent,1.42
 2015,Proportion of degraded mountain land (%),Total,,Percent,0.76
-2018,Proportion of degraded mountain land (%),Total,,Percent,0.31
+2018,Proportion of degraded mountain land (%),Total,,Percent,1.07
 2015,Area of degraded mountain land (square kilometres),Montane,,Square kilometers,288.99
-2018,Area of degraded mountain land (square kilometres),Montane,,Square kilometers,117.31
+2018,Area of degraded mountain land (square kilometres),Montane,,Square kilometers,406.3
 2015,Area of degraded mountain land (square kilometres),Remaining mountain area,,Square kilometers,0.28
-2018,Area of degraded mountain land (square kilometres),Remaining mountain area,,Square kilometers,0.07
+2018,Area of degraded mountain land (square kilometres),Remaining mountain area,,Square kilometers,0.35
 2015,Area of degraded mountain land (square kilometres),Total,,Square kilometers,289.27
-2018,Area of degraded mountain land (square kilometres),Total,,Square kilometers,117.38
+2018,Area of degraded mountain land (square kilometres),Total,,Square kilometers,406.3

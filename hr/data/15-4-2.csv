@@ -164,10 +164,12 @@ Year,SERIES,Bioklimatski pojas,Zemljišni pokrov,UNIT_MEASURE,Value
 2010,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.69
 2015,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.94
 2018,Indeks planinskog zelenog pokrivača,Ukupno,Područja obrasla drvećem,Postotak,67.71
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Umjetne površine,Kvadratnih kilometara,126.25
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Umjetne površine,Kvadratnih kilometara,144.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Umjetne površine,Kvadratnih kilometara,163.86
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Umjetne površine,Kvadratnih kilometara,188.28
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Umjetne površine,Kvadratnih kilometara,191.99
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Usjevi,Kvadratnih kilometara,7152.61
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Usjevi,Kvadratnih kilometara,6950.25
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Usjevi,Kvadratnih kilometara,6511.69
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Usjevi,Kvadratnih kilometara,6432.99
@@ -176,138 +178,180 @@ Year,SERIES,Bioklimatski pojas,Zemljišni pokrov,UNIT_MEASURE,Value
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Travnjak,Kvadratnih kilometara,4998.88
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Travnjak,Kvadratnih kilometara,5013.66
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Travnjak,Kvadratnih kilometara,4990.11
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Travnjak,Kvadratnih kilometara,4950.42
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Travnjak,Kvadratnih kilometara,4969.21
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,29.28
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,31.34
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.79
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.24
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.31
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena vodna tijela,Kvadratnih kilometara,128.46
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena vodna tijela,Kvadratnih kilometara,127.84
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena vodna tijela,Kvadratnih kilometara,127.08
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena vodna tijela,Kvadratnih kilometara,127.08
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena vodna tijela,Kvadratnih kilometara,127.08
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37735.92
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37718.79
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37696.82
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37671.22
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37666.77
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Površine obrasle grmljem,Kvadratnih kilometara,414.1
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Površine obrasle grmljem,Kvadratnih kilometara,412.07
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Površine obrasle grmljem,Kvadratnih kilometara,410.18
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Površine obrasle grmljem,Kvadratnih kilometara,408.85
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Površine obrasle grmljem,Kvadratnih kilometara,413.61
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Oskudno prirodna vegetacija,Kvadratnih kilometara,27.06
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Oskudno prirodna vegetacija,Kvadratnih kilometara,27.06
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.21
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.48
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.62
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena neplodna zemlja,Kvadratnih kilometara,11.82
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena neplodna zemlja,Kvadratnih kilometara,11.82
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena neplodna zemlja,Kvadratnih kilometara,11.55
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena neplodna zemlja,Kvadratnih kilometara,12.45
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Kopnena neplodna zemlja,Kvadratnih kilometara,13.05
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Područja obrasla drvećem,Kvadratnih kilometara,25141.05
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Područja obrasla drvećem,Kvadratnih kilometara,25311.47
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Područja obrasla drvećem,Kvadratnih kilometara,25754.05
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Područja obrasla drvećem,Kvadratnih kilometara,25848.72
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Planinski,Područja obrasla drvećem,Kvadratnih kilometara,25758.93
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Umjetne površine,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Umjetne površine,Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Umjetne površine,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Umjetne površine,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Umjetne površine,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Usjevi,Kvadratnih kilometara,7.4
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Usjevi,Kvadratnih kilometara,6.5
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Usjevi,Kvadratnih kilometara,6.64
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Usjevi,Kvadratnih kilometara,5.88
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Usjevi,Kvadratnih kilometara,5.94
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnjak,Kvadratnih kilometara,0.93
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnjak,Kvadratnih kilometara,0.93
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnjak,Kvadratnih kilometara,0.93
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnjak,Kvadratnih kilometara,0.93
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Travnjak,Kvadratnih kilometara,0.93
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena vodna tijela,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena vodna tijela,Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena vodna tijela,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena vodna tijela,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena vodna tijela,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,24.4
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,24.4
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,24.4
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,24.4
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,24.4
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Površine obrasle grmljem,Kvadratnih kilometara,10.56
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Površine obrasle grmljem,Kvadratnih kilometara,10.56
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Površine obrasle grmljem,Kvadratnih kilometara,10.7
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Površine obrasle grmljem,Kvadratnih kilometara,10.7
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Površine obrasle grmljem,Kvadratnih kilometara,10.7
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Oskudno prirodna vegetacija,Kvadratnih kilometara,0.21
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Oskudno prirodna vegetacija,Kvadratnih kilometara,0.21
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Oskudno prirodna vegetacija,Kvadratnih kilometara,0.21
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Oskudno prirodna vegetacija,Kvadratnih kilometara,0.21
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Oskudno prirodna vegetacija,Kvadratnih kilometara,0.21
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena neplodna zemlja,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena neplodna zemlja,Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena neplodna zemlja,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena neplodna zemlja,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Kopnena neplodna zemlja,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Područja obrasla drvećem,Kvadratnih kilometara,5.51
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Područja obrasla drvećem,Kvadratnih kilometara,6.41
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Područja obrasla drvećem,Kvadratnih kilometara,6.13
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Područja obrasla drvećem,Kvadratnih kilometara,6.9
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Preostalo planinsko područje,Područja obrasla drvećem,Kvadratnih kilometara,6.83
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Umjetne površine,Kvadratnih kilometara,126.25
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Umjetne površine,Kvadratnih kilometara,144.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Umjetne površine,Kvadratnih kilometara,163.86
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Umjetne površine,Kvadratnih kilometara,188.28
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Umjetne površine,Kvadratnih kilometara,191.99
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,7160.01
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6956.75
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6518.33
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6438.86
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Usjevi,Kvadratnih kilometara,6500.67
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Trajni snijeg i ledenjaci,Kvadratnih kilometara,0.0
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Travnjak,Kvadratnih kilometara,4999.81
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Travnjak,Kvadratnih kilometara,5014.59
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Travnjak,Kvadratnih kilometara,4991.04
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Travnjak,Kvadratnih kilometara,4951.36
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Travnjak,Kvadratnih kilometara,4970.14
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,29.28
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,31.34
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.79
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.24
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,"Grmlje i/ili zeljasta vegetacija, vodena ili redovito plavljena područja",Kvadratnih kilometara,30.31
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena vodna tijela,Kvadratnih kilometara,128.46
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena vodna tijela,Kvadratnih kilometara,127.84
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena vodna tijela,Kvadratnih kilometara,127.08
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena vodna tijela,Kvadratnih kilometara,127.08
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena vodna tijela,Kvadratnih kilometara,127.08
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37760.32
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37743.19
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37721.22
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37695.62
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Indeks zelenog pokrova planina (MGCI),Kvadratnih kilometara,37691.18
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine obrasle grmljem,Kvadratnih kilometara,424.65
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine obrasle grmljem,Kvadratnih kilometara,422.63
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine obrasle grmljem,Kvadratnih kilometara,420.88
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine obrasle grmljem,Kvadratnih kilometara,419.55
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Površine obrasle grmljem,Kvadratnih kilometara,424.3
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Oskudno prirodna vegetacija,Kvadratnih kilometara,27.27
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Oskudno prirodna vegetacija,Kvadratnih kilometara,27.27
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.41
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.69
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Oskudno prirodna vegetacija,Kvadratnih kilometara,30.83
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena neplodna zemlja,Kvadratnih kilometara,11.82
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena neplodna zemlja,Kvadratnih kilometara,11.82
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena neplodna zemlja,Kvadratnih kilometara,11.55
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena neplodna zemlja,Kvadratnih kilometara,12.45
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Kopnena neplodna zemlja,Kvadratnih kilometara,13.05
+2000,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja obrasla drvećem,Kvadratnih kilometara,25146.56
 2005,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja obrasla drvećem,Kvadratnih kilometara,25317.89
 2010,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja obrasla drvećem,Kvadratnih kilometara,25760.18
 2015,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja obrasla drvećem,Kvadratnih kilometara,25855.61
 2018,Indeks planinskog zelenog pokrivača (kvadratnih kilometara),Ukupno,Područja obrasla drvećem,Kvadratnih kilometara,25765.75
+2000,Planinsko područje (kvadratni kilometri),Planinski,,Kvadratnih kilometara,38029.51
+2005,Planinsko područje (kvadratni kilometri),Planinski,,Kvadratnih kilometara,38029.51
+2010,Planinsko područje (kvadratni kilometri),Planinski,,Kvadratnih kilometara,38029.51
+2015,Planinsko područje (kvadratni kilometri),Planinski,,Kvadratnih kilometara,38029.51
 2018,Planinsko područje (kvadratni kilometri),Planinski,,Kvadratnih kilometara,38029.51
+2000,Planinsko područje (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,24.61
+2005,Planinsko područje (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,24.61
+2010,Planinsko područje (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,24.61
+2015,Planinsko područje (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,24.61
 2018,Planinsko područje (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,24.61
+2000,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
+2005,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
+2010,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
+2015,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
 2018,Planinsko područje (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,38054.12
 2015,Udio degradiranog planinskog zemljišta (%),Planinski,,Postotak,0.76
-2018,Udio degradiranog planinskog zemljišta (%),Planinski,,Postotak,0.31
+2018,Udio degradiranog planinskog zemljišta (%),Planinski,,Postotak,1.07
 2015,Udio degradiranog planinskog zemljišta (%),Preostalo planinsko područje,,Postotak,1.14
-2018,Udio degradiranog planinskog zemljišta (%),Preostalo planinsko područje,,Postotak,0.28
+2018,Udio degradiranog planinskog zemljišta (%),Preostalo planinsko područje,,Postotak,1.42
 2015,Udio degradiranog planinskog zemljišta (%),Ukupno,,Postotak,0.76
-2018,Udio degradiranog planinskog zemljišta (%),Ukupno,,Postotak,0.31
+2018,Udio degradiranog planinskog zemljišta (%),Ukupno,,Postotak,1.07
 2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Planinski,,Kvadratnih kilometara,288.99
-2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Planinski,,Kvadratnih kilometara,117.31
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Planinski,,Kvadratnih kilometara,406.3
 2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,0.28
-2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,0.07
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Preostalo planinsko područje,,Kvadratnih kilometara,0.35
 2015,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,289.27
-2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,117.38
+2018,Površina degradiranog planinskog zemljišta (kvadratni kilometri),Ukupno,,Kvadratnih kilometara,406.3
