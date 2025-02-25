@@ -19,8 +19,10 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2017,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.92
 2018,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.69
 2019,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.36
+2020,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.2
 2021,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.91
 2022,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.04
+2023,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.17
 2000,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.3
 2001,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.41
 2002,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.31
@@ -39,6 +41,7 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2017,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.56
 2018,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.73
 2019,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.48
+2020,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.66
 2021,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,13.99
 2022,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,14.38
 2000,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,211.1
@@ -61,5 +64,7 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2017,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,606.1
 2018,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,624.27
 2019,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,631.49
+2020,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,611.67
 2021,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,708.66
 2022,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,753.86
+2023,Manufacturing value added per capita (constant 2015 United States dollars),Constant USD,Manufacturing,782.93
