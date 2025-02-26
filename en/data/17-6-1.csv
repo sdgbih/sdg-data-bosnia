@@ -38,6 +38,11 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2020,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,2 Mbit/s to less than 10 Mbit/s,8.71
 2021,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,2 Mbit/s to less than 10 Mbit/s,8.82
 2022,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,2 Mbit/s to less than 10 Mbit/s,9.2
+2000,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.00065
+2001,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.00162
+2002,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.005
+2003,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.036
+2004,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.16
 2005,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.33
 2006,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,0.99
 2007,"Fixed broadband subscriptions, by speed (per 100 inhabitants)",Per 100 population,Any speed,2.11
@@ -95,6 +100,11 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2020,"Number of fixed broadband subscriptions, by speed (number)",Number,2 Mbit/s to less than 10 Mbit/s,288992.0
 2021,"Number of fixed broadband subscriptions, by speed (number)",Number,2 Mbit/s to less than 10 Mbit/s,288377.0
 2022,"Number of fixed broadband subscriptions, by speed (number)",Number,2 Mbit/s to less than 10 Mbit/s,297331.0
+2000,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,27.0
+2001,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,68.0
+2002,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,213.0
+2003,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,1500.0
+2004,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,6637.0
 2005,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,13702.0
 2006,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,40000.0
 2007,"Number of fixed broadband subscriptions, by speed (number)",Number,Any speed,84691.0

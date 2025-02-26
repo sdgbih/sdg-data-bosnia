@@ -38,6 +38,11 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2020,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,8.71
 2021,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,8.82
 2022,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,2 Mbit/s do manje od 10 Mbit/s,9.2
+2000,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.00065
+2001,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.00162
+2002,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.005
+2003,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.036
+2004,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.16
 2005,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.33
 2006,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,0.99
 2007,"Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stanovnika)",Na 100 stanovnika,Bilo koja brzina,2.11
@@ -95,6 +100,11 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2020,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,2 Mbit/s do manje od 10 Mbit/s,288992.0
 2021,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,2 Mbit/s do manje od 10 Mbit/s,288377.0
 2022,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,2 Mbit/s do manje od 10 Mbit/s,297331.0
+2000,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,27.0
+2001,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,68.0
+2002,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,213.0
+2003,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,1500.0
+2004,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,6637.0
 2005,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,13702.0
 2006,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,40000.0
 2007,"Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)",Broj,Bilo koja brzina,84691.0
