@@ -4,11 +4,13 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,10.632
 2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.22
 2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.248
+2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Bez podjele,11.208
 2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.387
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.877
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.45
 2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.953
 2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.945
+2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Biomasa,2.767
 2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugljen,3.73155
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugljen,4.19996
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Ugljen,4.45288
@@ -36,6 +38,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.883
 2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.989
 2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.697
+2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Fosilna goriva,4.589
 2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni plin,0.063
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni plin,0.072
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Prirodni plin,0.075
@@ -51,6 +54,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.724
 2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.716
 2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.845
+2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Metalne rude,0.711
 2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.273
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.274
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Rude obojenih metala,0.274
@@ -75,6 +79,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.754
 2018,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.742
 2019,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,2.941
+2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Nemetalni minerali,3.378
 2015,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
 2016,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
 2017,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Uljni škriljci i katranski pijesak,0.0
@@ -230,6 +235,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2019,Potrošnja domaćih materijala,Tone,Bez podjele,39279289.0
 2020,Potrošnja domaćih materijala,Tone,Bez podjele,39605525.0
 2021,Potrošnja domaćih materijala,Tone,Bez podjele,38177091.0
+2022,Potrošnja domaćih materijala,Tone,Bez podjele,38698662.0
 2015,Potrošnja domaćih materijala,Tone,Biomasa,8762125.0
 2016,Potrošnja domaćih materijala,Tone,Biomasa,10105493.0
 2017,Potrošnja domaćih materijala,Tone,Biomasa,8586029.0
@@ -237,6 +243,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2019,Potrošnja domaćih materijala,Tone,Biomasa,10285656.0
 2020,Potrošnja domaćih materijala,Tone,Biomasa,10577745.0
 2021,Potrošnja domaćih materijala,Tone,Biomasa,8866925.0
+2022,Potrošnja domaćih materijala,Tone,Biomasa,9552392.0
 2015,Potrošnja domaćih materijala,Tone,Fosilna goriva,14810639.0
 2016,Potrošnja domaćih materijala,Tone,Fosilna goriva,16426875.0
 2017,Potrošnja domaćih materijala,Tone,Fosilna goriva,17114446.0
@@ -244,6 +251,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2019,Potrošnja domaćih materijala,Tone,Fosilna goriva,16400470.0
 2020,Potrošnja domaćih materijala,Tone,Fosilna goriva,16222610.0
 2021,Potrošnja domaćih materijala,Tone,Fosilna goriva,15789864.0
+2022,Potrošnja domaćih materijala,Tone,Fosilna goriva,15844402.0
 2015,Potrošnja domaćih materijala,Tone,Metalne rude,3064341.0
 2016,Potrošnja domaćih materijala,Tone,Metalne rude,2636392.0
 2017,Potrošnja domaćih materijala,Tone,Metalne rude,2537296.0
@@ -251,6 +259,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2019,Potrošnja domaćih materijala,Tone,Metalne rude,2950555.0
 2020,Potrošnja domaćih materijala,Tone,Metalne rude,2132375.0
 2021,Potrošnja domaćih materijala,Tone,Metalne rude,2261955.0
+2022,Potrošnja domaćih materijala,Tone,Metalne rude,2454569.0
 2015,Potrošnja domaćih materijala,Tone,Nemetalni minerali,9961015.0
 2016,Potrošnja domaćih materijala,Tone,Nemetalni minerali,11544016.0
 2017,Potrošnja domaćih materijala,Tone,Nemetalni minerali,9653949.0
@@ -258,6 +267,7 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2019,Potrošnja domaćih materijala,Tone,Nemetalni minerali,10270696.0
 2020,Potrošnja domaćih materijala,Tone,Nemetalni minerali,11203837.0
 2021,Potrošnja domaćih materijala,Tone,Nemetalni minerali,11855036.0
+2022,Potrošnja domaćih materijala,Tone,Nemetalni minerali,11662839.0
 2015,Potrošnja domaćih materijala,Tone,Ugljen,13151192.0
 2016,Potrošnja domaćih materijala,Tone,Ugljen,14619987.0
 2017,Potrošnja domaćih materijala,Tone,Ugljen,15318026.0
