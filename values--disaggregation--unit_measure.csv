@@ -12,7 +12,7 @@ GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограм�
 HA_TH,Thousands of hectares,Hiljade hektara,Хиљаде хектара,Tisuće hektara,3,2
 INDEX,INDEX,INDEX,INDEX,INDEX,1,1
 IX,Index,Index,Индеx,Index,13,8
-KG,Kilograms,Kilogrami,Килограми,Kilogrami,6,3
+KG,Kilograms,Kilogrami,Килограми,Kilogrami,7,3
 KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,39,4
 KM2,Square kilometers,Kvadratnih kilometara,Квадратних километара,Kvadratnih kilometara,45,2
 LITRES,LITRES,Litri,Литри,Litri,3,1
@@ -37,7 +37,7 @@ SCORE,Score,Rezultat,Резултат,Rezultat,6,5
 T_KM,Tonne kilometres,Tonski kilometri,Тонски километри,Tonski kilometri,4,1
 T_PER_HA,Tonnes per hectare,Tona po hektaru,Тона по хектару,Tona po hektaru,1,1
 THOUSANDS,THOUSANDS,Hiljade,Хиљаде,Tisuće,9,3
-TONNES,TONNES,Tone,Тоне,Tone,96,5
+TONNES,TONNES,Tone,Тоне,Tone,97,5
 TONNES_M,TONNES_M,Milioni tona,Милиони тона,Milijuni tona,2,1
 USD/m3,USD/m3,USD/m3,Амерички долар/m3,USD/m3,4,1
 W_PER_CAPITA,Watts per capita,Vati po glavi stanovnika,Вати по глави становника,Vati po glavi stanovnika,14,2
