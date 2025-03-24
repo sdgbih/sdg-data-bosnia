@@ -10,7 +10,7 @@ CUR_LCU,in BAM,u KM,у KM,u KM,54,1
 CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),Локална валута (милиони),Lokalna valuta (milioni),1,1
 GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,Mikrogrami po kubnom metru,5,1
 HA_TH,Thousands of hectares,Hiljade hektara,Хиљаде хектара,Tisuće hektara,3,2
-INDEX,Index,Index,INDEX,Index,1,1
+INDEX,Index,Index,Индекс,Index,1,1
 IX,Index,Index,Индеx,Index,13,8
 KG,Kilograms,Kilogrami,Килограми,Kilogrami,7,3
 KG_PER_CON_USD,Kilograms per constant USD,Kilogrami po konstanti američkog dolara,Килограми по константи америчког долара,Kilogrami po konstanti američkog dolara,39,4
