@@ -11,6 +11,7 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2019,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,2.18
 2020,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.29
 2021,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.53
+2022,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Proizvodnja isklj. koksa i rafiniranih naftnih derivata te popravak i ugradnja strojeva i opreme,1.49
 2010,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,20.48
 2011,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,23.4
 2012,Emisije ugljen-dioksida izgaranjem goriva,Milioni tona,Bez podjele,21.65
@@ -35,14 +36,20 @@ Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
 2019,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,1.027
 2020,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.636
 2021,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.66
-2009,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.499
-2010,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.502
-2011,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.569
-2014,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.454
-2015,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.438
-2016,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.484
-2017,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.475
-2018,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.455
-2019,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.413
-2020,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.421
-2021,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.396
+2022,Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.),Kilogrami po konstanti američkog dolara,Proizvodnja,0.611
+2005,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.4
+2006,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.416
+2007,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.415
+2008,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.431
+2009,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.434
+2010,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.437
+2011,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.495
+2014,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.395
+2015,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.381
+2016,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.421
+2017,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.413
+2018,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.396
+2019,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.359
+2020,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.366
+2021,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.344
+2022,Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstanti u američkim dolarima iz 2021.),Kilogrami po konstanti američkog dolara,,0.328

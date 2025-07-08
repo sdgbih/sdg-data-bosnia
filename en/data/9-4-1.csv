@@ -11,6 +11,7 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2019,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,2.18
 2020,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.29
 2021,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.53
+2022,Carbon dioxide emissions from fuel combustion,TONNES_M,Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment,1.49
 2010,Carbon dioxide emissions from fuel combustion,TONNES_M,No breakdown,20.48
 2011,Carbon dioxide emissions from fuel combustion,TONNES_M,No breakdown,23.4
 2012,Carbon dioxide emissions from fuel combustion,TONNES_M,No breakdown,21.65
@@ -35,14 +36,20 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2019,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,1.027
 2020,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.636
 2021,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.66
-2009,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.499
-2010,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.502
-2011,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.569
-2014,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.454
-2015,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.438
-2016,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.484
-2017,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.475
-2018,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.455
-2019,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.413
-2020,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.421
-2021,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.396
+2022,Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars),Kilograms per constant USD,Manufacturing,0.611
+2005,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.4
+2006,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.416
+2007,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.415
+2008,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.431
+2009,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.434
+2010,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.437
+2011,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.495
+2014,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.395
+2015,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.381
+2016,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.421
+2017,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.413
+2018,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.396
+2019,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.359
+2020,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.366
+2021,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.344
+2022,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2021 United States dollars),Kilograms per constant USD,,0.328
