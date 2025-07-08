@@ -14,13 +14,13 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2012,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,35.35
 2013,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,35.17
 2014,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,44.6
-2015,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,47.83
-2016,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,45.72
-2017,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,46.06
-2018,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,43.4
-2019,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,72.34
-2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,54.04
-2021,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,64.54
+2015,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,46.32
+2016,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,44.38
+2017,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,44.86
+2018,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,42.47
+2019,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,70.94
+2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,53.08
+2021,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Industries,63.54
 2000,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),17.52
 2001,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),18.14
 2002,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),19.13
@@ -36,11 +36,13 @@ Year,SERIES,UNIT_MEASURE,Economic activity,Value
 2012,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),26.05
 2013,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),26.93
 2014,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.4
-2016,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.81
-2017,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.94
-2018,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),33.87
-2019,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),35.92
-2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),35.11
-2021,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),37.86
+2015,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.49
+2016,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.18
+2017,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),28.67
+2018,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),33.6
+2019,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),35.68
+2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),34.92
+2021,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),36.62
+2022,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Services (G to T),37.4
 2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,Agriculture (ISIC4 A01 A0210 A0322),
 2020,Water Use Efficiency (United States dollars per cubic meter),USD/m3,No breakdown,
