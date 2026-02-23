@@ -1,3 +1,5 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,UNIT_MEASURE,SERIES
+2016,10.29,Procenat,Udio ukupne državne potrošnje na osnovne usluge i obrazovanje (UIS metodologija) (%)
+2018,9.63,Procenat,Udio ukupne državne potrošnje na osnovne usluge i obrazovanje (UIS metodologija) (%)
+2019,10.13,Procenat,Udio ukupne državne potrošnje na osnovne usluge i obrazovanje (UIS metodologija) (%)
+2021,10.18,Procenat,Udio ukupne državne potrošnje na osnovne usluge i obrazovanje (UIS metodologija) (%)
