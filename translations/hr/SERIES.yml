@@ -187,6 +187,7 @@ NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
 PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta u 2011. međunarodnim USD) 
 PD_AGR_SSFP: Produktivnost malih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta iz 2011. u međunarodnim USD) 
 SD_CPA_UPRDP: "Zemlje koje imaju nacionalne urbane politike ili regionalne razvojne planove koji odgovaraju dinamici stanovništva; osigurati ravnomjeran teritorijalni razvoj; i povećati lokalni fiskalni prostor (1 = DA; 0 = NE)"
+SD_XPD_ESED: Udio ukupne državne potrošnje na osnovne usluge i obrazovanje (UIS metodologija) (%)
 SERIES: SDG Varijable
 SG_CPA_SDEVP: Uspostavljeni mehanizmi za poboljšanje koherentnosti politika za održivi razvoj (%)
 SG_CPA_MIGRS: Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)
