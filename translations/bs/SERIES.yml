@@ -362,7 +362,7 @@ SI_COV_VULN: Udio ugroženog stanovništva koje prima novčanu pomoć socijalne 
 SI_COV_CHLD: Udio djece / domaćinstava koja primaju dječiju / porodičnu novčanu naknadu, prema spolu (%)
 SI_POV_50MI: Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
 SI_POV_DAY1: Udio stanovništva koje živi ispod međunarodne linije siromaštva
-SI_POV_EMP1: Zaposleno stanovništvo ispod međunarodne linije siromaštva
+SI_POV_EMP1: Zaposleno stanovništvo ispod međunarodne linije siromaštva, po spolu i starosti (%)
 SI_POV_NAHC: Udio stanovništva koje živi ispod nacionalne granice siromaštva
 SI_RMT_COST: Prosječni troškovi doznake slanja 200 USD u zemlju primataoca kao proporcija doznačenog iznosa doznake (%)
 SL_CPA_YEMP: Postojanje razvijene i operacionalizovane nacionalne strategije za zapošljavanje mladih, kao posebne strategije ili kao dio nacionalne strategije zapošljavanja 
