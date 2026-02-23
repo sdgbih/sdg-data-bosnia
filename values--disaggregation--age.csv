@@ -1,12 +1,15 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+15-24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,3,1
+15+,15 years old and over,15 godina i više,15 година и више,15 godina i više,3,1
 <15Y,under 15 years old,mlađi od 15 godina,млађи од 15 година,mlađi od 15 godina,1,1
 18+,18 years old and over,18 godina i više,18 година и више,18 godina i više,17,1
 <18Y,under 18 years old,mlađi od 15 godina,млађи од 15 година,mlađi od 15 godina,17,1
 <1Y,under 1 year old,Mlađi od 1 godine,Млађи од 1 године,Mlađi od 1 godine,6,1
+25+,25 years old and over,25 godina i više,25 година и више,25 godina i više,3,1
 <35Y,under 35 years old,mlađi od 35 godina,млађи од 35 година,mlađi od 35 godina,1,1
 <=45Y,under 45 years olds,mlađi od 45 godina,млађи од 45 година,mlađi od 45 godina,9,1
 65+,65 years old and over,65 godina i više,65 година и више,65 godina i više,1,1
-_T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,201,6
+_T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,202,6
 _U,Unknown,Nepoznato,Непознато,Nepoznato,3,1
 _X,Not available,Nije dostupno,Није доступно,Nije dostupno,3,1
 ALLAGE,All age ranges or no breaks by age,Svi dobni raspon,Сви старосни распони,Svi dobni raspon,18,1
@@ -15,7 +18,7 @@ M36T59,36 to 59 months old,Od 36 do 59 mjeseci,36 до 59 мjесеци,Od 36 do
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,14,5
 Y10T14,10 to 14 years old,10 do 14 godina,10 до 14 година,10 do 14 godina,1,1
 Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,15 do 19 godina,1,1
-Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,83,8
+Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,80,7
 Y15T49,15 to 49 years old,15 do 49 godina,15 до 49 година,15 do 49 godina,8,4
 Y15T64,15 to 64 years old,15 do 64 godine,15 do 64 godine,15 do 64 godine,5,3
 Y20T24,20 to 24 years old,20 do 24 godine,Y20T24,20 do 24 godine,2,1
@@ -24,6 +27,6 @@ Y25T74,25 to 74 years old,25 do 74 godine,25 до 74 година,25 do 74 godin
 Y2T14,2 to 14 years old,2 do 14 godina,2 до 14 година,2 do 14 godina,1,1
 Y30T70,30 to exact 70 years old,30 do tačno 70 godina,30 до тачно 70 година,30 do točno 70 godina,3,1
 Y55T64,55 to 64 years old,55 do 64 godine,55 do 64 godine,55 do 64 godine,4,2
-Y_GE15,15 years old and over,15 godina i više,15 година и више,15 godina i više,39,10
-Y_GE25,25 years old and over,25 godina i više,25 година и више,25 godina i više,10,3
+Y_GE15,15 years old and over,15 godina i više,15 година и више,15 godina i više,36,9
+Y_GE25,25 years old and over,25 godina i više,25 година и више,25 godina i više,7,2
 Y_GE46,46 years old and over,46 godina i više,46 година и више,46 godina i više,6,1
