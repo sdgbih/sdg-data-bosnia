@@ -13,8 +13,8 @@ Level_of_government,Level of government,Nivo_vlade,Ниво власти,Nivo vl
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,34
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,24
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,193,454
-SEX,Sex,Spol,Пол,Spol,42,5
+SEX,Sex,Spol,Пол,Spol,43,5
 Type_of_skill,Type of skill,Vrsta vještina,Врста вјештина,Vrsta vještina,2,23
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,192,43
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,192,44
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,15,6
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,6
