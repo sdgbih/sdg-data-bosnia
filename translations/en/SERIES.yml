@@ -384,7 +384,7 @@ SM_POP_REFG_OR: Number of refugees per 100,000 population, by country of origin 
 SN_ITK_DEFC: Prevalence of undernourishment
 SN_ITK_DEFCN: Number of undernourish people
 SN_STA_OVWGT: Proportion of children moderately or severely overweight
-SN_STA_OVWGTN: Children moderately or severely overweight (number)
+SN_STA_OVWGTN: Children moderately or severely overweight (thousands)
 SP_ACS_BSRVH2O: Proportion of population using basic drinking water services, by location (%)
 SP_ACS_BSRVSAN: Proportion of population using basic sanitation services, by location (%)
 SP_DYN_ADKL: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)
