@@ -276,6 +276,7 @@ SG_STT_NSDSFDGVT: Zemlje s nacionalnim statističkim planovima koje finansira dr
 SG_STT_NSDSFND: Zemlje s nacionalnim statističkim planovima koji su u potpunosti finansirani (1= DA; 0 = NE)
 SG_STT_NSDSIMPL: Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE)
 SG_XPD_PR: Udio državne potrošnje koji koristi najsiromašnijih 20 procenata (%)
+SG_XPD_PR_SOC:  Udio državne potrošnje na socijalne transfere koji koristi najsiromašnijih 20 procenata (%)
 SH_AAP_ASMORT: Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
 SH_AAP_MORT: Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
 SH_ACS_DTP3: Udio ciljane populacije sa pristupom 3 doze vakcine protiv difterije, tetanusa i velikog kašlja (DTP3)
