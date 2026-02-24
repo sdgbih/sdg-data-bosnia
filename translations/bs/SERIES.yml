@@ -385,7 +385,7 @@ SM_POP_REFG_OR: Broj izbjeglica na 100.000 stanovnika, prema zemlji porijekla (n
 SN_ITK_DEFC: Rasprostranjenost pothranjenosti
 SN_ITK_DEFCN: Broj pothranjenih ljudi
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
-SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj) 
+SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (hiljade) 
 SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode, po lokaciji (%)
 SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge, po lokaciji (%)
 SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1.000 žena starosti 15-19 i 10-14 godina)
