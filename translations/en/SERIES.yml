@@ -275,6 +275,7 @@ SG_STT_NSDSFDGVT: Countries with national statistical plans with funding from Go
 SG_STT_NSDSFND: Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)
 SG_STT_NSDSIMPL: Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)
 SG_XPD_PR: Proportion of government spending which benefits the poorest 20 percent (%)
+SG_XPD_PR_SOC:  Proportion of government spending on social transfers which benefits the poorest 20 percent (%)
 SH_AAP_ASMORT: Age-standardized mortality rate attributed to ambient air pollution
 SH_AAP_MORT: Crude death rate attributed to ambient air pollution
 SH_ACS_DTP3: Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)
