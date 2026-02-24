@@ -1,1 +1,1 @@
-{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]}
+{"Year":[2007,2015,2007,2015],"SERIES":["SG_XPD_PR","SG_XPD_PR","SG_XPD_PR_SOC","SG_XPD_PR_SOC"],"UNIT_MEASURE":["PT","PT","PT","PT"],"INCOME_WEALTH_QUANTILE":["Q1","Q1","Q1","Q1"],"Value":[14.13,16.5,14.13,16.5]}

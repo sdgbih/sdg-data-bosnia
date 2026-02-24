@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Kvantil dohotka ili bogatstva,Value
+2007,Udio državne potrošnje koji koristi najsiromašnijih 20 procenata (%),Postotak,Kvantil 1 (najsiromašniji),14.13
+2015,Udio državne potrošnje koji koristi najsiromašnijih 20 procenata (%),Postotak,Kvantil 1 (najsiromašniji),16.5
+2007,Udio državne potrošnje na socijalne transfere koji koristi najsiromašnijih 20 procenata (%),Postotak,Kvantil 1 (najsiromašniji),14.13
+2015,Udio državne potrošnje na socijalne transfere koji koristi najsiromašnijih 20 procenata (%),Postotak,Kvantil 1 (najsiromašniji),16.5
