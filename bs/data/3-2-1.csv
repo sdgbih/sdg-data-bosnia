@@ -71,36 +71,36 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2021,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,84.0
 2022,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,78.0
 2023,Umrla dojenčad (broj),Broj,Mlađi od 1 godine,Muškarci,74.0
-2010,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.0
-2015,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
-2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
-2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.0
-2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
-2019,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
-2020,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.8
-2021,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.7
-2022,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.5
-2023,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.3
-2010,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2015,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2019,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
-2020,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.3
-2021,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.2
-2022,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.0
-2023,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Žene,4.9
-2010,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
-2015,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
-2016,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
-2017,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
-2018,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
-2019,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
-2020,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.3
-2021,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.1
-2022,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.0
-2023,Stopa smrtnosti dojenčadi,Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,5.8
+2010,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.0
+2015,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
+2016,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
+2017,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,6.0
+2018,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
+2019,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.9
+2020,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.8
+2021,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.7
+2022,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.5
+2023,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Oba spola ili bez podjele po spolu,5.3
+2010,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2015,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2016,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2017,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2018,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2019,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.4
+2020,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.3
+2021,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.2
+2022,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,5.0
+2023,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Žene,4.9
+2010,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
+2015,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
+2016,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
+2017,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.5
+2018,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
+2019,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.4
+2020,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.3
+2021,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.1
+2022,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,6.0
+2023,Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih),Na 1 000 živorođenih,Mlađi od 1 godine,Muškarci,5.8
 2010,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,254.0
 2015,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,204.0
 2016,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Oba spola ili bez podjele po spolu,202.0
@@ -131,33 +131,33 @@ Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
 2021,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Muškarci,97.0
 2022,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Muškarci,90.0
 2023,Smrtnost ispod pet godina (broj),Broj,Ispod 5 godina,Muškarci,84.0
-2010,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
-2015,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.7
-2016,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
-2017,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
-2018,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
-2019,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.7
-2020,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.6
-2021,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.4
-2022,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.2
-2023,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.0
-2010,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
-2015,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
-2016,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
-2017,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.2
-2018,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
-2019,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
-2020,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,6.0
-2021,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,5.8
-2022,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,5.7
-2023,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Žene,5.5
-2010,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.5
-2015,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.3
-2016,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
-2017,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
-2018,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
-2019,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.3
-2020,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.1
-2021,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.0
-2022,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,6.8
-2023,Stopa smrtnosti ispod pet godina,Na 1 000 živorođenih,Ispod 5 godina,Muškarci,6.5
+2010,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
+2015,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.7
+2016,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
+2017,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
+2018,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.8
+2019,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.7
+2020,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.6
+2021,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.4
+2022,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.2
+2023,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Oba spola ili bez podjele po spolu,6.0
+2010,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
+2015,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
+2016,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
+2017,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.2
+2018,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
+2019,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.1
+2020,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,6.0
+2021,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,5.8
+2022,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,5.7
+2023,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Žene,5.5
+2010,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.5
+2015,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.3
+2016,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
+2017,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
+2018,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.4
+2019,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.3
+2020,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.1
+2021,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,7.0
+2022,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,6.8
+2023,"Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)",Na 1 000 živorođenih,Ispod 5 godina,Muškarci,6.5
