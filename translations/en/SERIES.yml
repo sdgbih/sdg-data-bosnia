@@ -125,6 +125,7 @@ ER_MTN_GRNCVI: Mountain Green Cover Index
 ER_MTN_TOTL: Mountain area (square kilometres)
 ER_MTN_DGRDP: Proportion of degraded mountain land (%)
 ER_MTN_DGRDA: Area of degraded mountain land (square kilometres)
+ER_NOEX_TRBBREDN: Number of transboundary breeds (not extinct) (number)
 ER_PTD_FRHWTR: Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)
 ER_PTD_MTN: Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
 ER_PTD_TERR: Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)
