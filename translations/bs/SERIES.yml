@@ -290,9 +290,9 @@ SH_BLD_ECOLI: Udio infekcije krvotoka zbog Escherichia coli rezistentne na cefal
 SH_BLD_MRSA: Udio infekcije krvotoka zbog Staphylococcus aureusa rezistentnog na meticilin (MRSA) među pacijentima koji traže pomoć i kojima je uzet uzorak krvi koji je testiran 
 SH_DTH_NCD: Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i spolu (broj)
 SH_DTH_NCOM: Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom ili hroničnoj respiratornoj bolesti (vjerovatnoća)
-SH_DYN_IMRT: Stopa smrtnosti dojenčadi
+SH_DYN_IMRT: Stopa smrtnosti dojenčadi (broj umrlih na 1.000 živorođenih)
 SH_DYN_IMRTN: Umrla dojenčad (broj)
-SH_DYN_MORT: Stopa smrtnosti ispod pet godina
+SH_DYN_MORT: Stopa smrtnosti djece mlađe od pet godina, po spolu (broj umrlih na 1.000 živorođenih)
 SH_DYN_MORTN: Smrtnost ispod pet godina (broj)
 SH_DYN_NMRT: Stopa neonatalnog mortaliteta
 SH_DYN_NMRTN: Neonatalni mortalitet (broj)
