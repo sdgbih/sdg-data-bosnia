@@ -71,36 +71,36 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Infant deaths (number),Number,under 1 year old,Male,84.0
 2022,Infant deaths (number),Number,under 1 year old,Male,78.0
 2023,Infant deaths (number),Number,under 1 year old,Male,74.0
-2010,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,6.0
-2015,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
-2016,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
-2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,6.0
-2018,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
-2019,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
-2020,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.8
-2021,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.7
-2022,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.5
-2023,Infant mortality rate,"Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.3
-2010,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2015,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2016,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2018,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2019,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.4
-2020,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.3
-2021,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.2
-2022,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,5.0
-2023,Infant mortality rate,"Per 1,000 live births",under 1 year old,Female,4.9
-2010,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.5
-2015,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.4
-2016,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.5
-2017,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.5
-2018,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.4
-2019,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.4
-2020,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.3
-2021,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.1
-2022,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,6.0
-2023,Infant mortality rate,"Per 1,000 live births",under 1 year old,Male,5.8
+2010,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,6.0
+2015,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
+2016,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
+2017,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,6.0
+2018,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
+2019,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.9
+2020,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.8
+2021,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.7
+2022,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.5
+2023,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Both sexes or no breakdown by sex,5.3
+2010,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2015,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2016,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2017,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2018,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2019,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.4
+2020,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.3
+2021,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.2
+2022,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,5.0
+2023,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Female,4.9
+2010,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.5
+2015,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.4
+2016,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.5
+2017,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.5
+2018,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.4
+2019,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.4
+2020,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.3
+2021,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.1
+2022,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,6.0
+2023,"Infant mortality rate (deaths per 1,000 live births)","Per 1,000 live births",under 1 year old,Male,5.8
 2010,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,254.0
 2015,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,204.0
 2016,Under-five deaths (number),Number,under 5 years old,Both sexes or no breakdown by sex,202.0
@@ -131,33 +131,33 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Under-five deaths (number),Number,under 5 years old,Male,97.0
 2022,Under-five deaths (number),Number,under 5 years old,Male,90.0
 2023,Under-five deaths (number),Number,under 5 years old,Male,84.0
-2010,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
-2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.7
-2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
-2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
-2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
-2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.7
-2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.6
-2021,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.4
-2022,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.2
-2023,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.0
-2010,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.1
-2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.1
-2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.1
-2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.2
-2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.1
-2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.1
-2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,6.0
-2021,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.8
-2022,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.7
-2023,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Female,5.5
-2010,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.5
-2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.3
-2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.4
-2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.4
-2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.4
-2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.3
-2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.1
-2021,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,7.0
-2022,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.8
-2023,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Male,6.5
+2010,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
+2015,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.7
+2016,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
+2017,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
+2018,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.8
+2019,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.7
+2020,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.6
+2021,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.4
+2022,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.2
+2023,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,6.0
+2010,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.1
+2015,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.1
+2016,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.1
+2017,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.2
+2018,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.1
+2019,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.1
+2020,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,6.0
+2021,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,5.8
+2022,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,5.7
+2023,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Female,5.5
+2010,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.5
+2015,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.3
+2016,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.4
+2017,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.4
+2018,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.4
+2019,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.3
+2020,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.1
+2021,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,7.0
+2022,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,6.8
+2023,"Under-five mortality rate, by sex (deaths per 1,000 live births)","Per 1,000 live births",under 5 years old,Male,6.5
