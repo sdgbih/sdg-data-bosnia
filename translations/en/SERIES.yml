@@ -289,9 +289,9 @@ SH_BLD_ECOLI: Percentage of bloodstream infection due to Escherichia coli resist
 SH_BLD_MRSA: Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested
 SH_DTH_NCD: Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)
 SH_DTH_NCOM: Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)
-SH_DYN_IMRT: Infant mortality rate
+SH_DYN_IMRT: Infant mortality rate (deaths per 1,000 live births)
 SH_DYN_IMRTN: Infant deaths (number)
-SH_DYN_MORT: Under-five mortality rate
+SH_DYN_MORT: Under-five mortality rate, by sex (deaths per 1,000 live births)
 SH_DYN_MORTN: Under-five deaths (number)
 SH_DYN_NMRT: Neonatal mortality rate
 SH_DYN_NMRTN: Neonatal deaths (number)
