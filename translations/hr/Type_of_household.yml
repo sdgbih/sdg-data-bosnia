@@ -1,1 +1,7 @@
-
+Type_of_household: Tipovi kućanstava
+HH_ADTONLY: Kućanstva sastavljena samo od osoba u dobi između 20 i 59 godina
+HH_ADTWCHLDADO: Odrasli koji žive s djecom (od 0 do 9 godina) i ili adolescentima (od 10 do 19 godina)
+HH_ADTWOLDER: Kućanstva sastavljena od odraslih koji žive s najmanje jednom starijom osobom (60 godina i više)
+HH_MULTIGEN: Kućanstva uključuju odrasle koji žive s osobama mlađim od 20 godina (djeca i ili adolescenti), kao i starije odrasle osobe (60 godina i više)
+HH_ONLYOLDER: Kućanstva sastavljena isključivo od starijih osoba (60 godina i više)
+_T: Sve vrste kućanstava
