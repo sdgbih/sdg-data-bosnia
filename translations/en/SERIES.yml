@@ -335,7 +335,7 @@ SH_STA_ASAIRP: Age-standardized mortality rate attributed to household and ambie
 SH_STA_BRTC: Proportion of births attended by skilled health personnel
 SH_STA_MORT: Maternal mortality ratio
 SH_STA_POISN: Mortality rate attributed to unintentional poisonings
-SH_STA_SCIDE: Suicide mortality rate
+SH_STA_SCIDE: Suicide mortality rate, by sex (deaths per 100,000 population)
 SH_STA_SCIDEN: Number of deaths attributed to suicide
 SH_STA_STNT: Proportion of children moderately or severely stunted
 SH_STA_STNTN: Children moderately or severely stunted (number)
