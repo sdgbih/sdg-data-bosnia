@@ -284,6 +284,7 @@ SH_ACS_DTP3: Proportion of the target population with access to 3 doses of dipht
 SH_ACS_MCV2: Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)
 SH_ACS_PCV3: Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%) 
 SH_ACS_UNHC: Universal health coverage (UHC) service coverage index
+SH_ACS_UNHC_25: Universal health coverage (UHC) service coverage index, 2025 methodology
 SH_ALC_CONSPT: Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)
 SH_BLD_ECOLI: Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested
 SH_BLD_MRSA: Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested
