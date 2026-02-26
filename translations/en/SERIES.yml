@@ -352,6 +352,7 @@ SH_TBS_INCID: Tuberculosis incidence (per 100,000 population)
 SH_TRP_INTVN: Number of people requiring interventions against neglected tropical diseases
 SH_XPD_EARN10: Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income
 SH_XPD_EARN25: Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income
+SH_OOP_XPD_EARNNET40: Proportion of the population with positive out-of-pocket household expenditure on health exceeding 40% of household discretionary budget, by location, quintile, type of household, and characteristics of the head of household (%)
 SI_AGR_LSFP: Average income of large-scale food producers, PPP (constant 2011 international $) 
 SI_COV_BENFTS: Proportion of population covered by at least one social protection benefit, by sex (%)
 SI_COV_DISAB: Proportion of population with severe disabilities receiving disability cash benefit, by sex (%) 
