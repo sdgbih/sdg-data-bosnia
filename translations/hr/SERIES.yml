@@ -280,7 +280,7 @@ SG_STT_NSDSFND: Zemlje s nacionalnim statističkim planovima koji su u potpunost
 SG_STT_NSDSIMPL: Zemlje s nacionalnim statističkim planovima koji su u provedbi (1 = DA; 0 = NE)
 SG_XPD_PR: Udio državne potrošnje koji koristi najsiromašnijih 20 procenata (%)
 SG_XPD_PR_SOC:  Udio državne potrošnje na socijalne transfere koji koristi najsiromašnijih 20 procenata (%)
-SH_AAP_ASMORT: Stopa mortaliteta koja se pripisuje zagađenju okolnog zraka
+SH_AAP_ASMORT: Dobno standardizirana stopa smrtnosti pripisana onečišćenju ambijentalnog zraka (smrtni slučajevi na 100.000 stanovnika)
 SH_AAP_MORT: Stopa sirovog mortaliteta koja se pripisuje zagađenju okolnog zraka
 SH_ACS_DTP3: Udio ciljane populacije sa pristupom 3 doze vakcine protiv difterije, tetanusa i velikog kašlja (DTP3)
 SH_ACS_MCV2: Udio ciljane populacije sa pristupom drugoj dozi vakcine protiv malih boginja (MCV2)
@@ -300,7 +300,7 @@ SH_DYN_NMRT: Stopa neonatalnog mortaliteta
 SH_DYN_NMRTN: Neonatalni mortalitet (broj)
 SH_FPL_MTMM: Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje obitelji zadovoljile sa modernim metodama 
 SH_H2O_SAFE: Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom
-SH_HAP_ASMORT: Stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
+SH_HAP_ASMORT: Dobno standardizirana stopa smrtnosti pripisana onečišćenju zraka u kućanstvima (smrtni slučajevi na 100.000 stanovnika)
 SH_HAP_HBSAG: Rasprostranjenost površinskog antigena hepatitisa B (HBsAg) 
 SH_HAP_MORT: Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
 SH_HIV_INCD: Broj novih HIV infekcija na 1 000 neinficiranih stanovnika
