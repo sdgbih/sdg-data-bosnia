@@ -5,7 +5,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 ALL,All renewables,Svi obnovljivi izvori energije,Сви обновљиви извори енергије,Svi obnovljivi izvori energije,3,3
 ALLDOMAINS,Total,Ukupno,Укупно,Ukupno,1,1
 ANYS,Any speed,Bilo koja brzina,Било која брзина,Bilo koja brzina,2,1
-ATS,Amphetamine type stimulants (ATS),Stimulansi tipa amfetamina ATS,Стимуланси типа амфетамина АТС,Stimulansi tipa amfetamina ATS,3,1
+ATS,Amphetamine type stimulants (ATS),Stimulansi tipa amfetamina ATS,Стимуланси типа амфетамина АТС,Stimulansi tipa amfetamina ATS,1,1
 BA_BANJA_LUKA,Banja Luka,Banja Luka,Бања Лука,Banja Luka,2,2
 BA_SARAJEVO,Sarajevo,Sarajevo,Сарајевo,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,Тузла,Tuzla,2,2
@@ -13,7 +13,7 @@ BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
 BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,3,3
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
-COCAINE,Cocaine,Kokain,Кокаин,Kokain,2,1
+COCAINE,Cocaine,Kokain,Кокаин,Kokain,1,1
 DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,2,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
@@ -22,7 +22,7 @@ DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,Сарадња и п�
 DOMAIN4,Socioeconomic well - being,Socioekonomsko blagostanje,Социоекономско благостање,Socioekonomsko blagostanje,1,1
 DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,Димензије кризне мобилности,Dimenzije krizne mobilnosti,1,1
 DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija","Сигурна, уредна и редовна миграција","Sigurna, uredna i redovita migracija",1,1
-DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)","Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)","Укупно дрога (укључујући АТС, опиате, кокаин, канабис и друге дроге)","Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",3,1
+DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)","Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)","Укупно дрога (укључујући АТС, опиате, кокаин, канабис и друге дроге)","Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",1,1
 FINANCE,Finance,Finansije,Финансије,Financije,2,1
 FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,3,1
 GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,3,1
