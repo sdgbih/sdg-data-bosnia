@@ -1,8 +1,32 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,44,Index,Universal health coverage (UHC) service coverage index
-2005,61,Index,Universal health coverage (UHC) service coverage index
-2010,62,Index,Universal health coverage (UHC) service coverage index
-2015,68,Index,Universal health coverage (UHC) service coverage index
-2017,70,Index,Universal health coverage (UHC) service coverage index
-2019,67,Index,Universal health coverage (UHC) service coverage index
-2021,66,Index,Universal health coverage (UHC) service coverage index
+2000,,Index,Universal health coverage (UHC) service coverage index
+2005,,Index,Universal health coverage (UHC) service coverage index
+2010,,Index,Universal health coverage (UHC) service coverage index
+2015,,Index,Universal health coverage (UHC) service coverage index
+2017,,Index,Universal health coverage (UHC) service coverage index
+2019,,Index,Universal health coverage (UHC) service coverage index
+2021,,Index,Universal health coverage (UHC) service coverage index
+2000,54.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2001,54.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2002,55.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2003,55.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2004,56.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2005,56.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2006,57.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2007,57.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2008,58.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2009,58.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2010,59.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2011,60.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2012,61.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2013,62.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2014,63.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2015,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2016,65.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2017,62.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2018,63.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2019,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2020,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2021,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2022,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
+2023,64.0,Index,"Universal health coverage (UHC) service coverage index, 2025 methodology"
