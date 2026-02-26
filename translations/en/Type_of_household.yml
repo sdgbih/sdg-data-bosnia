@@ -1,1 +1,7 @@
-
+Type_of_household: Type of households
+HH_ADTONLY: Households composed only of people aged between 20 and 59 years old
+HH_ADTWCHLDADO: Adults living with children (0 to 9 years old) and or adolescents (10 to 19 years old)
+HH_ADTWOLDER: Households composed of adults living with at least one older person (60 years and older)
+HH_MULTIGEN: Households include adults living with people below 20 years old (children and or adolescents) as well as older adults (60 years old or more)
+HH_ONLYOLDER: Households exclusively composed of older people (60 years and older)
+_T: All types of households
