@@ -337,7 +337,7 @@ SH_STA_BRTC: Udio poroda uz prisustvo kvalifikovanih zdravstvenih radnika
 SH_STA_MORT: Stopa smrtnosti majki 
 SH_STA_POISN: Stopa smrtnosti uzrokovana nenamjernim trovanjem
 SH_STA_SCIDE: Stopa samoubistvima
-SH_STA_SCIDEN: Broj smrtnih slučajeva samoubistvom
+SH_STA_SCIDEN: Broj smrtnih slučajeva samoubistvom, po spolu (broj umrlih na 100.000 stanovnika)
 SH_STA_STNT: Udio djece umjereno ili ozbiljno zaostale u razvoju
 SH_STA_STNTN: Djeca umjereno ili teško zaostala u razvoju (broj)
 SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)
