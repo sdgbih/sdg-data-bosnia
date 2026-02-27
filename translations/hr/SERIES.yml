@@ -337,7 +337,7 @@ SH_STA_ANEM_PREG: Udio žena u dobi od 15-49 godina s anemijom, trudnica (%)
 SH_STA_ASAIRP: Starosno standardizirana stopa smrtnosti koja se pripisuje zagađenju kućanstva i okolnog zraka (umrli na 100 000 stanovnika)
 SH_STA_BRTC: Udio poroda uz prisustvo kvalificiranog zdravstvenih radnika
 SH_STA_MORT: Stopa smrtnosti majki 
-SH_STA_POISN: Stopa smrtnosti uzrokovana nenamjernim trovanjem
+SH_STA_POISN: Stopa smrtnosti uzrokovana nenamjernim trovanjem, po spolu (smrtni slučajevi na 100.000 stanovnika)
 SH_STA_SCIDE: Stopa samoubojstvima, po spolu (broj umrlih na 100.000 stanovnika)
 SH_STA_SCIDEN: Broj smrtnih slučajeva samoubojstvom
 SH_STA_STNT: Udio djece umjereno ili ozbiljno zaostale u razvitku
