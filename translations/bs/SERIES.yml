@@ -323,8 +323,8 @@ SH_LGR_ACSRHES1: (S.1) U kojoj mjeri zemlje imaju zakone i propise koji garantuj
 SH_LGR_ACSRHES2: (S.2) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 2. Kontracepcija i planiranje porodice (%)
 SH_LGR_ACSRHES3: (S.3) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 3. Seksualno obrazovanje (%)
 SH_LGR_ACSRHES4: (S.4) U kojoj mjeri zemlje imaju zakone i propise koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju. Komponenta 4. HIV i HPV (%)
-SH_MED_DEN: Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika)
-SH_MED_HWRKDIS: Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja
+SH_MED_DEN: Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)
+SH_MED_HWRKDIS: Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)
 SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne upotrebe duhana među osobama starosti 15 godina i više
 SH_SAN_DEFECT: Udio populacije koja prakticira otvorenu defekaciju, prema urbanim/ruralnim područjima
 SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
