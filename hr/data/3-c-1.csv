@@ -79,39 +79,39 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2017,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.47
 2018,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.45
 2019,Gustina zdravstvenih radnika prema vrsti zanimanja (na 10.000 stanovnika),Na 10 000 stanovnika,,Zubari,2.57
-2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,79.5
-2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,78.2
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,78.6
-2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,78.2
-2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,77.7
-2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,Medicinsko osoblje,77.5
-2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,20.5
-2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,21.8
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,21.4
-2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,21.8
-2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,22.3
-2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,Medicinsko osoblje,22.5
-2003,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,90.5
-2004,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,91.5
-2005,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,91.5
-2006,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,90.4
-2007,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,89.2
-2008,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,89.5
-2009,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,88.3
-2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,88.8
-2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,88.2
-2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,87.9
-2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,87.7
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Žene,PHYS,87.7
-2003,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,9.5
-2004,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,8.5
-2005,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,8.5
-2006,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,9.6
-2007,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,10.8
-2008,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,10.5
-2009,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,11.7
-2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,11.2
-2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,11.8
-2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,12.1
-2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,12.3
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Postotak,Muškarci,PHYS,12.3
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,79.5
+2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,78.2
+2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,78.6
+2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,78.2
+2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,77.7
+2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,Medicinsko osoblje,77.5
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,20.5
+2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,21.8
+2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,21.4
+2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,21.8
+2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,22.3
+2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,Medicinsko osoblje,22.5
+2003,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,90.5
+2004,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,91.5
+2005,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,91.5
+2006,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,90.4
+2007,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,89.2
+2008,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,89.5
+2009,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,88.3
+2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,88.8
+2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,88.2
+2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,87.9
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,87.7
+2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Žene,PHYS,87.7
+2003,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,9.5
+2004,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,8.5
+2005,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,8.5
+2006,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,9.6
+2007,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,10.8
+2008,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,10.5
+2009,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,11.7
+2010,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,11.2
+2011,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,11.8
+2012,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,12.1
+2013,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,12.3
+2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja (%)",Postotak,Muškarci,PHYS,12.3
