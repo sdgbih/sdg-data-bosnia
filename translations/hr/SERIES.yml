@@ -195,7 +195,7 @@ SG_CPA_SDEVP: Uspostavljeni mehanizmi za poboljšanje koherentnosti politika za 
 SG_CPA_MIGRS: Zemlje s migracijskim politikama za olakšavanje uredne, sigurne, redovite i odgovorne migracije i mobilnosti ljudi, prema domeni politike (1 = Zahtijeva daljnji napredak; 2 = Djelomično ispunjava; 3 = Ispunjava; 4 = Potpuno ispunjava)
 SE_ACS_CMPTR: Udio škola s pristupom računalima u pedagoške svrhe, prema razini obrazovanja (%)
 SE_ACS_INTNT: Udio škola s pristupom internetu u pedagoške svrhe, prema razini obrazovanja (%)
-SE_ADT_ACTS: Udio mladih i odraslih sa vještinama u informacijskim i komunikacijskim tehnologijama (IKT)
+SE_ADT_ACTS: Udio mladih i odraslih sa vještinama u informacijskim i komunikacijskim tehnologijama (IKT), po spolu i vrsti vještine (%)
 SE_ADT_EDUCTRN: Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju i obuci
 SE_AGP_CPRA: Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
 SE_ALP_CPLR: Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i razini obrazovanja
