@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 0-59,under 59 years old,mlađi od 59 godina,испод 59 година,mlađi od 59 godina,1,1
-15-24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,3,1
+15-24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,4,2
 15+,15 years old and over,15 godina i više,15 година и више,15 godina i više,12,3
 <15Y,under 15 years old,mlađi od 15 godina,млађи од 15 година,mlađi od 15 godina,1,1
 18+,18 years old and over,18 godina i više,18 година и више,18 godina i više,17,1
@@ -21,7 +21,7 @@ M36T59,36 to 59 months old,Od 36 do 59 mjeseci,36 до 59 мjесеци,Od 36 do
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,2,2
 Y10T14,10 to 14 years old,10 do 14 godina,10 до 14 година,10 do 14 godina,1,1
 Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,15 do 19 godina,1,1
-Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,80,7
+Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,15 do 24 godine,79,6
 Y15T49,15 to 49 years old,15 do 49 godina,15 до 49 година,15 do 49 godina,8,4
 Y15T64,15 to 64 years old,15 do 64 godine,15 do 64 godine,15 do 64 godine,5,3
 Y20T24,20 to 24 years old,20 do 24 godine,Y20T24,20 do 24 godine,2,1
