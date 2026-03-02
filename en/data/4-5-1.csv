@@ -285,8 +285,8 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,Type of s
 2020,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,0.98041
 2021,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,1.0118
 2023,"Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)",Ratio,,,,Telephoning over the Internet / VoIP,,,1.00216
-2018,Language test parity index for achievement,Ratio,Lower secondary education,,,SKILL_READ,,,0.85397
-2019,Language test parity index for achievement,Ratio,Primary education,,,SKILL_MATH,,,0.8731
+2018,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.85397
+2019,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,SKILL_MATH,,,0.8731
 2018,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.79283
 2019,Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_MATH,,,1.1155
 2018,Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,0.5554
