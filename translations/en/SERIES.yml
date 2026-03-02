@@ -203,12 +203,12 @@ SE_GCEDESD_CUR: Extent to which global citizenship education and education for s
 SE_GCEDESD_NEP: Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies 
 SE_GCEDESD_SAS: Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment 
 SE_GCEDESD_TED: Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education
-SE_GPI_ICTS: Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio) 
-SE_GPI_PART: Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) 
+SE_GPI_ICTS: Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)
+SE_GPI_PART: Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)
 SE_GPI_PTNPRE: Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) 
 SE_IMP_FPOF: Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio) 
-SE_LGP_ACHI: Language test parity index for achievement
-SE_NAP_ACHI: Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_LGP_ACHI: Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
+SE_NAP_ACHI: Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)
 SE_PRE_PARTN: Participation rate in organized learning (one year before the official primary entry age), by sex (%)
 SE_TOT_CPLR: Completion rate, by sex, location, wealth quintile and education level (%)
 SE_TOT_GPI: Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
