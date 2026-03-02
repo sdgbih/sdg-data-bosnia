@@ -148,8 +148,6 @@ Year,SERIES,UNIT_MEASURE,Education level,Income or wealth quantile,Sex,Type of s
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 3,,,Urban,,
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 4,,,Urban,,
 2012,"Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level",Ratio,Upper secondary education,Quintile 5 (richest),,,Urban,,
-2018,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Lower secondary education,,,SKILL_READ,,,1.3009
-2019,Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio),Ratio,Primary education,,,SKILL_MATH,,,0.8567
 2010,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,
 2011,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,
 2012,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio),Ratio,,,,,,15 to 24 years old,
