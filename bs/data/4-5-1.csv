@@ -148,8 +148,8 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,Vrs
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 3,,,Urbano,,
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 4,,,Urbano,,
 2012,"Prilagođeni indeks rodnog pariteta za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja",Odnos,Više srednje obrazovanje,Kvantil 5 (najbogatiji),,,Urbano,,0.99243
-2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,1.3009
-2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,1.1433
+2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,1.3009
+2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,1.1433
 2010,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.12
 2011,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
 2012,Prilagođeni indeks rodnog pariteta za stopu učešća u formalnom i neformalnom obrazovanju i obuci (omjer),Odnos,,,,,,15 do 24 godine,1.16
@@ -285,11 +285,11 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,Vrs
 2020,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,0.98041
 2021,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,1.0118
 2023,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,1.00216
-2018,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.85397
-2019,Prilagođeni test jezika indeksa pariteta za postizanje minimalnog nivoa stručnosti u čitanju i računanju (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.8731
-2018,Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.79283
-2019,Prilagođeni imigracioni status ndeks pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_MATH,,,1.1155
-2018,Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.5554
-2019,Prilagođen indeks pariteta ruralnog i urbanog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.7634
-2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.4988
-2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa čitanja i računanja (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.8823
+2018,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.85397
+2019,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.8731
+2018,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.79283
+2019,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_MATH,,,1.1155
+2018,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.5554
+2019,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.7634
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.4988
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.8823
