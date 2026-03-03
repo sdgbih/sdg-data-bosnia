@@ -32,6 +32,9 @@ _X: Nije dostupno
 25+: 25 godina i više
 0-59: mlađi od 59 godina
 60+: 60 godina i stariji
+15-99: od 15 do 99 godina
+25-64: od 25 do 64 godina
+65-99: od 65 do 99 godina
 ALLAGE: Svi dobni raspon
 <=45Y: mlađi od 45 godina
 <35Y: mlađi od 35 godina
