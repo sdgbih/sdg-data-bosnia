@@ -195,6 +195,7 @@ SE_ACS_CMPTR: Proportion of schools with access to computers for pedagogical pur
 SE_ACS_INTNT: Proportion of schools with access to the internet for pedagogical purposes, by education level (%)
 SE_ADT_ACTS: Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)
 SE_ADT_EDUCTRN: Participation rate in formal and non-formal education and training
+SE_ADT_LITR: Youth / adult literacy rate (%)
 SE_AGP_CPRA: Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level
 SE_ALP_CPLR: Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level
 SE_AWP_CPRA: Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level
