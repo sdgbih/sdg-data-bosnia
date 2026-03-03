@@ -1,7 +1,25 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Spol,Vrsta vještina,Godine,Value
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Oba pola,Pismenost,15 do 24 godine,99.79
+2013,SE_ADT_LITR;PT,BOTHSEX,LITE,15-24,99.66,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Žene,Pismenost,15 do 24 godine,99.84
+2013,SE_ADT_LITR;PT,F,LITE,15-24,99.67,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Muškarci,Pismenost,15 do 24 godine,99.75
+2013,SE_ADT_LITR;PT,M,LITE,15-24,99.66,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Oba pola,Pismenost,od 15 do 99 godina,96.66
+2013,SE_ADT_LITR;PT,BOTHSEX,LITE,15-99,99.99,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Žene,Pismenost,od 15 do 99 godina,94.36
+2013,SE_ADT_LITR;PT,F,LITE,15-99,94.91,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Muškarci,Pismenost,od 15 do 99 godina,99.03
+2013,SE_ADT_LITR;PT,M,LITE,15-99,99.18,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Oba pola,Pismenost,od 25 do 64 godine,98.32
+2013,SE_ADT_LITR;PT,BOTHSEX,LITE,25-64,99.04,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Žene,Pismenost,od 25 do 64 godine,97.19
+2013,SE_ADT_LITR;PT,F,LITE,25-64,98.58,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Muškarci,Pismenost,od 25 do 64 godine,99.5
+2013,SE_ADT_LITR;PT,M,LITE,25-64,99.5,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Oba pola,Pismenost,od 65 do 99 godina,83.2
+2013,SE_ADT_LITR;PT,BOTHSEX,LITE,65-99,96.04,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Žene,Pismenost,od 65 do 99 godina,72.58
+2013,SE_ADT_LITR;PT,F,LITE,65-99,78.11,
+2000,Stopa pismenosti mladih / odraslih (%),Procenat,Muškarci,Pismenost,od 65 do 99 godina,95.28
+2013,SE_ADT_LITR;PT,M,LITE,65-99,97.03,
