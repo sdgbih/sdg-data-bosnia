@@ -1,4 +1,4 @@
 From,To
-Age,Sex
+AGE,Sex
 Sex,COMPOSITE_BREAKDOWN
 Sex,Occupation

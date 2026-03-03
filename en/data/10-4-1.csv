@@ -1,12 +1,12 @@
-Year,SERIES,UNIT_MEASURE,Age,Value
-2009,Labour share of GDP,Percent,15 years old and over,56.7
-2010,Labour share of GDP,Percent,15 years old and over,55.9
-2011,Labour share of GDP,Percent,15 years old and over,55.9
-2012,Labour share of GDP,Percent,15 years old and over,57.7
-2014,Labour share of GDP,Percent,15 years old and over,55.4
-2015,Labour share of GDP,Percent,15 years old and over,55.1
-2016,Labour share of GDP,Percent,15 years old and over,53.6
-2017,Labour share of GDP,Percent,15 years old and over,52.3
-2018,Labour share of GDP,Percent,15 years old and over,51.5
-2019,Labour share of GDP,Percent,15 years old and over,52.8
-2021,Labour share of GDP,Percent,15 years old and over,52.3
+Year,SERIES,UNIT_MEASURE,AGE,Value
+2009,Labour share of GDP,Percent,Y_GE15,56.7
+2010,Labour share of GDP,Percent,Y_GE15,55.9
+2011,Labour share of GDP,Percent,Y_GE15,55.9
+2012,Labour share of GDP,Percent,Y_GE15,57.7
+2014,Labour share of GDP,Percent,Y_GE15,55.4
+2015,Labour share of GDP,Percent,Y_GE15,55.1
+2016,Labour share of GDP,Percent,Y_GE15,53.6
+2017,Labour share of GDP,Percent,Y_GE15,52.3
+2018,Labour share of GDP,Percent,Y_GE15,51.5
+2019,Labour share of GDP,Percent,Y_GE15,52.8
+2021,Labour share of GDP,Percent,Y_GE15,52.3
