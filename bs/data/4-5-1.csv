@@ -283,13 +283,13 @@ Year,SERIES,UNIT_MEASURE,Nivo obrazovanja,Kvantil dohotka ili bogatstva,Spol,Vrs
 2020,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,0.87
 2021,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,0.93
 2023,Indeks rodnog pariteta za mladih/odraslih sa vještinama informaciono-komunikacione tehnologije (IKT) prema vrsti vještine (omjer),Odnos,,,,Telefoniranje preko Interneta / VoIP,,,1.0
-2018,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.85
-2019,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.87
-2018,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.79
-2019,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_MATH,,,1.16
-2018,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.56
-2019,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.76
-2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,0.4988
-2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.8823
-2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,SKILL_READ,,,1.3
-2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,SKILL_MATH,,,0.86
+2018,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,,0.85
+2019,Prilagođeni indeks pariteta jezičkih testova za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,Matematika,,,0.87
+2018,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,,0.79
+2019,Prilagođeni indeks pariteta imigracionog statusa za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,Matematika,,,1.16
+2018,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,,0.56
+2019,Prilagođen indeks pariteta ruralnih i urbanih područja za postizanje minimalnog nivoa znanja čitanja i matematike (omjer),Odnos,Osnovno obrazovanje,,,Matematika,,,0.76
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,,0.4988
+2018,Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do visokog za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,Matematika,,,0.8823
+2018,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Niže srednje obrazovanje,,,Čitanje,,,1.3
+2019,Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa znanja u čitanju i matematici (omjer),Odnos,Osnovno obrazovanje,,,Matematika,,,0.86
