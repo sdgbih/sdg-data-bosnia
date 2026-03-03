@@ -1,4 +1,4 @@
 From,To
-Sex,AGE
-AGE,Education level
+Sex,Age
+Age,Education level
 Education level,Income or wealth quantile

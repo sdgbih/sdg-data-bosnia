@@ -1,25 +1,25 @@
-Year,SERIES,UNIT_MEASURE,Sex,Type of skill,AGE,Value
-2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15-24,99.79
-2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15-24,99.66
-2000,Youth / adult literacy rate (%),Percent,Female,Literacy,15-24,99.84
-2013,Youth / adult literacy rate (%),Percent,Female,Literacy,15-24,99.67
-2000,Youth / adult literacy rate (%),Percent,Male,Literacy,15-24,99.75
-2013,Youth / adult literacy rate (%),Percent,Male,Literacy,15-24,99.66
-2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15-99,96.66
-2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15-99,99.99
-2000,Youth / adult literacy rate (%),Percent,Female,Literacy,15-99,94.36
-2013,Youth / adult literacy rate (%),Percent,Female,Literacy,15-99,94.91
-2000,Youth / adult literacy rate (%),Percent,Male,Literacy,15-99,99.03
-2013,Youth / adult literacy rate (%),Percent,Male,Literacy,15-99,99.18
-2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,25-64,98.32
-2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,25-64,99.04
-2000,Youth / adult literacy rate (%),Percent,Female,Literacy,25-64,97.19
-2013,Youth / adult literacy rate (%),Percent,Female,Literacy,25-64,98.58
-2000,Youth / adult literacy rate (%),Percent,Male,Literacy,25-64,99.5
-2013,Youth / adult literacy rate (%),Percent,Male,Literacy,25-64,99.5
-2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,65-99,83.2
-2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,65-99,96.04
-2000,Youth / adult literacy rate (%),Percent,Female,Literacy,65-99,72.58
-2013,Youth / adult literacy rate (%),Percent,Female,Literacy,65-99,78.11
-2000,Youth / adult literacy rate (%),Percent,Male,Literacy,65-99,95.28
-2013,Youth / adult literacy rate (%),Percent,Male,Literacy,65-99,97.03
+Year,SERIES,UNIT_MEASURE,Sex,Type of skill,Age,Value
+2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15 to 24 years old,99.79
+2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15 to 24 years old,99.66
+2000,Youth / adult literacy rate (%),Percent,Female,Literacy,15 to 24 years old,99.84
+2013,Youth / adult literacy rate (%),Percent,Female,Literacy,15 to 24 years old,99.67
+2000,Youth / adult literacy rate (%),Percent,Male,Literacy,15 to 24 years old,99.75
+2013,Youth / adult literacy rate (%),Percent,Male,Literacy,15 to 24 years old,99.66
+2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15 to 99 years old,96.66
+2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,15 to 99 years old,99.99
+2000,Youth / adult literacy rate (%),Percent,Female,Literacy,15 to 99 years old,94.36
+2013,Youth / adult literacy rate (%),Percent,Female,Literacy,15 to 99 years old,94.91
+2000,Youth / adult literacy rate (%),Percent,Male,Literacy,15 to 99 years old,99.03
+2013,Youth / adult literacy rate (%),Percent,Male,Literacy,15 to 99 years old,99.18
+2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,25 to 64 years old,98.32
+2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,25 to 64 years old,99.04
+2000,Youth / adult literacy rate (%),Percent,Female,Literacy,25 to 64 years old,97.19
+2013,Youth / adult literacy rate (%),Percent,Female,Literacy,25 to 64 years old,98.58
+2000,Youth / adult literacy rate (%),Percent,Male,Literacy,25 to 64 years old,99.5
+2013,Youth / adult literacy rate (%),Percent,Male,Literacy,25 to 64 years old,99.5
+2000,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,65 to 99 years old,83.2
+2013,Youth / adult literacy rate (%),Percent,Both sexes,Literacy,65 to 99 years old,96.04
+2000,Youth / adult literacy rate (%),Percent,Female,Literacy,65 to 99 years old,72.58
+2013,Youth / adult literacy rate (%),Percent,Female,Literacy,65 to 99 years old,78.11
+2000,Youth / adult literacy rate (%),Percent,Male,Literacy,65 to 99 years old,95.28
+2013,Youth / adult literacy rate (%),Percent,Male,Literacy,65 to 99 years old,97.03

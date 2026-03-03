@@ -1,19 +1,19 @@
-Year,SERIES,UNIT_MEASURE,AGE,Sex,Value
-2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,47.0
-2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,43.7
-2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,41.1
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,38.8
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,36.8
-2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Both sexes or no breakdown by sex,36.2
-2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,34.8
-2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,33.5
-2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,32.5
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,31.6
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,31.1
-2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Female,30.9
-2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,59.2
-2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,53.9
-2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,49.7
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,45.9
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,42.6
-2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,Y_GE15,Male,41.6
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,47.0
+2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,43.7
+2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,41.1
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,38.8
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,36.8
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,36.2
+2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,34.8
+2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,33.5
+2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,32.5
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,31.6
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,31.1
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,30.9
+2000,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,59.2
+2005,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,53.9
+2010,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,49.7
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,45.9
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,42.6
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,41.6
