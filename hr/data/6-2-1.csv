@@ -60,48 +60,52 @@ Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Value
 2020,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
 2021,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
 2022,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
-2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.0683
-2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.1377
-2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.2032
-2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.2652
-2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.3201
-2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.3725
-2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.4212
-2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.4655
-2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.506
-2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.5428
-2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,29.221
-2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,32.1149
-2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,35.0579
-2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,38.0489
-2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,41.0995
-2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,44.2831
-2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,47.586
-2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,51.0101
-2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,54.5577
-2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.451
-2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.2582
-2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.0654
-2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.8725
-2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.6797
-2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.4859
-2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.2923
-2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.0986
-2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,4.9051
-2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,4.7116
-2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,7.9621
-2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,11.59
-2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,15.3806
-2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,19.4209
-2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,23.6923
-2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,28.1835
-2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,32.8386
-2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,37.6573
-2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,42.6398
-2019,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,47.786
-2020,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,53.096
-2021,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1009
-2022,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1009
+2023,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2024,"Udio populacije koja prakticira otvorenu defekaciju, prema urbanom/ruralnom (%)",Postotak,Urbano,0.0
+2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.07
+2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.14
+2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.2
+2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.27
+2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.32
+2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.37
+2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.42
+2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.47
+2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,26.51
+2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,27.68
+2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,30.6
+2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,33.56
+2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,36.57
+2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,39.64
+2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,42.77
+2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,46.05
+2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,49.45
+2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,52.98
+2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Sva područja,56.63
+2000,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.45
+2001,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.25
+2002,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.07
+2003,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.87
+2004,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.68
+2005,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.49
+2006,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.29
+2007,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,5.1
+2008,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,4.91
+2009,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,6.17
+2010,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,9.75
+2011,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,13.49
+2012,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,17.4
+2013,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,21.57
+2014,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,25.97
+2015,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,30.59
+2016,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,35.38
+2017,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,40.34
+2018,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,45.46
+2019,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,50.75
+2020,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,56.21
+2021,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1
+2022,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1
+2023,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1
+2024,Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja,Postotak,Urbano,58.1
 2008,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Sva područja,97.1948
 2009,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Sva područja,97.203
 2010,Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama,Postotak,Sva područja,97.2111
