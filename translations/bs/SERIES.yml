@@ -329,8 +329,8 @@ SH_MED_DEN: Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stano
 SH_MED_HWRKDIS: Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)
 SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne upotrebe duhana među osobama starosti 15 godina i više
 SH_SAN_DEFECT: Udio populacije koja prakticira otvorenu defekaciju, prema urbanim/ruralnim područjima
-SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
-SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja
+SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama, po urbanim/ruralnim područjima
+SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja, po urbanim/ruralnim područjima
 SH_STA_AIRP: Stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka
 SH_STA_ANEM: Udio žena u dobi od 15-49 godina s anemijom (%)
 SH_STA_ANEM_NPRG: Udio žena u dobi od 15-49 godina s anemijom, koje nisu trudne (%) 
