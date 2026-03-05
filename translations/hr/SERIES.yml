@@ -301,7 +301,7 @@ SH_DYN_MORTN: Smrtnost ispod pet godina (broj)
 SH_DYN_NMRT: Stopa neonatalnog mortaliteta
 SH_DYN_NMRTN: Neonatalni mortalitet (broj)
 SH_FPL_MTMM: Udio žena reproduktivnog uzrasta (starosti od 15 do 49 godina) koje su svoju potrebu za planiranje obitelji zadovoljile sa modernim metodama 
-SH_H2O_SAFE: Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom
+SH_H2O_SAFE: Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom, po urbanim / ruralnim područjima (%)
 SH_HAP_ASMORT: Dobno standardizirana stopa smrtnosti pripisana onečišćenju zraka u kućanstvima (smrtni slučajevi na 100.000 stanovnika)
 SH_HAP_HBSAG: Rasprostranjenost površinskog antigena hepatitisa B (HBsAg) 
 SH_HAP_MORT: Sirova stopa smrtnosti koja se pripisuje zagađenjem zraka kućanstava
