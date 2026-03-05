@@ -1,7 +1,6 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2019,"Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)",Procenat,Oba pola,77.2
+2020,"Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)",Procenat,Oba pola,82.4
+2021,"Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)",Procenat,Oba pola,84.2
+2022,"Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)",Procenat,Oba pola,85.7
+2013,"Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)",Procenat,Oba pola,87.9
