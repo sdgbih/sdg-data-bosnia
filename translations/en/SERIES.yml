@@ -299,8 +299,8 @@ SH_DYN_MORTN: Under-five deaths (number)
 SH_DYN_NMRT: Neonatal mortality rate
 SH_DYN_NMRTN: Neonatal deaths (number)
 SH_FPL_MTMM: Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods
-SH_H2O_SAFE: Proportion of population using safely managed drinking water services
-SH_HAP_ASMORT: Age-standardized mortality rate attributed to household air pollution
+SH_H2O_SAFE: Proportion of population using safely managed drinking water services, by urban / rural (%)
+SH_HAP_ASMORT: Age - standardized mortality rate attributed to household air pollution
 SH_HAP_HBSAG: Prevalence of hepatitis B surface antigen (HBsAg)
 SH_HAP_MORT: Crude death rate attributed to household air pollution
 SH_HIV_INCD: Number of new HIV infections per 1,000 uninfected population
