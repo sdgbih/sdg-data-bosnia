@@ -37,7 +37,7 @@ DC_OSSD_OFFNL: Gross receipts by developing countries of official non-concession
 DC_OSSD_MPF: Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars)
 DC_OSSD_PRVGRT: Gross receipts by developing countries of private grants (millions of United States dollars)
 DT_TDS_DECT: Debt service as a proportion of exports of goods and services
-EG_ACS_ELEC: Proportion of population with access to electricity
+EG_ACS_ELEC: Proportion of population with access to electricity, by urban/rural (%)
 EG_EGY_CLEAN: Proportion of population with primary reliance on clean fuels and technology
 EG_EGY_PRIM: Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)
 EG_EGY_RNEW: Installed renewable electricity-generating capacity (watts per capita)
