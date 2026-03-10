@@ -37,7 +37,7 @@ DC_OSSD_OFFNL: Bruto prihodi zemalja u razvoju od zvaničnih nekocesionih zajmov
 DC_OSSD_MPF: Bruto prihodi zemalja u razvoju od mobiliziranih privatnih finansija (MPF) - na eksperimentalnoj osnovi (milioni američkih dolara)
 DC_OSSD_PRVGRT: Bruto prihodi zemalja u razvoju od privatnih grantova (milioni američkih dolara)
 DT_TDS_DECT: Servisiranja duga kao udio izvoza roba i usluga
-EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji
+EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji, po urbanim/ruralnim područjima (%)
 EG_EGY_CLEAN: Udio stanovništva koji se prvenstveno oslanja na čista goriva i tehnologiju
 EG_EGY_PRIM: Energetski intenzitet primarne energije (megadžuli po konstantnom BDP-u pariteta kupovne moći za 2017.)
 EG_EGY_RNEW: Instalisani kapaciteti za proizvodnju električne energije iz obnovljivih izvora (vati po glavi stanovnika)
