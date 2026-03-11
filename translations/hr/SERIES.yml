@@ -39,7 +39,7 @@ DC_OSSD_PRVGRT: Bruto primici privatnih potpora zemalja u razvoju (milijuni amer
 DT_TDS_DECT: Servisiranja duga kao udio izvoza roba i usluga
 EG_ACS_ELEC: Udio stanovništva sa pristupom električnoj energiji, po urbanim/ruralnim područjima (%)
 EG_EGY_CLEAN: Udio stanovništva koji se prvenstveno oslanja na čista goriva i tehnologiju
-EG_EGY_PRIM: Energetski intenzitet primarne energije (megadžuli po konstantnom BDP-u pariteta kupovne moći za 2017.)
+EG_EGY_PRIM: Energetski intenzitet primarne energije (megadžuli po konstantnom BDP-u pariteta kupovne moći iz 2021.)
 EG_EGY_RNEW: Instalirani kapacitet za proizvodnju električne energije iz obnovljivih izvora (vati po glavi stanovnika)
 EG_FEC_RNEW: Udio obnovljive energije u ukupnoj finalnoj potrošnji energije
 EG_IFF_RANDN: Međunarodni financijski tokovi u zemlje u razvoju kao podrška istraživanju i razvoju čiste energije i proizvodnje obnovljive energije, uključujući hibridne sustave (milijuni konstantnih USD 2021.)
