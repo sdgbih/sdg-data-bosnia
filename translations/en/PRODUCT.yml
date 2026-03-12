@@ -25,5 +25,7 @@ GAS: Natural gas
 NMC: Non-metallic minerals - construction dominant
 NMA: Non-metallic minerals - industrial or agricultural dominant
 ONT: Oil shale and tar sands
+WST_TREATD: Waste for final treatment and disposal
+MIX_CMPLX: Mixed and complex products
 PRODUCT: Type of product
 ALP: No breakdown
