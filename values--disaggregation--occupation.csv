@@ -14,17 +14,7 @@ isco08-7,Craft and related trades workers,Zanatski i srodni radnici,Занатс
 isco08-8,"Plant and machine operators, and assemblers","Operateri postrojenja i strojeva, te monteri","Оператери постројења и стројева, те монтери","Operateri postrojenja i strojeva, te monteri",3,1
 isco08-9,Elementary occupations,Osnovna zanimanja,Основна занимања,Osnovna zanimanja,3,1
 isco08,All occupations,Sva zanimanja,Сва занимања,Sva zanimanja,3,1
-isco88-0,Armed forces (isco-88),Oružane snage (isco-88),Оружане снаге (isco-88),Oružane snage (isco-88),1,1
-isco88-1,"Legislators, senior officials and managers","Zakonodavci, visoki službenici i menadžeri","Законодавци, високи службеници и менаџери","Zakonodavci, visoki službenici i menadžeri",2,1
-isco88-2,Professionals,Profesionalci,Професионалци,Profesionalci,2,1
-isco88-3,Technicians and associate professionals,Tehničari i saradnici,Техничари и сарадници,Tehničari i saradnici,2,1
-isco88-4,Clerks,Službenici,Службеници,Službenici,2,1
-isco88-5,Service workers and shop and market sales workers,Uslužni radnici i radnici u trgovini i prodaji,Услужни радници и радници у трговини и продаји,Uslužni radnici i radnici u trgovini i prodaji,2,1
-isco88-6,Skilled agricultural and fishery workers,Kvalificirani poljoprivredni i ribarstveni radnici,Квалифицирани пољопривредни и рибарствени радници,Kvalificirani poljoprivredni i ribarstveni radnici,2,1
-isco88-7,Craft and related trades workers,Zanatski i srodni radnici,Занатски и сродни радници,Zanatski i srodni radnici,2,1
-isco88-8,Plant and machine operators and assemblers,Rukovaoci postrojenja i mašina i monteri,Руковаоци постројења и машина и монтери,Rukovaoci postrojenja i mašina i monteri,2,1
-isco88-9,Elementary occupations,Osnovna zanimanja,Основна занимања,Osnovna zanimanja,2,1
-isco88-X,Not elsewhere classified,Neklasificirani na drugom mjestu,Некласифицирани на другом мјесту,Neklasificirani na drugom mjestu,2,1
+isco88-X,Not elsewhere classified,Neklasificirani na drugom mjestu,Некласифицирани на другом мјесту,Neklasificirani na drugom mjestu,3,1
 JUDGES,Judges,Sudije,Судије,JUDGES,5,1
 NURS,Nursing personnel,Medicinsko osoblje,Медицинско особље,Medicinsko osoblje,2,1
 NURSMID,Nursing and midwifery personnel,Medicinsko osoblje i babice,Медицинско особље и бабице,Medicinsko osoblje i babice,1,1
