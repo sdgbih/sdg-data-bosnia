@@ -56,62 +56,62 @@ Year,SERIES,UNIT_MEASURE,Vrsta proizvoda,Value
 2020,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Mješoviti i složeni proizvodi,-0.163
 2021,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Mješoviti i složeni proizvodi,-0.184
 2022,"Potrošnja domaćih materijala po stanovniku, prema vrsti sirovine",Tone,Mješoviti i složeni proizvodi,-0.25
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.17218
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.33444
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.09764
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.12685
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.07151
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,2.15408
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,1.93318
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Bez podjele,1.84728
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.49746
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.55985
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.45744
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.53491
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.51931
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.55175
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.42662
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Biomasa,0.4099
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.90285
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.96993
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.97877
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.96075
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.87801
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.89549
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.81161
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.78139
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.1868
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.15567
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.14511
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13795
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.15796
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.11771
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.11627
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Metalne rude,0.12105
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.60722
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.68162
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.55211
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.52796
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.54985
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.61845
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.60936
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.57517
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.001
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0006
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0002
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0015
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0018
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0019
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.002
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0024
-2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0231
-2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03317
-2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03598
-2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0362
-2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03545
-2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03127
-2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0327
-2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom američkom dolaru iz 2015.)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0426
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.17218
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.33444
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.09764
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.12685
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.07151
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,2.15408
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,1.93318
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Bez podjele,1.84728
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.49746
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.55985
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.45744
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.53491
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.51931
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.55175
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.42662
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Biomasa,0.4099
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.90285
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.96993
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.97877
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.96075
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.87801
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.89549
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.81161
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Fosilna goriva,0.78139
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.1868
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.15567
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.14511
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.13795
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.15796
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.11771
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.11627
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Metalne rude,0.12105
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.60722
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.68162
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.55211
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.52796
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.54985
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.61845
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.60936
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Nemetalni minerali,0.57517
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.001
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0006
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0002
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0015
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0018
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0019
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.002
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Otpad za konačnu obradu i odlaganje,0.0024
+2015,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0231
+2016,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03317
+2017,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03598
+2018,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0362
+2019,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03545
+2020,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.03127
+2021,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0327
+2022,"Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstantnom kursu američkih dolara iz 2020 godine)",Kilogrami po konstanti američkog dolara,Mješoviti i složeni proizvodi,-0.0426
 2015,Potrošnja domaćih materijala,Tone,Bez podjele,35633283.0
 2016,Potrošnja domaćih materijala,Tone,Bez podjele,39536554.0
 2017,Potrošnja domaćih materijala,Tone,Bez podjele,36678666.0
