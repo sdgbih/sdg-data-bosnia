@@ -1,10 +1,10 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-AGG_AGR,AGG_AGR,AGG_AGR,Пољопривредни производи,AGG_AGR,5,3
-AGG_ARMS,AGG_ARMS,AGG_ARMS,Оружје,AGG_ARMS,5,3
-AGG_CLTH,AGG_CLTH,AGG_CLTH,Одјећа,AGG_CLTH,5,3
-AGG_IND,AGG_IND,AGG_IND,Индустријски производи,AGG_IND,5,3
-AGG_OIL,AGG_OIL,AGG_OIL,Нафта или уље,AGG_OIL,5,3
-AGG_TXT,AGG_TXT,AGG_TXT,Текстил,AGG_TXT,5,3
+AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,5,3
+AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,5,3
+AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,5,3
+AGG_IND,AGG_IND,AGG_IND,AGG_IND,AGG_IND,5,3
+AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,5,3
+AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,5,3
 ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,11,5
 BIM,Biomass,Biomasa,Биомаса,Biomasa,6,2
 FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
