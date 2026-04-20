@@ -1,9 +1,9 @@
-AGG_AGR: Poljoprivredni proizvodi
-AGG_ARMS: Oružje
-AGG_CLTH: Odjeća
-AGG_IND: Industrijski proizvodi
-AGG_OIL: Nafta ili ulje
-AGG_TXT: Tekstil
+AGR: Poljoprivredni proizvodi
+ARM: Oružje
+CLO: Odjeća
+IND: Industrijski proizvodi
+OIL: Nafta ili ulje
+TEX: Tekstil
 CPC2_1_111: Pšenica
 CPC2_1_112: Kukuruz
 CPC2_1_113: Riža
