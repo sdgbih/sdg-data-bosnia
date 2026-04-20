@@ -180,8 +180,8 @@ IT_NET_BBND: Pretplate na fiksni širokopojasni pristup, po brzini (na 100 stano
 IT_NET_BBNDN: Broj pretplatnika fiksnog širokopojasnog pristupa internetu, prema brzini (broj)
 IT_USE_II99: Udio pojedinaca koji koriste internet (%)
 IU_COR_BRIB: Stopa rasprostranjenosti podmićivanja, prema spolu (%)
-NV_IND_MANF: Dodana vrijednost proizvodnje (konstantni američki dolari iz 2015.) kao udio BDP-a (%)
-NV_IND_MANFPC: Dodatna proizvodna vrijednost po glavi stanovnika (konstantni američki dolari iz 2015.)
+NV_IND_MANF: Dodana vrijednost proizvodnje (konstantni američki dolari iz 2020.) kao udio BDP-a (%)
+NV_IND_MANFPC: Dodatna proizvodna vrijednost po glavi stanovnika (konstantni američki dolari iz 2020.)
 NV_IND_SSIS: Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%)
 NV_IND_TECH: Udio dodane vrijednosti srednje i visokotehnološke proizvodnje u ukupnoj dodanoj vrijednosti
 NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
