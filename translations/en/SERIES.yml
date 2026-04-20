@@ -405,7 +405,7 @@ TM_TAX_DMFN: Average tariff applied by developed countries, most-favored nation 
 TM_TAX_DPRF: Average tariff applied by developed countries, preferential status, by type of product (%)
 TM_TAX_WMFN: Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)
 TM_TAX_WMPS: Worldwide weighted tariff-average, preferential status, by type of product (%)
-TM_TRF_ZERO: Proportion of tariff lines applied to imports with zero-tariff
+TM_TRF_ZERO: Proportion of tariff lines applied to imports with zero-tariff (%)
 TX_EXP_GBMRCH: Developing countries’ and least developed countries’ share of global merchandise exports (%)
 TX_EXP_GBSVR: Developing countries’ and least developed countries’ share of global services exports (%)
 TX_IMP_GBMRCH: Developing countries’ and least developed countries’ share of global merchandise imports (%)
