@@ -406,7 +406,7 @@ TM_TAX_DMFN: Prosječna carinska tarifa koju primjenjuju razvijene zemlje, statu
 TM_TAX_DPRF: Prosječna carinska tarifa koju primjenjuju razvijene zemlje, preferencijalni status, po vrsti proizvoda (%)
 TM_TAX_WMFN: Svjetski ponderisani tarifni prosjek, status najpovlašćenije države, prema vrsti proizvoda (%)
 TM_TAX_WMPS: Svjetski ponderisani tarifni prosjek, preferencijalni status, prema vrsti proizvoda (%)
-TM_TRF_ZERO: Udio tarifnih stavki kojе se primjenjujу na uvoz sa nultom tarifom
+TM_TRF_ZERO: Udio tarifnih linija primijenjenih na uvoz s nultom tarifom (%)
 TX_EXP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu robe (%)
 TX_EXP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu usluga (%)
 TX_IMP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom uvozu robe (%)
