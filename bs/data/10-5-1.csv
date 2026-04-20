@@ -22,6 +22,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Likvidna sredstva u kratkoročne obaveze (%),Procenat,51.34221
 2021,Likvidna sredstva u kratkoročne obaveze (%),Procenat,51.2768
 2022,Likvidna sredstva u kratkoročne obaveze (%),Procenat,48.361
+2023,Likvidna sredstva u kratkoročne obaveze (%),Procenat,47.1917
+2024,Likvidna sredstva u kratkoročne obaveze (%),Procenat,45.7648
 2003,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,33.09814
 2004,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,9.20791
 2005,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,6.34987
@@ -42,6 +44,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,4.17421
 2021,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,3.9976
 2022,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,0.9698
+2023,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,1.5441
+2024,Neto otvorena pozicija u devizama prema kapitalu (%),Procenat,3.6213
 2000,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,30.30251
 2001,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,33.46471
 2002,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,24.41932
@@ -65,6 +69,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,7.3803
 2021,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,6.9967
 2022,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,4.6883
+2023,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,3.37932
+2024,Nenaplativi krediti umanjeni za rezervisanja za kapital (%),Procenat,3.168
 2000,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,21.21596
 2001,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,17.9071
 2002,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,11.01722
@@ -88,6 +94,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,6.1224
 2021,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,5.7789
 2022,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,4.5385
+2023,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,3.8173
+2024,Nenaplativi krediti prema ukupnim bruto kreditima (%),Procenat,3.1522
 2000,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,26.47587
 2001,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,22.35867
 2002,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.94798
@@ -111,6 +119,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.0835
 2021,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.7423
 2022,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.6837
+2023,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.7194
+2024,Regulatorni kapital prvog reda prema rizičnoj aktivi (%),Procenat,18.7128
 2000,Regulatorni kapital prema imovini (%),Procenat,20.43923
 2001,Regulatorni kapital prema imovini (%),Procenat,14.52766
 2002,Regulatorni kapital prema imovini (%),Procenat,14.93297
@@ -134,6 +144,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Regulatorni kapital prema imovini (%),Procenat,10.187
 2021,Regulatorni kapital prema imovini (%),Procenat,9.9746
 2022,Regulatorni kapital prema imovini (%),Procenat,9.8909
+2023,Regulatorni kapital prema imovini (%),Procenat,10.1032
+2024,Regulatorni kapital prema imovini (%),Procenat,10.6451
 2003,Povrat na imovinu (ROA) (%),Procenat,0.44729
 2004,Povrat na imovinu (ROA) (%),Procenat,0.68858
 2005,Povrat na imovinu (ROA) (%),Procenat,0.69402
@@ -154,3 +166,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Povrat na imovinu (ROA) (%),Procenat,0.74568
 2021,Povrat na imovinu (ROA) (%),Procenat,1.313
 2022,Povrat na imovinu (ROA) (%),Procenat,1.5892
+2023,Povrat na imovinu (ROA) (%),Procenat,2.0233
+2024,Povrat na imovinu (ROA) (%),Procenat,2.2493
