@@ -1,9 +1,9 @@
-AGG_AGR: Agriculture products
-AGG_ARMS: Arms
-AGG_CLTH: Clothing
-AGG_IND: Industrial products
-AGG_OIL: Oil
-AGG_TXT: Textiles
+AGR: Agricultural products
+ARM: Arms
+CLO: Clothing
+IND: Industrial products
+OIL: Oil
+TEX: Textiles
 CPC2_1_111: Wheat
 CPC2_1_112: Maize
 CPC2_1_113: Rice
