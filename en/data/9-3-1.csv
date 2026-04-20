@@ -1,7 +1,19 @@
-Year,SERIES,UNIT_MEASURE,Value
-2015,Proportion of small-scale industries in total industry value added,Percent,15.22
-2016,Proportion of small-scale industries in total industry value added,Percent,15.07
-2017,Proportion of small-scale industries in total industry value added,Percent,11.79
-2018,Proportion of small-scale industries in total industry value added,Percent,11.39
-2019,Proportion of small-scale industries in total industry value added,Percent,11.13
-2021,Proportion of small-scale industries in total industry value added,Percent,10.03
+Year,SERIES,UNIT_MEASURE,Economic activity,Value
+2015,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,15.22
+2016,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,15.07
+2017,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,11.79
+2018,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,11.39
+2019,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,11.13
+2020,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,11.57
+2021,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,10.03
+2022,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,10.95
+2023,Proportion of small-scale industries in total industry value added,Percent,Manufacturing,12.25
+2015,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,15.22
+2016,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,15.07
+2017,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,11.79
+2018,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,11.39
+2019,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,11.13
+2020,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,11.57
+2021,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,10.03
+2022,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,10.95
+2023,Proportion of small-scale industries in total industry value added based on national classification (%),Percent,Manufacturing,12.25

@@ -1,7 +1,19 @@
-Year,SERIES,UNIT_MEASURE,Value
-2015,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,15.22
-2016,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,15.07
-2017,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,11.79
-2018,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,11.39
-2019,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,11.13
-2021,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,10.03
+Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
+2015,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,15.22
+2016,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,15.07
+2017,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,11.79
+2018,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,11.39
+2019,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,11.13
+2020,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,11.57
+2021,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,10.03
+2022,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,10.95
+2023,Udio male prerađivačke industrije u ukupnoj dodanoj vrijednosti proizvodnje (%),Procenat,Proizvodnja,12.25
+2015,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,15.22
+2016,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,15.07
+2017,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,11.79
+2018,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,11.39
+2019,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,11.13
+2020,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,11.57
+2021,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,10.03
+2022,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,10.95
+2023,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije na osnovu nacionalne klasifikacije (%),Procenat,Proizvodnja,12.25
