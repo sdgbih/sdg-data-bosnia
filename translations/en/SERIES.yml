@@ -180,8 +180,8 @@ IT_NET_BBND: Fixed broadband subscriptions, by speed (per 100 inhabitants)
 IT_NET_BBNDN: Number of fixed broadband subscriptions, by speed (number)
 IT_USE_II99: Proportion of individuals using the Internet (%)
 IU_COR_BRIB: Prevalence rate of bribery, by sex (%)
-NV_IND_MANF: Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)
-NV_IND_MANFPC: Manufacturing value added per capita (constant 2015 United States dollars)
+NV_IND_MANF: Manufacturing value added (constant 2020 United States dollars) as a proportion of GDP (%)
+NV_IND_MANFPC: Manufacturing value added per capita (constant 2020 United States dollars)
 NV_IND_SSIS: Proportion of small-scale industries in total industry value added
 NV_IND_TECH: Proportion of medium and high - tech manufacturing value added in total value added (%)
 NY_GDP_PCAP: Annual growth rate of real GDP per capita
