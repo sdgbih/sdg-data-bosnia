@@ -170,8 +170,8 @@ IC_GEN_MGTL: Proportion of women in managerial positions - 13th ICLS (%)
 IC_GEN_MGTN: Proportion of women in senior and middle management positions - 13th ICLS (%)
 IC_GEN_MGTL_19ICLS: Proportion of women in managerial positions - 19th ICLS (%)
 IC_GEN_MGTN_19ICLS: Proportion of women in senior and middle management positions - 19th ICLS (%)
-IS_RDP_FRGVOL: Freight volume (tonne kilometres)
-IS_RDP_PFVOL: Passenger volume (passenger kilometres)
+IS_RDP_FRGVOL: Freight volume, by mode of transport (tonne kilometres)
+IS_RDP_PFVOL: Passenger volume (passenger kilometres), by mode of transport
 IT_MOB_OWN: Proportion of individuals who own a mobile telephone, by sex (%)
 IT_MOB_2GNTWK: Proportion of population covered by at least a 2G mobile network
 IT_MOB_3GNTWK: Proportion of population covered by at least a 3G mobile network
