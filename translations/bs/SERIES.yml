@@ -170,8 +170,8 @@ IC_GEN_MGTL: Udio žena na rukovodećim pozicijama - 13. ICLS (%)
 IC_GEN_MGTN: Udio žena na višim i srednjim rukovodećim pozicijama - 13. ICLS (%)
 IC_GEN_MGTL_19ICLS: Udio žena na rukovodećim pozicijama - 19. ICLS (%)
 IC_GEN_MGTN_19ICLS: Udio žena na višim i srednjim rukovodećim pozicijama - 19. ICLS (%)
-IS_RDP_FRGVOL: Obim tereta (tonski kilometri)
-IS_RDP_PFVOL: Obim putnika (putnički kilometri)
+IS_RDP_FRGVOL: Obim tereta, po vrsti prijevoza (tonski kilometri)
+IS_RDP_PFVOL: Obim putnika (putnički kilometri), po vrsti prijevoza
 IT_MOB_OWN: Udio pojedinaca koji posjeduju mobilni telefon, po spolu (%)
 IT_MOB_2GNTWK: Udio stanovništva pokriven najmanje 2G mobilnom mrežom
 IT_MOB_3GNTWK: Udio stanovništva pokriven najmanje 3G mobilnom mrežom
