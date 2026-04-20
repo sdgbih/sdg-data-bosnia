@@ -183,6 +183,7 @@ IU_COR_BRIB: Prevalence rate of bribery, by sex (%)
 NV_IND_MANF: Manufacturing value added (constant 2020 United States dollars) as a proportion of GDP (%)
 NV_IND_MANFPC: Manufacturing value added per capita (constant 2020 United States dollars)
 NV_IND_SSIS: Proportion of small-scale industries in total industry value added
+NV_IND_SSIS_NC: Proportion of small-scale industries in total industry value added based on national classification (%)
 NV_IND_TECH: Proportion of medium and high - tech manufacturing value added in total value added (%)
 NY_GDP_PCAP: Annual growth rate of real GDP per capita
 PD_AGR_LSFP: Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $) 
