@@ -46,9 +46,9 @@ EG_IFF_RANDN: Međunarodni financijski tokovi u zemlje u razvoju kao podrška is
 EG_TBA_H2CO: Udio prekograničnih slivova (riječni i jezerski bazeni i vodonosnici) sa operativnim aranžmanom za vodnu suradnju
 EG_TBA_H2COAQ: Udio prekograničnih vodonosnika s operativnim aranžmanom za vodnu suradnju
 EG_TBA_H2CORL: Udio prekograničnih slivova rijeka i jezera s operativnim aranžmanom za vodnu suradnju
-EN_ATM_CO2: Emisije ugljen-dioksida izgaranjem goriva
+EN_ATM_CO2: Emisije ugljičnog dioksida iz izgaranja goriva (milijuni tona)
 EN_ATM_CO2GDP: Emisije ugljen-dioksida po jedinici BDP-a (kilogrami CO2 po konstantnom američkom dolaru iz 2021.)
-EN_ATM_CO2MVA: Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstanti u američkim dolarima iz 2015.)
+EN_ATM_CO2MVA: Emisije ugljen-dioksida iz proizvodnih industrija po jedinici dodane proizvodne vrijednosti (kilogrami CO2 po konstantnom tečaju američkih dolara iz 2020.)
 EN_ATM_PM25: Srednje godišnje razine finih čestica (ponderirano prema broju stanovnika), po lokaciji (mikrogrami po kubnom metru)
 EN_EWT_GENV: Generisani elektronski otpad (tone)
 EN_EWT_GENPCAP: Generisani elektronski otpad, po stanovniku (Kg)
