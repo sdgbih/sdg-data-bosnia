@@ -2,10 +2,10 @@ Year,SERIES,UNIT_MEASURE,Value
 2017,Number of deaths and missing persons attributed to disasters (number),Number,0.0
 2017,"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",Number,0.0
 2017,Number of deaths due to disaster (number),Number,0.0
-2017,"Number of directly affected persons attributed to disasters per 100,000 population (number)",Number,0.0
-2017,Number of injured or ill people attributed to disasters (number),Number,0.0
+2017,"Number of directly affected persons attributed to disasters per 100,000 population (number)",Number,
+2017,Number of injured or ill people attributed to disasters (number),Number,
 2017,Number of missing persons due to disaster (number),Number,
 2017,Number of people affected by disaster (number),Number,
-2017,Number of people whose damaged dwellings were attributed to disasters (number),Number,0.0
-2017,Number of people whose destroyed dwellings were attributed to disasters (number),Number,0.0
-2017,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",Number,0.0
+2017,Number of people whose damaged dwellings were attributed to disasters (number),Number,
+2017,Number of people whose destroyed dwellings were attributed to disasters (number),Number,
+2017,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)",Number,
