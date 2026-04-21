@@ -3,19 +3,37 @@ Year,Value,UNIT_MEASURE,SERIES
 2016,13292.0,TONNES,Hazardous waste generated (Tonnes)
 2018,14162.0,TONNES,Hazardous waste generated (Tonnes)
 2020,9943.0,TONNES,Hazardous waste generated (Tonnes)
-2014,2.43709,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2016,3.81846,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2018,4.16514,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2020,2.9963,Kilograms,"Hazardous waste generated, per capita (Kg)"
-2014,0.0006,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
-2016,0.0008,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
-2018,0.0008,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
-2020,0.0006,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
-2012,554.392,TONNES,"Hazardous waste exported, (Tonnes)"
-2014,568.886,TONNES,"Hazardous waste exported, (Tonnes)"
-2012,0.0,TONNES,"Hazardous waste imported, (Tonnes)"
-2014,0.0,TONNES,"Hazardous waste imported, (Tonnes)"
-2008,,TONNES,Municipal waste collected (Tonnes)
+2022,13428.0,TONNES,Hazardous waste generated (Tonnes)
+2014,2.4,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2016,3.8,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2018,4.2,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2020,3.0,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2022,4.0,Kilograms,"Hazardous waste generated, per capita (Kg)"
+2014,0.0005,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+2016,0.0007,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+2018,0.0007,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+2020,0.0005,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+2022,0.0006,Kilograms per constant USD,"Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+2014,,TONNES,"Hazardous waste exported, (Tonnes)"
+2014,,TONNES,"Hazardous waste imported, (Tonnes)"
+2020,53.43,Percent,Proportion of hazardous waste treated or disposed (%)
+2020,7174.0,TONNES,Hazardous waste treated or disposed (Tonnes)
+2008,1220000.0,TONNES,Municipal waste collected (Tonnes)
+2009,1002000.0,TONNES,Municipal waste collected (Tonnes)
+2010,1042000.0,TONNES,Municipal waste collected (Tonnes)
+2011,1034000.0,TONNES,Municipal waste collected (Tonnes)
+2012,873000.0,TONNES,Municipal waste collected (Tonnes)
+2013,894000.0,TONNES,Municipal waste collected (Tonnes)
+2014,894000.0,TONNES,Municipal waste collected (Tonnes)
+2015,942000.0,TONNES,Municipal waste collected (Tonnes)
+2016,954000.0,TONNES,Municipal waste collected (Tonnes)
+2017,951000.0,TONNES,Municipal waste collected (Tonnes)
+2018,956000.0,TONNES,Municipal waste collected (Tonnes)
+2019,1114000.0,TONNES,Municipal waste collected (Tonnes)
+2020,1101000.0,TONNES,Municipal waste collected (Tonnes)
+2021,973000.0,TONNES,Municipal waste collected (Tonnes)
+2022,972000.0,TONNES,Municipal waste collected (Tonnes)
+2023,918000.0,TONNES,Municipal waste collected (Tonnes)
 2012,1303000.0,TONNES,Municipal waste generated (Tonnes)
 2014,1335000.0,TONNES,Municipal waste generated (Tonnes)
 2015,1249000.0,TONNES,Municipal waste generated (Tonnes)
@@ -25,6 +43,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,1228000.0,TONNES,Municipal waste generated (Tonnes)
 2020,1206000.0,TONNES,Municipal waste generated (Tonnes)
 2021,1229000.0,TONNES,Municipal waste generated (Tonnes)
+2022,1184000.0,TONNES,Municipal waste generated (Tonnes)
+2023,1186000.0,TONNES,Municipal waste generated (Tonnes)
 2012,5.5,Kilograms,"Electronic waste generated, per capita (Kg)"
 2013,6.3,Kilograms,"Electronic waste generated, per capita (Kg)"
 2014,6.6,Kilograms,"Electronic waste generated, per capita (Kg)"
@@ -35,7 +55,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,8.1,Kilograms,"Electronic waste generated, per capita (Kg)"
 2020,8.3,Kilograms,"Electronic waste generated, per capita (Kg)"
 2021,8.6,Kilograms,"Electronic waste generated, per capita (Kg)"
-2022,9.1,Kilograms,"Electronic waste generated, per capita (Kg)"
+2022,8.8,Kilograms,"Electronic waste generated, per capita (Kg)"
+2023,9.2,Kilograms,"Electronic waste generated, per capita (Kg)"
 2012,20.977,TONNES,Electronic waste generated (Tonnes)
 2013,22.245,TONNES,Electronic waste generated (Tonnes)
 2014,23.445,TONNES,Electronic waste generated (Tonnes)
@@ -47,3 +68,4 @@ Year,Value,UNIT_MEASURE,SERIES
 2020,28.959,TONNES,Electronic waste generated (Tonnes)
 2021,29.717,TONNES,Electronic waste generated (Tonnes)
 2022,30.41,TONNES,Electronic waste generated (Tonnes)
+2023,31.394,TONNES,Electronic waste generated (Tonnes)
