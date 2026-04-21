@@ -473,6 +473,7 @@ EN_SCP_FRMN: Broj tvrtki koje objavljuju izvješća o održivosti s objavom po d
 EN_ATM_GHGT_NAIP: Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂)
 EN_MAR_BEALITSQ: Otpad na plaži po kvadratnom kilometru (broj)
 EN_MAR_CHLANM: Hlorofil - anomalija, daljinsko ispitivanje (%)
+EN_MAR_BEALIT_PUSA: Broj predmeta na plaži po jedinici površine (broj predmeta na 100 četvornih metara)
 ER_RSK_LSTI: Indeks crvene liste 
 ER_IAS_NATBUD: Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE) 
 ER_IAS_GLOFUN: Zemlje primateljice globalnog finansiranja sa pristupom bilo kakvim sredstvima iz globalnih finansijskih mehanizama za projekte vezane za upravljanje invazivnim stranim vrstama (1 = DA, 0 = NE)
