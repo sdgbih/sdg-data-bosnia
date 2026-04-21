@@ -12,12 +12,13 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,"Reciklaža elektronskog otpada, po stanovniku (Kg)",Kilogrami,
 2019,"Reciklaža elektronskog otpada, po stanovniku (Kg)",Kilogrami,
 2014,"Reciklaža elektronskog otpada, stopa (%)",Procenat,
-2012,Udio recikliranog komunalnog otpada (%),Procenat,0.0
-2014,Udio recikliranog komunalnog otpada (%),Procenat,0.0
-2015,Udio recikliranog komunalnog otpada (%),Procenat,0.0
-2016,Udio recikliranog komunalnog otpada (%),Procenat,0.0
-2017,Udio recikliranog komunalnog otpada (%),Procenat,0.0
+2012,Udio recikliranog komunalnog otpada (%),Procenat,
+2014,Udio recikliranog komunalnog otpada (%),Procenat,
+2015,Udio recikliranog komunalnog otpada (%),Procenat,
+2016,Udio recikliranog komunalnog otpada (%),Procenat,
+2017,Udio recikliranog komunalnog otpada (%),Procenat,
 2014,Komunalni otpad recikliran (tone),Tone,0.0
 2015,Komunalni otpad recikliran (tone),Tone,0.0
 2016,Komunalni otpad recikliran (tone),Tone,0.0
 2017,Komunalni otpad recikliran (tone),Tone,0.0
+2023,Komunalni otpad recikliran (tone),Tone,12000.0
