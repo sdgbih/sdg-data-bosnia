@@ -1,9 +1,9 @@
 AG_FPA_CFPI: Consumer Food Price Index
 AG_LND_DGRD: Proportion of land that is degraded over total land area
 AG_LND_FRST: Forest area as a proportion of total land area
-AG_LND_FRSTBIOPHA: Above-ground biomass in forest per hectare (tonnes per hectare)
-AG_LND_FRSTCERT: Forest area certified under an independently verified certification scheme (hectares)
-AG_LND_FRSTCHG: Forest area net change rate (%)
+AG_LND_FRSTBIOPHA: Above-ground biomass in forest (tonnes per hectare)
+AG_LND_FRSTCERT: Forest area certified under an independently verified certification scheme (thousands of hectares)
+AG_LND_FRSTCHG: Annual forest area change rate (%)
 AG_LND_FRSTN: Forest area (hectares)
 AG_LND_TOTL: Land area (hectares)
 AG_LND_SUST_PRXTS: Progress toward productive and sustainable agriculture, trend score (PROXY)
