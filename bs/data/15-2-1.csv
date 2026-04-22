@@ -1,12 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2016,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2017,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2018,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2019,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2020,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,156.36
-2010,Godišnja stopa promjene šumske površine (%),Procenat,-0.4
-2020,Godišnja stopa promjene šumske površine (%),Procenat,0.4
+2000,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,154.28
+2010,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,168.49
+2015,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,168.33
+2020,Nadzemna biomasa u šumi (tone po hektaru),Tona po hektaru,169.03
+2010,Godišnja stopa promjene šumske površine (%),Procenat,-0.45
+2015,Godišnja stopa promjene šumske površine (%),Procenat,0.15
+2000,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,0.0
 2010,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,108.69
 2015,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,1496.12
 2016,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,1495.53
@@ -15,3 +14,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,1888.803
 2022,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,1969.29
 2023,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,2003.53
+2024,Šumska površina sertifikovana prema nezavisno verifikovanoj šemi sertifikacije (hiljade hektara),Hiljade hektara,2005.49

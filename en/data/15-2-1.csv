@@ -1,12 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2016,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2017,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2018,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2019,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2020,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,156.36
-2010,Annual forest area change rate (%),Percent,-0.4
-2020,Annual forest area change rate (%),Percent,0.4
+2000,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,154.28
+2010,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,168.49
+2015,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,168.33
+2020,Above-ground biomass in forest (tonnes per hectare),Tonnes per hectare,169.03
+2010,Annual forest area change rate (%),Percent,-0.45
+2015,Annual forest area change rate (%),Percent,0.15
+2000,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,0.0
 2010,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,108.69
 2015,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,1496.12
 2016,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,1495.53
@@ -15,3 +14,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2020,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,1888.803
 2022,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,1969.29
 2023,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,2003.53
+2024,Forest area certified under an independently verified certification scheme (thousands of hectares),Thousands of hectares,2005.49
