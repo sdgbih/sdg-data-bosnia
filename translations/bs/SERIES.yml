@@ -399,6 +399,7 @@ SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge, po lok
 SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1.000 žena starosti 15-19 i 10-14 godina)
 SP_DYN_MRBF15: Udio žena starosti 20-24 godine koje su bile u braku ili u vanbračnoj zajednici prije 15. godine
 SP_DYN_MRBF18: Udio žena starosti 20-24 godine koje su bile u braku ili u vanbračnoj zajednici prije 18. godine
+SP_PSR_OSATIS_HLTH: Udio stanovništva koji kaže da je generalno zadovoljan kvalitetom zdravstvenih usluga (%)
 ST_EEV_ACCSEEA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (SEEA tablice)
 ST_EEV_ACCTSA: Primjena standardnih računovodstvenih alata za praćenje ekonomskih i okolišnih aspekata turizma (tabele satelitskih računa turizma)
 ST_EEV_STDACCT: Primena standardnih računovodstvenih alata za praćenje ekonomskih i ekoloških aspekata turizma (broj tabela)
