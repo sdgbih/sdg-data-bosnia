@@ -240,6 +240,7 @@ SG_DMK_PARLYP_UC: Udio mladih u parlamentu (45 godina ili manje), Gornjem domu (
 SG_DMK_PARLYR_LC: Omjer mladih članova u parlamentu (Omjer udjela mladih poslanika u parlamentu (45 godina ili manje) u odnosu na nacionalnog stanovništvo (45 godina ili manje) s godinama starosti kao donjom granicom), Donji dom ili jednodomni
 SG_DMK_PARLYR_UC: Omjer mladih članova u parlamentu (Omjer udjela mladih članova u parlamentu (45 godina ili manje) u odnosu na nacionalno stanovništvo (45 godina ili manje) s godinama starosti kao donjom granicom), Gornji dom
 SG_DMK_PSRVC: Proporcije pozicija u javnoj službi u poređenju sa nacionalnom raspodelom (odnos)
+SG_DMK_PARLYTHN_LC: Broj mladih u parlamentu, donjem domu ili jednodomnom parlamentu (Broj)
 SG_DSR_LGRGSR: Ocjena usvajanja i provedbe nacionalnih strategija za smanjenje rizika od katastrofa u skladu sa Sendai okvirom
 SG_DSR_SFDRR: Broj zemalja koje su prijavile da imaju Nacionalnu strategiju za smanjenje rizika od katastrofa koja je usklađena sa Sendai okvirom
 SG_DSR_SILN: Broj lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu s nacionalnim strategijama
