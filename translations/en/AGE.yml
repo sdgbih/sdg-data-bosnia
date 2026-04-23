@@ -39,6 +39,9 @@ ALLAGE: All age ranges or no breaks by age
 <=45Y: under 45 years old
 <35Y: under 35 years old
 65+: 65 years old and over
+<=40Y: under 41 years old
+41+: 41 years old and over
+46+: 46 years old and over
 M24T59: 24 to 59 months old
 M36T47: 36 to 47 months old
 M36T59: 36 to 59 months old
