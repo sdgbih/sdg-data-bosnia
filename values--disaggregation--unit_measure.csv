@@ -1,8 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 BOOL,Boolean or binary measure,Logička ili binarna mjera,Логичка или бинарна мјера,Logička ili binarna mjera,4,1
 CON_PPP_USD,Constant PPP USD,Konstantni PPP američki dolari,Константни ППП амерички долари,Konstantni PPP američki dolari,8,1
-CON_USD,Constant USD,Konstantni američki dolari,Kонстантни амерички долари,Konstantni američki dolari,3,3
-CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,Милиони константни амерички долари,Milioni konstantni američki dolari,18,9
+CON_USD,Constant USD,Konstantni američki dolari,Kонстантни амерички долари,Konstantni američki dolari,2,2
+CON_USD_M,Millions of constant United States dollars,Milioni konstantni američki dolari,Милиони константни амерички долари,Milioni konstantni američki dolari,19,10
 CU_USD,(Current United States dollars),(tekući američki dolari),(текући амерички долари),(nominalni američki dolari),6,4
 CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih američkih dolara),(милијарде номиналних америчких долара),(milijarde nominalnih američkih dolara),1,1
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,Milijuni tekućih američkih dolara,8,3
