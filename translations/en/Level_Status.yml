@@ -1,1 +1,8 @@
-
+Level_Status: Level - Status
+_T: No breakdown
+ABT2ACHIEVE: National target reflecting ABT2 exists, and progress is on track to achieve it
+ABT2DIGRESS: National target reflecting ABT2 exists, but moving away from it
+ABT2EXCEED: National target reflecting ABT2  exists, and progress is on track to exceed it
+ABT2INSUFNT: National target reflecting ABT2  exists, and progress is there, but at an insufficient rate
+ABT2NONTLT: No national target reflecting ABT 2
+ABT2NOPROG: National target reflecting ABT2  exists, but no progress
