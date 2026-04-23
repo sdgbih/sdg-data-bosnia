@@ -240,7 +240,11 @@ SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion 
 SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber
 SG_DMK_PSRVC: Proportions of positions in the public service compared to national distributions (ratio)
 SG_DMK_PARLYTHN_LC: Number of youth in parliament, Lower Chamber or Unicameral (Number)
-SG_DMK_PARLYTHN_LC: Broj mladih u parlamentu, donjem domu ili jednodomnom parlamentu (broj)
+SG_DMK_PARLYTHN_UC:  Number of youth in parliament, Upper Chamber (Number)
+SG_DMK_PARLYTHP_LC:  Proportion of youth in parliament, Lower Chamber or Unicameral (%)
+SG_DMK_PARLYTHP_UC: Proportion of youth in parliament, Upper Chamber (%)
+SG_DMK_PARLYTHR_LC:  Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral
+SG_DMK_PARLYTHR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Upper Chamber
 SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in line with the Sendai Framework
 SG_DSR_SFDRR: Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework
 SG_DSR_SILN: Number of local governments that adopt and implement local DRR strategies in line with national strategies
