@@ -398,6 +398,7 @@ SP_ACS_BSRVSAN: Proportion of population using basic sanitation services, by loc
 SP_DYN_ADKL: Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)
 SP_DYN_MRBF15: Proportion of women aged 20-24 years who were married or in a union before age 15
 SP_DYN_MRBF18: Proportion of women aged 20-24 years who were married or in a union before age 18
+SP_PSR_OSATIS_HLTH: Proportion of population who say that overall they are satisfied with the quality of healthcare services (%)
 ST_EEV_ACCSEEA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)
 ST_EEV_ACCTSA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)
 ST_EEV_STDACCT: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables)
