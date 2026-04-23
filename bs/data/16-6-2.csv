@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,Stepen urbanizacije,Godine,Spol,UNIT_MEASURE,Value
+2022,Udio stanovništva koji kaže da je generalno zadovoljan kvalitetom zdravstvenih usluga (%),Sva područja,Svi dobni raspon,Oba pola,Procenat,55
+2022,Udio stanovništva koji kaže da je generalno zadovoljan kvalitetom zdravstvenih usluga (%),Sva područja,Svi dobni raspon,Muškarci,Procenat,54
+2022,Udio stanovništva koji kaže da je generalno zadovoljan kvalitetom zdravstvenih usluga (%),Sva područja,Svi dobni raspon,Žene,Procenat,55

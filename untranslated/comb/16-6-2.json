@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Group":["A","B",null,"A","B",null],"Value":[1,3,2,1,3,2]},"edges":[]}
+{"data":{"Year":[2022,2022,2022],"SERIES":["SP_PSR_OSATIS_HLTH","SP_PSR_OSATIS_HLTH","SP_PSR_OSATIS_HLTH"],"URBANISATION":["ALLAREA","ALLAREA","ALLAREA"],"AGE":["ALLAGE","ALLAGE","ALLAGE"],"SEX":["BOTHSEX","M","F"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[55,54,55]},"edges":{"From":["URBANISATION","AGE"],"To":["AGE","SEX"]}}
