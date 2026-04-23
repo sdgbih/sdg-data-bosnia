@@ -39,6 +39,9 @@ ALLAGE: Svi dobni raspon
 <=45Y: mlađi od 45 godina
 <35Y: mlađi od 35 godina
 65+: 65 godina i više
+<=40Y: ispod 41 godine
+41+: 41 godina i više
+46+: 46 46 godina i više
 M24T59: Od 24 do 59 mjeseci
 M36T47: Od 36 do 47 mjeseci
 M36T59: Od 36 do 59 mjeseci
