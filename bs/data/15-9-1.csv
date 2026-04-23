@@ -1,3 +1,5 @@
-Year,SERIES,UNIT_MEASURE,Value
-2020,"Zemlje s integrisanim vrijednostima biodiverziteta u nacionalnim sistemima računovodstva i izvještavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)",Broj,
-2022,Zemlje koje su uspostavile nacionalne ciljeve u skladu sa Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE),Broj,
+Year,SERIES,Nivo - Status,UNIT_MEASURE,Value
+2025,"Zemlje s integrisanim vrijednostima biodiverziteta u nacionalnim sistemima računovodstva i izvještavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)",Bez podjele,Broj,1
+2025,"Zemlje s integrisanim vrijednostima biodiverziteta u nacionalnim sistemima računovodstva i izvještavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)",Redovna kompilacija i diseminacija,Broj,1
+2022,Zemlje koje su uspostavile nacionalne ciljeve u skladu sa Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE),Nacionalni cilj koji odražava ABT2 postoji i napredak je na putu ka njegovom ostvarenju,Broj,1
+2022,Zemlje koje su uspostavile nacionalne ciljeve u skladu sa Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE),Bez podjele,Broj,1
