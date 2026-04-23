@@ -1,24 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Sex,Value
-2000,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,2.37
-2001,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.95
-2002,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,2.14
-2004,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.64
-2007,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.65
-2008,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.67
-2009,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.83
-2010,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.47
-2011,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.36
-2012,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.71
-2013,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.27
-2014,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.4
-2015,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.62
-2016,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.29
-2017,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.22
-2018,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.15
-2019,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.25
-2020,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.31
-2021,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,0.98
-2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes or no breakdown by sex,1.08
+2000,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,2.37
+2001,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.95
+2002,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,2.14
+2004,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.64
+2007,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.65
+2008,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.67
+2009,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.83
+2010,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.47
+2011,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.36
+2012,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.71
+2013,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.27
+2014,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.4
+2015,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.62
+2016,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.29
+2017,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.22
+2018,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.15
+2019,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.25
+2020,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.31
+2021,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,0.98
+2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Both sexes,1.09
 2000,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.93
 2001,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,1.35
 2002,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,1.16
@@ -35,7 +35,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2019,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.59
 2020,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.3
 2021,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.42
-2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.73
+2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Female,0.71
 2000,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,3.88
 2001,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,2.59
 2002,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,3.17
@@ -52,27 +52,27 @@ Year,SERIES,UNIT_MEASURE,Sex,Value
 2019,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,1.94
 2020,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,2.33
 2021,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,1.55
-2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,1.38
-2000,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,99.0
-2001,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,82.0
-2002,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,90.0
-2004,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,68.0
-2007,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,66.0
-2008,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,66.0
-2009,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,71.0
-2010,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,56.0
-2011,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,51.0
-2012,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,63.0
-2013,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,46.0
-2014,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,50.0
-2015,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,57.0
-2016,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,45.0
-2017,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,42.0
-2018,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,39.0
-2019,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,42.0
-2020,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,43.0
-2021,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,32.0
-2022,Number of victims of intentional homicide,Number,Both sexes or no breakdown by sex,35.0
+2022,"Number of victims of intentional homicide per 100,000 population","Per 100,000 population",Male,1.44
+2000,Number of victims of intentional homicide,Number,Both sexes,99.0
+2001,Number of victims of intentional homicide,Number,Both sexes,82.0
+2002,Number of victims of intentional homicide,Number,Both sexes,90.0
+2004,Number of victims of intentional homicide,Number,Both sexes,68.0
+2007,Number of victims of intentional homicide,Number,Both sexes,66.0
+2008,Number of victims of intentional homicide,Number,Both sexes,66.0
+2009,Number of victims of intentional homicide,Number,Both sexes,71.0
+2010,Number of victims of intentional homicide,Number,Both sexes,56.0
+2011,Number of victims of intentional homicide,Number,Both sexes,51.0
+2012,Number of victims of intentional homicide,Number,Both sexes,63.0
+2013,Number of victims of intentional homicide,Number,Both sexes,46.0
+2014,Number of victims of intentional homicide,Number,Both sexes,50.0
+2015,Number of victims of intentional homicide,Number,Both sexes,57.0
+2016,Number of victims of intentional homicide,Number,Both sexes,45.0
+2017,Number of victims of intentional homicide,Number,Both sexes,42.0
+2018,Number of victims of intentional homicide,Number,Both sexes,39.0
+2019,Number of victims of intentional homicide,Number,Both sexes,42.0
+2020,Number of victims of intentional homicide,Number,Both sexes,43.0
+2021,Number of victims of intentional homicide,Number,Both sexes,32.0
+2022,Number of victims of intentional homicide,Number,Both sexes,35.0
 2000,Number of victims of intentional homicide,Number,Female,20.0
 2001,Number of victims of intentional homicide,Number,Female,29.0
 2002,Number of victims of intentional homicide,Number,Female,25.0
