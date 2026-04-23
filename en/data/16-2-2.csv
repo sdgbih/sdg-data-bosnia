@@ -52,7 +52,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2018,"Detected victims of human trafficking for other purposes, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,17.0
 2019,"Detected victims of human trafficking for other purposes, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking for other purposes, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking for other purposes, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for other purposes, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,16.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
@@ -64,6 +64,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,under 18 years old,0.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
@@ -75,6 +76,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,under 18 years old,0.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
@@ -86,6 +88,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,18 years old and over,0.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
@@ -97,6 +100,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,18 years old and over,0.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
@@ -108,6 +112,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Female,All age ranges or no breaks by age,0.0
 2005,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2006,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2007,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
@@ -119,13 +124,14 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2015,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (number)",Number,Male,All age ranges or no breaks by age,0.0
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,under 18 years old,
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,under 18 years old,
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,18 years old and over,
 2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,18 years old and over,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,18 years old and over,
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,18 years old and over,
-2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,18 years old and over,6.0
+2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,18 years old and over,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,18 years old and over,
 2010,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
@@ -139,42 +145,43 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
-2005,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,65.0
-2010,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,8.0
+2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Male,All age ranges or no breaks by age,5.0
+2005,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2010,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2018,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,9.0
+2018,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2019,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,8.0
 2007,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2008,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2009,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,25.0
+2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,35.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,36.0
+2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,3.0
 2019,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,All age ranges or no breaks by age,38.0
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,8.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Female,All age ranges or no breaks by age,29.0
 2009,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,21.0
+2010,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
@@ -182,87 +189,95 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,20.0
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,All age ranges or no breaks by age,8.0
+2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,17.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2016,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
-2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,24.0
+2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2019,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,under 18 years old,26.0
 2010,"Detected victims of human trafficking, by age and sex (number)",Number,Female,under 18 years old,
 2015,"Detected victims of human trafficking, by age and sex (number)",Number,Female,under 18 years old,
 2018,"Detected victims of human trafficking, by age and sex (number)",Number,Female,under 18 years old,
-2010,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,18.0
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Female,under 18 years old,23.0
+2010,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,14.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,
-2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,5.0
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,under 18 years old,3.0
+2010,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,18.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2016,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
-2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,12.0
+2018,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2019,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,5.0
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Both sexes or no breakdown by sex,18 years old and over,5.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Female,18 years old and over,6.0
 2011,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
 2012,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
 2014,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,13.0
+2015,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
 2021,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,
-2010,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.45
+2022,"Detected victims of human trafficking, by age and sex (number)",Number,Male,18 years old and over,5.0
+2010,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.16
 2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,
-2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,2.96
-2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,0.34
-2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,0.43
+2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
+2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,
+2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2014,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.79
+2015,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2018,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.5
+2018,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2019,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.5
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
-2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,0.43
+2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
-2005,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,1.59
+2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,33.0
+2005,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2006,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.21
+2010,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.17
+2015,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2018,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.26
+2018,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2019,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.25
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,0.0
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,0.0
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,0.0
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,0.0
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,0.0
+2022,"Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,0.0
 2007,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
 2008,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
 2009,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
@@ -277,71 +292,72 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Value
 2019,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,under 18 years old,4.92
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,
-2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,
-2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,4.71
+2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,9.03
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,under 18 years old,
+2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
 2012,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,4.15
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
 2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,under 18 years old,
 2007,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2008,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2009,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
-2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,0.16
+2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2012,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,0.63
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2016,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
-2018,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,0.43
+2018,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2019,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,0.34
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,18 years old and over,0.19
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,18 years old and over,0.42
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2012,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,0.94
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,18 years old and over,0.4
 2007,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2008,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2009,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.66
+2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,0.99
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2016,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2018,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breakdown by age,1.06
 2019,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Both sexes or no breakdown by sex,All age ranges or no breaks by age,1.19
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,0.44
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,
-2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,1.13
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Female,All age ranges or no breaks by age,1.73
+2010,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2011,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2012,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2014,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
-2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,1.57
+2015,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2017,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2020,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
 2021,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
-2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,
+2022,"Detected victims of human trafficking, by age and sex (per 100,000 population)","Per 100,000 population",Male,All age ranges or no breaks by age,0.52
