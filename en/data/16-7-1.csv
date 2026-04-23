@@ -6,29 +6,37 @@ Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Senior Managers: Senior Government Officials,Ratio,0.29
 2020,Proportions of positions in the public service compared to national distributions (ratio),under 35 years old,,Both sexes or no breakdown by sex,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,0.44
 2020,Proportions of positions in the public service compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,"Total national-level public service personnel (including police, education, health, front-desk administrative and all other public service personnel)",Ratio,1.11
-2021,Proportions of positions in the judiciary compared to national distributions (ratio),under 45 years old,,Both sexes or no breakdown by sex,Judges,Ratio,0.49
-2021,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breakdown by age,,Female,Judges,Ratio,1.27
-2021,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.17
-2021,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.38
-2021,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breakdown by age,,Female,Judges,Ratio,1.26
+2022,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breaks by age,,Female,Judges,Ratio,1.296
+2022,Proportions of positions in the judiciary compared to national distributions (ratio),All age ranges or no breaks by age,,Male,Judges,Ratio,0.704
+2022,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breaks by age,,Female,Judges,Ratio,1.298
+2022,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)",All age ranges or no breaks by age,,Male,Judges,Ratio,0.702
+2022,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breaks by age,,Female,Judges,Ratio,1.40171
+2022,"Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)",All age ranges or no breaks by age,,Male,Judges,Ratio,0.59829
+2022,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breaks by age,,Female,Judges,Ratio,1.26
+2022,"Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)",All age ranges or no breaks by age,,Male,Judges,Ratio,0.74
 2021,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,Number,1.0
 2022,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,Number,1.0
-2023,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,Human Rights,Male,,Number,1.0
-2023,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",Unknown,DEFENCE,Male,,Number,1.0
-2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Foreign Affairs,Female,,Number,1.0
-2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Gender Equality,Male,,Number,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,Number,1.0
-2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,Number,1.0
-2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Finance,Male,,Number,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Foreign Affairs,Male,,Number,1.0
+2025,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",under 45 years old,Human Rights,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",under 45 years old,Human Rights,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",41 years old and over,DEFENCE,Male,,Number,1.0
+2025,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",46 years old and over,DEFENCE,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",46 years old and over,DEFENCE,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 41 years old,Foreign Affairs,Female,,Number,1.0
+2025,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Foreign Affairs,Female,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Foreign Affairs,Female,,Number,1.0
 2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Foreign Affairs,Male,,Number,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",41 years old and over,Gender Equality,Male,,Number,1.0
 2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,Number,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Unknown,DEFENCE,Male,,Number,1.0
+2025,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",46 years old and over,Gender Equality,Male,,Number,1.0
+2025,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Finance,Female,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",under 45 years old,Finance,Female,,Number,1.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",41 years old and over,Finance,Female,,Number,1.0
+2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral",41 years old and over,Finance,Male,,Number,1.0
 2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Unknown,DEFENCE,Male,,Number,1.0
-2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Finance,Not available,,Number,0.0
 2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Finance,Not available,,Number,0.0
-2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Finance,Not available,,Number,0.0
+2026,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Unknown,Finance,Unknown,,Number,1.0
+2025,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",46 years old and over,Finance,Female,,Number,1.0
 2021,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,Number,0.0
 2022,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,Number,0.0
 2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Foreign Affairs,Not available,,Number,0.0
@@ -37,33 +45,60 @@ Year,SERIES,Age,COMPOSITE_BREAKDOWN,Sex,Occupation,UNIT_MEASURE,Value
 2023,"Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber",Not available,Gender Equality,Not available,,Number,0.0
 2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.50835
 2022,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.50835
-2023,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.3722
-2021,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.3882
-2022,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.3882
-2023,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.3908
+2025,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.357591
+2026,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",,,,,Ratio,0.35759
+2022,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.38819
+2025,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.12516
+2026,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber",,,,,Ratio,0.0
 2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Female,,Number,1.0
 2022,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Female,,Number,1.0
-2021,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,2.0
-2022,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,3.0
-2023,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,3.0
-2021,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
+2022,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,2.0
+2025,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,3.0
+2026,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",46 years old and over,,Male,,Number,3.0
+2026,"Number of speakers in parliament, by age and sex, Lower Chamber or Unicameral",41 years old and over,,Male,,Number,3.0
+2026,"Number of speakers in parliament, by age and sex, Upper Chamber",41 years old and over,,Male,,Number,3.0
 2022,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
-2023,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
-2021,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,8.0
-2022,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,8.0
-2023,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,10.0
-2021,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,1.0
-2022,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,1.0
-2023,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,1.0
-2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,19.05
-2022,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,19.05
-2023,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,24.39
-2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,6.67
-2022,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,6.67
-2023,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,6.67
-2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.4312
-2022,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.4312
-2023,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.548
-2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,0.151
-2022,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,0.151
-2023,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,0.1499
+2025,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
+2026,"Number of speakers in parliament, by age and sex, Upper Chamber",46 years old and over,,Male,,Number,3.0
+2026,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 41 years old,,,,Number,7.0
+2022,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,7.0
+2025,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,7.0
+2026,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,7.0
+2026,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 41 years old,,,,Number,7.0
+2022,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,8.0
+2025,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,10.0
+2026,"Number of youth in parliament, Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,10.0
+2021,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,
+2022,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,
+2023,"Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",under 45 years old,,,,Number,
+2026,"Number of youth in parliament, Upper Chamber (Number)",under 41 years old,,,,Number,2.0
+2022,"Number of youth in parliament, Upper Chamber (Number)",under 45 years old,,,,Number,1.0
+2025,"Number of youth in parliament, Upper Chamber (Number)",under 45 years old,,,,Number,2.0
+2026,"Number of youth in parliament, Upper Chamber (Number)",under 45 years old,,,,Number,2.0
+2021,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,
+2022,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,
+2023,"Number of youth in parliament (age 45 or below), Upper Chamber (Number)",under 45 years old,,,,Number,
+2026,"Proportion of youth in parliament, Lower Chamber or Unicameral (%)",under 41 years old,,,,Percent,17.1
+2022,"Proportion of youth in parliament, Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,19.05
+2025,"Proportion of youth in parliament, Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,24.4
+2026,"Proportion of youth in parliament, Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,24.4
+2021,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,
+2022,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,
+2023,"Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",under 45 years old,,,,Percent,
+2026,"Proportion of youth in parliament, Upper Chamber (%)",under 41 years old,,,,Percent,14.3
+2022,"Proportion of youth in parliament, Upper Chamber (%)",under 45 years old,,,,Percent,6.67
+2025,"Proportion of youth in parliament, Upper Chamber (%)",under 45 years old,,,,Percent,14.3
+2026,"Proportion of youth in parliament, Upper Chamber (%)",under 45 years old,,,,Percent,14.3
+2021,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,
+2022,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,
+2023,"Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",under 45 years old,,,,Percent,
+2026,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 41 years old,,,,Ratio,0.5504
+2022,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.43121
+2025,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.6034
+2026,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament in the proportion of the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,0.6034
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,
+2022,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,
+2023,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",under 45 years old,,,,Ratio,
+2021,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,
+2022,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,
+2023,"Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber",under 45 years old,,,,Ratio,

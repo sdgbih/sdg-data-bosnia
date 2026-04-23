@@ -14,7 +14,7 @@ BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,3,3
 CAN,Cancer,Rak,Рак,Rak,3,1
 CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
 COCAINE,Cocaine,Kokain,Кокаин,Kokain,1,1
-DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,2,1
+DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,3,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
 DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima","Свеобухватне политике, политике засноване на доказима","Sveobuhvatne politike, politike utemeljene na dokazima",1,1
@@ -23,11 +23,11 @@ DOMAIN4,Socioeconomic well - being,Socioekonomsko blagostanje,Социоекон
 DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,Димензије кризне мобилности,Dimenzije krizne mobilnosti,1,1
 DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija","Сигурна, уредна и редовна миграција","Sigurna, uredna i redovita migracija",1,1
 DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)","Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)","Укупно дрога (укључујући АТС, опиате, кокаин, канабис и друге дроге)","Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",1,1
-FINANCE,Finance,Finansije,Финансије,Financije,2,1
-FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,3,1
+FINANCE,Finance,Finansije,Финансије,Financije,6,1
+FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,4,1
 GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,3,1
 GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,3,3
-HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,1,1
+HUM_RIGH,Human Rights,Ljudska prava,Људска права,Ljudska prava,2,1
 HYDROPOWER,Hydropower,Hidroenergija,Хидроенергија,Hidroenergija,3,3
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање","Nacionalno zakonodavstvo, politika i financiranje",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,Koordinacija i nacionalna kontakt točka za komunikaciju,1,1
