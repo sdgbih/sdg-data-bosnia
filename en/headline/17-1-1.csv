@@ -17,8 +17,9 @@ Year,Value,UNIT_MEASURE,SERIES
 2018,42.4323,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
 2019,41.9677,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
 2020,41.5541,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
-2021,41.0482,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
-2022,38.5091,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
+2021,41.0081,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
+2022,39.9249,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
+2023,41.2449,Percent,Total government revenue (budgetary central government) as a proportion of GDP (%)
 2003,3519.0779,Local currency (millions),"Total government revenue, in local currency"
 2004,3654.7027,Local currency (millions),"Total government revenue, in local currency"
 2005,7122.063,Local currency (millions),"Total government revenue, in local currency"
@@ -39,3 +40,4 @@ Year,Value,UNIT_MEASURE,SERIES
 2020,14430.7042,Local currency (millions),"Total government revenue, in local currency"
 2021,16052.7532,Local currency (millions),"Total government revenue, in local currency"
 2022,18212.8922,Local currency (millions),"Total government revenue, in local currency"
+2023,20308.7072,Local currency (millions),"Total government revenue, in local currency"
