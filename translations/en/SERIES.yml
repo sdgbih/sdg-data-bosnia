@@ -163,7 +163,7 @@ GF_FRN_FDI: Foreign direct investment (FDI) inflows
 GF_XPD_GBPC: Primary government expenditures as a proportion of original approved budget
 GF_COM_PPPI: Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal
 GF_COM_PPPI_KD: Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real
-GR_G14_GDP: Total government revenue as a proportion of GDP
+GR_G14_GDP: Total government revenue (budgetary central government) as a proportion of GDP (%)
 GR_G14_XDC: Total government revenue, in local currency
 IC_FRM_BRIB: Bribery incidence (% of firms experiencing at least one bribe payment request)
 IC_GEN_MGTL: Proportion of women in managerial positions - 13th ICLS (%)
