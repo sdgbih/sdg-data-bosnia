@@ -2,7 +2,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 10MBPS,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbit/s ili više,2,1
 256KT2MBPS,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,2,1
 2MT10MBPS,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2,1
-ALL,Any OFDI scheme,Bilo koja vrsta šeme OFDI,Било која врста шеме OFDI,Bilo koja vrsta šeme OFDI,3,3
+ALL,Any OFDI scheme,Bilo koja vrsta šeme OFDI,Било која врста шеме OFDI,Bilo koja vrsta šeme OFDI,4,4
 ALLDOMAINS,Total,Ukupno,Укупно,Ukupno,1,1
 ANYS,Any speed,Bilo koja brzina,Било која брзина,Bilo koja brzina,2,1
 ATS,Amphetamine type stimulants (ATS),Stimulansi tipa amfetamina ATS,Стимуланси типа амфетамина АТС,Stimulansi tipa amfetamina ATS,1,1
@@ -16,6 +16,7 @@ CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскулар
 COCAINE,Cocaine,Kokain,Кокаин,Kokain,1,1
 DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,3,1
 DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
+DIRECTCPART,Direct capital participation,Direktno učešće kapitala,Директно учешће капитала,Direktno učešće kapitala,1,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
 DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima","Свеобухватне политике, политике засноване на доказима","Sveobuhvatne politike, politike utemeljene na dokazima",1,1
 DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,Сарадња и партнерства,Suradnja i partnerstvo,1,1
@@ -24,6 +25,7 @@ DOMAIN5,Dimensions of crisis mobility,Dimenzije krizne mobilnosti,Димензи
 DOMAIN6,"Safe, orderly and regular migration","Sigurna, uredna i redovna migracija","Сигурна, уредна и редовна миграција","Sigurna, uredna i redovita migracija",1,1
 DRUG_TOTAL,"Drug total (including ATS, opioids, cocaine, cannabis and other drugs)","Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)","Укупно дрога (укључујући АТС, опиате, кокаин, канабис и друге дроге)","Ukupno droga (uključujući ATS, opioide, kokain, kanabis i druge droge)",1,1
 FINANCE,Finance,Finansije,Финансије,Financije,6,1
+FISFINSUP,Fiscal / financial support,Fiskalna / finansijska podrška,Фискална / финансијска подршка,Fiskalna / finansijska podrška,1,1
 FOR_AFF,Foreign Affairs,Vanjski poslovi,Спољни poslovi,Vanjski poslovi,4,1
 GEN_EQU,Gender Equality,Ravnopravnost spolova,Равноправност полова,Ravnopravnost spolova,3,1
 GEOTHERMAL,Geothermal energy,Geotermalna energija,Геотермална енергија,Geotermalna energija,3,3
@@ -42,6 +44,8 @@ IHR_10,Zoonotic events,Zoonotski događaji,Зоонотски догађаји,Z
 IHR_11,Food safety,Sigurnost hrane,Сигурност хране,Sigurnost hrane,1,1
 IHR_12,Chemical events,Hemijski događaji,Хемијски догађаји,Kemijski događaji,1,1
 IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем,Izvanredne situacije u vezi sa zračenjem,1,1
+INVFACSERV,Investment facilitation services,Usluge olakšavanja investicija,Услуге олакшавања инвестиција,Usluge olakšavanja investicija,1,1
+INVGUA,Investment guarantees,Investicione garancije,Инвестиционе гаранције,Investicione garancije,1,1
 IO_IBRD,International Bank for Reconstruction and Development,Međunarodna banka za obnovu i razvoj,Међународна банка за обнову и развој,Međunarodna banka za obnovu i razvitak,4,2
 IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,Међународна финансијска корпорација,Međunarodna financijska korporacija,4,2
 IO_IMF,International Monetary Fund,Međunarodni monetarni fond,Међународни монетарни фонд,Međunarodni monetarni fond,4,2
