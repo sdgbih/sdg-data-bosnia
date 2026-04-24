@@ -432,7 +432,8 @@ VC_HTF_DETVSXR: Otkrivene žrtve trgovine ljudima radi seksualnog iskorištavanj
 VC_HTF_DETVR: Otkrivene žrtve trgovine ljudima, prema dobi i spolu (na 100.000 stanovnika)
 VC_IHR_PSRC: Broj žrtava ubojstava s namjerom na 100 000 stanovnika
 VC_IHR_PSRCN: Broj žrtava ubojstava s predomišljajem
-VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji 
+VC_PRS_UNSNT: Neosuđeni pritvorenici kao udio u ukupnoj zatvorskoj populaciji
+VC_VOC_ENFDISN: Zemlje s barem jednim potvrđenim slučajem prisilnog nestanka branitelja ljudskih prava, novinara i sindikalista (1 = DA, 0 = NE)
 VC_VAW_MARR: Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)  
 VC_VAW_PHYPYV: Udio djece starosti 1 - 14 godina koja su tijekom proteklog mjeseca doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane skrbnika, u proteklih mjesec dana
 VC_DSR_MMHN: Broj smrtnih slučajeva i nestalih osoba pripisanih katastrofama (broj)
