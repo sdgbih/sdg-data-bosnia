@@ -1,1 +1,1 @@
-{"data":{"Year":[2023],"SERIES":["VC_VAW_MTUHRAN"],"UNIT_MEASURE":["NUMBER"],"SEX":["_T"],"Value":[0]},"edges":[]}
+{"data":{"Year":[2023,2024,2023,2024],"SERIES":["VC_VAW_MTUHRAN","VC_VAW_MTUHRAN","VC_VOC_ENFDISN","VC_VOC_ENFDISN"],"SEX":["BOTHSEX","BOTHSEX","BOTHSEX","BOTHSEX"],"UNIT_MEASUR":["NUMBER","NUMBER","NUMBER","NUMBER"],"Value":[0,0,0,0]},"edges":{"From":["SEX"],"To":["UNIT_MEASUR"]}}

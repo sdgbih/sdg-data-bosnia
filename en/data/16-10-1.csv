@@ -1,2 +1,5 @@
-Year,SERIES,UNIT_MEASURE,Sex,Value
-2023,"Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",Number,Both sexes or no breakdown by sex,0
+Year,SERIES,Sex,UNIT_MEASUR,Value
+2023,"Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",Both sexes,NUMBER,0
+2024,"Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",Both sexes,NUMBER,0
+2023,"Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",Both sexes,NUMBER,0
+2024,"Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO)",Both sexes,NUMBER,0
