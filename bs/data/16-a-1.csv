@@ -1,24 +1,34 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2016,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2017,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2018,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2019,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2020,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2021,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2022,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2023,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2024,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,100
-2000,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,0
-2005,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2010,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2015,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2016,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2017,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2018,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2019,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2020,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2021,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2022,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2023,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
-2024,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2
+2015,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2016,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2017,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2018,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2019,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2020,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2021,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2022,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2023,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2024,"Zemlje s nacionalnim institucijama za ljudska prava u skladu s Pariškim principima, A status (1 = DA; 0 = NE)",Broj,
+2000,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,0.0
+2005,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2010,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2015,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2016,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2017,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2018,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2019,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2020,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2021,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2022,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2023,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2024,"Zemlje s nacionalnim institucijama za ljudska prava u skladu sa Pariskim principima (0 = Bez statusa; 1 = Status B, djelimično usklađen; 2 = Status A, potpuno usklađen)",Broj,2.0
+2015,SG_NHR_IMPL,Procenat,100.0
+2016,SG_NHR_IMPL,Procenat,100.0
+2017,SG_NHR_IMPL,Procenat,100.0
+2018,SG_NHR_IMPL,Procenat,100.0
+2019,SG_NHR_IMPL,Procenat,100.0
+2020,SG_NHR_IMPL,Procenat,100.0
+2021,SG_NHR_IMPL,Procenat,100.0
+2022,SG_NHR_IMPL,Procenat,100.0
+2023,SG_NHR_IMPL,Procenat,100.0
+2024,SG_NHR_IMPL,Procenat,100.0
