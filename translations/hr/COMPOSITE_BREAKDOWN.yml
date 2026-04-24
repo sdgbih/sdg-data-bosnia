@@ -117,3 +117,9 @@ type_of_skill: Vrsta vještine
 type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
 substance_use_disorders: Poremećaji upotrebe supstanci
+Type_of_OFDI_ scheme: Vrsta šeme OFDI
+ALL: Bilo koja vrsta šeme OFDI
+DIRECTCPART: Direktno učešće kapitala
+FISFINSUP: Fiskalna / finansijska podrška
+INVFACSERV: Usluge olakšavanja investicija
+INVGUA: Investicione garancije
