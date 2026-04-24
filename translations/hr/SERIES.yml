@@ -165,7 +165,7 @@ GF_FRN_FDI: Prilivi stranih izravnih investicija (SDI)
 GF_XPD_GBPC: Primarni državni rashodi kao udio u prvobitno odobrenom proračunu
 GF_COM_PPPI: Iznos američkih dolara posvećen javno-privatnim partnerstvima za infrastrukturu, milijun USD nominalno
 GF_COM_PPPI_KD: Iznos američkih dolara posvećen javno-privatnim partnerstvima za infrastrukturu, realni milijuni USD
-GR_G14_GDP: Ukupni prihodi države kao udio u BDP-u
+GR_G14_GDP: Ukupni državni prihodi (proračunska centralna vlada) kao udio BDP-a (%)
 GR_G14_XDC: Ukupni državni prihodi, u lokalnoj valuti
 IC_FRM_BRIB: Učestalost podmićivanja (% firmi koje imaju barem jedan zahtjev za plaćanje mita)
 IC_GEN_MGTL: Udio žena na rukovodećim pozicijama - 13. ICLS (%)
