@@ -117,3 +117,9 @@ type_of_skill: Type of skill
 type_of_speed: Type of speed
 name_of_the_city: City name
 substance_use_disorders: Substance use disorders
+Type_of_ OFDI_ scheme: Type of OFDI scheme
+ALL: Any OFDI scheme
+DIRECTCPART: Direct capital participation
+FISFINSUP: Fiscal / financial support
+INVFACSERV: Investment facilitation services
+INVGUA: Investment guarantees
