@@ -1,16 +1,24 @@
 Year,SERIES,UNIT_MEASURE,Value
-2019,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,
-2020,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,
-2021,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,
-2000,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,0.0
-2005,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2010,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2015,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2016,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2017,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2018,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2019,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2020,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2021,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2022,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
-2023,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2.0
+2015,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2016,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2017,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2018,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2019,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2020,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2021,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2022,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2023,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2024,"Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",Number,100
+2000,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,0
+2005,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2010,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2015,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2016,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2017,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2018,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2019,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2020,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2021,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2022,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2023,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
+2024,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant)",Number,2
