@@ -221,6 +221,7 @@ SE_TOT_PRFL: Proportion of children and young people achieving a minimum profici
 SE_TOT_RUPI: Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
 SE_TOT_SESPI: Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio) 
 SE_TRA_GRDL: Proportion of teachers with the minimum required qualifications, by education level and sex (%)
+SG_CPA_OFDI: Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs (1 = YES, 0 = NO)
 SG_DMK_PARLCC_JC: Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees
 SG_DMK_PARLCC_LC: Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral
 SG_DMK_PARLCC_UC: Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber
