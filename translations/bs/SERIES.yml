@@ -222,6 +222,7 @@ SE_TOT_SESPI: Prilagođeni indeks socijalno-ekonomskog pariteta od niskog do vis
 SE_TRA_GRDL: Udio nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja i spolu (%) 
 SERIES: SDG Serije
 SG_CPA_SDEVP: Uspostavljeni mehanizmi za poboljšanje koherentnosti politika za održivi razvoj (%)
+SG_CPA_OFDI: Broj zemalja sa shemom za promociju stranih investicija koja može koristiti zemljama u razvoju, uključujući najmanje razvijene zemlje (1 = DA, 0 = NE)
 SG_DMK_PARLCC_JC: Broj predsjedavajućih stalnih odbora, prema spolu starosti i fokusu odbora, Zajednički odbori
 SG_DMK_PARLCC_LC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, u donjem domu ili jednodomnom parlamentu 
 SG_DMK_PARLCC_UC: Broj predsjedavajućih stalnih odbora, prema starosti i spolu, gornji dom 
