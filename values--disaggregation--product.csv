@@ -1,20 +1,14 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,2,1
-AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,2,1
-AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,2,1
-AGG_IND,AGG_IND,AGG_IND,AGG_IND,AGG_IND,2,1
-AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,2,1
-AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,2,1
-AGR,Agricultural products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
+AGR,Agricultural products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,5,3
 ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,11,5
-ARM,Arms,Oružje,Оружје,Oružje,3,2
+ARM,Arms,Oružje,Оружје,Oružje,5,3
 BIM,Biomass,Biomasa,Биомаса,Biomasa,6,2
-CLO,Clothing,Odjeća,Одјећа,Odjeća,3,2
+CLO,Clothing,Odjeća,Одјећа,Odjeća,5,3
 FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
-IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
+IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,5,3
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,6,2
 MIX_CMPLX,Mixed and complex products,Mješoviti i složeni proizvodi,Мjешовити и сложени производи,Mješoviti i složeni proizvodi,6,2
 NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
-OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
-TEX,Textiles,Tekstil,Текстил,Tekstil,3,2
+OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,5,3
+TEX,Textiles,Tekstil,Текстил,Tekstil,5,3
 WST_TREATD,Waste for final treatment and disposal,Otpad za konačnu obradu i odlaganje,Отпад за коначни третман и одлагање,Otpad za konačnu obradu i odlaganje,6,2

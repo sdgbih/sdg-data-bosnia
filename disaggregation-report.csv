@@ -12,7 +12,7 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 Level_of_government,Level of government,Nivo_vlade,Ниво власти,Nivo vlasti,1,4
 Level_Status,Level - Status,Nivo - Status,Ниво - Статус,Nivo - Status,1,3
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,24
-PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,19
+PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,13
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,197,472
 SEX,Sex,Spol,Пол,Spol,47,6
 Type_of_household,Type of households,Tipovi domaćinstva,Типови домаћинства,Tipovi kućanstava,1,6
