@@ -1,20 +1,20 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,4,2
-AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,4,2
-AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,4,2
-AGG_IND,AGG_IND,AGG_IND,AGG_IND,AGG_IND,4,2
-AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,4,2
-AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,4,2
-AGR,Agricultural products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,1,1
+AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,AGG_AGR,2,1
+AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,AGG_ARMS,2,1
+AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,AGG_CLTH,2,1
+AGG_IND,AGG_IND,AGG_IND,AGG_IND,AGG_IND,2,1
+AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,AGG_OIL,2,1
+AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,AGG_TXT,2,1
+AGR,Agricultural products,Poljoprivredni proizvodi,Пољопривредни производи,Poljoprivredni proizvodi,3,2
 ALP,No breakdown,Bez podjele,Без подјеле,Bez podjele,11,5
-ARM,Arms,Oružje,Оружје,Oružje,1,1
+ARM,Arms,Oružje,Оружје,Oružje,3,2
 BIM,Biomass,Biomasa,Биомаса,Biomasa,6,2
-CLO,Clothing,Odjeća,Одјећа,Odjeća,1,1
+CLO,Clothing,Odjeća,Одјећа,Odjeća,3,2
 FOF,Fossil fuels,Fosilna goriva,Фосилна горива,Fosilna goriva,6,2
-IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,1,1
+IND,Industrial products,Industrijski proizvodi,Индустријски производи,Industrijski proizvodi,3,2
 MEO,Metal ores,Metalne rude,Металне руде,Metalne rude,6,2
 MIX_CMPLX,Mixed and complex products,Mješoviti i složeni proizvodi,Мjешовити и сложени производи,Mješoviti i složeni proizvodi,6,2
 NMM,Non-metallic minerals,Nemetalni minerali,Неметални минерали,Nemetalni minerali,6,2
-OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,1,1
-TEX,Textiles,Tekstil,Текстил,Tekstil,1,1
+OIL,Oil,Nafta ili ulje,Нафта или уље,Nafta ili ulje,3,2
+TEX,Textiles,Tekstil,Текстил,Tekstil,3,2
 WST_TREATD,Waste for final treatment and disposal,Otpad za konačnu obradu i odlaganje,Отпад за коначни третман и одлагање,Otpad za konačnu obradu i odlaganje,6,2
