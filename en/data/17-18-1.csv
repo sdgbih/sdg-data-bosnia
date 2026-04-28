@@ -1,11 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,48.3333333333333
-2017,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,46.6833333333333
-2018,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,47.3833333333333
-2019,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,47.3833333333333
-2020,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,57.4833333333333
-2021,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,64.1166666666667
-2022,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,61.7916666666667
+2016,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,
+2017,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,
+2018,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,
+2019,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,
+2020,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,55.7833
+2022,Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index),Index,62.8417
 2016,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,65.0
 2017,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,65.0
 2018,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,60.0
@@ -14,3 +13,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,80.0
 2022,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index),Index,80.0
 2022,Open Data Inventory (ODIN) Coverage Index,Index,48.6
+2024,Open Data Inventory (ODIN) Coverage Index,Index,51.4

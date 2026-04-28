@@ -1,11 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Value
-2016,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,48.3333333333333
-2017,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,46.6833333333333
-2018,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,47.3833333333333
-2019,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,47.3833333333333
-2020,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,57.4833333333333
-2021,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,64.1166666666667
-2022,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,61.7916666666667
+2016,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,
+2017,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,
+2018,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,
+2019,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,
+2020,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,55.7833
+2022,Indeks izvedbe izvora podataka (Statistički pokazatelji učinkovitosti Stup 4) (Indeks),Index,62.8417
 2016,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,65.0
 2017,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,65.0
 2018,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,60.0
@@ -14,3 +13,4 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,80.0
 2022,Indeks izvedbe podatkovne infrastrukture (Statistički pokazatelji učinkovitosti Stup 5) (Indeks),Index,80.0
 2022,Indeks pokrivenosti inventara otvorenih podataka (ODIN),Index,48.6
+2024,Indeks pokrivenosti inventara otvorenih podataka (ODIN),Index,51.4
