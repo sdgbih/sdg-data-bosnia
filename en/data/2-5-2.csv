@@ -33,6 +33,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Number of local breeds with unknown risk status (number),Number,19
 2022,Number of local breeds with unknown risk status (number),Number,19
 2023,Number of local breeds with unknown risk status (number),Number,19
+2024,Number of local breeds with unknown risk status (number),Number,19
+2025,Number of local breeds with unknown risk status (number),Number,19
 2000,Number of local breeds (not extinct) (number),Number,1
 2001,Number of local breeds (not extinct) (number),Number,1
 2002,Number of local breeds (not extinct) (number),Number,1
@@ -57,6 +59,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Number of local breeds (not extinct) (number),Number,19
 2022,Number of local breeds (not extinct) (number),Number,19
 2023,Number of local breeds (not extinct) (number),Number,19
+2024,Number of local breeds (not extinct) (number),Number,19
+2025,Number of local breeds (not extinct) (number),Number,19
 2010,Number of transboundary breeds (not extinct) (number),Number,5
 2015,Number of transboundary breeds (not extinct) (number),Number,5
 2016,Number of transboundary breeds (not extinct) (number),Number,5
@@ -67,6 +71,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Number of transboundary breeds (not extinct) (number),Number,5
 2022,Number of transboundary breeds (not extinct) (number),Number,5
 2023,Number of transboundary breeds (not extinct) (number),Number,5
+2024,Number of transboundary breeds (not extinct) (number),Number,5
+2025,Number of transboundary breeds (not extinct) (number),Number,5
 2010,Number of transboundary breeds with unknown risk status (number),Number,4
 2015,Number of transboundary breeds with unknown risk status (number),Number,5
 2016,Number of transboundary breeds with unknown risk status (number),Number,5
@@ -77,3 +83,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2021,Number of transboundary breeds with unknown risk status (number),Number,5
 2022,Number of transboundary breeds with unknown risk status (number),Number,5
 2023,Number of transboundary breeds with unknown risk status (number),Number,5
+2024,Number of transboundary breeds with unknown risk status (number),Number,5
+2025,Number of transboundary breeds with unknown risk status (number),Number,5
