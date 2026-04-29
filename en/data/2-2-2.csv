@@ -23,6 +23,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Both sexes,16.7
 2022,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Both sexes,16.4
 2023,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Both sexes,16.3
+2024,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Both sexes,16.5
 2000,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,19.2
 2001,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,20.2
 2002,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,20.6
@@ -47,6 +48,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,7.5
 2022,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,7.4
 2023,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,7.4
+2024,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Female,7.5
 2000,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,23.0
 2001,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,24.2
 2002,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,24.6
@@ -71,6 +73,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,9.1
 2022,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,9.0
 2023,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,8.9
+2024,Children moderately or severely overweight (thousands),THOUSANDS,under 5 years old,Male,9.0
 2000,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,17.9
 2001,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,19.2
 2002,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,20.2
@@ -95,6 +98,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,12.2
 2022,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,12.2
 2023,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,12.5
+2024,Proportion of children moderately or severely overweight,Percent,under 5 years old,Both sexes,13.0
 2000,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,16.8
 2001,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,18.1
 2002,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,19.0
@@ -119,6 +123,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,11.4
 2022,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,11.5
 2023,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,11.7
+2024,Proportion of children moderately or severely overweight,Percent,under 5 years old,Female,12.2
 2000,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,19.0
 2001,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,20.3
 2002,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,21.4
@@ -143,6 +148,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,13.0
 2022,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,13.0
 2023,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,13.3
+2024,Proportion of children moderately or severely overweight,Percent,under 5 years old,Male,13.8
 2000,Proportion of children moderately or severely wasted,Percent,under 5 years old,,7.4
 2006,Proportion of children moderately or severely wasted,Percent,under 5 years old,,4.0
 2012,Proportion of children moderately or severely wasted,Percent,under 5 years old,,2.3
