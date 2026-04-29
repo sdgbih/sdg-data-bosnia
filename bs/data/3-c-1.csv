@@ -61,6 +61,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2019,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Medicinsko osoblje i babice,64.25
 2020,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Medicinsko osoblje i babice,64.01
 2021,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Medicinsko osoblje i babice,66.44
+2022,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Medicinsko osoblje i babice,67.27
 2000,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Zubari,1.74
 2001,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Zubari,1.62
 2002,"Raspodjela zdravstvenih radnika, po vrsti zanimanja (na 10.000 stanovnika)",Na 10 000 stanovnika,,Zubari,1.63
@@ -87,12 +88,14 @@ Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
 2016,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Medicinsko osoblje,78.2
 2017,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Medicinsko osoblje,77.7
 2018,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Medicinsko osoblje,77.5
+2022,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Medicinsko osoblje,79.1
 2013,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,20.5
 2014,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,21.8
 2015,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,21.4
 2016,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,21.8
 2017,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,22.3
 2018,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,22.5
+2022,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Muškarci,Medicinsko osoblje,20.9
 2003,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Doktori medicine,
 2004,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Doktori medicine,
 2005,"Raspodjela zdravstvenih radnika, po spolu i vrsti zanimanja (%)",Procenat,Žene,Doktori medicine,57.4

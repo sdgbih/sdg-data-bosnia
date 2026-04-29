@@ -61,6 +61,7 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2019,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,64.25
 2020,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,64.01
 2021,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,66.44
+2022,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Nursing and midwifery personnel,67.27
 2000,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.74
 2001,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.62
 2002,"Health worker density, by type of occupation (per 10,000 population)","Per 10,000 population",,Dentists,1.63
@@ -87,12 +88,14 @@ Year,SERIES,UNIT_MEASURE,Sex,Occupation,Value
 2016,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Nursing personnel,78.2
 2017,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Nursing personnel,77.7
 2018,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Nursing personnel,77.5
+2022,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Nursing personnel,79.1
 2013,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,20.5
 2014,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,21.8
 2015,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,21.4
 2016,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,21.8
 2017,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,22.3
 2018,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,22.5
+2022,"Health worker distribution, by sex and type of occupation (%)",Percent,Male,Nursing personnel,20.9
 2003,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Medical doctors,
 2004,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Medical doctors,
 2005,"Health worker distribution, by sex and type of occupation (%)",Percent,Female,Medical doctors,57.4
