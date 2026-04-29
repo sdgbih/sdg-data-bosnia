@@ -23,6 +23,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Both sexes,11.1
 2022,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Both sexes,10.8
 2023,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Both sexes,10.4
+2024,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Both sexes,10.0
 2000,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,13.4
 2001,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,12.4
 2002,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,11.7
@@ -47,6 +48,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,5.0
 2022,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,4.9
 2023,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,4.7
+2024,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Female,4.5
 2000,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,16.2
 2001,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,15.0
 2002,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,14.2
@@ -71,6 +73,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,6.1
 2022,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,6.0
 2023,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,5.7
+2024,Children moderately or severely stunted (number),THOUSANDS,under 5 years old,Male,5.5
 2000,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,12.5
 2001,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,11.8
 2002,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,11.6
@@ -95,6 +98,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,8.1
 2022,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,8.1
 2023,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,8.0
+2024,Proportion of children moderately or severely stunted,Percent,under 5 years old,Both sexes,7.9
 2000,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,11.7
 2001,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,11.1
 2002,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,10.8
@@ -117,8 +121,9 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2019,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.8
 2020,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.7
 2021,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.6
-2022,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.6
-2023,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.5
+2022,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.5
+2023,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.4
+2024,Proportion of children moderately or severely stunted,Percent,under 5 years old,Female,7.4
 2000,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,13.4
 2001,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,12.6
 2002,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,12.3
@@ -141,5 +146,6 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2019,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.9
 2020,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.8
 2021,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.7
-2022,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.7
-2023,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.6
+2022,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.6
+2023,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.5
+2024,Proportion of children moderately or severely stunted,Percent,under 5 years old,Male,8.4
