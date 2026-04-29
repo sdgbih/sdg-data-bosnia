@@ -1,13 +1,25 @@
 Year,SERIES,UNIT_MEASURE,Godine,Spol,COMPOSITE_BREAKDOWN,Value
-2016,"Poremećaji upotrebe alkohola, rasprostranjenost u 12 mjeseci (%)",Procenat,15 godina i više,Oba spola ili bez podjele po spolu,,6.0
+2016,"Poremećaji upotrebe alkohola, rasprostranjenost u 12 mjeseci (%)",Procenat,15 godina i više,Oba pola,,6.0
 2016,"Poremećaji upotrebe alkohola, rasprostranjenost u 12 mjeseci (%)",Procenat,15 godina i više,Žene,,2.2
 2016,"Poremećaji upotrebe alkohola, rasprostranjenost u 12 mjeseci (%)",Procenat,15 godina i više,Muškarci,,9.8
-2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.43
-2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.49
-2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Stimulansi tipa amfetamina ATS,0.5
-2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Kokain,0.61
-2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Kokain,0.61
-2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Kokain,0.62
-2015,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",3.5
-2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",4.5
-2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba spola ili bez podjele po spolu,Opijati,14.6
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Stimulansi tipa amfetamina ATS,0.43
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Stimulansi tipa amfetamina ATS,0.48
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Stimulansi tipa amfetamina ATS,0.49
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Stimulansi tipa amfetamina ATS,0.49
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Žene,Stimulansi tipa amfetamina ATS,0.35
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Muškarci,Stimulansi tipa amfetamina ATS,2.52
+2017,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Kokain,0.54
+2018,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Kokain,0.54
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Kokain,0.55
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Kokain,2.35
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Žene,Kokain,0.9
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Muškarci,Kokain,3.1
+2015,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",3.5
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",4.4
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",5.4
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Žene,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",1.4
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Muškarci,"Ukupno droga (uključujući ATS, opiati, kokain, kanabis i druge droge)",8.1
+2019,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Opijati,13.7
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Oba pola,Opijati,16.1
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Žene,Opijati,4.2
+2022,"Obuhvat intervencija liječenja (farmakološke, psihosocijalne i usluge rehabilitacije i naknadne njege) za poremećaje upotrebe supstanci (%)",Procenat,,Muškarci,Opijati,23.3
