@@ -23,6 +23,7 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,122.0
 2022,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,114.0
 2023,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,111.0
+2024,Neonatal deaths (number),Number,under 1 month old,Both sexes or no breakdown by sex,108.0
 2000,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.6
 2001,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.2
 2002,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.9
@@ -47,3 +48,4 @@ Year,SERIES,UNIT_MEASURE,Age,Sex,Value
 2021,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.7
 2022,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.6
 2023,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.5
+2024,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.4
