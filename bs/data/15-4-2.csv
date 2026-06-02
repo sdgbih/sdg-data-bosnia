@@ -1,4 +1,4 @@
-Year,SERIES,Bioklimatski pojas,Pokrivenost zemljišta,UNIT_MEASURE,Value
+Year,SERIES,Bioklimatski pojas,LAND_ COVER,UNIT_MEASURE,Value
 2000,Indeks planinskog zelenog pokrivača,Planinski,Vještačke površine,Procenat,0.83
 2005,Indeks planinskog zelenog pokrivača,Planinski,Vještačke površine,Procenat,0.91
 2010,Indeks planinskog zelenog pokrivača,Planinski,Vještačke površine,Procenat,0.94
