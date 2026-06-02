@@ -1,4 +1,4 @@
-Year,SERIES,BIOKLIMATIC_BELT,Land cover,UNIT_MEASURE,Value
+Year,SERIES,BIOKLIMATIC_BELT,LAND_ COVER,UNIT_MEASURE,Value
 2000,Mountain Green Cover Index,Montane,Artificial surfaces,Percent,0.83
 2005,Mountain Green Cover Index,Montane,Artificial surfaces,Percent,0.91
 2010,Mountain Green Cover Index,Montane,Artificial surfaces,Percent,0.94
