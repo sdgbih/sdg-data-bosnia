@@ -1,4 +1,4 @@
-Year,SERIES,Bioklimatski pojas,Zemljišni pokrov,UNIT_MEASURE,Value
+Year,SERIES,Bioklimatski pojas,LAND_ COVER,UNIT_MEASURE,Value
 2000,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.83
 2005,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.91
 2010,Indeks planinskog zelenog pokrivača,Planinski,Umjetne površine,Postotak,0.94
